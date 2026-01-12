@@ -18,6 +18,8 @@ It does not just predict attrition.
 It detects when it should no longer trust itself.
 
 High level architecture
+
+```text
 HR System
     |
     v
@@ -46,6 +48,8 @@ Drift Detection + Retraining Engine
     |
     v
 Metrics Dashboard (Port 8001)
+```
+
 
 
 

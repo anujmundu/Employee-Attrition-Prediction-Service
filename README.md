@@ -17,7 +17,7 @@ This system is designed to survive that.
 It does not just predict attrition.
 It detects when it should no longer trust itself.
 
-#### High level architecture
+High level architecture
 HR System
     |
     v

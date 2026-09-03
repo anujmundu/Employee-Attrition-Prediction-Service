@@ -1,0 +1,401 @@
+Age,Attrition,Department,JobRole,EducationField,Education,DistanceFromHome,EnvironmentSatisfaction,JobSatisfaction,WorkLifeBalance,MaritalStatus,MonthlyIncome,NumCompaniesWorked,OverTime,BusinessTravel,PerformanceRating,PercentSalaryHike,TrainingTimesLastYear,YearsAtCompany,TotalWorkingYears,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager,Industry,EmployeeFeedback
+33,Yes,Growth,Operations Lead,Design,4,1,4,4,3,Single,6084,1,Yes,Travel_Rarely,3,12,2,0,1,0,0,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+29,No,Founding Engineering,Full Stack Generalist,Entrepreneurship,5,14,2,3,3,Single,5739,2,No,Travel_Rarely,3,11,5,0,2,0,0,0,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+40,Yes,Founding Engineering,Growth Hacker,Entrepreneurship,2,10,3,2,2,Single,7121,3,No,Non-Travel,3,16,2,7,7,4,7,4,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+33,No,Growth,Full Stack Generalist,Computer Science,3,14,3,3,3,Married,6554,0,Yes,Non-Travel,3,19,3,1,4,1,1,1,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+40,No,Operations,Operations Lead,Design,2,1,3,3,2,Divorced,6610,1,Yes,Non-Travel,3,13,3,4,6,3,1,1,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+31,No,Operations,Operations Lead,Entrepreneurship,3,1,4,3,3,Married,7648,2,Yes,Travel_Rarely,3,13,3,11,13,4,1,2,Early-Stage Tech Startups,Significant early equity pool allocation.
+39,Yes,Growth,Growth Hacker,Entrepreneurship,4,5,3,2,3,Married,9835,0,Yes,Travel_Rarely,3,21,3,10,21,8,0,6,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+47,No,Growth,Operations Lead,Design,4,6,3,3,4,Divorced,6461,2,No,Travel_Rarely,3,15,3,2,6,2,0,2,Early-Stage Tech Startups,Significant early equity pool allocation.
+39,Yes,Growth,Growth Hacker,Design,4,3,1,3,2,Married,6874,2,Yes,Travel_Rarely,3,11,1,6,6,1,3,1,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+36,Yes,Operations,Growth Hacker,Computer Science,4,6,1,3,2,Single,7968,4,Yes,Travel_Rarely,3,19,5,3,11,3,1,3,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+26,Yes,Founding Engineering,Operations Lead,Computer Science,2,4,2,4,1,Divorced,6851,3,Yes,Travel_Rarely,3,15,4,6,8,2,4,2,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+37,No,Founding Engineering,Growth Hacker,Computer Science,5,4,4,3,4,Divorced,9797,2,No,Travel_Rarely,4,15,2,3,19,0,0,0,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+32,Yes,Growth,Full Stack Generalist,Design,3,1,1,4,1,Married,6510,3,Yes,Travel_Rarely,3,11,1,5,5,2,3,2,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+48,Yes,Growth,Full Stack Generalist,Entrepreneurship,4,2,2,1,1,Single,7525,0,No,Travel_Rarely,3,13,2,4,9,3,4,4,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+37,Yes,Growth,Full Stack Generalist,Computer Science,5,2,3,1,2,Married,6329,1,Yes,Non-Travel,3,11,3,2,2,0,0,0,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+33,No,Operations,Full Stack Generalist,Design,5,12,4,4,3,Divorced,7884,5,Yes,Travel_Rarely,3,12,5,4,10,0,3,0,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+43,No,Founding Engineering,Growth Hacker,Design,4,6,3,2,3,Married,9343,1,No,Travel_Rarely,4,17,2,0,16,0,0,0,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+46,No,Growth,Full Stack Generalist,Entrepreneurship,3,10,4,3,4,Married,5528,2,No,Travel_Rarely,3,22,5,1,1,1,0,0,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+32,Yes,Operations,Operations Lead,Design,2,1,3,4,1,Divorced,8096,2,Yes,Non-Travel,3,23,5,8,10,3,0,3,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+27,Yes,Growth,Growth Hacker,Design,4,7,4,1,3,Divorced,7238,0,No,Non-Travel,3,11,2,0,9,0,0,0,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+40,No,Operations,Growth Hacker,Entrepreneurship,2,1,3,3,3,Married,5801,4,Yes,Non-Travel,3,24,4,0,1,0,0,0,Early-Stage Tech Startups,Significant early equity pool allocation.
+39,No,Growth,Growth Hacker,Computer Science,4,11,3,3,2,Married,6020,2,Yes,Non-Travel,3,16,2,2,2,2,1,1,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+35,Yes,Founding Engineering,Operations Lead,Design,3,17,2,4,2,Divorced,6767,4,Yes,Non-Travel,3,24,5,3,4,3,2,3,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+46,Yes,Operations,Operations Lead,Design,3,23,3,2,2,Married,7755,1,Yes,Non-Travel,3,21,4,5,10,1,1,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+41,No,Growth,Full Stack Generalist,Design,3,16,3,4,4,Single,6488,2,No,Travel_Rarely,3,17,2,0,4,0,0,0,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+36,Yes,Growth,Growth Hacker,Design,2,12,2,3,1,Divorced,6531,1,No,Non-Travel,3,24,1,2,5,2,0,2,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+42,No,Founding Engineering,Full Stack Generalist,Entrepreneurship,3,13,4,3,2,Single,6525,3,No,Non-Travel,4,22,4,5,7,2,2,0,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+52,No,Growth,Operations Lead,Computer Science,3,6,1,2,3,Married,5850,2,No,Non-Travel,3,11,2,0,2,0,0,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+38,Yes,Growth,Growth Hacker,Entrepreneurship,3,12,2,2,3,Married,6503,1,Yes,Travel_Rarely,4,23,4,3,4,2,0,3,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+33,No,Founding Engineering,Growth Hacker,Entrepreneurship,3,4,4,4,3,Single,7852,5,No,Non-Travel,3,13,4,4,10,1,1,0,Early-Stage Tech Startups,Significant early equity pool allocation.
+29,No,Operations,Growth Hacker,Entrepreneurship,3,16,4,3,4,Married,8112,1,Yes,Non-Travel,3,25,3,9,11,6,0,5,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+51,Yes,Growth,Operations Lead,Entrepreneurship,3,11,3,4,3,Married,8697,1,No,Travel_Rarely,3,14,4,15,16,8,0,8,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+40,No,Founding Engineering,Growth Hacker,Entrepreneurship,4,1,4,3,4,Single,6999,5,Yes,Travel_Rarely,3,23,4,5,5,4,0,2,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+36,No,Operations,Full Stack Generalist,Design,1,3,2,3,4,Married,9451,1,No,Non-Travel,3,23,2,14,18,7,0,6,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+28,Yes,Operations,Growth Hacker,Design,4,13,4,3,2,Single,6911,1,Yes,Non-Travel,3,23,2,1,8,1,1,1,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+40,Yes,Founding Engineering,Operations Lead,Computer Science,4,2,2,3,3,Single,5734,1,Yes,Non-Travel,3,13,2,1,1,0,1,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+51,Yes,Growth,Growth Hacker,Computer Science,3,2,3,3,1,Divorced,8217,2,Yes,Non-Travel,3,24,2,4,13,2,0,2,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+28,Yes,Operations,Growth Hacker,Computer Science,3,1,3,1,1,Divorced,6262,0,No,Non-Travel,3,17,3,2,2,0,1,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+37,Yes,Founding Engineering,Full Stack Generalist,Entrepreneurship,5,22,2,3,3,Married,5819,3,Yes,Non-Travel,3,19,4,0,2,0,0,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+32,Yes,Growth,Growth Hacker,Design,2,17,2,4,3,Single,7332,3,Yes,Non-Travel,4,25,2,8,8,8,0,5,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+29,Yes,Founding Engineering,Full Stack Generalist,Design,3,1,2,3,1,Divorced,6010,3,No,Non-Travel,3,25,3,0,3,0,0,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+37,Yes,Operations,Growth Hacker,Computer Science,4,4,1,1,2,Married,9062,2,Yes,Travel_Rarely,3,19,1,12,19,6,1,5,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+40,Yes,Growth,Full Stack Generalist,Computer Science,4,1,4,3,2,Married,7321,4,Yes,Travel_Rarely,3,11,3,4,7,1,0,0,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+42,No,Growth,Operations Lead,Entrepreneurship,2,11,3,4,3,Married,6121,6,Yes,Travel_Rarely,3,14,1,2,3,2,1,2,Early-Stage Tech Startups,Significant early equity pool allocation.
+60,No,Growth,Operations Lead,Design,2,11,1,4,3,Married,7509,1,Yes,Non-Travel,3,18,4,9,10,9,0,5,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+43,Yes,Operations,Full Stack Generalist,Design,3,9,1,1,2,Divorced,6909,2,Yes,Non-Travel,3,19,1,2,8,2,0,0,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+38,No,Growth,Operations Lead,Entrepreneurship,4,15,4,4,3,Married,8270,0,No,Travel_Rarely,3,19,4,4,12,2,4,2,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+39,Yes,Growth,Full Stack Generalist,Entrepreneurship,3,3,2,3,1,Married,5691,4,Yes,Non-Travel,3,16,4,1,1,0,1,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+28,Yes,Growth,Full Stack Generalist,Entrepreneurship,3,1,3,1,2,Married,6468,6,Yes,Non-Travel,3,22,5,1,4,1,1,1,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+43,No,Growth,Growth Hacker,Entrepreneurship,3,5,4,4,4,Single,5813,3,No,Non-Travel,3,25,1,0,2,0,0,0,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+31,No,Growth,Operations Lead,Design,3,4,4,1,3,Divorced,7395,6,No,Travel_Rarely,4,21,4,5,8,3,4,2,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+39,No,Founding Engineering,Full Stack Generalist,Design,2,6,3,3,3,Single,6772,1,No,Travel_Rarely,4,17,3,5,5,1,2,2,Early-Stage Tech Startups,Significant early equity pool allocation.
+25,No,Founding Engineering,Operations Lead,Design,4,5,4,2,3,Married,7409,2,Yes,Non-Travel,3,25,3,5,7,5,0,3,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+22,No,Growth,Full Stack Generalist,Entrepreneurship,3,6,3,1,4,Divorced,6728,3,No,Travel_Rarely,3,15,1,2,4,2,2,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+35,Yes,Founding Engineering,Full Stack Generalist,Computer Science,3,1,1,3,1,Single,5839,3,Yes,Travel_Rarely,4,17,1,2,2,1,1,2,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+40,No,Founding Engineering,Full Stack Generalist,Computer Science,3,7,4,4,4,Divorced,6856,4,No,Travel_Rarely,3,20,4,0,6,0,0,0,Early-Stage Tech Startups,Significant early equity pool allocation.
+38,No,Founding Engineering,Full Stack Generalist,Computer Science,3,1,4,2,3,Divorced,7766,2,Yes,Travel_Rarely,3,25,5,7,9,3,0,3,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+23,No,Founding Engineering,Full Stack Generalist,Entrepreneurship,3,8,4,4,4,Single,6406,4,Yes,Non-Travel,4,14,5,2,5,1,0,0,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+43,No,Operations,Operations Lead,Design,4,3,1,2,4,Divorced,6292,3,Yes,Non-Travel,3,21,5,4,6,4,0,3,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+34,Yes,Operations,Full Stack Generalist,Entrepreneurship,1,9,2,2,4,Divorced,8968,3,No,Non-Travel,3,25,3,10,16,9,3,6,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+45,Yes,Operations,Growth Hacker,Entrepreneurship,2,16,1,4,4,Married,8003,3,No,Non-Travel,3,11,2,5,12,5,1,3,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+25,No,Operations,Growth Hacker,Entrepreneurship,3,14,4,4,3,Divorced,6340,3,Yes,Travel_Rarely,4,14,5,5,5,1,0,0,Early-Stage Tech Startups,Significant early equity pool allocation.
+41,No,Operations,Growth Hacker,Entrepreneurship,4,1,2,4,2,Married,6941,3,No,Non-Travel,3,16,1,5,8,5,2,4,Early-Stage Tech Startups,Significant early equity pool allocation.
+40,Yes,Growth,Operations Lead,Design,3,3,2,1,1,Single,7953,1,No,Non-Travel,3,22,3,9,16,9,1,6,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+37,No,Growth,Growth Hacker,Design,4,1,2,3,3,Married,6190,0,Yes,Non-Travel,3,16,1,2,3,0,1,2,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+37,Yes,Growth,Operations Lead,Design,5,17,2,2,3,Married,9628,3,Yes,Travel_Rarely,3,25,1,7,19,6,0,5,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+44,Yes,Founding Engineering,Full Stack Generalist,Entrepreneurship,4,4,2,2,2,Single,8029,2,Yes,Travel_Rarely,3,24,3,11,12,8,7,5,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+30,Yes,Operations,Operations Lead,Computer Science,3,17,2,3,4,Divorced,7524,4,Yes,Travel_Rarely,3,19,1,3,12,1,3,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+26,No,Operations,Operations Lead,Design,2,1,3,4,4,Married,7111,1,Yes,Non-Travel,3,20,3,0,6,0,0,0,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+42,Yes,Growth,Growth Hacker,Computer Science,2,12,2,1,3,Married,10503,2,Yes,Travel_Rarely,3,25,1,1,24,1,0,1,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+41,Yes,Operations,Full Stack Generalist,Computer Science,4,1,2,3,3,Married,10020,4,No,Non-Travel,3,24,4,2,23,2,0,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+27,No,Operations,Operations Lead,Design,3,23,3,4,2,Divorced,6241,5,Yes,Non-Travel,3,18,5,1,5,0,1,1,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+27,Yes,Founding Engineering,Operations Lead,Design,4,12,1,1,1,Divorced,7560,5,Yes,Travel_Rarely,3,20,2,3,9,1,3,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+36,No,Growth,Operations Lead,Entrepreneurship,2,8,1,4,3,Married,8758,2,No,Non-Travel,3,12,3,7,14,2,0,0,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+41,Yes,Founding Engineering,Full Stack Generalist,Entrepreneurship,4,1,4,3,2,Single,5887,4,Yes,Travel_Rarely,3,19,3,0,0,0,0,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+37,No,Founding Engineering,Operations Lead,Design,3,41,4,2,3,Divorced,6197,2,No,Travel_Rarely,4,13,3,1,2,0,0,1,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+23,No,Operations,Growth Hacker,Entrepreneurship,4,8,3,3,2,Single,6756,2,Yes,Non-Travel,3,17,1,3,5,2,0,0,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+29,No,Founding Engineering,Growth Hacker,Computer Science,4,1,3,2,2,Divorced,6458,3,Yes,Non-Travel,4,17,3,1,3,1,0,1,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+42,No,Operations,Operations Lead,Computer Science,2,5,3,3,3,Single,5446,4,Yes,Travel_Rarely,3,14,2,0,0,0,0,0,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+58,No,Growth,Growth Hacker,Entrepreneurship,3,9,1,4,3,Single,5567,2,Yes,Non-Travel,3,16,3,0,1,0,0,0,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+30,No,Founding Engineering,Growth Hacker,Computer Science,4,2,1,1,2,Married,6974,6,Yes,Travel_Rarely,3,19,5,9,9,4,0,4,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+35,No,Growth,Full Stack Generalist,Entrepreneurship,1,10,3,2,3,Divorced,9475,5,No,Travel_Rarely,3,24,1,9,17,2,1,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+29,No,Founding Engineering,Full Stack Generalist,Design,3,7,4,4,3,Divorced,6594,4,No,Non-Travel,3,13,1,3,6,3,3,3,Early-Stage Tech Startups,Significant early equity pool allocation.
+42,No,Founding Engineering,Growth Hacker,Design,2,5,4,1,1,Married,5879,2,No,Non-Travel,3,14,3,2,2,0,0,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+21,No,Growth,Operations Lead,Design,3,7,3,4,3,Single,6287,3,Yes,Travel_Rarely,3,11,4,1,3,1,1,1,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+24,No,Founding Engineering,Growth Hacker,Computer Science,3,4,4,4,3,Married,6959,0,No,Non-Travel,3,24,1,4,5,4,0,2,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+31,Yes,Growth,Full Stack Generalist,Computer Science,2,2,3,4,3,Divorced,6873,2,Yes,Non-Travel,3,21,5,4,6,3,2,2,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+34,No,Operations,Operations Lead,Design,2,4,2,1,3,Single,6255,0,No,Travel_Rarely,3,22,2,5,5,1,3,2,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+40,No,Operations,Growth Hacker,Entrepreneurship,2,5,3,3,1,Single,7085,2,No,Travel_Rarely,3,22,1,6,7,5,2,3,Early-Stage Tech Startups,Significant early equity pool allocation.
+21,Yes,Founding Engineering,Growth Hacker,Design,2,5,2,1,1,Divorced,6113,2,Yes,Non-Travel,3,16,5,1,3,0,1,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+34,No,Growth,Operations Lead,Entrepreneurship,3,1,2,3,2,Divorced,8968,1,No,Non-Travel,3,15,1,10,16,7,0,6,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+40,No,Founding Engineering,Operations Lead,Computer Science,5,16,4,2,1,Divorced,8458,0,No,Travel_Rarely,3,16,3,0,14,0,0,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+45,Yes,Founding Engineering,Full Stack Generalist,Computer Science,2,8,3,3,3,Divorced,6338,2,No,Travel_Rarely,4,15,4,2,6,0,0,1,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+23,No,Growth,Growth Hacker,Design,2,6,3,3,4,Married,6484,2,Yes,Non-Travel,3,22,4,0,4,0,0,0,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+52,Yes,Growth,Operations Lead,Entrepreneurship,3,6,3,1,3,Single,7181,2,Yes,Travel_Rarely,3,25,4,0,11,0,0,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+21,No,Growth,Full Stack Generalist,Design,4,17,2,4,3,Divorced,6513,3,No,Travel_Rarely,3,19,4,1,3,1,1,0,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+41,No,Growth,Full Stack Generalist,Computer Science,5,4,4,2,4,Divorced,6421,3,Yes,Non-Travel,3,20,4,1,3,0,0,0,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+42,No,Growth,Full Stack Generalist,Entrepreneurship,5,12,4,4,4,Married,6760,2,Yes,Non-Travel,3,18,5,0,4,0,0,0,Early-Stage Tech Startups,Significant early equity pool allocation.
+42,No,Founding Engineering,Growth Hacker,Design,4,5,3,1,3,Married,7479,2,No,Travel_Rarely,3,16,2,3,9,3,1,3,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+40,No,Operations,Full Stack Generalist,Entrepreneurship,4,1,2,4,2,Divorced,6010,2,Yes,Non-Travel,4,16,1,2,4,1,1,1,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+35,Yes,Operations,Full Stack Generalist,Entrepreneurship,3,19,1,4,2,Single,5822,3,Yes,Travel_Rarely,3,13,3,1,1,1,1,1,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+31,No,Founding Engineering,Operations Lead,Entrepreneurship,4,11,2,4,1,Married,7794,2,No,Non-Travel,3,25,1,5,9,0,0,0,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+22,Yes,Growth,Growth Hacker,Entrepreneurship,4,1,4,2,2,Married,6703,2,No,Travel_Rarely,3,21,4,2,4,2,2,1,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+34,No,Growth,Growth Hacker,Computer Science,2,1,3,3,4,Divorced,9307,0,Yes,Travel_Rarely,3,22,1,8,16,3,0,3,Early-Stage Tech Startups,Significant early equity pool allocation.
+27,Yes,Founding Engineering,Operations Lead,Entrepreneurship,4,2,4,3,3,Divorced,7002,2,Yes,Travel_Rarely,3,23,4,7,9,4,2,2,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+45,Yes,Growth,Operations Lead,Design,3,1,1,4,1,Divorced,8321,3,Yes,Non-Travel,4,14,4,2,11,0,2,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+44,Yes,Operations,Growth Hacker,Design,3,2,2,3,1,Married,5959,1,Yes,Non-Travel,3,14,2,0,1,0,0,0,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+35,Yes,Operations,Operations Lead,Computer Science,3,16,3,1,1,Single,6086,2,Yes,Non-Travel,3,19,4,1,4,1,1,0,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+38,Yes,Growth,Operations Lead,Entrepreneurship,3,1,3,3,1,Single,8314,4,No,Non-Travel,4,15,2,6,12,2,1,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+34,No,Growth,Operations Lead,Design,3,9,3,3,3,Married,6626,3,Yes,Non-Travel,3,24,3,0,5,0,0,0,Early-Stage Tech Startups,Significant early equity pool allocation.
+43,No,Founding Engineering,Operations Lead,Design,4,10,3,3,3,Married,9882,1,Yes,Non-Travel,3,16,2,15,21,7,0,8,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+33,Yes,Founding Engineering,Operations Lead,Design,3,6,1,2,2,Single,7941,3,Yes,Travel_Rarely,3,16,1,3,15,0,3,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+45,No,Growth,Operations Lead,Computer Science,3,8,1,4,2,Single,6331,5,Yes,Travel_Rarely,4,14,1,4,6,3,1,1,Early-Stage Tech Startups,Significant early equity pool allocation.
+35,No,Founding Engineering,Full Stack Generalist,Design,3,9,4,4,2,Divorced,6873,0,No,Non-Travel,3,11,2,1,7,0,1,0,Early-Stage Tech Startups,Significant early equity pool allocation.
+35,No,Founding Engineering,Operations Lead,Computer Science,3,41,3,4,2,Married,7385,4,Yes,Non-Travel,3,11,2,9,9,3,1,1,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+21,Yes,Operations,Full Stack Generalist,Design,1,4,1,4,3,Divorced,5936,5,Yes,Non-Travel,3,20,5,1,3,0,0,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+41,No,Growth,Growth Hacker,Entrepreneurship,4,18,1,2,2,Married,7765,3,No,Non-Travel,3,19,1,4,10,4,2,2,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+34,Yes,Operations,Operations Lead,Design,5,14,3,3,2,Married,8386,4,Yes,Non-Travel,3,18,3,6,15,0,6,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+44,No,Growth,Operations Lead,Design,3,4,3,4,2,Divorced,8403,1,Yes,Non-Travel,3,23,1,11,12,5,1,5,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+31,Yes,Founding Engineering,Full Stack Generalist,Computer Science,3,5,4,2,1,Divorced,7606,4,Yes,Travel_Rarely,3,20,2,2,11,0,0,2,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+46,No,Operations,Full Stack Generalist,Entrepreneurship,3,3,3,3,2,Single,9490,3,No,Non-Travel,3,20,5,16,18,9,7,7,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+28,No,Operations,Full Stack Generalist,Entrepreneurship,1,1,2,3,3,Single,6767,3,No,Non-Travel,3,25,1,1,9,1,1,0,Early-Stage Tech Startups,Significant early equity pool allocation.
+28,Yes,Growth,Full Stack Generalist,Design,5,5,3,3,3,Single,6124,6,No,Travel_Rarely,3,11,2,3,3,2,0,3,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+58,Yes,Growth,Operations Lead,Entrepreneurship,2,17,2,1,3,Divorced,8120,3,No,Non-Travel,3,12,5,0,16,0,0,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+28,Yes,Operations,Full Stack Generalist,Design,4,1,1,3,2,Married,7634,2,No,Travel_Rarely,3,13,1,8,10,2,7,1,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+36,Yes,Operations,Growth Hacker,Design,4,1,1,4,3,Married,7132,4,No,Non-Travel,4,15,5,4,11,1,1,2,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+32,Yes,Operations,Growth Hacker,Entrepreneurship,4,11,1,3,1,Single,6750,2,Yes,Travel_Rarely,3,13,2,1,7,1,1,1,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+52,No,Growth,Full Stack Generalist,Design,4,5,3,4,3,Married,7168,1,No,Travel_Rarely,4,15,2,1,8,0,0,0,Early-Stage Tech Startups,Significant early equity pool allocation.
+41,No,Founding Engineering,Growth Hacker,Entrepreneurship,3,2,4,4,4,Married,8394,3,Yes,Non-Travel,3,12,3,9,12,5,3,5,Early-Stage Tech Startups,Significant early equity pool allocation.
+39,No,Growth,Full Stack Generalist,Computer Science,3,10,4,3,1,Married,8246,4,No,Non-Travel,3,17,4,11,11,5,0,2,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+37,Yes,Operations,Operations Lead,Computer Science,4,1,1,1,1,Single,6253,2,Yes,Non-Travel,3,12,4,2,4,0,0,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+35,Yes,Founding Engineering,Operations Lead,Design,4,1,4,1,1,Single,8089,6,Yes,Travel_Rarely,3,25,1,1,16,0,1,1,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+41,No,Founding Engineering,Full Stack Generalist,Design,3,12,3,3,1,Divorced,7756,0,Yes,Travel_Rarely,4,17,2,8,15,4,0,4,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+34,No,Founding Engineering,Operations Lead,Design,3,16,4,3,4,Divorced,5997,2,Yes,Travel_Rarely,3,13,4,3,4,0,2,1,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+42,Yes,Founding Engineering,Operations Lead,Computer Science,4,1,1,2,2,Single,5957,1,Yes,Travel_Rarely,3,21,3,0,2,0,0,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+30,No,Founding Engineering,Full Stack Generalist,Entrepreneurship,3,3,2,1,3,Married,7228,1,No,Non-Travel,4,24,2,0,12,0,0,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+36,Yes,Founding Engineering,Full Stack Generalist,Computer Science,2,10,2,2,4,Divorced,8384,4,Yes,Travel_Rarely,3,11,5,12,15,6,1,3,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+48,No,Growth,Operations Lead,Design,5,5,3,3,1,Married,6057,1,Yes,Non-Travel,4,17,3,1,3,0,1,0,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+33,No,Growth,Operations Lead,Computer Science,4,23,1,3,2,Married,7961,4,Yes,Non-Travel,4,21,4,5,15,5,1,2,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+30,Yes,Operations,Operations Lead,Entrepreneurship,2,22,4,1,3,Married,5786,3,Yes,Non-Travel,3,12,1,0,1,0,0,0,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+29,Yes,Operations,Growth Hacker,Entrepreneurship,3,1,2,2,3,Married,7986,1,Yes,Travel_Rarely,3,22,1,9,11,3,0,1,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+28,Yes,Growth,Operations Lead,Entrepreneurship,3,7,2,2,3,Married,7110,4,Yes,Travel_Rarely,4,14,1,4,7,1,2,0,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+36,No,Operations,Growth Hacker,Computer Science,3,5,3,4,3,Divorced,7649,0,Yes,Travel_Rarely,3,19,3,4,10,2,0,0,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+31,Yes,Founding Engineering,Operations Lead,Computer Science,3,7,1,3,3,Single,6632,1,Yes,Non-Travel,3,13,3,0,6,0,0,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+37,Yes,Growth,Operations Lead,Computer Science,3,1,3,1,1,Single,6113,3,No,Travel_Rarely,3,11,2,2,2,0,1,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+33,Yes,Founding Engineering,Operations Lead,Entrepreneurship,3,3,2,3,3,Divorced,7562,5,Yes,Travel_Rarely,4,20,4,7,8,0,0,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+39,No,Founding Engineering,Growth Hacker,Computer Science,2,6,2,3,3,Married,8827,2,Yes,Non-Travel,3,16,2,2,17,1,2,0,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+35,No,Growth,Full Stack Generalist,Entrepreneurship,3,11,3,3,1,Married,6227,5,Yes,Non-Travel,4,14,5,2,3,2,0,0,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+40,Yes,Founding Engineering,Growth Hacker,Design,3,6,4,1,3,Single,5770,1,Yes,Non-Travel,3,15,2,2,2,0,0,0,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+38,No,Founding Engineering,Operations Lead,Computer Science,3,1,2,3,3,Married,6577,4,No,Non-Travel,4,13,2,1,6,0,0,0,Early-Stage Tech Startups,Significant early equity pool allocation.
+47,No,Growth,Operations Lead,Entrepreneurship,5,11,3,3,2,Single,7778,0,Yes,Non-Travel,4,13,5,1,9,1,1,1,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+30,No,Operations,Operations Lead,Computer Science,3,10,3,2,3,Married,6494,5,Yes,Travel_Rarely,3,23,2,3,6,3,0,1,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+38,No,Founding Engineering,Full Stack Generalist,Computer Science,3,10,4,3,1,Single,8245,2,Yes,Non-Travel,3,15,4,4,16,0,0,2,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+34,No,Operations,Operations Lead,Computer Science,3,5,3,2,3,Divorced,8510,2,No,Non-Travel,3,11,4,14,14,7,7,3,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+42,Yes,Growth,Full Stack Generalist,Computer Science,4,21,3,4,4,Divorced,5550,0,Yes,Non-Travel,3,17,5,0,0,0,0,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+31,No,Growth,Full Stack Generalist,Entrepreneurship,4,10,3,3,3,Divorced,6485,1,No,Non-Travel,3,14,5,6,7,3,3,2,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+37,Yes,Operations,Full Stack Generalist,Computer Science,4,18,4,3,2,Single,6289,4,Yes,Travel_Rarely,4,22,3,2,3,0,1,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+44,Yes,Growth,Full Stack Generalist,Design,3,1,2,3,4,Married,6626,3,Yes,Travel_Rarely,3,21,1,2,4,2,0,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+41,No,Founding Engineering,Operations Lead,Entrepreneurship,3,6,2,4,3,Divorced,6536,3,Yes,Travel_Rarely,3,11,5,1,4,1,1,0,Early-Stage Tech Startups,Significant early equity pool allocation.
+51,No,Growth,Growth Hacker,Design,4,12,1,3,2,Divorced,7197,2,No,Non-Travel,3,17,4,7,10,5,1,2,Early-Stage Tech Startups,Significant early equity pool allocation.
+47,No,Founding Engineering,Full Stack Generalist,Entrepreneurship,3,1,4,4,2,Married,5802,4,No,Travel_Rarely,3,14,5,0,0,0,0,0,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+43,Yes,Founding Engineering,Operations Lead,Entrepreneurship,1,3,3,2,2,Single,6537,1,Yes,Non-Travel,3,21,3,3,5,2,3,1,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+25,No,Growth,Full Stack Generalist,Computer Science,2,2,3,2,2,Single,6443,5,No,Travel_Rarely,4,22,1,0,3,0,0,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+45,Yes,Growth,Growth Hacker,Entrepreneurship,1,3,4,3,4,Single,7152,2,Yes,Travel_Rarely,3,23,2,0,6,0,0,0,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+33,Yes,Operations,Full Stack Generalist,Design,3,3,3,3,3,Married,6728,5,Yes,Travel_Rarely,3,22,1,3,5,2,3,2,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+34,No,Operations,Operations Lead,Design,1,31,2,4,3,Married,6491,4,No,Non-Travel,3,15,4,0,3,0,0,0,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+30,No,Operations,Growth Hacker,Computer Science,4,9,1,3,2,Divorced,6169,7,Yes,Travel_Rarely,3,22,1,3,3,1,3,0,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+35,No,Operations,Full Stack Generalist,Entrepreneurship,4,1,3,4,3,Married,7530,3,No,Travel_Rarely,3,22,3,9,10,5,1,3,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+25,Yes,Growth,Operations Lead,Entrepreneurship,3,2,3,2,2,Divorced,6850,3,Yes,Travel_Rarely,3,24,3,5,6,1,0,2,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+25,No,Growth,Operations Lead,Design,2,2,3,3,3,Married,6552,3,No,Non-Travel,3,13,2,5,7,5,4,5,Early-Stage Tech Startups,Significant early equity pool allocation.
+36,No,Growth,Growth Hacker,Computer Science,4,7,4,4,3,Married,7446,0,No,Travel_Rarely,3,16,2,5,12,2,0,1,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+39,Yes,Growth,Growth Hacker,Design,2,4,1,4,3,Divorced,8709,7,Yes,Non-Travel,3,17,4,11,14,8,0,9,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+29,No,Operations,Full Stack Generalist,Entrepreneurship,3,9,4,3,4,Married,5712,0,No,Non-Travel,3,22,4,0,0,0,0,0,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+31,No,Operations,Growth Hacker,Computer Science,2,2,4,4,3,Divorced,5863,2,No,Non-Travel,3,23,1,1,2,0,1,1,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+43,Yes,Operations,Growth Hacker,Design,3,9,4,2,4,Single,9949,3,Yes,Non-Travel,3,21,2,2,19,2,2,1,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+44,Yes,Operations,Full Stack Generalist,Computer Science,5,20,2,2,3,Single,5919,3,Yes,Travel_Rarely,3,17,4,0,1,0,0,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+34,No,Operations,Growth Hacker,Entrepreneurship,3,4,4,4,1,Divorced,6224,4,Yes,Non-Travel,3,22,5,0,5,0,0,0,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+42,Yes,Founding Engineering,Growth Hacker,Entrepreneurship,4,4,2,2,2,Divorced,5532,2,Yes,Non-Travel,3,16,1,1,1,1,1,1,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+22,Yes,Operations,Growth Hacker,Computer Science,5,1,3,3,1,Married,5393,3,Yes,Travel_Rarely,3,15,3,0,0,0,0,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+36,No,Founding Engineering,Growth Hacker,Design,3,4,4,3,3,Married,6605,1,Yes,Travel_Rarely,3,22,3,1,8,1,0,1,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+45,No,Founding Engineering,Full Stack Generalist,Entrepreneurship,3,6,2,3,3,Divorced,7228,0,Yes,Travel_Rarely,3,13,1,4,6,1,3,0,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+29,Yes,Founding Engineering,Growth Hacker,Design,3,16,2,3,3,Married,8005,6,Yes,Travel_Rarely,4,11,3,2,11,0,2,0,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+45,No,Founding Engineering,Operations Lead,Entrepreneurship,2,1,4,3,4,Divorced,6113,1,Yes,Travel_Rarely,3,14,3,0,1,0,0,0,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+27,Yes,Founding Engineering,Operations Lead,Design,2,18,2,1,2,Divorced,6575,1,Yes,Non-Travel,3,18,3,0,6,0,0,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+33,No,Growth,Growth Hacker,Computer Science,3,3,4,3,3,Married,5923,0,No,Travel_Rarely,4,12,1,0,1,0,0,0,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+30,Yes,Operations,Full Stack Generalist,Entrepreneurship,5,10,2,2,4,Single,7175,2,Yes,Non-Travel,3,15,1,6,11,0,5,1,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+31,No,Operations,Growth Hacker,Design,3,4,2,3,2,Married,7728,1,No,Travel_Rarely,3,22,2,0,13,0,0,0,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+51,Yes,Operations,Operations Lead,Design,4,4,3,1,2,Divorced,8319,2,Yes,Non-Travel,3,16,4,7,16,1,1,1,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+42,No,Growth,Operations Lead,Design,3,1,1,2,2,Divorced,5860,0,Yes,Non-Travel,4,11,3,0,1,0,0,0,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+44,No,Operations,Operations Lead,Computer Science,3,1,3,3,2,Married,6755,1,No,Travel_Rarely,3,24,1,6,8,2,0,3,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+45,Yes,Founding Engineering,Full Stack Generalist,Computer Science,3,3,2,3,2,Married,6515,3,No,Travel_Rarely,3,15,2,7,7,5,1,5,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+42,Yes,Operations,Growth Hacker,Entrepreneurship,3,19,4,2,2,Married,6260,0,No,Travel_Rarely,3,21,4,4,5,0,2,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+26,Yes,Operations,Growth Hacker,Design,4,6,2,4,3,Married,7154,2,No,Non-Travel,3,22,1,5,8,3,0,4,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+29,No,Growth,Growth Hacker,Entrepreneurship,3,8,3,4,3,Divorced,6138,2,No,Travel_Rarely,3,21,2,0,4,0,0,0,Early-Stage Tech Startups,Significant early equity pool allocation.
+42,No,Growth,Growth Hacker,Entrepreneurship,3,6,3,2,3,Married,6844,3,Yes,Non-Travel,3,11,2,5,5,1,5,1,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+31,Yes,Founding Engineering,Full Stack Generalist,Entrepreneurship,3,1,3,1,2,Divorced,6544,4,Yes,Non-Travel,3,11,5,1,4,0,1,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+28,Yes,Growth,Operations Lead,Computer Science,4,3,1,4,4,Single,5788,1,No,Non-Travel,3,20,2,0,0,0,0,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+39,No,Growth,Growth Hacker,Computer Science,3,6,1,3,4,Married,8068,1,Yes,Non-Travel,3,14,2,2,12,2,0,0,Early-Stage Tech Startups,Significant early equity pool allocation.
+31,No,Operations,Growth Hacker,Computer Science,2,4,3,4,2,Divorced,8066,1,Yes,Non-Travel,4,16,3,3,13,1,0,3,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+47,Yes,Operations,Growth Hacker,Computer Science,4,5,3,3,4,Married,10406,3,Yes,Travel_Rarely,3,23,4,9,26,5,3,1,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+37,No,Founding Engineering,Growth Hacker,Computer Science,3,4,4,4,1,Divorced,8192,6,Yes,Non-Travel,4,20,3,13,15,7,5,4,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+36,Yes,Operations,Growth Hacker,Design,3,6,3,3,1,Single,5935,1,Yes,Non-Travel,3,20,5,2,2,1,0,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+31,No,Founding Engineering,Full Stack Generalist,Entrepreneurship,4,9,4,4,3,Divorced,6987,2,Yes,Non-Travel,3,20,3,7,10,3,1,0,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+35,No,Founding Engineering,Full Stack Generalist,Design,3,10,3,3,3,Divorced,7296,0,No,Non-Travel,3,14,3,7,7,2,3,2,Early-Stage Tech Startups,Significant early equity pool allocation.
+45,No,Founding Engineering,Growth Hacker,Computer Science,3,1,3,3,3,Single,7803,3,Yes,Travel_Rarely,3,21,1,7,11,4,3,4,Early-Stage Tech Startups,Significant early equity pool allocation.
+44,No,Operations,Full Stack Generalist,Entrepreneurship,3,3,2,3,4,Married,6082,0,No,Non-Travel,3,20,5,3,3,3,3,3,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+34,Yes,Operations,Full Stack Generalist,Design,3,10,2,4,2,Divorced,7539,2,Yes,Travel_Rarely,3,21,4,0,8,0,0,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+37,Yes,Growth,Operations Lead,Computer Science,2,11,3,2,1,Married,5905,1,Yes,Non-Travel,3,19,5,1,2,1,1,1,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+40,No,Growth,Full Stack Generalist,Design,3,43,1,3,4,Divorced,6749,1,No,Non-Travel,3,15,4,3,7,0,1,0,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+44,Yes,Growth,Growth Hacker,Computer Science,4,3,3,2,2,Divorced,6757,0,Yes,Non-Travel,3,17,2,0,7,0,0,0,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+36,No,Operations,Operations Lead,Entrepreneurship,3,3,2,2,3,Married,6775,1,Yes,Non-Travel,4,16,5,0,6,0,0,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+30,No,Growth,Full Stack Generalist,Design,3,14,4,3,4,Married,7581,1,Yes,Travel_Rarely,3,22,1,10,12,5,3,1,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+31,No,Growth,Operations Lead,Computer Science,3,15,4,1,1,Divorced,7102,2,Yes,Non-Travel,3,22,1,2,6,0,0,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+25,Yes,Founding Engineering,Full Stack Generalist,Design,3,2,3,4,3,Divorced,6132,2,No,Travel_Rarely,3,11,3,3,3,0,0,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+21,No,Founding Engineering,Operations Lead,Entrepreneurship,4,6,2,4,2,Divorced,6159,2,No,Travel_Rarely,3,21,2,1,3,0,1,0,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+21,No,Founding Engineering,Operations Lead,Entrepreneurship,3,19,2,3,3,Single,5980,2,No,Non-Travel,4,20,5,1,3,0,1,0,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+32,No,Growth,Full Stack Generalist,Computer Science,3,2,3,2,2,Married,5852,0,Yes,Non-Travel,3,25,2,0,0,0,0,0,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+47,Yes,Growth,Operations Lead,Computer Science,4,4,2,3,3,Married,8100,5,No,Travel_Rarely,3,21,2,6,10,3,6,2,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+45,No,Operations,Full Stack Generalist,Computer Science,3,15,3,4,2,Divorced,5769,2,No,Travel_Rarely,4,18,2,1,1,0,0,0,Early-Stage Tech Startups,Significant early equity pool allocation.
+45,Yes,Growth,Full Stack Generalist,Computer Science,3,6,2,3,3,Single,6750,1,Yes,Travel_Rarely,3,21,5,4,4,4,4,1,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+47,No,Growth,Operations Lead,Design,2,5,4,3,4,Married,6313,1,Yes,Travel_Rarely,3,11,1,2,6,0,0,0,Early-Stage Tech Startups,Significant early equity pool allocation.
+40,Yes,Growth,Full Stack Generalist,Design,4,1,3,2,3,Divorced,6515,1,Yes,Non-Travel,3,20,5,2,3,2,2,2,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+36,No,Operations,Growth Hacker,Computer Science,5,37,2,1,3,Married,7203,2,Yes,Non-Travel,3,25,4,0,9,0,0,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+38,Yes,Founding Engineering,Growth Hacker,Computer Science,3,5,3,3,3,Single,7915,2,Yes,Non-Travel,4,23,3,3,10,1,3,0,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+35,Yes,Founding Engineering,Full Stack Generalist,Design,3,12,3,3,4,Married,8876,0,Yes,Non-Travel,3,15,1,4,15,0,0,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+47,No,Growth,Operations Lead,Design,3,1,3,4,4,Married,8401,2,Yes,Travel_Rarely,3,14,2,2,16,2,0,0,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+44,No,Operations,Growth Hacker,Entrepreneurship,3,16,1,1,2,Married,7011,3,Yes,Travel_Rarely,3,18,1,0,5,0,0,0,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+37,No,Founding Engineering,Growth Hacker,Entrepreneurship,4,17,4,3,4,Divorced,6548,2,Yes,Non-Travel,3,17,2,2,3,2,2,2,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+33,Yes,Operations,Growth Hacker,Computer Science,4,3,4,1,2,Divorced,7397,1,Yes,Travel_Rarely,3,18,5,4,12,3,3,1,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+35,Yes,Founding Engineering,Growth Hacker,Computer Science,4,1,3,3,2,Divorced,7957,1,Yes,Non-Travel,4,23,3,10,13,6,1,3,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+36,No,Operations,Operations Lead,Computer Science,1,28,2,3,3,Divorced,6003,2,Yes,Non-Travel,4,14,5,0,2,0,0,0,Early-Stage Tech Startups,Significant early equity pool allocation.
+41,No,Founding Engineering,Growth Hacker,Design,4,10,2,3,2,Married,7053,5,No,Travel_Rarely,3,12,2,1,6,1,1,1,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+28,Yes,Growth,Operations Lead,Computer Science,3,3,3,4,2,Divorced,6409,2,Yes,Non-Travel,3,18,5,4,5,2,0,2,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+42,No,Growth,Growth Hacker,Computer Science,3,1,1,3,1,Married,7127,2,Yes,Travel_Rarely,3,23,2,0,9,0,0,0,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+39,Yes,Operations,Full Stack Generalist,Entrepreneurship,3,11,1,3,4,Divorced,7394,0,Yes,Non-Travel,3,20,5,2,7,0,2,2,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+31,Yes,Operations,Operations Lead,Design,3,34,2,3,3,Single,7127,1,No,Travel_Rarely,3,12,2,6,8,5,0,5,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+36,Yes,Growth,Full Stack Generalist,Entrepreneurship,3,8,4,2,2,Divorced,7952,1,Yes,Non-Travel,3,19,2,9,10,4,0,7,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+30,Yes,Founding Engineering,Full Stack Generalist,Computer Science,3,1,4,2,3,Married,7248,2,No,Non-Travel,3,22,5,0,12,0,0,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+46,Yes,Founding Engineering,Operations Lead,Design,3,11,3,1,2,Married,8112,2,Yes,Non-Travel,3,22,1,10,11,8,9,7,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+33,No,Founding Engineering,Growth Hacker,Entrepreneurship,5,4,3,3,1,Married,8462,2,No,Non-Travel,3,15,2,9,12,4,3,2,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+38,Yes,Growth,Operations Lead,Entrepreneurship,3,1,2,3,3,Single,7341,3,No,Non-Travel,4,15,5,2,8,2,0,2,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+26,Yes,Operations,Operations Lead,Computer Science,3,22,2,3,3,Single,6265,4,No,Non-Travel,3,12,4,1,2,1,0,1,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+39,No,Growth,Growth Hacker,Computer Science,3,1,3,3,4,Married,6586,4,Yes,Non-Travel,4,18,1,3,4,3,3,2,Early-Stage Tech Startups,Significant early equity pool allocation.
+27,Yes,Operations,Growth Hacker,Design,4,3,3,4,3,Single,6809,0,Yes,Non-Travel,4,15,4,7,9,3,4,3,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+32,Yes,Founding Engineering,Operations Lead,Entrepreneurship,4,35,2,2,2,Single,5911,4,Yes,Travel_Rarely,3,23,2,2,2,0,0,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+37,No,Growth,Operations Lead,Computer Science,3,25,3,3,2,Single,6356,1,Yes,Non-Travel,4,14,2,2,3,0,0,0,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+33,No,Growth,Full Stack Generalist,Design,3,13,3,2,2,Married,6394,3,Yes,Travel_Rarely,3,23,5,2,4,1,2,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+41,No,Founding Engineering,Operations Lead,Design,3,5,2,1,1,Married,9091,1,No,Non-Travel,3,12,5,21,23,13,2,9,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+30,No,Operations,Full Stack Generalist,Computer Science,3,3,3,3,1,Divorced,5997,2,Yes,Non-Travel,3,11,3,0,4,0,0,0,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+33,No,Founding Engineering,Full Stack Generalist,Design,3,1,2,3,2,Married,5876,1,No,Travel_Rarely,3,20,3,0,2,0,0,0,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+35,No,Operations,Full Stack Generalist,Computer Science,4,14,2,3,3,Single,5565,4,Yes,Non-Travel,3,19,3,1,1,0,1,0,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+29,No,Operations,Growth Hacker,Computer Science,5,2,4,3,1,Divorced,7432,2,Yes,Non-Travel,4,17,1,0,7,0,0,0,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+37,No,Operations,Full Stack Generalist,Computer Science,4,1,2,3,4,Divorced,7304,3,No,Non-Travel,3,22,1,0,9,0,0,0,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+31,Yes,Founding Engineering,Growth Hacker,Design,1,8,2,3,3,Single,6261,6,No,Non-Travel,3,12,3,3,4,3,0,0,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+34,No,Operations,Full Stack Generalist,Computer Science,4,11,3,4,2,Married,6788,0,Yes,Non-Travel,4,15,3,2,7,0,2,0,Early-Stage Tech Startups,Significant early equity pool allocation.
+40,No,Founding Engineering,Growth Hacker,Design,3,3,3,1,3,Single,5871,5,Yes,Travel_Rarely,3,22,5,0,1,0,0,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+27,No,Founding Engineering,Operations Lead,Design,5,8,3,3,4,Divorced,6220,3,Yes,Travel_Rarely,3,17,2,0,4,0,0,0,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+38,Yes,Growth,Operations Lead,Computer Science,3,2,3,2,2,Divorced,9575,2,Yes,Travel_Rarely,4,19,1,3,20,2,0,1,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+37,Yes,Founding Engineering,Growth Hacker,Entrepreneurship,4,11,4,2,3,Single,5952,4,Yes,Non-Travel,3,22,5,2,3,0,1,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+62,No,Growth,Growth Hacker,Entrepreneurship,5,20,4,3,3,Divorced,5851,2,Yes,Non-Travel,3,23,3,2,3,2,2,2,Early-Stage Tech Startups,Significant early equity pool allocation.
+50,No,Growth,Growth Hacker,Design,3,3,3,3,4,Divorced,10166,1,No,Travel_Rarely,3,20,1,9,20,6,2,5,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+34,Yes,Growth,Operations Lead,Entrepreneurship,4,10,2,3,2,Married,9342,1,Yes,Travel_Rarely,4,25,2,0,16,0,0,0,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+37,Yes,Growth,Growth Hacker,Entrepreneurship,2,1,3,4,3,Single,10018,3,Yes,Non-Travel,3,18,5,3,19,0,3,1,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+36,No,Growth,Growth Hacker,Design,3,1,4,4,2,Divorced,7159,2,Yes,Travel_Rarely,3,19,1,3,6,2,1,0,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+26,No,Founding Engineering,Operations Lead,Design,3,2,1,2,2,Married,6778,3,No,Non-Travel,3,13,2,6,8,2,0,2,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+31,No,Growth,Operations Lead,Entrepreneurship,3,2,1,3,3,Divorced,7746,1,Yes,Non-Travel,3,20,5,1,10,1,0,0,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+35,Yes,Founding Engineering,Growth Hacker,Design,4,9,2,3,4,Single,7018,2,Yes,Travel_Rarely,3,24,3,5,6,1,1,1,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+43,Yes,Founding Engineering,Operations Lead,Computer Science,3,10,4,3,4,Married,10195,1,Yes,Non-Travel,3,23,3,16,22,13,0,10,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+44,Yes,Growth,Operations Lead,Computer Science,3,1,1,3,2,Married,6351,4,Yes,Travel_Rarely,3,21,2,2,4,0,2,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+34,No,Founding Engineering,Full Stack Generalist,Computer Science,4,5,3,3,3,Divorced,6878,1,Yes,Non-Travel,3,17,5,4,5,2,2,2,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+39,No,Founding Engineering,Operations Lead,Computer Science,2,3,4,3,3,Single,5756,2,No,Non-Travel,3,15,5,1,2,0,1,0,Early-Stage Tech Startups,Significant early equity pool allocation.
+26,No,Growth,Operations Lead,Design,4,1,2,2,3,Divorced,6540,4,Yes,Travel_Rarely,3,21,1,2,3,0,0,0,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+34,No,Operations,Growth Hacker,Design,4,14,4,4,3,Married,5942,2,No,Travel_Rarely,3,20,1,1,1,0,0,0,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+21,No,Founding Engineering,Full Stack Generalist,Computer Science,1,14,3,3,1,Divorced,6024,1,Yes,Travel_Rarely,3,18,4,1,2,0,1,1,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+35,Yes,Founding Engineering,Full Stack Generalist,Computer Science,3,2,1,3,2,Divorced,6501,0,Yes,Travel_Rarely,3,25,3,5,6,1,1,1,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+50,Yes,Growth,Full Stack Generalist,Entrepreneurship,4,5,3,2,2,Divorced,8922,2,No,Travel_Rarely,3,25,1,0,16,0,0,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+36,Yes,Founding Engineering,Full Stack Generalist,Computer Science,2,10,4,1,3,Single,7670,1,Yes,Travel_Rarely,3,17,1,6,11,3,0,3,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+37,Yes,Operations,Operations Lead,Entrepreneurship,4,2,1,1,1,Divorced,6937,1,No,Travel_Rarely,3,18,5,8,9,5,1,5,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+41,Yes,Growth,Full Stack Generalist,Computer Science,1,8,2,1,2,Single,9148,2,Yes,Non-Travel,3,20,3,0,16,0,0,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+49,Yes,Founding Engineering,Operations Lead,Computer Science,4,3,2,2,3,Married,6051,2,Yes,Non-Travel,3,11,3,0,1,0,0,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+40,No,Founding Engineering,Operations Lead,Design,4,1,4,1,3,Married,6286,3,Yes,Travel_Rarely,3,20,4,0,2,0,0,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+40,Yes,Founding Engineering,Full Stack Generalist,Entrepreneurship,3,2,3,2,4,Single,6097,1,Yes,Non-Travel,3,13,5,0,2,0,0,0,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+46,No,Growth,Growth Hacker,Entrepreneurship,5,3,4,1,3,Divorced,5379,3,No,Travel_Rarely,3,15,1,0,0,0,0,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+31,Yes,Growth,Operations Lead,Computer Science,4,1,4,2,3,Divorced,7861,1,No,Travel_Rarely,3,24,4,11,13,8,0,5,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+30,No,Operations,Growth Hacker,Design,2,10,3,2,3,Divorced,7817,2,No,Non-Travel,3,14,4,4,9,2,4,4,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+33,Yes,Operations,Full Stack Generalist,Computer Science,3,5,4,4,2,Divorced,6802,3,Yes,Non-Travel,3,17,5,1,5,0,1,1,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+31,Yes,Founding Engineering,Full Stack Generalist,Computer Science,3,5,4,2,2,Divorced,6088,0,No,Travel_Rarely,3,25,5,4,4,2,4,2,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+39,No,Growth,Full Stack Generalist,Computer Science,3,6,2,4,2,Single,6843,3,No,Non-Travel,3,23,1,5,9,2,1,2,Early-Stage Tech Startups,Significant early equity pool allocation.
+34,No,Operations,Full Stack Generalist,Design,3,1,4,2,2,Single,5833,7,Yes,Non-Travel,3,16,1,3,3,3,2,1,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+24,No,Founding Engineering,Growth Hacker,Entrepreneurship,3,22,3,4,2,Married,6238,7,Yes,Travel_Rarely,3,11,3,1,4,0,1,0,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+35,No,Operations,Full Stack Generalist,Design,4,5,3,3,4,Divorced,7120,1,Yes,Non-Travel,3,19,2,1,6,0,0,0,Early-Stage Tech Startups,Significant early equity pool allocation.
+32,Yes,Growth,Operations Lead,Entrepreneurship,5,1,3,4,2,Divorced,8037,1,Yes,Travel_Rarely,3,23,3,3,11,0,2,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+41,No,Growth,Full Stack Generalist,Entrepreneurship,3,6,4,3,3,Single,10153,3,No,Travel_Rarely,4,24,5,13,23,8,2,8,Early-Stage Tech Startups,Significant early equity pool allocation.
+42,No,Operations,Operations Lead,Design,5,15,3,3,2,Divorced,7275,1,Yes,Travel_Rarely,3,22,2,0,12,0,0,0,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+35,No,Operations,Growth Hacker,Entrepreneurship,2,7,1,3,4,Divorced,8674,4,Yes,Travel_Rarely,3,21,5,0,17,0,0,0,Early-Stage Tech Startups,Significant early equity pool allocation.
+35,No,Operations,Operations Lead,Entrepreneurship,4,7,3,3,2,Divorced,8584,4,No,Travel_Rarely,3,12,5,1,17,1,0,1,Early-Stage Tech Startups,Significant early equity pool allocation.
+40,Yes,Growth,Full Stack Generalist,Design,3,1,2,1,3,Divorced,8022,2,Yes,Travel_Rarely,4,22,4,1,14,1,1,1,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+39,No,Operations,Growth Hacker,Entrepreneurship,3,1,2,3,3,Single,5835,4,Yes,Non-Travel,3,23,1,1,3,1,1,1,Early-Stage Tech Startups,Significant early equity pool allocation.
+42,No,Founding Engineering,Growth Hacker,Computer Science,3,25,3,2,3,Divorced,8795,1,No,Travel_Rarely,3,21,3,6,14,3,0,5,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+31,Yes,Growth,Full Stack Generalist,Computer Science,4,3,4,2,2,Married,6362,2,Yes,Non-Travel,3,14,4,2,4,1,1,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+37,No,Operations,Growth Hacker,Design,3,1,4,3,3,Single,6474,1,No,Travel_Rarely,3,12,2,0,4,0,0,0,Early-Stage Tech Startups,Significant early equity pool allocation.
+39,Yes,Operations,Operations Lead,Design,3,1,3,3,2,Single,5909,5,No,Non-Travel,3,16,1,0,2,0,0,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+44,Yes,Growth,Full Stack Generalist,Entrepreneurship,3,5,3,1,3,Married,6713,0,Yes,Travel_Rarely,3,17,5,4,7,0,0,0,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+36,No,Founding Engineering,Operations Lead,Design,3,11,3,4,3,Married,6690,3,Yes,Non-Travel,3,15,1,0,4,0,0,0,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+33,No,Growth,Growth Hacker,Entrepreneurship,5,1,3,4,3,Married,5734,2,Yes,Non-Travel,3,19,2,1,1,0,0,1,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+48,No,Founding Engineering,Growth Hacker,Entrepreneurship,5,15,3,3,3,Single,7157,2,Yes,Travel_Rarely,3,25,4,4,6,4,3,3,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+35,Yes,Operations,Growth Hacker,Computer Science,3,3,3,4,3,Single,6454,0,Yes,Travel_Rarely,3,18,1,1,3,1,0,0,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+38,Yes,Growth,Growth Hacker,Entrepreneurship,5,7,3,2,3,Married,6153,2,No,Non-Travel,3,20,5,4,5,1,0,0,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+29,Yes,Founding Engineering,Operations Lead,Design,3,15,2,2,1,Single,7273,4,Yes,Non-Travel,3,12,2,3,11,1,1,0,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+23,No,Founding Engineering,Operations Lead,Entrepreneurship,2,2,1,4,4,Single,6263,3,No,Travel_Rarely,3,14,3,3,5,3,0,3,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+25,Yes,Founding Engineering,Full Stack Generalist,Entrepreneurship,3,6,4,3,2,Single,7233,3,No,Non-Travel,3,24,1,5,6,0,1,1,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+40,No,Operations,Operations Lead,Design,5,1,4,4,4,Divorced,6302,3,Yes,Travel_Rarely,3,15,1,2,2,1,0,1,Early-Stage Tech Startups,Significant early equity pool allocation.
+41,Yes,Founding Engineering,Full Stack Generalist,Design,4,2,4,4,3,Single,6744,4,Yes,Non-Travel,3,14,4,4,6,4,0,1,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+34,Yes,Founding Engineering,Growth Hacker,Computer Science,3,1,2,1,1,Married,7516,4,Yes,Travel_Rarely,3,24,5,9,12,9,2,5,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+31,No,Growth,Operations Lead,Computer Science,2,5,3,2,2,Single,6873,3,Yes,Non-Travel,3,22,3,3,6,1,2,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+41,No,Growth,Full Stack Generalist,Design,3,14,4,4,3,Single,6828,4,Yes,Non-Travel,3,12,4,1,6,0,0,0,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+36,Yes,Founding Engineering,Full Stack Generalist,Entrepreneurship,4,9,1,2,2,Single,6386,4,Yes,Non-Travel,3,20,1,4,4,4,0,4,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+40,Yes,Operations,Operations Lead,Entrepreneurship,5,1,4,3,4,Single,5982,1,Yes,Travel_Rarely,3,15,1,2,2,0,2,1,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+31,No,Growth,Growth Hacker,Computer Science,2,11,3,2,3,Single,5995,2,Yes,Travel_Rarely,3,19,1,2,3,1,2,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+52,Yes,Founding Engineering,Full Stack Generalist,Design,3,2,3,2,3,Married,6777,1,No,Non-Travel,3,21,2,2,4,2,1,0,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+41,No,Growth,Operations Lead,Entrepreneurship,2,12,4,2,1,Married,6214,1,Yes,Travel_Rarely,3,23,4,1,3,0,1,1,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+42,No,Growth,Full Stack Generalist,Computer Science,3,6,4,4,2,Married,6359,1,Yes,Non-Travel,3,11,4,2,3,2,2,2,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+39,No,Growth,Operations Lead,Computer Science,4,24,2,3,4,Divorced,8454,4,Yes,Non-Travel,3,20,2,0,13,0,0,0,Early-Stage Tech Startups,Significant early equity pool allocation.
+38,Yes,Growth,Operations Lead,Design,2,5,1,4,3,Single,6953,1,Yes,Non-Travel,3,16,5,1,8,0,0,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+42,No,Founding Engineering,Operations Lead,Entrepreneurship,3,4,3,4,3,Married,6264,2,Yes,Non-Travel,3,21,5,5,5,1,2,0,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+35,No,Operations,Operations Lead,Computer Science,3,2,3,4,1,Divorced,6663,2,Yes,Non-Travel,3,25,5,5,6,0,0,0,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+39,Yes,Founding Engineering,Growth Hacker,Entrepreneurship,3,16,3,4,2,Married,6166,5,Yes,Travel_Rarely,3,13,4,1,4,1,0,1,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+52,No,Operations,Growth Hacker,Design,5,8,1,4,3,Married,8259,2,No,Travel_Rarely,3,14,1,0,13,0,0,0,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+30,Yes,Growth,Operations Lead,Computer Science,5,1,1,3,4,Single,6001,2,Yes,Non-Travel,3,24,4,0,4,0,0,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+49,No,Operations,Operations Lead,Design,3,13,3,4,1,Single,6431,3,No,Travel_Rarely,3,14,4,0,3,0,0,0,Early-Stage Tech Startups,Significant early equity pool allocation.
+47,No,Founding Engineering,Full Stack Generalist,Design,3,6,2,3,2,Married,6497,0,No,Travel_Rarely,3,17,2,3,5,0,0,0,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+30,No,Founding Engineering,Growth Hacker,Computer Science,3,24,4,4,2,Married,7348,3,Yes,Travel_Rarely,3,12,1,10,12,7,2,4,Early-Stage Tech Startups,Significant early equity pool allocation.
+33,No,Growth,Growth Hacker,Design,3,1,4,2,2,Married,8094,2,Yes,Travel_Rarely,3,12,1,4,10,3,3,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+31,No,Operations,Growth Hacker,Computer Science,4,17,1,2,2,Divorced,6906,6,Yes,Non-Travel,3,16,4,2,5,2,0,0,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+47,No,Founding Engineering,Full Stack Generalist,Computer Science,5,18,4,3,3,Married,5777,3,Yes,Non-Travel,4,13,1,0,0,0,0,0,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+39,Yes,Founding Engineering,Growth Hacker,Entrepreneurship,3,10,1,2,3,Divorced,7254,0,Yes,Non-Travel,3,21,5,5,12,3,4,4,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+39,No,Founding Engineering,Full Stack Generalist,Entrepreneurship,4,1,4,3,4,Single,8749,1,No,Non-Travel,3,18,5,9,20,5,2,4,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+45,No,Operations,Full Stack Generalist,Computer Science,3,33,1,4,3,Divorced,6163,1,Yes,Non-Travel,3,18,3,0,4,0,0,0,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+39,No,Founding Engineering,Full Stack Generalist,Design,3,14,2,2,4,Single,5998,3,Yes,Non-Travel,3,13,3,1,3,0,1,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+44,No,Growth,Full Stack Generalist,Design,3,1,2,4,4,Single,8453,4,Yes,Non-Travel,3,12,2,5,14,4,5,1,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+45,Yes,Growth,Full Stack Generalist,Computer Science,4,1,1,4,3,Single,8506,4,Yes,Travel_Rarely,3,17,2,5,13,0,2,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+45,Yes,Operations,Operations Lead,Design,2,1,3,4,3,Married,6323,1,Yes,Travel_Rarely,3,23,2,1,2,0,1,1,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+30,Yes,Growth,Growth Hacker,Computer Science,3,8,3,4,4,Divorced,7765,2,Yes,Non-Travel,3,12,3,6,12,4,3,4,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+31,Yes,Growth,Full Stack Generalist,Computer Science,5,5,3,3,4,Married,6731,5,Yes,Non-Travel,3,12,5,4,7,0,0,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+34,No,Founding Engineering,Full Stack Generalist,Design,3,1,4,3,1,Divorced,7284,2,Yes,Non-Travel,4,18,3,7,8,5,1,6,Early-Stage Tech Startups,Significant early equity pool allocation.
+38,No,Operations,Full Stack Generalist,Design,2,11,4,3,2,Divorced,6460,0,Yes,Non-Travel,3,12,5,6,7,2,0,3,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+50,No,Growth,Growth Hacker,Computer Science,5,25,3,4,2,Married,6200,2,Yes,Non-Travel,4,23,1,5,5,4,2,2,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+33,No,Operations,Full Stack Generalist,Entrepreneurship,3,12,2,2,1,Divorced,5978,2,Yes,Non-Travel,3,22,2,2,3,2,0,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+28,No,Founding Engineering,Operations Lead,Computer Science,2,2,3,4,3,Single,7026,3,Yes,Travel_Rarely,3,15,5,0,7,0,0,0,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+32,Yes,Growth,Full Stack Generalist,Design,3,3,3,1,4,Single,6718,6,No,Travel_Rarely,3,19,5,4,7,1,4,0,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+51,No,Founding Engineering,Operations Lead,Entrepreneurship,4,4,2,4,1,Married,6683,2,Yes,Non-Travel,3,11,2,6,7,4,1,1,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+40,Yes,Operations,Operations Lead,Design,3,5,1,1,3,Divorced,5928,4,No,Non-Travel,3,22,4,0,2,0,0,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+38,No,Growth,Full Stack Generalist,Design,2,30,2,3,3,Single,8595,2,No,Travel_Rarely,4,12,1,11,17,6,3,3,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+29,Yes,Founding Engineering,Operations Lead,Design,4,7,4,2,3,Married,6999,0,No,Travel_Rarely,3,20,4,3,5,0,1,0,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+51,No,Operations,Growth Hacker,Design,3,8,3,3,2,Divorced,5662,3,No,Non-Travel,4,12,2,0,1,0,0,0,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+36,Yes,Operations,Full Stack Generalist,Entrepreneurship,3,21,3,4,1,Married,9386,2,Yes,Travel_Rarely,3,15,4,16,18,11,8,9,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+21,No,Operations,Operations Lead,Entrepreneurship,4,1,3,2,1,Married,6009,1,No,Non-Travel,3,23,1,0,3,0,0,0,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+35,No,Operations,Full Stack Generalist,Design,3,1,3,3,4,Divorced,5953,0,Yes,Non-Travel,3,20,1,0,1,0,0,0,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+38,No,Founding Engineering,Operations Lead,Computer Science,3,3,1,2,2,Married,9187,2,No,Travel_Rarely,3,20,1,18,20,11,1,10,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+38,Yes,Growth,Full Stack Generalist,Entrepreneurship,2,1,2,1,2,Married,6862,2,No,Travel_Rarely,3,23,5,3,5,0,2,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+28,No,Growth,Operations Lead,Computer Science,3,2,1,3,3,Single,6483,3,Yes,Non-Travel,3,13,4,3,5,3,2,3,Early-Stage Tech Startups,Significant early equity pool allocation.
+30,No,Operations,Growth Hacker,Entrepreneurship,3,11,3,2,3,Married,6827,4,Yes,Non-Travel,3,12,3,2,8,2,0,1,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+32,No,Operations,Full Stack Generalist,Computer Science,3,11,3,2,4,Married,7472,6,No,Travel_Rarely,3,13,1,8,9,5,0,4,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+36,No,Growth,Growth Hacker,Design,3,8,1,4,4,Married,5812,2,No,Travel_Rarely,4,22,4,0,1,0,0,0,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+42,Yes,Operations,Operations Lead,Entrepreneurship,2,1,1,3,2,Divorced,6104,3,Yes,Non-Travel,3,20,5,4,4,0,2,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+48,Yes,Operations,Growth Hacker,Entrepreneurship,4,1,1,1,2,Divorced,5938,3,No,Travel_Rarely,3,21,4,0,2,0,0,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+40,No,Operations,Growth Hacker,Computer Science,1,2,3,2,3,Single,8153,1,No,Travel_Rarely,3,23,4,2,14,0,2,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+50,No,Founding Engineering,Growth Hacker,Design,1,19,2,2,3,Married,6388,0,No,Non-Travel,3,22,4,3,3,0,1,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+47,Yes,Growth,Growth Hacker,Computer Science,3,2,3,4,4,Single,6435,2,No,Travel_Rarely,3,21,2,1,4,0,1,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+39,No,Operations,Full Stack Generalist,Design,3,14,3,2,3,Divorced,9057,4,No,Non-Travel,4,12,1,1,16,0,1,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+35,Yes,Operations,Full Stack Generalist,Entrepreneurship,3,21,2,3,3,Single,6667,3,No,Travel_Rarely,4,14,5,6,7,0,6,1,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+53,No,Founding Engineering,Operations Lead,Computer Science,3,23,4,3,2,Divorced,8307,0,No,Non-Travel,3,12,4,3,11,2,1,3,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+39,Yes,Operations,Full Stack Generalist,Entrepreneurship,3,4,4,2,3,Divorced,6281,0,Yes,Non-Travel,3,18,5,1,3,0,0,1,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+42,No,Operations,Operations Lead,Computer Science,1,11,3,3,2,Single,8628,3,Yes,Travel_Rarely,4,12,2,4,14,3,4,2,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+30,No,Founding Engineering,Growth Hacker,Entrepreneurship,3,9,2,1,2,Single,6884,4,No,Non-Travel,3,25,3,2,6,2,0,1,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+39,Yes,Growth,Growth Hacker,Entrepreneurship,4,26,3,1,3,Single,6887,1,No,Non-Travel,4,13,3,2,7,0,0,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+34,Yes,Growth,Full Stack Generalist,Design,3,2,2,4,3,Married,6336,3,No,Travel_Rarely,3,14,4,3,4,1,0,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+26,Yes,Growth,Growth Hacker,Design,4,7,1,1,4,Divorced,5827,3,Yes,Travel_Rarely,3,15,4,0,2,0,0,0,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+33,No,Growth,Operations Lead,Computer Science,3,4,4,4,3,Married,5791,4,No,Non-Travel,4,19,5,0,2,0,0,0,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+35,No,Founding Engineering,Operations Lead,Entrepreneurship,4,1,4,3,2,Single,5886,5,No,Non-Travel,3,24,2,1,2,0,1,0,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+37,Yes,Founding Engineering,Full Stack Generalist,Entrepreneurship,3,9,4,4,1,Single,7810,4,No,Non-Travel,3,17,1,3,10,0,2,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+34,Yes,Operations,Operations Lead,Entrepreneurship,4,1,4,1,2,Single,6415,1,Yes,Travel_Rarely,3,17,5,2,3,0,1,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+46,No,Founding Engineering,Full Stack Generalist,Computer Science,4,7,1,3,4,Married,6930,2,Yes,Travel_Rarely,3,23,2,0,7,0,0,0,Early-Stage Tech Startups,Fast decision making without corporate red tape.
+37,Yes,Operations,Full Stack Generalist,Design,3,2,1,2,1,Divorced,5951,6,No,Travel_Rarely,4,22,3,1,1,1,0,0,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+28,No,Operations,Full Stack Generalist,Design,1,15,1,3,2,Single,6260,1,No,Travel_Rarely,4,22,5,3,3,3,3,1,Early-Stage Tech Startups,Massive ownership and direct impact on company survival.
+27,Yes,Operations,Operations Lead,Entrepreneurship,5,3,3,2,3,Single,6402,0,Yes,Non-Travel,3,24,1,0,6,0,0,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+38,Yes,Founding Engineering,Full Stack Generalist,Design,3,3,2,4,4,Single,5893,4,Yes,Travel_Rarely,3,22,4,1,2,0,0,1,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+40,No,Growth,Growth Hacker,Design,3,1,2,2,3,Married,8973,2,No,Non-Travel,3,22,4,7,17,7,1,4,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+50,No,Growth,Operations Lead,Entrepreneurship,3,1,2,1,4,Divorced,7214,4,No,Travel_Rarely,3,20,3,5,6,4,2,3,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+36,Yes,Founding Engineering,Growth Hacker,Design,3,2,3,2,2,Married,6374,0,No,Travel_Rarely,3,15,2,3,5,0,2,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+43,Yes,Founding Engineering,Operations Lead,Computer Science,3,12,1,3,3,Married,8369,1,Yes,Non-Travel,3,21,4,7,13,2,0,3,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+40,No,Founding Engineering,Operations Lead,Entrepreneurship,2,29,4,2,4,Single,6815,3,Yes,Non-Travel,3,11,3,2,7,2,2,2,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+40,No,Growth,Growth Hacker,Computer Science,3,6,3,2,3,Single,6990,3,Yes,Travel_Rarely,3,17,5,4,8,0,4,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.
+39,No,Operations,Operations Lead,Design,3,1,3,3,2,Divorced,6690,2,No,Travel_Rarely,3,19,4,5,5,1,0,0,Early-Stage Tech Startups,Significant early equity pool allocation.
+45,Yes,Growth,Operations Lead,Entrepreneurship,2,10,1,3,1,Single,6329,5,No,Travel_Rarely,3,13,2,4,6,0,1,0,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+37,Yes,Operations,Operations Lead,Computer Science,3,13,2,1,4,Single,7529,1,No,Travel_Rarely,3,15,4,6,12,5,1,4,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+42,Yes,Founding Engineering,Operations Lead,Entrepreneurship,3,42,3,2,3,Single,8386,3,Yes,Travel_Rarely,3,12,1,1,18,0,0,0,Early-Stage Tech Startups,Wearing ten hats leads to chaotic priority whiplash.
+33,Yes,Growth,Operations Lead,Entrepreneurship,3,2,4,4,3,Divorced,8952,4,Yes,Travel_Rarely,3,21,4,1,15,0,0,1,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+32,Yes,Operations,Growth Hacker,Entrepreneurship,2,14,1,2,4,Single,8011,5,No,Non-Travel,3,14,1,8,14,3,0,2,Early-Stage Tech Startups,Below-market cash salary hoping for an uncertain exit.
+48,No,Operations,Full Stack Generalist,Entrepreneurship,3,1,4,2,3,Single,8504,7,No,Non-Travel,3,20,1,3,20,1,1,0,Early-Stage Tech Startups,Constantly shifting roadmap and runway anxiety.

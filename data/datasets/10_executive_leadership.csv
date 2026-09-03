@@ -1,0 +1,401 @@
+Age,Attrition,Department,JobRole,EducationField,Education,DistanceFromHome,EnvironmentSatisfaction,JobSatisfaction,WorkLifeBalance,MaritalStatus,MonthlyIncome,NumCompaniesWorked,OverTime,BusinessTravel,PerformanceRating,PercentSalaryHike,TrainingTimesLastYear,YearsAtCompany,TotalWorkingYears,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager,Industry,EmployeeFeedback
+27,Yes,Corporate Strategy,VP of Operations,Economics,3,1,2,4,3,Divorced,19247,3,Yes,Travel_Rarely,3,13,1,4,4,2,4,2,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+36,No,Corporate Strategy,VP of Operations,Doctorate,4,1,4,3,3,Single,20182,2,No,Travel_Rarely,4,23,2,0,8,0,0,0,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+35,No,Corporate Strategy,Managing Director,MBA,4,25,4,3,2,Divorced,17979,2,Yes,Travel_Frequently,3,23,5,0,2,0,0,0,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+34,No,Corporate Strategy,Senior Director,Economics,3,5,3,3,4,Divorced,22555,4,Yes,Travel_Frequently,3,20,2,1,12,1,1,0,Executive & Senior Leadership,High governance authority and top-tier resources.
+36,No,Corporate Strategy,VP of Operations,Law,3,3,2,2,4,Single,24708,3,Yes,Travel_Rarely,4,13,1,10,14,3,0,5,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+38,No,General Management,Senior Director,Economics,1,3,3,4,3,Single,18461,3,Yes,Travel_Frequently,3,14,3,0,4,0,0,0,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+38,Yes,Corporate Strategy,VP of Operations,Law,3,11,3,4,3,Married,23423,2,Yes,Travel_Frequently,3,15,3,7,13,6,0,3,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+34,No,Finance Leadership,Chief of Staff,Economics,3,22,3,3,3,Divorced,18666,2,Yes,Travel_Rarely,3,23,1,2,3,0,0,0,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+36,Yes,General Management,Chief of Staff,Doctorate,4,3,3,4,2,Divorced,21267,2,Yes,Travel_Rarely,3,18,2,5,12,1,0,1,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+38,No,Corporate Strategy,Chief of Staff,MBA,3,3,3,3,2,Single,25115,2,No,Travel_Rarely,3,19,3,7,14,2,1,0,Executive & Senior Leadership,High governance authority and top-tier resources.
+28,No,Finance Leadership,Senior Director,MBA,3,8,4,3,3,Single,18383,2,Yes,Travel_Frequently,3,23,5,1,3,0,1,1,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+38,Yes,Finance Leadership,Managing Director,Doctorate,3,6,3,3,3,Divorced,22478,2,No,Travel_Frequently,3,12,4,5,11,2,1,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+51,Yes,Finance Leadership,Managing Director,Law,3,15,3,3,2,Divorced,17500,3,Yes,Travel_Rarely,3,23,5,0,0,0,0,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+32,No,Finance Leadership,Chief of Staff,Law,3,2,4,2,3,Single,19828,4,No,Travel_Rarely,3,14,3,4,4,4,1,3,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+48,No,General Management,VP of Operations,MBA,3,3,3,3,3,Single,19884,2,No,Travel_Frequently,3,22,5,3,4,1,3,2,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+32,No,Finance Leadership,Senior Director,Doctorate,4,11,3,3,3,Married,23764,4,No,Travel_Rarely,3,13,1,9,14,9,0,5,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+41,Yes,Corporate Strategy,VP of Operations,Law,4,3,2,2,4,Divorced,18770,1,No,Travel_Rarely,3,20,1,0,1,0,0,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+43,No,Finance Leadership,VP of Operations,Law,2,9,1,4,2,Divorced,23179,3,Yes,Travel_Frequently,3,20,4,10,11,4,0,4,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+30,Yes,Corporate Strategy,Managing Director,Doctorate,2,1,3,1,4,Divorced,22425,1,Yes,Travel_Rarely,4,14,5,2,10,2,2,1,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+38,No,General Management,Managing Director,MBA,3,20,3,1,4,Divorced,18200,5,No,Travel_Rarely,3,25,4,1,1,1,1,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+28,Yes,General Management,VP of Operations,MBA,2,8,3,2,2,Married,22710,1,No,Travel_Frequently,3,24,3,8,10,7,3,4,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+39,No,General Management,Chief of Staff,Law,3,3,3,4,1,Single,22003,1,Yes,Travel_Rarely,3,20,4,7,12,5,3,3,Executive & Senior Leadership,High governance authority and top-tier resources.
+44,No,Corporate Strategy,VP of Operations,Law,4,20,4,3,2,Divorced,18184,1,No,Travel_Frequently,3,14,3,0,0,0,0,0,Executive & Senior Leadership,High governance authority and top-tier resources.
+44,Yes,Finance Leadership,Senior Director,MBA,5,4,2,3,3,Married,22183,3,No,Travel_Frequently,3,23,2,5,8,5,0,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+44,No,Corporate Strategy,Senior Director,Law,4,7,4,3,4,Single,22597,4,No,Travel_Frequently,4,17,5,14,14,6,7,8,Executive & Senior Leadership,High governance authority and top-tier resources.
+28,Yes,Finance Leadership,VP of Operations,Doctorate,3,8,3,1,3,Single,20631,1,No,Travel_Frequently,4,18,4,4,5,1,4,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+42,Yes,Finance Leadership,VP of Operations,Doctorate,3,1,3,4,4,Divorced,23783,0,No,Travel_Rarely,3,11,4,4,12,1,4,2,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+27,No,Finance Leadership,Chief of Staff,Law,3,1,2,4,3,Single,18807,3,Yes,Travel_Frequently,3,11,4,1,2,0,0,0,Executive & Senior Leadership,High governance authority and top-tier resources.
+40,No,Finance Leadership,Chief of Staff,Doctorate,4,1,3,3,1,Divorced,21647,1,No,Travel_Rarely,3,20,2,5,7,5,0,3,Executive & Senior Leadership,High governance authority and top-tier resources.
+36,Yes,General Management,VP of Operations,Economics,5,4,3,1,3,Divorced,19287,2,Yes,Travel_Frequently,4,23,3,1,3,0,0,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+32,No,Corporate Strategy,VP of Operations,Law,4,41,1,3,3,Married,23972,4,No,Travel_Frequently,4,23,1,9,14,5,1,1,Executive & Senior Leadership,High governance authority and top-tier resources.
+51,Yes,Finance Leadership,Chief of Staff,Economics,2,13,2,2,2,Married,18754,2,No,Travel_Rarely,3,22,5,2,2,1,0,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+40,No,General Management,VP of Operations,MBA,5,1,2,3,1,Married,24669,5,No,Travel_Rarely,4,22,2,12,14,7,2,8,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+45,No,General Management,Chief of Staff,Economics,3,2,1,4,3,Married,18575,2,No,Travel_Frequently,3,14,2,1,1,1,1,1,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+43,No,Finance Leadership,Senior Director,MBA,5,6,3,3,2,Single,28972,4,Yes,Travel_Rarely,3,22,5,9,25,5,5,2,Executive & Senior Leadership,High governance authority and top-tier resources.
+36,No,Finance Leadership,Chief of Staff,MBA,1,1,1,4,3,Divorced,25559,5,No,Travel_Rarely,3,14,5,7,18,3,0,2,Executive & Senior Leadership,High governance authority and top-tier resources.
+38,No,General Management,Senior Director,Doctorate,3,1,3,2,2,Married,23219,5,Yes,Travel_Rarely,4,23,1,5,10,2,0,2,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+42,No,General Management,Chief of Staff,Doctorate,4,10,2,3,3,Divorced,20002,4,Yes,Travel_Rarely,3,20,4,2,4,0,2,1,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+41,No,General Management,VP of Operations,Law,2,3,3,2,3,Married,20150,5,Yes,Travel_Rarely,3,24,1,2,4,0,0,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+31,Yes,General Management,VP of Operations,MBA,5,2,4,4,3,Divorced,20387,1,No,Travel_Rarely,4,17,4,7,7,0,7,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+36,No,Corporate Strategy,Chief of Staff,Economics,4,2,3,3,2,Single,19209,4,No,Travel_Frequently,3,22,1,2,4,0,0,0,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+44,Yes,Corporate Strategy,Chief of Staff,MBA,3,3,1,4,4,Single,23749,3,Yes,Travel_Frequently,3,11,1,0,11,0,0,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+30,No,General Management,Chief of Staff,Doctorate,3,5,3,2,4,Married,20633,2,Yes,Travel_Frequently,3,18,2,2,6,0,2,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+32,No,General Management,Senior Director,Doctorate,4,3,1,4,4,Divorced,22573,1,No,Travel_Rarely,3,25,1,9,14,1,1,3,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+36,No,General Management,Senior Director,Law,4,9,2,3,2,Married,17831,3,Yes,Travel_Frequently,3,22,2,0,0,0,0,0,Executive & Senior Leadership,High governance authority and top-tier resources.
+38,Yes,Corporate Strategy,Chief of Staff,Economics,5,2,3,3,4,Married,24204,0,No,Travel_Rarely,3,22,4,2,12,2,2,2,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+28,No,Corporate Strategy,VP of Operations,Law,5,27,1,3,3,Married,18438,1,Yes,Travel_Frequently,3,15,5,2,3,1,0,1,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+41,No,General Management,Chief of Staff,Law,3,7,3,4,3,Single,19752,1,No,Travel_Rarely,3,20,2,4,7,3,4,2,Executive & Senior Leadership,High governance authority and top-tier resources.
+44,No,Finance Leadership,VP of Operations,Doctorate,3,8,3,3,3,Divorced,19901,3,No,Travel_Rarely,3,17,4,3,4,2,1,1,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+55,No,Corporate Strategy,Senior Director,Law,1,5,2,3,3,Single,20589,6,Yes,Travel_Frequently,3,13,4,1,9,1,0,0,Executive & Senior Leadership,High governance authority and top-tier resources.
+21,No,Corporate Strategy,VP of Operations,Economics,4,3,3,4,3,Married,19052,3,Yes,Travel_Rarely,3,24,4,1,3,0,1,1,Executive & Senior Leadership,High governance authority and top-tier resources.
+32,No,Corporate Strategy,Chief of Staff,Economics,2,3,2,3,3,Married,23070,3,No,Travel_Rarely,3,13,4,1,14,1,1,0,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+26,Yes,General Management,Managing Director,Economics,3,29,2,2,1,Single,19353,3,Yes,Travel_Rarely,3,12,5,4,4,0,1,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+47,No,General Management,Managing Director,Doctorate,4,1,1,3,2,Married,21744,1,Yes,Travel_Frequently,3,14,5,4,7,4,1,3,Executive & Senior Leadership,High governance authority and top-tier resources.
+36,No,Corporate Strategy,Chief of Staff,Law,3,2,2,3,3,Single,25579,2,No,Travel_Frequently,3,22,4,15,17,12,4,10,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+34,Yes,Finance Leadership,Senior Director,Doctorate,3,1,2,2,3,Divorced,20197,6,Yes,Travel_Rarely,4,23,1,4,4,1,0,1,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+31,No,Finance Leadership,Senior Director,Economics,3,20,3,3,2,Divorced,18650,0,Yes,Travel_Rarely,3,21,5,2,4,1,1,0,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+31,Yes,General Management,Senior Director,MBA,5,8,4,3,4,Married,22147,1,No,Travel_Frequently,3,20,1,5,13,5,1,4,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+43,Yes,Corporate Strategy,Chief of Staff,Economics,5,1,1,2,2,Married,24768,5,Yes,Travel_Frequently,3,17,3,2,17,0,2,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+31,Yes,General Management,Managing Director,MBA,2,17,2,4,3,Divorced,18821,3,Yes,Travel_Frequently,3,17,4,0,2,0,0,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+45,No,Finance Leadership,VP of Operations,Doctorate,1,5,4,4,3,Divorced,17933,1,No,Travel_Rarely,3,11,4,0,2,0,0,0,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+44,Yes,Corporate Strategy,Senior Director,MBA,3,1,4,3,2,Single,25651,2,No,Travel_Frequently,4,23,3,14,24,9,4,7,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+52,No,Corporate Strategy,Managing Director,Doctorate,3,4,1,2,1,Married,18416,3,No,Travel_Rarely,3,21,3,2,3,0,0,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+33,Yes,General Management,Chief of Staff,Law,1,8,2,1,2,Single,18236,3,No,Travel_Rarely,3,14,3,0,0,0,0,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+33,Yes,Corporate Strategy,Managing Director,MBA,4,3,4,4,2,Single,20816,2,Yes,Travel_Frequently,3,15,4,3,7,3,0,3,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+46,No,General Management,Senior Director,Law,3,4,2,4,4,Divorced,18341,1,No,Travel_Rarely,3,17,4,3,3,3,0,3,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+45,Yes,General Management,VP of Operations,Law,3,23,4,4,1,Divorced,20921,3,Yes,Travel_Frequently,3,18,5,3,6,2,0,3,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+41,No,Finance Leadership,Chief of Staff,Economics,3,12,3,3,4,Married,21365,3,Yes,Travel_Frequently,3,13,4,8,9,8,0,4,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+34,No,General Management,Senior Director,Economics,4,5,4,4,2,Married,21088,4,Yes,Travel_Frequently,3,12,2,7,7,3,0,3,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+41,No,General Management,Senior Director,Law,3,26,3,3,4,Single,19703,5,No,Travel_Rarely,3,20,5,0,7,0,0,0,Executive & Senior Leadership,High governance authority and top-tier resources.
+42,No,Finance Leadership,Senior Director,Doctorate,2,6,1,2,4,Single,17495,4,Yes,Travel_Rarely,3,25,1,0,1,0,0,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+28,Yes,Corporate Strategy,Senior Director,MBA,3,1,2,2,3,Married,20276,4,Yes,Travel_Rarely,3,16,1,1,9,1,1,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+21,No,Corporate Strategy,Senior Director,MBA,4,1,2,3,3,Married,18782,7,No,Travel_Rarely,3,13,4,1,3,1,1,0,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+37,No,Corporate Strategy,Senior Director,Law,3,15,4,2,3,Married,19518,3,No,Travel_Rarely,3,17,1,0,4,0,0,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+46,Yes,Corporate Strategy,Senior Director,Doctorate,4,7,3,4,3,Single,20782,0,No,Travel_Frequently,3,19,2,0,5,0,0,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+44,Yes,General Management,Managing Director,Economics,2,14,4,2,3,Single,19448,2,No,Travel_Rarely,3,19,5,0,3,0,0,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+35,Yes,Corporate Strategy,Chief of Staff,MBA,5,13,1,1,4,Single,23444,3,No,Travel_Rarely,3,20,4,13,17,8,6,7,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+51,No,Finance Leadership,Senior Director,Law,5,11,3,4,2,Married,18920,3,Yes,Travel_Frequently,3,19,2,0,3,0,0,0,Executive & Senior Leadership,High governance authority and top-tier resources.
+33,No,Corporate Strategy,Senior Director,Economics,3,5,4,3,3,Married,21703,2,Yes,Travel_Frequently,3,13,3,0,10,0,0,0,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+40,No,Finance Leadership,Senior Director,Law,4,6,3,3,3,Divorced,23019,1,Yes,Travel_Rarely,3,14,3,10,10,4,0,4,Executive & Senior Leadership,High governance authority and top-tier resources.
+32,Yes,Corporate Strategy,Chief of Staff,MBA,1,3,3,2,2,Single,20802,2,No,Travel_Frequently,4,16,4,5,7,4,1,2,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+39,Yes,General Management,VP of Operations,MBA,4,1,4,1,2,Divorced,17802,2,No,Travel_Rarely,3,19,3,1,2,0,1,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+38,No,Corporate Strategy,Managing Director,Economics,4,1,3,2,3,Divorced,20167,3,Yes,Travel_Rarely,3,20,3,2,5,0,2,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+47,No,Finance Leadership,Managing Director,MBA,1,3,4,4,3,Single,20272,5,No,Travel_Frequently,3,14,3,7,8,3,2,2,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+39,No,General Management,Senior Director,Economics,3,7,3,4,2,Divorced,21903,2,No,Travel_Rarely,3,14,4,1,9,1,1,1,Executive & Senior Leadership,High governance authority and top-tier resources.
+29,Yes,Corporate Strategy,Senior Director,Economics,3,7,4,3,3,Divorced,22801,3,Yes,Travel_Rarely,3,22,2,9,10,6,2,5,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+42,Yes,General Management,Chief of Staff,Doctorate,3,1,1,2,2,Married,24840,1,Yes,Travel_Frequently,3,25,3,16,19,10,9,8,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+47,No,Corporate Strategy,Senior Director,Economics,3,4,2,1,4,Divorced,18629,2,No,Travel_Frequently,3,24,5,1,4,0,0,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+33,No,Corporate Strategy,Senior Director,Doctorate,3,14,3,4,2,Married,19591,3,No,Travel_Rarely,3,17,5,5,5,3,0,2,Executive & Senior Leadership,High governance authority and top-tier resources.
+29,No,Finance Leadership,Senior Director,Law,3,1,1,3,2,Divorced,21170,2,No,Travel_Frequently,4,13,3,9,9,6,0,5,Executive & Senior Leadership,High governance authority and top-tier resources.
+37,No,General Management,Chief of Staff,Law,5,2,4,1,3,Married,18332,2,Yes,Travel_Frequently,4,20,5,1,1,0,1,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+37,Yes,General Management,Senior Director,MBA,4,1,3,3,1,Married,18522,2,No,Travel_Rarely,3,23,5,1,4,0,1,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+50,No,Finance Leadership,Senior Director,Doctorate,4,1,3,4,3,Divorced,21516,0,Yes,Travel_Rarely,3,13,2,2,10,1,2,0,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+48,Yes,Corporate Strategy,Senior Director,Doctorate,3,11,4,3,3,Married,21599,4,Yes,Travel_Frequently,3,14,3,2,11,0,2,2,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+51,No,Finance Leadership,VP of Operations,MBA,2,1,3,3,3,Single,17847,3,No,Travel_Frequently,3,23,5,1,2,0,1,1,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+35,No,Finance Leadership,VP of Operations,Economics,3,7,4,4,2,Divorced,17704,2,Yes,Travel_Rarely,4,21,3,0,0,0,0,0,Executive & Senior Leadership,High governance authority and top-tier resources.
+43,Yes,General Management,Managing Director,Doctorate,2,3,2,3,2,Single,19085,2,Yes,Travel_Frequently,4,15,4,2,3,0,1,2,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+42,No,Corporate Strategy,VP of Operations,Law,2,8,4,2,3,Divorced,19694,4,Yes,Travel_Frequently,3,15,4,3,3,0,0,1,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+37,No,Corporate Strategy,Managing Director,Law,2,21,3,3,2,Single,23170,3,Yes,Travel_Rarely,3,23,3,8,10,6,1,3,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+28,No,Corporate Strategy,Chief of Staff,Economics,4,1,4,3,4,Divorced,18096,5,No,Travel_Rarely,3,22,4,0,0,0,0,0,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+35,No,Finance Leadership,VP of Operations,Doctorate,4,12,4,4,3,Married,20161,3,Yes,Travel_Frequently,3,14,5,4,5,0,0,0,Executive & Senior Leadership,High governance authority and top-tier resources.
+33,No,General Management,Senior Director,Economics,3,3,3,3,1,Single,21699,5,Yes,Travel_Rarely,3,17,4,3,9,2,1,1,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+43,Yes,General Management,Chief of Staff,Law,3,1,3,1,2,Single,19325,2,Yes,Travel_Frequently,3,18,1,6,6,4,1,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+34,No,Finance Leadership,VP of Operations,Economics,4,11,4,2,2,Single,20105,2,No,Travel_Rarely,3,25,3,0,4,0,0,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+43,Yes,Finance Leadership,Senior Director,Law,4,7,2,4,1,Married,20255,4,Yes,Travel_Rarely,3,22,4,7,7,1,6,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+39,No,General Management,VP of Operations,Doctorate,3,1,4,4,4,Single,21329,1,Yes,Travel_Rarely,3,22,2,8,8,3,0,5,Executive & Senior Leadership,High governance authority and top-tier resources.
+23,Yes,Finance Leadership,Managing Director,Law,4,6,3,4,3,Divorced,19127,2,Yes,Travel_Frequently,4,25,3,2,3,2,2,2,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+44,Yes,General Management,VP of Operations,Doctorate,5,1,2,3,1,Married,25342,4,No,Travel_Rarely,4,23,2,5,18,2,2,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+26,No,General Management,Chief of Staff,Economics,3,1,3,1,3,Divorced,21591,2,Yes,Travel_Rarely,3,13,3,2,8,2,2,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+30,Yes,Corporate Strategy,VP of Operations,Economics,3,11,2,1,3,Divorced,21663,4,No,Travel_Rarely,3,18,4,1,12,0,1,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+30,No,Corporate Strategy,Senior Director,MBA,4,1,4,2,3,Married,19835,1,No,Travel_Rarely,3,22,4,4,5,1,2,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+34,Yes,Corporate Strategy,Senior Director,MBA,3,1,4,2,2,Divorced,20508,3,Yes,Travel_Frequently,3,13,4,5,6,5,3,4,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+52,Yes,Corporate Strategy,Managing Director,Law,4,5,1,4,3,Divorced,19646,3,No,Travel_Frequently,3,16,1,3,3,1,3,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+35,Yes,Finance Leadership,Managing Director,Economics,3,7,1,3,2,Married,22308,0,No,Travel_Rarely,3,14,1,12,12,7,3,7,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+39,No,Corporate Strategy,Managing Director,MBA,4,10,1,3,3,Divorced,20202,4,No,Travel_Frequently,3,12,1,3,6,2,1,1,Executive & Senior Leadership,High governance authority and top-tier resources.
+41,No,General Management,VP of Operations,Law,2,4,4,3,3,Single,24845,3,Yes,Travel_Rarely,3,17,2,10,14,4,1,5,Executive & Senior Leadership,High governance authority and top-tier resources.
+38,Yes,General Management,Senior Director,Law,4,21,1,2,3,Married,19308,1,Yes,Travel_Frequently,3,24,5,1,3,0,1,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+36,No,Corporate Strategy,Managing Director,Doctorate,5,45,3,2,1,Single,18024,2,Yes,Travel_Rarely,3,18,2,0,2,0,0,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+45,No,Finance Leadership,Senior Director,Law,4,2,4,3,1,Married,20899,5,No,Travel_Frequently,4,15,5,5,7,5,1,3,Executive & Senior Leadership,High governance authority and top-tier resources.
+31,No,Finance Leadership,Chief of Staff,Doctorate,4,11,3,3,2,Divorced,23230,4,No,Travel_Frequently,4,24,1,7,10,1,3,4,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+27,Yes,General Management,Managing Director,MBA,2,45,1,3,3,Single,21412,4,No,Travel_Frequently,3,23,2,7,7,1,3,1,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+26,Yes,Finance Leadership,Senior Director,MBA,3,2,2,2,4,Single,22071,2,No,Travel_Frequently,3,19,4,0,8,0,0,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+33,No,General Management,Senior Director,Economics,4,1,1,4,3,Married,20291,1,No,Travel_Frequently,3,16,5,2,5,2,2,2,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+44,No,General Management,Chief of Staff,Doctorate,3,9,1,4,1,Single,24376,6,No,Travel_Rarely,3,12,1,14,14,8,1,6,Executive & Senior Leadership,High governance authority and top-tier resources.
+31,Yes,Corporate Strategy,Managing Director,MBA,1,2,2,1,1,Married,21862,3,No,Travel_Rarely,3,24,3,2,8,0,1,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+50,No,Finance Leadership,VP of Operations,Law,2,8,3,3,2,Divorced,29806,6,No,Travel_Frequently,4,19,1,21,25,10,0,5,Executive & Senior Leadership,High governance authority and top-tier resources.
+40,No,General Management,Chief of Staff,Law,4,1,3,1,3,Married,19152,1,No,Travel_Frequently,3,11,2,3,5,3,1,3,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+31,No,General Management,Senior Director,MBA,3,2,4,4,4,Married,18683,2,Yes,Travel_Frequently,3,18,1,2,3,2,2,1,Executive & Senior Leadership,High governance authority and top-tier resources.
+41,No,General Management,Managing Director,MBA,3,17,2,2,3,Married,19185,1,Yes,Travel_Frequently,4,25,5,3,3,1,3,1,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+35,Yes,Finance Leadership,Chief of Staff,Law,4,2,4,3,3,Married,19906,4,No,Travel_Frequently,3,14,4,3,4,0,2,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+32,No,Corporate Strategy,Chief of Staff,Economics,3,11,1,3,4,Married,18141,2,No,Travel_Rarely,4,23,1,1,1,0,0,1,Executive & Senior Leadership,High governance authority and top-tier resources.
+34,No,Finance Leadership,Managing Director,Law,1,1,3,3,3,Divorced,22297,1,Yes,Travel_Rarely,3,20,1,2,14,2,2,2,Executive & Senior Leadership,High governance authority and top-tier resources.
+35,No,Finance Leadership,VP of Operations,Economics,5,5,2,3,3,Divorced,18592,2,No,Travel_Rarely,4,25,2,2,3,1,2,0,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+25,Yes,Corporate Strategy,Senior Director,Economics,4,30,4,1,2,Divorced,20717,3,Yes,Travel_Rarely,3,13,4,5,5,4,5,2,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+22,No,General Management,Senior Director,Law,4,10,3,3,2,Single,18035,3,Yes,Travel_Frequently,3,14,1,0,2,0,0,0,Executive & Senior Leadership,High governance authority and top-tier resources.
+46,Yes,Corporate Strategy,Chief of Staff,Economics,3,2,3,4,4,Divorced,19275,2,Yes,Travel_Rarely,3,12,3,2,3,0,0,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+49,No,General Management,Managing Director,Doctorate,1,1,4,3,3,Married,19547,4,No,Travel_Rarely,3,19,5,1,4,0,1,1,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+30,Yes,General Management,Chief of Staff,MBA,4,5,4,2,3,Married,21196,6,Yes,Travel_Rarely,3,14,1,5,8,0,0,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+23,Yes,Corporate Strategy,Managing Director,MBA,4,29,1,3,3,Single,18865,8,No,Travel_Frequently,3,25,4,1,5,0,0,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+42,No,Finance Leadership,Senior Director,MBA,2,7,1,4,3,Single,18913,4,No,Travel_Rarely,3,16,3,4,4,1,4,1,Executive & Senior Leadership,High governance authority and top-tier resources.
+31,Yes,Corporate Strategy,Chief of Staff,MBA,5,12,3,2,2,Divorced,24085,0,No,Travel_Frequently,3,25,4,7,12,3,2,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+41,No,Corporate Strategy,Senior Director,Economics,3,1,3,3,1,Married,21319,3,Yes,Travel_Frequently,4,20,5,6,12,6,0,2,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+30,No,General Management,Managing Director,Law,3,7,3,4,3,Married,19935,2,No,Travel_Frequently,3,17,4,6,6,3,2,0,Executive & Senior Leadership,High governance authority and top-tier resources.
+32,No,General Management,Senior Director,Economics,3,16,4,3,1,Married,22282,1,Yes,Travel_Rarely,3,15,3,9,12,6,2,5,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+47,No,Corporate Strategy,Chief of Staff,Economics,3,6,3,3,1,Divorced,22764,2,No,Travel_Frequently,4,17,1,6,15,3,3,2,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+51,No,General Management,VP of Operations,Economics,3,3,4,3,2,Married,18194,2,No,Travel_Rarely,3,23,4,0,1,0,0,0,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+22,Yes,Finance Leadership,Chief of Staff,Doctorate,5,17,1,1,3,Single,18572,1,No,Travel_Rarely,3,25,5,2,4,2,2,2,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+34,No,Finance Leadership,Managing Director,MBA,4,13,2,3,3,Divorced,25769,2,Yes,Travel_Rarely,3,14,3,9,16,4,2,3,Executive & Senior Leadership,High governance authority and top-tier resources.
+28,Yes,Corporate Strategy,VP of Operations,Economics,4,18,3,3,4,Married,20178,0,Yes,Travel_Rarely,3,11,5,3,7,3,0,3,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+28,Yes,Corporate Strategy,Managing Director,Law,2,8,3,2,2,Divorced,19725,0,No,Travel_Rarely,4,21,4,3,5,2,3,3,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+29,No,Finance Leadership,Managing Director,Economics,4,11,4,4,2,Single,18722,4,No,Travel_Frequently,3,24,1,0,3,0,0,0,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+27,No,Finance Leadership,VP of Operations,Doctorate,5,10,4,3,1,Married,19748,1,Yes,Travel_Rarely,4,18,2,4,4,0,0,0,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+50,No,Corporate Strategy,Chief of Staff,MBA,2,4,3,3,3,Single,24756,5,Yes,Travel_Rarely,3,22,4,9,15,4,1,2,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+49,No,General Management,Managing Director,Economics,4,1,3,3,2,Divorced,18207,2,Yes,Travel_Rarely,3,11,3,1,1,1,0,0,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+34,Yes,General Management,Chief of Staff,MBA,3,3,4,3,1,Divorced,18741,2,Yes,Travel_Frequently,3,21,3,3,4,2,3,1,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+24,No,Corporate Strategy,VP of Operations,MBA,3,1,3,4,3,Married,20708,3,No,Travel_Frequently,3,19,4,1,6,1,1,0,Executive & Senior Leadership,High governance authority and top-tier resources.
+40,No,Finance Leadership,Chief of Staff,Law,2,2,4,2,1,Single,18946,0,Yes,Travel_Frequently,3,24,3,1,2,0,1,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+34,No,Corporate Strategy,Senior Director,Law,4,2,2,2,2,Single,17745,1,Yes,Travel_Rarely,3,15,3,0,1,0,0,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+44,Yes,Corporate Strategy,Managing Director,MBA,3,1,3,4,2,Divorced,19286,1,Yes,Travel_Frequently,3,20,5,3,3,1,3,1,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+34,Yes,Corporate Strategy,VP of Operations,MBA,3,1,3,2,2,Divorced,22070,8,No,Travel_Rarely,3,11,3,7,10,7,1,5,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+53,Yes,Finance Leadership,VP of Operations,MBA,4,3,3,3,2,Divorced,19945,2,Yes,Travel_Rarely,3,23,3,2,4,2,0,2,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+37,No,Finance Leadership,VP of Operations,MBA,4,24,4,3,2,Single,18434,5,No,Travel_Frequently,3,24,5,2,3,2,2,2,Executive & Senior Leadership,High governance authority and top-tier resources.
+37,No,Finance Leadership,Managing Director,MBA,5,1,4,4,3,Single,19662,2,Yes,Travel_Rarely,3,13,5,1,5,1,1,0,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+39,Yes,General Management,VP of Operations,Economics,3,7,1,4,4,Married,18614,4,Yes,Travel_Frequently,3,15,1,0,1,0,0,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+38,Yes,Finance Leadership,VP of Operations,MBA,2,2,2,3,4,Married,27420,3,Yes,Travel_Rarely,3,16,5,15,20,8,4,8,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+50,No,Finance Leadership,Managing Director,Doctorate,3,4,3,4,3,Single,19461,2,Yes,Travel_Frequently,3,22,4,1,3,1,1,1,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+40,Yes,Corporate Strategy,Senior Director,MBA,3,35,3,4,2,Divorced,20394,4,Yes,Travel_Rarely,3,14,3,3,7,0,3,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+41,Yes,General Management,Senior Director,Economics,3,1,4,2,1,Married,18770,0,No,Travel_Frequently,3,13,2,1,2,1,1,1,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+22,No,General Management,Managing Director,MBA,2,11,1,2,2,Single,19674,2,No,Travel_Rarely,3,24,4,2,4,0,1,1,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+37,No,Finance Leadership,VP of Operations,MBA,5,6,4,3,3,Married,22869,3,No,Travel_Frequently,3,20,3,0,11,0,0,0,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+29,Yes,Corporate Strategy,Senior Director,Doctorate,4,4,2,2,3,Married,20555,3,Yes,Travel_Frequently,3,21,3,0,7,0,0,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+42,No,Finance Leadership,Chief of Staff,Law,3,12,3,2,3,Married,20450,3,No,Travel_Rarely,3,20,5,4,8,2,4,3,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+44,No,Corporate Strategy,Senior Director,MBA,3,3,3,3,3,Married,20605,1,Yes,Travel_Frequently,3,16,4,6,6,2,1,2,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+32,Yes,Corporate Strategy,Senior Director,MBA,3,12,3,3,3,Divorced,20052,3,Yes,Travel_Rarely,3,14,2,3,6,0,3,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+42,No,General Management,Managing Director,MBA,3,1,1,3,3,Married,18502,2,No,Travel_Rarely,3,17,3,1,1,0,1,0,Executive & Senior Leadership,High governance authority and top-tier resources.
+39,No,Finance Leadership,Managing Director,Doctorate,3,4,1,1,3,Married,23444,3,Yes,Travel_Frequently,3,17,2,3,12,0,1,1,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+35,No,Corporate Strategy,Managing Director,Economics,3,27,3,2,4,Divorced,22138,1,Yes,Travel_Frequently,3,25,1,7,8,2,0,1,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+27,No,General Management,VP of Operations,Doctorate,3,3,3,2,1,Divorced,19431,3,No,Travel_Frequently,3,16,2,0,3,0,0,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+42,No,Finance Leadership,Managing Director,Doctorate,4,8,4,4,4,Married,19166,1,No,Travel_Rarely,3,19,1,2,2,0,2,2,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+31,No,Corporate Strategy,Senior Director,Doctorate,5,2,1,2,2,Single,20290,0,No,Travel_Frequently,3,11,3,4,9,1,4,1,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+29,Yes,General Management,Senior Director,Economics,3,4,3,2,2,Married,23180,6,Yes,Travel_Rarely,4,24,1,9,11,3,7,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+33,Yes,General Management,Chief of Staff,MBA,2,8,1,4,3,Single,18258,0,Yes,Travel_Rarely,3,13,3,3,3,0,1,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+39,Yes,Corporate Strategy,Senior Director,Economics,4,14,3,4,3,Single,18922,0,No,Travel_Rarely,3,13,4,1,3,0,1,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+52,No,General Management,Chief of Staff,MBA,5,1,4,3,3,Single,25557,2,No,Travel_Frequently,3,12,2,12,21,2,1,3,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+32,Yes,General Management,Managing Director,MBA,3,4,1,1,2,Divorced,17942,0,Yes,Travel_Rarely,3,18,3,1,1,1,0,1,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+38,Yes,Finance Leadership,Senior Director,MBA,5,34,3,3,2,Married,19932,3,Yes,Travel_Frequently,3,15,5,4,8,1,0,2,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+41,No,Corporate Strategy,VP of Operations,Doctorate,5,8,3,3,3,Divorced,24057,1,No,Travel_Rarely,3,12,5,1,13,1,1,0,Executive & Senior Leadership,High governance authority and top-tier resources.
+44,No,Finance Leadership,Chief of Staff,Law,3,4,1,3,2,Married,20004,1,Yes,Travel_Rarely,3,20,4,6,6,0,5,0,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+31,Yes,Finance Leadership,Chief of Staff,Doctorate,3,2,1,2,1,Married,22054,0,Yes,Travel_Rarely,3,16,2,10,12,4,2,3,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+58,No,Finance Leadership,Chief of Staff,Economics,4,16,4,1,3,Married,22715,1,No,Travel_Rarely,4,21,1,3,13,0,0,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+43,No,Corporate Strategy,VP of Operations,Doctorate,4,1,3,3,2,Single,21187,2,Yes,Travel_Frequently,4,17,2,3,6,3,1,2,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+38,No,Corporate Strategy,Senior Director,Doctorate,4,6,3,4,4,Divorced,20405,1,Yes,Travel_Frequently,3,25,1,0,6,0,0,0,Executive & Senior Leadership,High governance authority and top-tier resources.
+33,No,Corporate Strategy,VP of Operations,Law,5,4,3,2,2,Married,18118,3,No,Travel_Frequently,3,11,3,2,2,2,2,1,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+49,No,Finance Leadership,Chief of Staff,Law,3,6,1,3,2,Divorced,18512,2,Yes,Travel_Frequently,3,14,3,2,4,2,2,2,Executive & Senior Leadership,High governance authority and top-tier resources.
+39,No,Corporate Strategy,Senior Director,Economics,2,6,3,4,2,Divorced,19936,1,Yes,Travel_Frequently,3,12,3,3,7,2,1,1,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+44,No,Corporate Strategy,Managing Director,Economics,4,38,3,3,3,Divorced,21960,2,Yes,Travel_Rarely,3,14,2,2,8,0,1,0,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+41,No,Corporate Strategy,VP of Operations,Law,1,17,2,3,1,Married,21052,4,No,Travel_Frequently,3,22,5,0,9,0,0,0,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+31,No,Finance Leadership,VP of Operations,Economics,5,1,1,3,1,Divorced,21632,4,No,Travel_Frequently,3,13,1,2,11,0,0,0,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+35,No,General Management,Chief of Staff,Economics,3,6,3,3,3,Single,19380,2,No,Travel_Frequently,3,24,2,2,3,2,0,2,Executive & Senior Leadership,High governance authority and top-tier resources.
+44,No,Finance Leadership,Chief of Staff,Law,3,6,4,4,4,Married,21064,2,Yes,Travel_Frequently,3,14,5,4,8,0,1,0,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+48,No,General Management,VP of Operations,Law,3,10,2,1,4,Married,19956,4,Yes,Travel_Frequently,3,19,5,5,5,4,1,3,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+36,Yes,General Management,Managing Director,Doctorate,3,2,3,4,3,Divorced,17984,2,Yes,Travel_Rarely,3,16,3,0,1,0,0,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+26,No,Corporate Strategy,Senior Director,Economics,3,5,3,2,4,Divorced,19725,1,Yes,Travel_Rarely,3,18,4,0,3,0,0,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+35,No,Corporate Strategy,Senior Director,MBA,3,7,2,1,2,Divorced,23388,4,No,Travel_Rarely,3,24,5,9,17,3,2,1,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+38,No,General Management,Chief of Staff,Law,2,4,3,2,3,Single,18514,5,No,Travel_Rarely,3,16,3,0,3,0,0,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+39,No,General Management,Chief of Staff,MBA,4,4,4,2,2,Single,19138,2,No,Travel_Rarely,3,23,5,1,2,1,1,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+51,No,General Management,Chief of Staff,Doctorate,2,11,3,4,3,Divorced,22883,2,Yes,Travel_Frequently,3,15,3,0,15,0,0,0,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+32,Yes,Finance Leadership,Chief of Staff,Law,3,9,2,2,1,Divorced,22364,3,No,Travel_Rarely,3,19,5,12,14,5,0,5,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+44,Yes,General Management,Chief of Staff,Law,2,2,2,4,4,Divorced,19764,3,Yes,Travel_Rarely,3,24,1,4,4,3,4,3,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+26,No,General Management,Managing Director,MBA,4,1,3,2,1,Single,21116,2,No,Travel_Rarely,3,25,3,6,8,5,1,4,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+45,No,Finance Leadership,VP of Operations,Law,3,8,3,2,3,Single,19778,2,No,Travel_Frequently,3,17,4,0,7,0,0,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+32,Yes,General Management,Chief of Staff,Law,3,11,1,3,3,Single,24761,4,No,Travel_Frequently,4,24,4,7,14,3,1,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+42,Yes,General Management,Chief of Staff,Economics,3,6,3,1,1,Divorced,19586,5,No,Travel_Frequently,3,24,5,1,3,0,1,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+46,No,Finance Leadership,Chief of Staff,Doctorate,4,1,4,3,1,Married,21025,1,No,Travel_Frequently,3,20,4,3,7,3,0,3,Executive & Senior Leadership,High governance authority and top-tier resources.
+51,Yes,Finance Leadership,Senior Director,Law,5,8,3,3,4,Single,17766,4,Yes,Travel_Frequently,3,11,2,0,0,0,0,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+38,No,General Management,Managing Director,Doctorate,3,1,1,2,2,Single,23500,1,Yes,Travel_Rarely,3,15,5,11,12,7,1,6,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+30,No,Corporate Strategy,Managing Director,Doctorate,4,10,4,4,3,Married,22572,3,No,Travel_Rarely,3,20,4,10,11,5,1,2,Executive & Senior Leadership,High governance authority and top-tier resources.
+43,No,General Management,Senior Director,MBA,2,7,1,3,2,Divorced,19168,0,Yes,Travel_Frequently,3,19,4,2,2,0,1,0,Executive & Senior Leadership,High governance authority and top-tier resources.
+36,No,Corporate Strategy,Chief of Staff,Law,4,10,2,4,2,Married,20768,4,Yes,Travel_Frequently,3,25,4,2,6,2,2,0,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+22,No,Corporate Strategy,VP of Operations,MBA,3,5,2,1,2,Divorced,19326,3,No,Travel_Frequently,3,11,2,2,4,2,1,1,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+45,Yes,Finance Leadership,VP of Operations,Law,2,3,3,2,2,Single,21269,0,Yes,Travel_Frequently,3,12,4,4,7,3,0,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+45,No,Finance Leadership,Senior Director,Law,4,8,4,3,4,Single,24113,4,Yes,Travel_Frequently,3,15,2,0,13,0,0,0,Executive & Senior Leadership,High governance authority and top-tier resources.
+40,No,Corporate Strategy,Managing Director,Economics,3,6,4,2,3,Divorced,20634,2,Yes,Travel_Rarely,3,25,4,3,6,0,0,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+46,Yes,General Management,Senior Director,Law,3,3,3,1,2,Divorced,18209,0,Yes,Travel_Frequently,3,24,1,3,3,2,3,3,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+24,Yes,Finance Leadership,Chief of Staff,Economics,3,1,2,1,3,Married,20065,3,Yes,Travel_Rarely,3,25,1,3,6,3,3,1,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+54,No,General Management,VP of Operations,Doctorate,5,8,3,2,1,Married,21678,0,No,Travel_Frequently,3,24,1,7,11,1,3,3,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+43,Yes,Corporate Strategy,VP of Operations,Doctorate,1,40,2,2,2,Married,28095,2,No,Travel_Rarely,3,17,5,17,22,7,0,4,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+33,No,Corporate Strategy,Senior Director,Doctorate,4,1,2,1,2,Single,24847,2,Yes,Travel_Frequently,4,17,2,11,15,7,2,4,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+35,No,General Management,Managing Director,Economics,5,1,3,2,3,Single,24835,4,Yes,Travel_Rarely,3,20,3,1,16,0,1,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+31,Yes,General Management,Chief of Staff,MBA,4,6,2,4,4,Single,19253,3,Yes,Travel_Rarely,4,19,2,4,4,1,2,2,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+33,Yes,Corporate Strategy,Chief of Staff,Law,3,1,2,3,3,Divorced,20887,4,Yes,Travel_Rarely,3,15,3,9,10,8,5,9,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+45,No,Corporate Strategy,Senior Director,MBA,3,13,3,3,1,Divorced,22355,2,No,Travel_Frequently,3,16,3,4,9,2,1,1,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+34,No,Finance Leadership,Senior Director,Doctorate,3,22,3,1,3,Single,19265,4,Yes,Travel_Frequently,3,25,4,1,5,1,1,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+42,No,Corporate Strategy,Chief of Staff,Law,4,1,3,2,3,Divorced,20194,4,Yes,Travel_Frequently,3,19,2,6,8,1,1,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+30,No,General Management,Managing Director,Doctorate,4,8,3,3,3,Divorced,19233,1,Yes,Travel_Rarely,3,17,3,5,6,0,3,0,Executive & Senior Leadership,High governance authority and top-tier resources.
+35,No,General Management,VP of Operations,MBA,4,1,3,3,1,Single,18919,4,No,Travel_Rarely,3,25,2,0,4,0,0,0,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+34,Yes,Finance Leadership,Senior Director,MBA,3,2,3,4,3,Single,25816,1,Yes,Travel_Rarely,3,17,1,0,16,0,0,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+35,Yes,Finance Leadership,Managing Director,Economics,3,1,3,3,3,Married,21214,5,No,Travel_Rarely,3,13,5,6,6,6,5,6,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+39,No,General Management,VP of Operations,Economics,2,12,2,4,1,Single,21721,5,Yes,Travel_Rarely,3,24,4,8,9,3,7,3,Executive & Senior Leadership,High governance authority and top-tier resources.
+37,Yes,Finance Leadership,Chief of Staff,MBA,5,4,4,4,3,Married,19166,8,No,Travel_Rarely,3,15,3,1,4,1,1,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+30,No,Finance Leadership,Senior Director,Economics,4,1,4,3,3,Divorced,21373,2,Yes,Travel_Rarely,3,18,3,9,10,6,3,3,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+40,Yes,Corporate Strategy,Chief of Staff,Law,5,15,3,1,1,Married,22471,3,No,Travel_Frequently,3,20,1,1,14,1,0,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+28,No,Corporate Strategy,Managing Director,Law,4,7,3,1,3,Divorced,19747,2,No,Travel_Frequently,3,20,2,1,3,0,0,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+44,No,General Management,Managing Director,Economics,3,38,3,1,1,Divorced,18850,3,No,Travel_Frequently,4,15,3,1,4,1,1,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+48,Yes,Corporate Strategy,Senior Director,Law,4,13,2,1,1,Divorced,23777,1,Yes,Travel_Frequently,3,25,4,11,13,8,4,7,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+41,No,Corporate Strategy,Chief of Staff,Law,3,22,1,4,4,Married,20156,5,No,Travel_Rarely,4,11,2,0,5,0,0,0,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+35,No,General Management,VP of Operations,Law,4,8,3,3,2,Married,19810,2,No,Travel_Rarely,3,16,5,4,4,1,1,0,Executive & Senior Leadership,High governance authority and top-tier resources.
+42,No,Finance Leadership,VP of Operations,Law,4,1,3,2,2,Single,21049,3,No,Travel_Rarely,3,21,1,3,8,0,0,2,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+50,Yes,Finance Leadership,Senior Director,Doctorate,4,1,4,4,1,Divorced,32500,0,No,Travel_Frequently,3,14,2,7,32,0,6,1,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+47,Yes,Corporate Strategy,Managing Director,Economics,2,7,3,3,3,Married,22660,2,Yes,Travel_Frequently,4,14,2,3,12,3,1,1,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+47,No,General Management,Chief of Staff,Law,2,32,3,4,4,Divorced,18836,2,Yes,Travel_Frequently,3,14,1,1,4,0,1,0,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+34,Yes,Corporate Strategy,Chief of Staff,Economics,5,27,2,1,3,Single,20353,1,Yes,Travel_Rarely,3,18,3,2,6,0,0,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+34,No,General Management,Senior Director,Economics,3,6,3,4,1,Divorced,18823,2,No,Travel_Rarely,3,20,3,1,4,1,1,0,Executive & Senior Leadership,High governance authority and top-tier resources.
+34,No,General Management,Managing Director,MBA,3,11,2,3,3,Single,18263,2,No,Travel_Frequently,3,18,2,2,3,1,0,1,Executive & Senior Leadership,High governance authority and top-tier resources.
+21,No,General Management,Managing Director,Law,3,9,2,2,4,Single,19755,3,No,Travel_Rarely,3,18,1,0,3,0,0,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+27,No,Finance Leadership,Senior Director,Doctorate,3,3,2,3,3,Single,20730,3,No,Travel_Frequently,3,24,3,0,9,0,0,0,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+41,No,General Management,Managing Director,MBA,4,17,2,3,4,Divorced,18528,1,Yes,Travel_Rarely,3,12,3,1,1,0,1,0,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+40,No,Finance Leadership,VP of Operations,Economics,3,2,3,4,4,Married,20248,4,No,Travel_Rarely,3,15,5,2,5,0,2,2,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+34,No,Finance Leadership,Managing Director,Law,3,1,3,2,3,Married,24249,5,No,Travel_Rarely,3,25,1,2,16,0,2,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+37,Yes,Finance Leadership,Managing Director,Law,3,5,3,1,2,Divorced,23093,3,Yes,Travel_Rarely,3,23,1,0,10,0,0,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+39,No,Corporate Strategy,VP of Operations,Doctorate,4,4,3,2,4,Single,18996,3,No,Travel_Rarely,3,13,5,4,4,1,3,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+42,Yes,Finance Leadership,Chief of Staff,MBA,3,1,4,1,2,Married,26086,2,Yes,Travel_Frequently,3,11,2,6,20,1,0,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+21,No,General Management,Senior Director,Economics,4,1,3,2,2,Married,18825,2,No,Travel_Rarely,4,15,5,1,2,0,1,1,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+42,No,General Management,VP of Operations,Economics,3,1,3,2,2,Divorced,18867,3,No,Travel_Frequently,3,11,1,1,5,0,0,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+43,No,General Management,VP of Operations,Doctorate,4,8,3,2,1,Divorced,22948,1,No,Travel_Rarely,3,22,1,0,14,0,0,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+37,No,Finance Leadership,Managing Director,Law,3,5,4,3,3,Single,21915,2,No,Travel_Rarely,3,24,5,3,11,2,2,3,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+40,Yes,Finance Leadership,Chief of Staff,Doctorate,3,13,4,3,4,Married,18260,2,Yes,Travel_Frequently,3,15,3,1,2,1,1,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+41,No,Finance Leadership,Senior Director,Economics,5,19,1,2,2,Divorced,19883,2,No,Travel_Rarely,3,25,1,5,7,3,2,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+43,Yes,Corporate Strategy,Chief of Staff,Economics,3,4,3,4,1,Divorced,26207,3,Yes,Travel_Rarely,3,20,2,3,16,2,3,1,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+35,No,Finance Leadership,Chief of Staff,Law,4,20,2,2,2,Single,19293,5,No,Travel_Frequently,3,19,1,4,6,0,0,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+49,No,Corporate Strategy,Chief of Staff,Economics,3,7,3,1,2,Divorced,27056,3,Yes,Travel_Rarely,3,18,3,7,23,2,4,2,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+36,No,Corporate Strategy,Managing Director,Law,2,1,3,4,1,Married,19718,3,Yes,Travel_Rarely,3,15,4,2,5,0,1,0,Executive & Senior Leadership,High governance authority and top-tier resources.
+36,Yes,Corporate Strategy,VP of Operations,Law,4,4,4,3,3,Single,21350,3,Yes,Travel_Frequently,3,21,2,4,7,4,2,3,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+41,No,Finance Leadership,Senior Director,Economics,4,3,3,3,3,Divorced,17954,1,No,Travel_Rarely,3,24,3,0,0,0,0,0,Executive & Senior Leadership,High governance authority and top-tier resources.
+33,Yes,Corporate Strategy,VP of Operations,MBA,5,3,3,1,1,Single,21310,4,Yes,Travel_Rarely,3,21,1,1,8,1,1,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+38,No,Corporate Strategy,Senior Director,Law,3,1,4,3,4,Single,19405,1,No,Travel_Frequently,4,14,1,3,4,3,2,0,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+41,No,Corporate Strategy,Managing Director,Economics,3,1,2,2,3,Single,24804,4,No,Travel_Rarely,3,13,3,3,22,0,0,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+42,No,Corporate Strategy,Managing Director,Economics,3,7,3,1,3,Married,19881,0,Yes,Travel_Rarely,3,24,5,3,5,2,2,2,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+40,Yes,Corporate Strategy,Senior Director,MBA,3,17,3,3,1,Divorced,20819,1,No,Travel_Rarely,3,19,5,6,7,6,0,6,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+43,No,Finance Leadership,Chief of Staff,MBA,3,5,3,2,3,Married,21540,5,Yes,Travel_Rarely,3,21,1,5,12,2,0,2,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+45,Yes,Corporate Strategy,Senior Director,Law,2,1,3,3,3,Divorced,21005,0,Yes,Travel_Frequently,3,14,1,1,7,0,1,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+26,No,Finance Leadership,VP of Operations,Economics,3,11,3,3,4,Divorced,20208,0,No,Travel_Frequently,4,13,2,4,5,2,2,0,Executive & Senior Leadership,High governance authority and top-tier resources.
+55,Yes,Finance Leadership,Chief of Staff,MBA,3,1,3,3,1,Divorced,23340,2,Yes,Travel_Rarely,3,25,3,1,14,1,0,1,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+38,No,Corporate Strategy,Managing Director,Doctorate,3,39,2,4,4,Single,25515,3,Yes,Travel_Frequently,3,13,3,10,20,3,1,3,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+41,No,Finance Leadership,Chief of Staff,MBA,4,2,3,1,3,Single,19253,3,Yes,Travel_Frequently,3,11,5,0,3,0,0,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+34,Yes,General Management,Chief of Staff,Economics,5,1,3,2,3,Single,19699,6,No,Travel_Rarely,4,14,2,6,6,0,0,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+30,Yes,Corporate Strategy,VP of Operations,Doctorate,2,17,4,2,3,Divorced,18164,3,Yes,Travel_Rarely,3,18,1,0,3,0,0,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+21,Yes,General Management,Chief of Staff,MBA,3,3,3,2,2,Married,17177,5,Yes,Travel_Rarely,4,21,5,0,0,0,0,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+30,No,General Management,VP of Operations,MBA,5,5,4,3,2,Single,21650,7,No,Travel_Frequently,3,12,5,0,12,0,0,0,Executive & Senior Leadership,High governance authority and top-tier resources.
+39,No,Corporate Strategy,Managing Director,Doctorate,4,8,1,3,2,Single,22566,0,Yes,Travel_Frequently,3,15,5,0,11,0,0,0,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+48,No,Finance Leadership,Managing Director,MBA,4,29,3,3,4,Single,23155,1,Yes,Travel_Rarely,3,24,3,6,11,6,6,1,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+31,No,Finance Leadership,Senior Director,MBA,3,3,4,4,1,Divorced,19180,2,No,Travel_Frequently,3,13,4,1,3,0,1,0,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+41,Yes,Finance Leadership,VP of Operations,Economics,5,3,4,3,3,Single,21160,4,Yes,Travel_Rarely,3,24,4,0,11,0,0,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+42,No,Corporate Strategy,Senior Director,MBA,4,10,4,1,3,Married,22652,1,No,Travel_Frequently,3,21,5,8,10,5,2,5,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+34,No,Corporate Strategy,Chief of Staff,Economics,3,34,3,2,4,Single,18845,1,No,Travel_Rarely,3,19,5,2,2,0,2,1,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+31,Yes,Corporate Strategy,Chief of Staff,MBA,3,2,3,2,4,Married,19850,5,Yes,Travel_Frequently,3,14,1,0,6,0,0,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+30,No,Corporate Strategy,Senior Director,MBA,2,2,2,4,4,Divorced,19978,2,Yes,Travel_Rarely,3,25,2,4,4,3,2,3,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+33,No,General Management,Chief of Staff,Law,3,5,4,2,3,Divorced,18370,3,No,Travel_Rarely,3,23,2,0,1,0,0,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+45,Yes,Finance Leadership,VP of Operations,Law,3,6,2,1,3,Single,20519,4,No,Travel_Rarely,3,15,1,6,8,1,0,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+33,No,Finance Leadership,VP of Operations,Economics,3,2,3,2,2,Married,20782,1,No,Travel_Rarely,3,23,5,1,5,0,1,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+30,Yes,Corporate Strategy,Chief of Staff,Doctorate,2,19,3,3,2,Married,22017,4,Yes,Travel_Rarely,3,21,2,0,11,0,0,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+27,No,General Management,Managing Director,MBA,4,6,3,2,3,Married,19256,2,No,Travel_Frequently,3,22,2,1,2,0,1,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+43,No,Finance Leadership,Senior Director,MBA,2,4,3,3,4,Married,18744,1,No,Travel_Rarely,3,13,1,1,3,1,1,0,Executive & Senior Leadership,High governance authority and top-tier resources.
+37,Yes,Corporate Strategy,Managing Director,Law,3,1,1,3,3,Divorced,20216,1,No,Travel_Frequently,3,19,5,0,4,0,0,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+31,No,General Management,Managing Director,Law,3,1,2,1,3,Single,22572,3,No,Travel_Rarely,4,25,5,11,13,4,0,5,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+40,No,General Management,Senior Director,Law,2,29,3,1,3,Single,17536,4,Yes,Travel_Frequently,3,21,4,0,0,0,0,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+27,No,General Management,Chief of Staff,MBA,3,2,3,4,2,Single,20435,2,No,Travel_Frequently,3,19,5,4,5,2,0,2,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+34,Yes,Corporate Strategy,VP of Operations,Doctorate,2,8,4,2,1,Single,24616,4,Yes,Travel_Rarely,3,21,1,7,13,6,4,2,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+33,No,Finance Leadership,Senior Director,MBA,4,3,3,3,3,Divorced,20465,2,Yes,Travel_Frequently,3,12,5,1,5,1,0,1,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+46,Yes,Finance Leadership,Senior Director,MBA,3,1,2,2,3,Single,27036,1,Yes,Travel_Rarely,4,12,4,7,18,4,0,1,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+47,Yes,Corporate Strategy,Chief of Staff,Doctorate,3,6,1,2,4,Single,19935,2,No,Travel_Rarely,3,20,3,7,7,4,1,1,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+50,No,General Management,Senior Director,MBA,2,28,3,4,3,Divorced,26196,4,No,Travel_Rarely,3,11,5,11,19,8,1,7,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+34,No,Corporate Strategy,Managing Director,Doctorate,2,2,2,1,1,Single,20080,1,No,Travel_Frequently,3,18,2,4,4,2,1,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+36,Yes,General Management,Chief of Staff,Doctorate,3,20,1,2,1,Married,24054,2,No,Travel_Frequently,3,12,1,12,14,8,1,4,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+45,No,Finance Leadership,Senior Director,Doctorate,3,5,3,3,4,Divorced,19561,1,No,Travel_Rarely,3,12,2,2,3,0,0,0,Executive & Senior Leadership,High governance authority and top-tier resources.
+43,Yes,General Management,Senior Director,Doctorate,2,1,4,2,3,Single,18636,0,No,Travel_Rarely,3,16,5,1,4,1,0,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+28,No,Corporate Strategy,Managing Director,MBA,1,5,2,4,3,Married,18204,3,No,Travel_Frequently,3,19,1,1,1,1,1,0,Executive & Senior Leadership,High governance authority and top-tier resources.
+28,Yes,Finance Leadership,VP of Operations,MBA,4,4,4,3,2,Single,21656,4,No,Travel_Frequently,3,20,5,0,9,0,0,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+27,No,Corporate Strategy,Senior Director,Economics,3,6,2,1,4,Divorced,22136,1,No,Travel_Rarely,3,11,4,5,9,2,2,2,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+34,No,Finance Leadership,Chief of Staff,Economics,4,6,3,4,3,Married,22653,2,No,Travel_Rarely,3,16,3,6,10,3,1,1,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+35,No,General Management,Managing Director,Economics,3,3,2,4,3,Single,19787,2,No,Travel_Frequently,4,18,4,3,3,1,2,0,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+42,Yes,General Management,Chief of Staff,Economics,5,7,3,3,1,Single,19588,4,No,Travel_Frequently,3,21,3,2,6,1,2,2,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+50,No,Finance Leadership,Managing Director,MBA,4,5,3,3,4,Single,20464,2,No,Travel_Rarely,4,13,1,0,8,0,0,0,Executive & Senior Leadership,High governance authority and top-tier resources.
+47,No,Finance Leadership,Managing Director,Law,4,1,4,2,1,Single,19682,1,No,Travel_Frequently,3,15,2,2,5,2,0,2,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+39,No,General Management,VP of Operations,Doctorate,3,23,3,3,3,Married,23337,3,Yes,Travel_Rarely,3,13,3,2,12,0,2,0,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+28,No,Finance Leadership,Managing Director,MBA,4,1,4,2,1,Married,19266,3,Yes,Travel_Rarely,3,22,3,1,3,0,1,1,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+39,Yes,General Management,Chief of Staff,Doctorate,2,2,4,2,1,Married,20213,1,No,Travel_Frequently,3,24,1,2,5,2,2,1,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+48,No,Finance Leadership,VP of Operations,Law,5,14,3,3,2,Divorced,19332,4,No,Travel_Rarely,3,11,1,6,6,1,5,0,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+26,Yes,Corporate Strategy,VP of Operations,MBA,3,25,4,4,2,Married,20634,3,Yes,Travel_Frequently,3,24,1,4,5,4,4,2,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+41,Yes,Finance Leadership,Senior Director,Economics,3,10,2,3,3,Divorced,18179,0,Yes,Travel_Rarely,3,16,5,0,2,0,0,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+47,No,Finance Leadership,Senior Director,MBA,3,1,4,4,3,Divorced,19639,3,No,Travel_Frequently,4,11,3,3,6,1,0,2,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+21,No,Finance Leadership,Senior Director,Doctorate,4,38,3,3,2,Divorced,18265,1,Yes,Travel_Rarely,3,15,3,1,3,1,1,0,Executive & Senior Leadership,High governance authority and top-tier resources.
+36,No,Corporate Strategy,Chief of Staff,Doctorate,3,1,3,3,4,Married,21897,4,No,Travel_Rarely,3,21,3,6,10,2,0,3,Executive & Senior Leadership,High governance authority and top-tier resources.
+35,No,Finance Leadership,Chief of Staff,Law,5,1,4,2,2,Divorced,21079,5,No,Travel_Frequently,3,20,4,1,8,0,1,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+44,No,Finance Leadership,Senior Director,MBA,4,8,4,3,1,Single,22152,0,Yes,Travel_Frequently,4,16,2,2,10,2,1,2,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+30,No,Corporate Strategy,Senior Director,Law,3,4,3,4,3,Divorced,23954,4,Yes,Travel_Frequently,3,23,1,6,12,3,5,0,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+34,Yes,Corporate Strategy,Managing Director,MBA,4,15,3,2,3,Single,21958,2,Yes,Travel_Frequently,4,11,4,0,8,0,0,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+33,Yes,Corporate Strategy,Senior Director,MBA,2,13,4,2,3,Married,19774,7,Yes,Travel_Rarely,3,14,5,6,7,0,0,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+39,No,Finance Leadership,Managing Director,Law,3,4,1,3,3,Married,22963,4,Yes,Travel_Rarely,3,13,4,1,11,1,0,0,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+38,No,General Management,VP of Operations,Doctorate,3,2,2,1,3,Married,20291,6,Yes,Travel_Rarely,3,15,5,1,4,0,1,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+53,No,Corporate Strategy,VP of Operations,Law,3,6,2,3,2,Divorced,20501,1,Yes,Travel_Rarely,3,22,3,4,5,2,0,1,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+38,No,Corporate Strategy,Managing Director,Doctorate,4,3,3,4,4,Divorced,18468,1,No,Travel_Frequently,3,18,1,0,3,0,0,0,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+38,No,Finance Leadership,Managing Director,Law,2,14,2,3,2,Married,18164,3,Yes,Travel_Rarely,3,22,1,1,2,0,1,0,Executive & Senior Leadership,High governance authority and top-tier resources.
+27,No,Corporate Strategy,Managing Director,MBA,2,2,2,2,2,Divorced,19198,3,No,Travel_Rarely,4,24,4,1,3,0,1,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+41,No,Finance Leadership,Managing Director,MBA,3,8,4,2,2,Married,19594,5,No,Travel_Rarely,3,14,2,3,5,3,1,3,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+45,Yes,General Management,Managing Director,MBA,4,16,3,3,2,Single,24950,1,Yes,Travel_Frequently,3,15,5,9,14,7,1,5,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+46,No,Finance Leadership,Chief of Staff,MBA,5,31,2,3,2,Divorced,19769,3,No,Travel_Frequently,3,19,5,0,3,0,0,0,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+34,Yes,Corporate Strategy,Managing Director,Economics,4,10,3,2,3,Single,19172,6,Yes,Travel_Frequently,3,17,4,0,4,0,0,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+37,Yes,Finance Leadership,VP of Operations,Law,3,7,4,1,3,Married,25696,2,No,Travel_Frequently,3,25,2,11,17,7,5,5,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+32,No,General Management,VP of Operations,MBA,4,12,4,3,3,Divorced,18700,3,Yes,Travel_Rarely,4,20,1,2,3,0,1,0,Executive & Senior Leadership,High governance authority and top-tier resources.
+38,No,Finance Leadership,Chief of Staff,Economics,3,3,4,4,3,Single,24436,5,No,Travel_Frequently,3,12,5,9,16,4,2,2,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+46,Yes,Corporate Strategy,Senior Director,Doctorate,4,1,4,1,1,Married,21786,1,No,Travel_Rarely,4,20,1,4,12,1,2,1,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+21,No,Finance Leadership,Senior Director,Law,4,7,3,3,4,Married,18318,2,No,Travel_Rarely,3,21,2,0,2,0,0,0,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+31,Yes,Corporate Strategy,Chief of Staff,MBA,3,1,1,2,4,Married,20754,4,No,Travel_Rarely,3,11,1,3,10,3,3,3,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+33,No,Corporate Strategy,Chief of Staff,Doctorate,3,8,3,1,3,Married,18056,1,No,Travel_Rarely,3,16,1,1,2,0,1,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+27,Yes,Finance Leadership,Senior Director,Law,3,2,4,3,4,Married,19583,4,No,Travel_Frequently,4,17,4,7,7,1,0,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+32,Yes,Finance Leadership,VP of Operations,Economics,3,8,4,4,2,Divorced,19024,5,No,Travel_Rarely,3,14,3,2,4,1,2,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+31,Yes,General Management,Chief of Staff,Law,4,10,3,4,4,Single,20400,0,Yes,Travel_Frequently,3,19,1,2,6,1,0,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+43,Yes,Finance Leadership,Senior Director,MBA,4,2,3,2,3,Married,26517,6,No,Travel_Rarely,3,11,4,7,19,4,4,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+21,Yes,Finance Leadership,VP of Operations,Economics,4,11,3,1,2,Single,19669,2,No,Travel_Rarely,3,15,2,0,3,0,0,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+36,No,Finance Leadership,Senior Director,Law,4,2,2,2,3,Married,27121,3,Yes,Travel_Frequently,3,16,2,12,18,6,4,6,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+32,No,Corporate Strategy,VP of Operations,Doctorate,3,2,3,3,2,Married,20988,1,Yes,Travel_Frequently,3,14,2,7,9,3,0,2,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+29,No,General Management,Senior Director,Law,4,2,2,4,3,Married,22671,1,No,Travel_Frequently,3,17,4,8,11,5,1,3,Executive & Senior Leadership,High governance authority and top-tier resources.
+31,No,Finance Leadership,Chief of Staff,Economics,5,5,1,3,4,Divorced,19408,3,Yes,Travel_Rarely,3,25,2,0,3,0,0,0,Executive & Senior Leadership,Direct stewardship of enterprise vision and P&L.
+43,No,Corporate Strategy,VP of Operations,Economics,3,4,3,4,3,Divorced,19989,3,No,Travel_Rarely,3,23,1,1,4,1,0,1,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+39,Yes,Corporate Strategy,Managing Director,Law,4,2,2,1,1,Divorced,24267,4,Yes,Travel_Frequently,3,12,1,6,17,5,0,3,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+31,Yes,Finance Leadership,Senior Director,MBA,4,6,3,4,1,Divorced,19569,1,Yes,Travel_Frequently,3,12,5,2,4,2,2,2,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+27,No,Finance Leadership,Senior Director,Law,1,3,4,3,4,Single,22548,1,No,Travel_Rarely,3,19,3,0,9,0,0,0,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+27,No,General Management,Chief of Staff,Law,3,5,3,4,2,Single,19477,2,Yes,Travel_Frequently,3,22,3,5,6,3,2,1,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+30,No,Finance Leadership,Senior Director,Economics,4,26,2,4,2,Married,17712,2,No,Travel_Rarely,3,12,4,0,0,0,0,0,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+34,No,General Management,Chief of Staff,Economics,4,1,3,1,3,Divorced,17906,1,Yes,Travel_Rarely,4,21,3,1,1,0,0,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+42,Yes,Corporate Strategy,Chief of Staff,Law,4,4,4,4,2,Married,20228,3,No,Travel_Rarely,3,11,2,0,5,0,0,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+21,No,General Management,Managing Director,Law,1,3,2,3,4,Single,18118,3,No,Travel_Rarely,3,14,1,1,3,0,1,1,Executive & Senior Leadership,High governance authority and top-tier resources.
+47,Yes,Finance Leadership,Senior Director,Economics,3,4,1,3,1,Divorced,17876,2,No,Travel_Frequently,3,20,1,1,1,1,0,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+51,Yes,General Management,Chief of Staff,MBA,3,1,3,2,4,Divorced,20028,1,Yes,Travel_Rarely,3,18,5,7,7,2,0,3,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+40,No,Finance Leadership,Chief of Staff,Law,3,5,2,2,3,Single,18680,2,No,Travel_Frequently,3,15,4,2,4,2,2,2,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+29,No,General Management,VP of Operations,Economics,3,1,4,3,1,Married,19222,1,Yes,Travel_Frequently,3,11,2,2,5,0,0,0,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+42,Yes,Corporate Strategy,Chief of Staff,MBA,1,2,3,3,2,Single,23228,1,Yes,Travel_Rarely,3,23,4,4,10,2,1,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+45,No,General Management,VP of Operations,MBA,4,5,3,3,3,Married,21562,4,Yes,Travel_Frequently,4,13,5,8,11,3,2,5,Executive & Senior Leadership,High governance authority and top-tier resources.
+44,No,Finance Leadership,Senior Director,Doctorate,2,3,2,1,3,Married,26822,4,No,Travel_Frequently,3,14,4,2,22,0,1,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+39,Yes,Finance Leadership,Senior Director,Law,4,22,1,3,1,Single,21451,1,Yes,Travel_Frequently,3,25,1,7,7,4,1,2,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+40,No,Corporate Strategy,Senior Director,Economics,3,6,1,2,3,Married,21745,2,No,Travel_Frequently,3,21,2,1,8,0,1,1,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+50,Yes,General Management,VP of Operations,MBA,2,12,4,3,3,Single,21037,4,Yes,Travel_Frequently,3,21,3,6,8,0,4,1,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+30,No,Corporate Strategy,Chief of Staff,MBA,5,11,3,2,2,Married,18940,0,No,Travel_Rarely,3,18,2,1,4,1,1,1,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+32,Yes,Finance Leadership,Senior Director,Doctorate,3,8,4,3,4,Single,19910,3,No,Travel_Frequently,4,14,3,2,8,2,2,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+37,No,Corporate Strategy,Chief of Staff,Law,3,1,4,3,2,Married,22252,4,No,Travel_Rarely,3,22,1,6,11,1,2,0,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+29,No,Corporate Strategy,Chief of Staff,Doctorate,3,7,2,4,3,Single,18482,1,Yes,Travel_Rarely,3,18,5,1,2,1,0,0,Executive & Senior Leadership,High governance authority and top-tier resources.
+28,No,General Management,Chief of Staff,Law,4,4,3,3,1,Single,20510,4,Yes,Travel_Rarely,3,20,3,0,6,0,0,0,Executive & Senior Leadership,High governance authority and top-tier resources.
+32,Yes,Finance Leadership,VP of Operations,Doctorate,3,24,4,4,2,Single,17562,1,No,Travel_Frequently,4,11,1,0,0,0,0,0,Executive & Senior Leadership,Board friction and misaligned activist investor targets.
+34,No,Finance Leadership,VP of Operations,Doctorate,3,17,2,1,2,Married,18724,1,Yes,Travel_Frequently,3,18,5,3,3,0,1,1,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+33,Yes,General Management,VP of Operations,Doctorate,3,8,3,2,3,Married,21065,3,Yes,Travel_Frequently,3,11,2,8,8,2,3,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+34,No,Finance Leadership,VP of Operations,Law,3,1,2,3,3,Single,19842,4,No,Travel_Frequently,4,17,1,3,4,0,3,3,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+25,No,Corporate Strategy,VP of Operations,Law,2,7,3,4,3,Single,21698,3,Yes,Travel_Rarely,3,24,3,3,7,2,3,2,Executive & Senior Leadership,High governance authority and top-tier resources.
+43,No,Finance Leadership,Chief of Staff,Law,3,1,3,4,3,Divorced,19937,1,No,Travel_Rarely,3,18,3,4,4,3,0,4,Executive & Senior Leadership,High governance authority and top-tier resources.
+31,Yes,General Management,Senior Director,Doctorate,4,1,3,4,2,Married,20624,6,No,Travel_Rarely,4,17,3,1,6,0,1,0,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+41,Yes,General Management,Managing Director,Law,3,1,3,3,2,Divorced,20583,5,Yes,Travel_Frequently,3,16,4,4,10,0,2,4,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.
+40,No,Finance Leadership,Managing Director,Law,3,26,4,4,2,Single,20780,2,No,Travel_Rarely,4,13,4,2,10,0,2,1,Executive & Senior Leadership,High governance authority and top-tier resources.
+40,No,General Management,Chief of Staff,Economics,1,17,3,2,2,Single,19668,0,No,Travel_Rarely,3,12,3,0,4,0,0,0,Executive & Senior Leadership,Extreme isolation at the top of the organization.
+49,No,Finance Leadership,Managing Director,MBA,3,19,1,3,3,Single,17811,1,No,Travel_Frequently,3,18,1,2,2,2,1,2,Executive & Senior Leadership,Executive equity vesting and comprehensive bonuses.
+30,Yes,General Management,VP of Operations,Economics,4,5,3,3,4,Married,23590,6,No,Travel_Frequently,3,19,1,10,12,8,3,6,Executive & Senior Leadership,Total accountability for macroeconomic headwinds.

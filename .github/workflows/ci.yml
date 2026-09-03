@@ -1,0 +1,60 @@
+name: Enterprise Attrition CI/CD
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  test:
+    name: Unit & Integration Tests
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.10", "3.11"]
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install pytest pytest-cov flake8
+
+      - name: Lint with Flake8
+        run: |
+          # stop the build if there are Python syntax errors or undefined names
+          flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics --exclude=.git,__pycache__,scratch,data
+          # exit-zero treats all errors as warnings
+          flake8 . --count --exit-zero --max-complexity=15 --max-line-length=127 --statistics --exclude=.git,__pycache__,scratch,data
+
+      - name: Run Pytest Suite
+        run: |
+          pytest -v --tb=short tests/
+
+  docker:
+    name: Docker Build Test
+    runs-on: ubuntu-latest
+    needs: test
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: Build Docker Image
+        uses: docker/build-push-action@v5
+        with:
+          context: .
+          push: false
+          tags: employee-attrition-service:test

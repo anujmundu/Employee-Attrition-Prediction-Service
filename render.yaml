@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: employee-attrition-service
+    runtime: python
+    buildCommand: pip install -r requirements.txt && python src/train_all_models.py
+    startCommand: uvicorn src.api.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: ENVIRONMENT
+        value: production
+    plan: free

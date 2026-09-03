@@ -7,13 +7,23 @@ __pycache__/
 dist/
 build/
 
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Scratch & Temporary Testing Scripts
+scratch/
+
 # Virtual environment
 venv/
+.venv/
 .env
 
 # ML artifacts
 models/*.joblib
 models/*.pt
+models/*.npy
 
 # Logs and databases
 *.db
@@ -27,3 +37,4 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+

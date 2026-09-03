@@ -1,0 +1,401 @@
+Age,Attrition,Department,JobRole,EducationField,Education,DistanceFromHome,EnvironmentSatisfaction,JobSatisfaction,WorkLifeBalance,MaritalStatus,MonthlyIncome,NumCompaniesWorked,OverTime,BusinessTravel,PerformanceRating,PercentSalaryHike,TrainingTimesLastYear,YearsAtCompany,TotalWorkingYears,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager,Industry,EmployeeFeedback
+34,Yes,Commercial Accounts,Solutions Specialist,Communications,3,7,2,3,2,Divorced,9042,1,No,Travel_Rarely,3,15,2,0,3,0,0,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+21,Yes,Enterprise Sales,BDR Lead,Communications,2,2,3,3,4,Married,9445,2,Yes,Travel_Frequently,3,23,4,1,3,1,1,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+41,No,Enterprise Sales,Account Executive,Communications,4,6,3,2,4,Single,8648,3,No,Travel_Frequently,3,20,3,0,4,0,0,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+37,Yes,Enterprise Sales,BDR Lead,Communications,3,15,2,2,3,Single,7660,2,Yes,Travel_Frequently,4,15,4,1,1,1,1,1,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+49,Yes,Commercial Accounts,BDR Lead,Business,4,1,4,2,3,Single,8481,2,No,Travel_Frequently,3,18,4,2,2,0,0,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+33,No,Commercial Accounts,Solutions Specialist,Communications,2,4,2,3,3,Divorced,11032,2,No,Travel_Frequently,3,13,2,3,8,1,3,2,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+40,No,Commercial Accounts,BDR Lead,Business,4,5,3,3,3,Divorced,9811,3,No,Travel_Rarely,3,19,5,6,6,2,2,1,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+33,No,Enterprise Sales,BDR Lead,Marketing,3,2,4,2,2,Divorced,11527,2,No,Travel_Frequently,3,25,1,3,9,2,1,3,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+32,No,Business Development,Sales Director,Communications,3,4,3,4,4,Married,8600,3,Yes,Travel_Frequently,3,23,3,0,1,0,0,0,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+48,No,Business Development,Solutions Specialist,Marketing,3,22,4,4,1,Married,8751,2,No,Travel_Frequently,4,13,5,0,4,0,0,0,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+37,No,Enterprise Sales,Sales Director,Marketing,4,13,3,3,2,Single,8954,4,Yes,Travel_Rarely,3,13,1,0,3,0,0,0,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+37,No,Enterprise Sales,Solutions Specialist,Marketing,4,9,3,3,3,Divorced,8009,3,No,Travel_Frequently,4,15,5,1,1,0,1,0,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+37,Yes,Business Development,BDR Lead,Marketing,5,7,4,4,2,Single,10165,1,No,Travel_Frequently,3,24,2,7,8,0,0,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+31,No,Business Development,Sales Director,Business,5,3,3,4,2,Married,11780,3,Yes,Travel_Rarely,3,11,2,0,12,0,0,0,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+43,No,Business Development,Solutions Specialist,Marketing,3,3,3,3,2,Married,8680,0,Yes,Travel_Frequently,3,16,1,1,1,0,1,0,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+38,No,Commercial Accounts,Solutions Specialist,Communications,3,8,3,1,2,Single,11707,3,No,Travel_Frequently,3,17,5,1,11,0,1,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+28,Yes,Commercial Accounts,Account Executive,Marketing,3,7,3,3,3,Married,7434,3,Yes,Travel_Frequently,3,12,5,0,0,0,0,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+33,Yes,Commercial Accounts,Solutions Specialist,Communications,3,1,1,4,2,Single,9002,1,No,Travel_Frequently,3,25,5,2,2,2,2,2,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+41,Yes,Business Development,Sales Director,Marketing,4,3,2,3,4,Single,8474,1,No,Travel_Frequently,3,12,1,0,1,0,0,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+44,No,Commercial Accounts,Account Executive,Communications,4,1,4,3,2,Single,9639,4,Yes,Travel_Frequently,3,12,5,0,8,0,0,0,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+33,No,Business Development,Solutions Specialist,Communications,3,1,4,3,2,Married,9108,1,No,Travel_Rarely,3,24,3,2,3,2,1,2,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+27,No,Business Development,BDR Lead,Marketing,2,2,3,2,1,Divorced,8661,3,No,Travel_Frequently,3,21,5,0,1,0,0,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+32,No,Enterprise Sales,Account Executive,Business,4,3,3,3,1,Single,10422,0,No,Travel_Rarely,3,12,3,4,7,3,4,1,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+35,Yes,Commercial Accounts,Account Executive,Business,3,1,2,3,1,Married,11022,2,No,Travel_Frequently,3,19,5,4,12,2,0,2,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+37,No,Business Development,Account Executive,Marketing,2,6,4,3,3,Divorced,12454,3,No,Travel_Frequently,3,22,1,7,12,2,5,0,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+43,No,Business Development,BDR Lead,Communications,2,5,2,4,4,Single,9476,2,Yes,Travel_Frequently,3,22,1,0,5,0,0,0,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+23,Yes,Business Development,Sales Director,Marketing,5,2,1,3,1,Single,8735,2,No,Travel_Frequently,3,25,5,0,1,0,0,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+26,No,Business Development,Solutions Specialist,Marketing,3,3,3,4,4,Single,10058,5,Yes,Travel_Frequently,3,17,2,2,6,0,2,0,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+37,Yes,Enterprise Sales,Sales Director,Marketing,3,1,1,3,3,Married,14599,1,No,Travel_Rarely,3,13,3,1,19,0,1,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+51,Yes,Business Development,Account Executive,Marketing,4,19,1,3,4,Married,8652,4,Yes,Travel_Frequently,3,19,4,3,4,1,0,3,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+47,No,Business Development,Account Executive,Business,4,7,2,4,2,Divorced,8107,1,Yes,Travel_Frequently,3,22,4,0,0,0,0,0,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+46,Yes,Enterprise Sales,Sales Director,Communications,3,9,2,3,3,Single,9036,2,Yes,Travel_Frequently,3,22,1,0,5,0,0,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+40,Yes,Business Development,Account Executive,Communications,2,23,2,3,1,Married,8031,3,No,Travel_Frequently,3,17,3,0,0,0,0,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+37,Yes,Enterprise Sales,Sales Director,Business,4,1,2,4,1,Single,8500,3,Yes,Travel_Frequently,3,21,1,0,4,0,0,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+28,Yes,Business Development,Sales Director,Business,4,3,1,4,3,Divorced,11016,1,No,Travel_Frequently,3,11,3,6,7,5,0,2,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+24,No,Commercial Accounts,Sales Director,Marketing,4,3,2,3,2,Divorced,10271,2,No,Travel_Frequently,4,25,3,1,5,1,0,1,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+42,No,Enterprise Sales,Account Executive,Marketing,4,2,3,3,4,Single,10650,2,No,Travel_Rarely,3,20,4,5,8,2,5,2,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+55,Yes,Enterprise Sales,Solutions Specialist,Marketing,3,5,1,4,2,Married,11310,4,Yes,Travel_Frequently,3,16,3,2,8,2,1,2,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+48,Yes,Commercial Accounts,Solutions Specialist,Business,3,7,2,2,3,Single,9440,2,No,Travel_Frequently,3,14,2,4,6,0,0,1,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+40,Yes,Enterprise Sales,Account Executive,Marketing,5,1,1,1,3,Single,8672,1,No,Travel_Rarely,3,25,3,2,3,2,0,2,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+38,No,Business Development,Solutions Specialist,Business,4,9,2,2,2,Single,8834,1,No,Travel_Frequently,3,14,5,4,5,3,1,2,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+31,Yes,Commercial Accounts,Solutions Specialist,Communications,3,23,4,2,2,Married,8362,3,Yes,Travel_Frequently,3,24,4,1,3,1,1,1,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+39,No,Enterprise Sales,BDR Lead,Business,3,1,3,1,4,Single,12234,2,No,Travel_Rarely,4,25,2,0,12,0,0,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+43,No,Business Development,BDR Lead,Marketing,2,30,4,2,2,Single,11393,2,Yes,Travel_Frequently,3,22,4,2,10,0,2,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+39,No,Commercial Accounts,Solutions Specialist,Business,3,1,3,1,3,Married,8057,0,No,Travel_Rarely,4,21,2,0,1,0,0,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+41,Yes,Commercial Accounts,BDR Lead,Business,4,40,2,4,2,Single,10402,1,Yes,Travel_Frequently,3,23,4,1,6,1,1,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+34,No,Commercial Accounts,Solutions Specialist,Marketing,4,2,2,3,2,Single,8850,3,No,Travel_Frequently,3,15,4,2,2,2,0,2,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+28,Yes,Enterprise Sales,Account Executive,Marketing,1,9,3,4,2,Divorced,8256,3,No,Travel_Frequently,3,12,4,1,1,0,1,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+45,No,Commercial Accounts,Account Executive,Business,3,8,4,3,2,Married,12575,6,No,Travel_Frequently,3,20,5,14,14,7,1,4,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+43,Yes,Business Development,BDR Lead,Business,3,14,4,2,4,Single,14877,4,No,Travel_Frequently,4,19,4,3,18,0,2,1,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+41,Yes,Business Development,Account Executive,Business,4,7,3,2,4,Single,10958,2,No,Travel_Frequently,3,14,5,5,10,4,0,3,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+27,No,Commercial Accounts,Sales Director,Business,2,14,3,3,3,Single,8878,5,No,Travel_Frequently,3,22,5,1,4,0,1,1,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+29,Yes,Commercial Accounts,BDR Lead,Marketing,4,2,3,3,3,Single,10806,4,Yes,Travel_Rarely,3,13,4,0,11,0,0,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+40,Yes,Enterprise Sales,BDR Lead,Communications,4,6,2,3,1,Married,9401,3,No,Travel_Rarely,3,14,5,0,5,0,0,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+48,No,Enterprise Sales,Account Executive,Communications,4,4,1,3,2,Married,11509,2,Yes,Travel_Frequently,3,14,1,0,10,0,0,0,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+25,No,Business Development,Solutions Specialist,Marketing,4,1,3,4,4,Married,10481,1,No,Travel_Rarely,3,18,4,2,6,1,2,0,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+35,No,Enterprise Sales,BDR Lead,Communications,4,10,3,2,2,Divorced,7802,2,Yes,Travel_Frequently,4,13,2,0,1,0,0,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+39,Yes,Enterprise Sales,Account Executive,Business,3,2,3,2,3,Married,9831,2,No,Travel_Rarely,3,18,3,4,7,0,4,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+39,Yes,Enterprise Sales,Account Executive,Marketing,2,1,3,3,3,Married,10113,0,No,Travel_Frequently,3,21,4,4,6,2,4,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+51,No,Enterprise Sales,Account Executive,Communications,4,6,2,3,3,Divorced,8849,2,Yes,Travel_Rarely,3,16,2,2,2,2,2,2,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+43,Yes,Business Development,BDR Lead,Communications,3,14,2,2,1,Married,12578,2,Yes,Travel_Frequently,3,20,4,4,11,1,0,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+39,No,Enterprise Sales,BDR Lead,Communications,3,1,3,3,3,Divorced,15857,3,Yes,Travel_Frequently,3,23,4,3,21,2,0,1,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+31,No,Business Development,Solutions Specialist,Communications,4,1,4,3,2,Divorced,10425,2,Yes,Travel_Frequently,3,22,4,5,8,2,0,2,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+44,Yes,Commercial Accounts,Solutions Specialist,Communications,5,1,3,4,3,Single,10902,2,Yes,Travel_Rarely,3,18,2,10,10,8,0,5,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+34,No,Commercial Accounts,BDR Lead,Marketing,4,1,3,4,3,Married,8222,2,No,Travel_Rarely,3,18,5,2,2,2,1,1,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+32,No,Commercial Accounts,Sales Director,Marketing,5,27,2,3,3,Divorced,11193,1,No,Travel_Rarely,3,16,1,4,13,0,2,0,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+29,Yes,Enterprise Sales,BDR Lead,Marketing,5,10,4,1,4,Divorced,8182,1,Yes,Travel_Rarely,3,14,3,0,2,0,0,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+37,No,Business Development,Sales Director,Marketing,2,24,4,3,3,Married,8404,2,Yes,Travel_Frequently,4,19,3,1,3,1,0,0,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+31,No,Business Development,BDR Lead,Marketing,4,3,3,4,4,Single,12625,2,Yes,Travel_Frequently,3,18,2,1,13,0,0,1,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+26,No,Business Development,Solutions Specialist,Marketing,3,17,4,3,4,Single,11361,2,No,Travel_Frequently,3,13,3,3,8,0,2,1,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+29,No,Business Development,BDR Lead,Communications,4,12,3,3,2,Single,12424,2,No,Travel_Frequently,4,19,5,6,11,2,5,1,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+30,No,Business Development,Sales Director,Marketing,3,3,3,4,4,Married,8245,1,No,Travel_Frequently,3,11,5,0,0,0,0,0,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+43,Yes,Enterprise Sales,Solutions Specialist,Communications,4,5,4,4,1,Married,10899,0,No,Travel_Rarely,3,22,1,5,9,1,0,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+24,No,Commercial Accounts,Account Executive,Business,4,6,2,1,3,Married,9166,2,No,Travel_Rarely,3,18,3,4,6,0,0,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+46,No,Commercial Accounts,Account Executive,Business,3,1,2,4,3,Single,9768,3,No,Travel_Rarely,3,23,1,4,5,0,1,0,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+33,No,Commercial Accounts,BDR Lead,Marketing,4,4,4,3,1,Divorced,9549,3,No,Travel_Rarely,4,22,4,4,7,3,1,0,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+26,No,Business Development,Solutions Specialist,Communications,4,3,3,2,3,Married,9286,1,Yes,Travel_Frequently,3,15,3,0,5,0,0,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+41,Yes,Enterprise Sales,Solutions Specialist,Marketing,3,4,2,2,1,Married,12361,1,Yes,Travel_Rarely,3,20,2,7,11,1,5,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+35,No,Commercial Accounts,BDR Lead,Communications,3,1,3,3,4,Married,11466,2,No,Travel_Frequently,3,23,4,12,12,6,2,2,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+30,Yes,Business Development,Solutions Specialist,Marketing,3,17,1,2,2,Divorced,8652,1,Yes,Travel_Rarely,3,22,2,0,2,0,0,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+35,Yes,Commercial Accounts,Solutions Specialist,Business,3,2,2,4,3,Divorced,9341,1,Yes,Travel_Frequently,3,16,2,0,4,0,0,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+37,Yes,Business Development,BDR Lead,Marketing,4,10,3,1,4,Married,9268,1,Yes,Travel_Frequently,3,23,5,4,4,3,2,1,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+42,Yes,Enterprise Sales,BDR Lead,Communications,3,45,3,1,2,Divorced,12903,1,Yes,Travel_Frequently,3,16,2,4,15,2,0,2,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+33,Yes,Business Development,Sales Director,Business,2,3,1,3,4,Divorced,9388,4,No,Travel_Rarely,3,23,2,2,6,0,0,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+24,No,Enterprise Sales,BDR Lead,Business,1,26,3,4,2,Single,10255,1,No,Travel_Rarely,3,15,4,4,6,2,4,4,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+22,No,Enterprise Sales,Solutions Specialist,Marketing,3,28,4,2,3,Single,8774,2,Yes,Travel_Frequently,3,11,3,2,4,2,2,2,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+40,Yes,Business Development,Sales Director,Business,3,11,3,2,1,Single,11463,5,No,Travel_Frequently,4,22,4,10,14,9,0,8,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+29,No,Commercial Accounts,Account Executive,Business,3,3,3,4,3,Single,7929,2,Yes,Travel_Frequently,3,11,4,0,1,0,0,0,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+36,No,Commercial Accounts,BDR Lead,Communications,2,8,3,4,1,Single,9075,3,Yes,Travel_Frequently,3,22,3,2,2,0,2,2,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+47,Yes,Enterprise Sales,BDR Lead,Marketing,3,6,3,3,3,Married,8513,3,Yes,Travel_Frequently,3,11,1,0,4,0,0,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+42,No,Commercial Accounts,Account Executive,Communications,3,10,4,2,3,Married,15632,2,No,Travel_Rarely,3,18,1,1,24,0,1,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+30,No,Enterprise Sales,Sales Director,Communications,3,7,3,3,3,Divorced,8117,3,No,Travel_Rarely,3,21,1,0,0,0,0,0,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+32,No,Business Development,Account Executive,Business,3,2,3,4,2,Divorced,8855,2,Yes,Travel_Rarely,3,12,2,0,4,0,0,0,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+44,No,Business Development,Account Executive,Marketing,5,14,3,3,4,Divorced,8715,3,Yes,Travel_Rarely,3,23,5,0,3,0,0,0,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+31,No,Business Development,Solutions Specialist,Communications,3,13,4,3,3,Divorced,9349,4,No,Travel_Frequently,4,19,5,5,5,2,4,1,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+39,No,Commercial Accounts,Solutions Specialist,Communications,4,11,3,3,3,Divorced,7468,2,No,Travel_Rarely,3,15,4,0,0,0,0,0,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+41,Yes,Commercial Accounts,Account Executive,Marketing,5,13,3,3,3,Divorced,9323,1,Yes,Travel_Frequently,3,12,4,3,4,3,1,2,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+29,Yes,Commercial Accounts,BDR Lead,Marketing,2,2,4,2,1,Divorced,10622,2,Yes,Travel_Rarely,3,12,4,9,11,4,6,4,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+45,No,Business Development,Account Executive,Marketing,3,6,3,4,4,Single,11821,1,No,Travel_Rarely,4,19,5,4,14,0,1,0,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+43,No,Enterprise Sales,Account Executive,Communications,3,16,3,2,3,Married,10495,3,Yes,Travel_Rarely,4,21,4,8,11,8,3,8,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+35,Yes,Enterprise Sales,BDR Lead,Marketing,4,1,2,4,2,Divorced,9425,1,No,Travel_Rarely,3,12,2,5,6,4,3,4,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+42,No,Commercial Accounts,BDR Lead,Communications,3,1,2,3,2,Married,8539,2,No,Travel_Rarely,3,16,1,3,4,2,3,0,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+42,Yes,Enterprise Sales,Account Executive,Business,2,1,2,1,3,Married,7860,4,No,Travel_Rarely,3,21,5,0,0,0,0,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+28,No,Enterprise Sales,Solutions Specialist,Business,3,11,3,3,2,Single,11163,4,Yes,Travel_Rarely,3,17,5,5,10,2,4,2,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+35,No,Enterprise Sales,Sales Director,Business,3,1,4,3,4,Married,9586,2,No,Travel_Rarely,4,16,3,0,4,0,0,0,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+23,No,Commercial Accounts,BDR Lead,Communications,2,1,3,2,3,Single,9371,1,Yes,Travel_Rarely,4,22,1,2,4,0,2,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+24,Yes,Enterprise Sales,Account Executive,Marketing,4,4,4,3,2,Single,7781,4,No,Travel_Rarely,3,17,2,0,1,0,0,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+34,No,Commercial Accounts,Solutions Specialist,Business,2,1,4,3,3,Married,11346,4,Yes,Travel_Rarely,3,12,1,0,9,0,0,0,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+32,Yes,Enterprise Sales,Account Executive,Marketing,3,10,3,2,2,Married,8893,2,No,Travel_Frequently,3,14,3,4,5,4,2,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+51,Yes,Commercial Accounts,Solutions Specialist,Marketing,3,9,2,1,3,Divorced,7845,1,Yes,Travel_Frequently,3,12,1,0,0,0,0,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+28,No,Commercial Accounts,Solutions Specialist,Communications,4,1,3,2,2,Single,9880,6,No,Travel_Frequently,3,11,3,5,8,5,0,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+44,Yes,Commercial Accounts,Account Executive,Business,4,3,2,3,1,Single,11275,0,No,Travel_Rarely,3,17,3,2,11,1,2,1,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+36,Yes,Business Development,Solutions Specialist,Marketing,3,9,2,4,4,Divorced,8993,3,Yes,Travel_Frequently,3,11,1,0,5,0,0,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+44,Yes,Enterprise Sales,Solutions Specialist,Business,3,5,4,1,3,Married,10998,2,Yes,Travel_Frequently,3,22,5,7,9,6,0,4,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+32,No,Enterprise Sales,Solutions Specialist,Communications,3,1,2,4,1,Divorced,9872,3,Yes,Travel_Rarely,3,13,4,0,4,0,0,0,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+33,No,Commercial Accounts,Sales Director,Marketing,3,6,3,2,2,Divorced,8228,2,Yes,Travel_Frequently,3,22,4,2,2,0,0,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+59,No,Enterprise Sales,Account Executive,Communications,3,12,2,2,3,Married,9305,1,Yes,Travel_Rarely,3,24,4,2,5,1,0,1,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+56,No,Business Development,Sales Director,Marketing,3,6,2,4,2,Single,10506,2,Yes,Travel_Frequently,4,20,4,5,10,3,3,2,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+33,No,Commercial Accounts,Solutions Specialist,Communications,3,12,4,4,3,Married,11365,2,No,Travel_Frequently,3,22,2,1,9,0,1,0,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+35,No,Business Development,BDR Lead,Communications,3,12,3,3,2,Married,8154,0,Yes,Travel_Frequently,3,17,5,2,2,0,1,0,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+39,Yes,Commercial Accounts,Sales Director,Marketing,3,6,3,2,1,Married,9058,2,No,Travel_Rarely,4,24,5,1,3,0,0,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+22,Yes,Business Development,Solutions Specialist,Marketing,2,12,4,2,3,Married,9375,1,Yes,Travel_Frequently,3,20,1,2,4,0,2,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+31,No,Enterprise Sales,BDR Lead,Communications,4,3,1,2,3,Married,7604,7,No,Travel_Frequently,3,20,1,0,0,0,0,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+26,Yes,Enterprise Sales,Account Executive,Communications,3,1,3,2,3,Divorced,10453,3,Yes,Travel_Frequently,4,25,3,5,6,3,5,4,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+24,No,Commercial Accounts,Account Executive,Business,4,4,3,4,4,Single,9432,3,Yes,Travel_Rarely,3,24,2,0,6,0,0,0,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+36,Yes,Commercial Accounts,BDR Lead,Business,3,2,3,3,2,Divorced,9564,2,Yes,Travel_Frequently,4,11,5,2,5,1,1,1,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+37,No,Commercial Accounts,Sales Director,Business,4,5,3,4,2,Single,10777,3,No,Travel_Frequently,4,14,3,0,8,0,0,0,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+39,No,Business Development,BDR Lead,Marketing,4,2,1,4,2,Single,11357,2,No,Travel_Frequently,3,22,2,3,8,3,1,1,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+34,No,Business Development,Solutions Specialist,Communications,3,21,4,3,2,Divorced,9217,1,No,Travel_Rarely,3,17,4,2,3,2,2,0,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+33,No,Business Development,Account Executive,Business,4,7,4,2,2,Married,7510,2,No,Travel_Rarely,3,13,3,0,0,0,0,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+38,No,Commercial Accounts,Sales Director,Business,3,5,3,4,3,Single,10288,5,Yes,Travel_Rarely,4,12,1,4,10,1,0,3,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+42,No,Business Development,Solutions Specialist,Communications,3,1,1,2,2,Single,9013,6,Yes,Travel_Rarely,3,13,2,2,2,2,2,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+45,No,Enterprise Sales,Solutions Specialist,Marketing,1,23,3,1,2,Single,8615,3,No,Travel_Frequently,3,18,2,1,4,1,0,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+25,No,Business Development,Solutions Specialist,Marketing,1,2,4,4,1,Single,10283,1,No,Travel_Rarely,3,17,2,5,7,2,1,0,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+42,Yes,Business Development,Account Executive,Communications,3,1,4,3,3,Single,8531,3,Yes,Travel_Frequently,3,23,5,2,4,0,2,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+35,No,Enterprise Sales,Sales Director,Marketing,3,3,2,2,4,Single,7758,5,No,Travel_Frequently,3,19,4,0,0,0,0,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+35,Yes,Enterprise Sales,Account Executive,Communications,3,1,3,3,3,Divorced,7664,3,Yes,Travel_Rarely,3,21,5,0,1,0,0,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+33,No,Enterprise Sales,BDR Lead,Business,3,15,2,3,3,Married,13387,2,Yes,Travel_Frequently,3,23,4,13,15,5,5,5,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+35,No,Commercial Accounts,Sales Director,Communications,1,8,3,3,2,Divorced,9367,2,No,Travel_Frequently,3,19,5,0,7,0,0,0,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+34,Yes,Business Development,Sales Director,Marketing,2,10,1,3,4,Married,9488,4,Yes,Travel_Rarely,3,13,3,2,3,2,1,1,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+32,No,Enterprise Sales,Account Executive,Marketing,4,11,2,4,4,Divorced,8218,4,No,Travel_Frequently,4,12,2,2,3,2,2,2,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+21,No,Enterprise Sales,Account Executive,Business,3,1,3,3,4,Married,8970,2,No,Travel_Rarely,3,23,1,1,3,0,0,0,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+38,No,Commercial Accounts,Account Executive,Communications,3,3,3,4,3,Married,10121,0,No,Travel_Frequently,3,16,4,2,5,2,2,2,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+49,Yes,Enterprise Sales,Account Executive,Marketing,4,7,3,2,1,Married,10563,7,Yes,Travel_Rarely,3,17,3,2,11,0,1,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+37,No,Commercial Accounts,Account Executive,Business,3,16,2,2,3,Single,9272,2,Yes,Travel_Rarely,3,19,1,1,3,1,1,1,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+46,Yes,Business Development,Solutions Specialist,Marketing,5,1,1,2,3,Married,11339,3,No,Travel_Frequently,3,14,1,7,9,1,0,1,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+46,No,Enterprise Sales,BDR Lead,Communications,3,4,3,4,3,Married,11962,3,No,Travel_Frequently,3,16,2,11,12,1,2,0,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+35,No,Commercial Accounts,Solutions Specialist,Marketing,3,8,1,1,3,Divorced,11934,3,No,Travel_Frequently,3,18,1,0,12,0,0,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+26,No,Enterprise Sales,Solutions Specialist,Communications,4,9,3,4,2,Divorced,9613,1,Yes,Travel_Rarely,3,21,2,2,8,0,2,0,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+35,No,Enterprise Sales,BDR Lead,Business,4,1,3,2,3,Divorced,9320,2,No,Travel_Frequently,3,18,5,0,5,0,0,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+40,No,Enterprise Sales,Account Executive,Marketing,4,4,3,2,4,Married,14564,1,No,Travel_Frequently,4,19,3,7,18,1,1,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+31,Yes,Business Development,Sales Director,Business,4,1,3,4,1,Married,9926,3,No,Travel_Frequently,3,12,4,5,6,2,1,1,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+30,No,Commercial Accounts,Sales Director,Marketing,2,5,3,3,2,Married,8916,0,Yes,Travel_Rarely,4,21,3,1,4,0,0,1,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+27,No,Commercial Accounts,Solutions Specialist,Business,4,12,3,3,2,Divorced,10798,2,No,Travel_Frequently,3,24,2,1,9,0,0,0,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+45,Yes,Enterprise Sales,Account Executive,Communications,3,7,2,2,4,Married,8430,2,Yes,Travel_Frequently,3,14,2,1,1,1,1,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+29,No,Commercial Accounts,BDR Lead,Marketing,3,21,4,2,4,Single,9800,1,No,Travel_Frequently,3,14,3,0,6,0,0,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+45,Yes,Commercial Accounts,Account Executive,Communications,4,8,3,1,4,Divorced,9753,0,No,Travel_Rarely,4,15,4,1,7,0,1,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+40,Yes,Commercial Accounts,BDR Lead,Business,4,16,4,4,1,Single,9581,1,Yes,Travel_Rarely,3,16,5,0,4,0,0,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+25,No,Enterprise Sales,Sales Director,Business,5,8,4,3,3,Single,9315,2,No,Travel_Rarely,3,13,2,2,7,0,1,1,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+42,Yes,Business Development,Solutions Specialist,Marketing,3,3,2,4,3,Married,11600,4,Yes,Travel_Rarely,3,13,5,5,15,1,1,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+43,No,Commercial Accounts,Solutions Specialist,Marketing,4,1,3,4,3,Divorced,16420,3,No,Travel_Frequently,3,25,2,0,22,0,0,0,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+34,No,Enterprise Sales,Account Executive,Marketing,3,6,3,4,4,Divorced,11267,2,No,Travel_Rarely,3,19,4,3,8,3,0,3,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+38,Yes,Business Development,BDR Lead,Communications,5,4,3,4,4,Single,8737,5,Yes,Travel_Rarely,4,22,5,1,1,1,1,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+32,No,Commercial Accounts,Account Executive,Business,3,5,3,1,2,Single,13590,2,No,Travel_Frequently,3,13,5,12,14,7,5,5,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+46,No,Enterprise Sales,Account Executive,Communications,4,6,4,4,1,Single,12605,2,No,Travel_Rarely,3,18,2,6,12,2,0,0,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+47,No,Business Development,Account Executive,Business,3,16,2,4,3,Married,8613,4,Yes,Travel_Frequently,3,11,1,1,1,1,1,0,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+38,No,Commercial Accounts,Account Executive,Communications,5,2,3,3,1,Single,9128,3,Yes,Travel_Frequently,3,11,5,4,4,3,3,3,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+33,No,Commercial Accounts,Account Executive,Marketing,3,8,3,3,3,Married,13667,3,No,Travel_Rarely,3,17,4,12,15,5,9,2,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+26,Yes,Business Development,BDR Lead,Communications,3,1,3,3,1,Divorced,11076,2,Yes,Travel_Rarely,3,19,1,1,8,0,0,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+47,Yes,Business Development,Solutions Specialist,Business,2,2,4,3,2,Married,10333,1,Yes,Travel_Frequently,3,18,1,3,7,2,1,1,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+40,Yes,Enterprise Sales,Solutions Specialist,Communications,3,4,3,4,1,Divorced,10191,1,No,Travel_Frequently,3,17,5,3,7,0,1,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+32,Yes,Enterprise Sales,BDR Lead,Communications,4,6,1,3,4,Single,8797,5,No,Travel_Frequently,3,16,5,1,2,0,1,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+37,No,Commercial Accounts,Account Executive,Marketing,3,2,4,2,3,Divorced,11264,0,No,Travel_Rarely,3,24,4,2,11,0,0,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+21,No,Commercial Accounts,BDR Lead,Marketing,3,45,3,2,4,Married,9201,2,Yes,Travel_Rarely,3,20,1,1,3,0,1,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+49,Yes,Enterprise Sales,Solutions Specialist,Communications,3,14,4,2,1,Married,15590,4,No,Travel_Frequently,3,21,4,14,19,7,1,6,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+38,No,Commercial Accounts,Solutions Specialist,Marketing,4,15,3,3,4,Divorced,9740,2,No,Travel_Frequently,4,23,3,1,4,0,0,0,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+40,No,Enterprise Sales,BDR Lead,Marketing,3,26,3,3,1,Single,12924,2,Yes,Travel_Rarely,3,14,5,6,12,3,4,4,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+30,Yes,Commercial Accounts,Sales Director,Communications,3,15,1,3,2,Married,9747,0,Yes,Travel_Frequently,3,25,3,1,6,0,1,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+44,Yes,Business Development,Account Executive,Business,3,2,2,4,1,Married,8971,2,No,Travel_Rarely,3,23,2,1,4,0,1,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+42,No,Enterprise Sales,Sales Director,Communications,3,1,3,4,4,Divorced,10670,1,No,Travel_Frequently,3,13,1,0,8,0,0,0,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+36,No,Commercial Accounts,Account Executive,Marketing,3,1,3,4,3,Divorced,8803,1,No,Travel_Rarely,3,24,3,0,2,0,0,0,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+47,No,Enterprise Sales,Sales Director,Marketing,5,4,3,3,3,Single,8206,1,No,Travel_Frequently,3,20,3,1,1,1,1,0,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+33,No,Business Development,Account Executive,Marketing,5,8,3,3,2,Married,9747,2,No,Travel_Rarely,3,18,1,0,6,0,0,0,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+47,Yes,Business Development,Sales Director,Marketing,1,10,3,1,1,Married,8997,2,No,Travel_Frequently,3,23,2,3,4,1,1,2,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+37,Yes,Business Development,Account Executive,Communications,3,1,4,2,3,Single,11153,2,No,Travel_Frequently,3,13,1,1,9,1,1,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+36,No,Business Development,BDR Lead,Marketing,5,4,2,4,3,Single,9909,4,No,Travel_Frequently,3,13,1,2,5,2,2,2,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+41,No,Enterprise Sales,BDR Lead,Marketing,3,9,4,3,3,Single,13558,2,No,Travel_Rarely,3,14,5,6,14,3,2,1,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+36,No,Business Development,BDR Lead,Business,3,1,3,4,2,Single,8807,3,No,Travel_Rarely,3,14,4,5,5,3,5,4,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+38,No,Commercial Accounts,Sales Director,Marketing,5,6,2,4,2,Divorced,10173,2,No,Travel_Rarely,3,22,2,0,5,0,0,0,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+49,Yes,Business Development,BDR Lead,Communications,2,8,1,3,2,Single,12936,3,No,Travel_Frequently,3,18,1,0,13,0,0,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+37,Yes,Commercial Accounts,Sales Director,Business,5,5,4,3,2,Single,8957,1,No,Travel_Frequently,3,22,2,3,3,1,2,1,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+37,No,Enterprise Sales,Account Executive,Marketing,4,1,3,3,3,Single,11567,5,No,Travel_Rarely,4,25,1,9,10,6,9,1,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+34,No,Enterprise Sales,BDR Lead,Communications,3,1,4,3,1,Single,10497,3,No,Travel_Frequently,3,11,5,0,9,0,0,0,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+52,Yes,Business Development,BDR Lead,Business,3,1,3,2,4,Married,8644,3,No,Travel_Frequently,4,14,4,2,3,0,2,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+28,No,Enterprise Sales,Account Executive,Marketing,1,3,4,3,3,Married,11312,4,No,Travel_Rarely,3,15,5,6,10,5,3,5,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+38,No,Business Development,Solutions Specialist,Communications,2,1,3,1,3,Single,11958,0,No,Travel_Frequently,3,11,4,1,11,1,0,1,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+47,No,Business Development,Sales Director,Business,3,13,3,1,2,Divorced,11252,4,No,Travel_Rarely,3,20,1,4,9,1,4,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+30,Yes,Enterprise Sales,BDR Lead,Business,5,2,1,3,4,Single,8396,4,Yes,Travel_Rarely,3,14,1,0,2,0,0,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+39,Yes,Commercial Accounts,BDR Lead,Marketing,5,1,3,4,3,Single,8921,2,No,Travel_Frequently,3,14,3,2,2,0,2,2,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+44,No,Commercial Accounts,BDR Lead,Business,4,1,3,2,2,Married,7483,1,Yes,Travel_Frequently,3,18,4,0,0,0,0,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+40,Yes,Business Development,Account Executive,Communications,4,8,3,3,3,Divorced,10523,2,No,Travel_Frequently,3,23,1,2,7,2,2,2,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+37,Yes,Commercial Accounts,BDR Lead,Marketing,2,10,1,2,1,Single,9891,2,No,Travel_Frequently,3,22,4,6,9,5,0,5,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+30,No,Business Development,Account Executive,Business,3,20,3,2,2,Single,10975,5,No,Travel_Frequently,3,18,5,1,7,1,1,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+37,Yes,Business Development,BDR Lead,Marketing,3,2,2,2,4,Single,9204,3,No,Travel_Frequently,3,20,3,0,6,0,0,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+25,No,Enterprise Sales,Sales Director,Communications,3,1,4,3,4,Married,9874,3,No,Travel_Frequently,3,21,4,5,7,0,1,0,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+41,No,Commercial Accounts,Solutions Specialist,Business,3,5,4,3,3,Single,13774,5,Yes,Travel_Frequently,4,22,2,3,16,2,1,3,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+37,Yes,Enterprise Sales,Solutions Specialist,Marketing,2,20,4,4,2,Single,8892,1,Yes,Travel_Frequently,3,14,4,2,2,0,1,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+38,No,Business Development,Sales Director,Business,3,4,3,2,2,Married,7736,0,No,Travel_Rarely,3,24,3,0,1,0,0,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+43,Yes,Enterprise Sales,Sales Director,Marketing,4,5,3,3,1,Single,12996,0,Yes,Travel_Rarely,3,12,4,2,17,2,2,2,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+42,No,Business Development,Account Executive,Marketing,5,12,3,2,1,Married,12780,1,No,Travel_Frequently,3,16,5,8,18,2,2,1,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+30,No,Business Development,Sales Director,Marketing,1,4,2,3,4,Divorced,9213,4,No,Travel_Rarely,3,14,3,0,4,0,0,0,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+37,No,Enterprise Sales,BDR Lead,Communications,3,1,4,3,3,Married,12896,2,Yes,Travel_Frequently,3,23,5,13,19,8,4,7,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+43,No,Commercial Accounts,BDR Lead,Communications,3,2,1,3,2,Divorced,10757,0,No,Travel_Frequently,3,25,2,4,10,2,2,1,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+37,Yes,Commercial Accounts,Sales Director,Communications,4,1,4,2,3,Married,9916,1,No,Travel_Frequently,3,24,2,2,9,2,2,2,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+45,No,Enterprise Sales,Solutions Specialist,Communications,3,1,3,3,2,Single,9946,0,No,Travel_Frequently,4,14,5,3,7,3,3,0,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+38,Yes,Business Development,Solutions Specialist,Marketing,3,7,1,4,2,Married,11366,2,No,Travel_Rarely,3,23,3,0,12,0,0,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+37,Yes,Business Development,Sales Director,Marketing,3,10,2,2,4,Single,13100,1,Yes,Travel_Rarely,3,17,5,9,19,9,3,9,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+33,Yes,Business Development,Sales Director,Communications,3,15,3,3,2,Single,10715,3,No,Travel_Frequently,3,21,2,4,11,2,2,2,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+49,No,Commercial Accounts,Solutions Specialist,Business,3,1,4,3,3,Divorced,11317,1,Yes,Travel_Frequently,3,20,2,3,9,0,0,0,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+28,Yes,Enterprise Sales,Solutions Specialist,Business,3,12,3,1,1,Divorced,9221,4,Yes,Travel_Frequently,3,18,3,1,6,1,0,1,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+34,Yes,Enterprise Sales,Account Executive,Communications,2,9,3,2,3,Single,9840,3,Yes,Travel_Frequently,3,23,2,5,5,3,2,2,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+42,No,Enterprise Sales,Solutions Specialist,Business,2,12,3,3,3,Single,8048,4,No,Travel_Rarely,3,17,3,0,2,0,0,0,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+48,Yes,Enterprise Sales,Sales Director,Communications,4,2,3,3,4,Married,11030,1,Yes,Travel_Frequently,3,15,3,7,13,0,1,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+33,No,Enterprise Sales,Account Executive,Business,4,19,3,3,2,Married,9288,1,No,Travel_Frequently,3,19,4,2,5,2,1,2,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+25,No,Business Development,Sales Director,Marketing,4,17,3,3,3,Divorced,8409,0,Yes,Travel_Frequently,3,17,2,2,3,0,1,0,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+30,No,Business Development,Account Executive,Business,4,3,4,3,3,Married,10738,3,No,Travel_Rarely,3,19,2,10,12,6,0,7,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+31,Yes,Business Development,Sales Director,Marketing,2,2,1,2,3,Married,12887,1,Yes,Travel_Frequently,4,22,4,9,12,7,1,4,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+35,Yes,Enterprise Sales,Solutions Specialist,Business,5,9,4,3,2,Single,10336,4,No,Travel_Frequently,3,22,1,1,6,1,1,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+39,No,Commercial Accounts,Solutions Specialist,Marketing,5,4,3,4,4,Married,9360,3,Yes,Travel_Frequently,3,12,4,2,3,1,1,0,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+40,Yes,Commercial Accounts,Solutions Specialist,Marketing,3,8,2,2,2,Single,13557,2,No,Travel_Rarely,3,12,5,3,14,3,3,3,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+40,No,Commercial Accounts,BDR Lead,Business,2,2,1,3,2,Married,8861,3,No,Travel_Frequently,3,17,1,0,2,0,0,0,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+28,No,Business Development,Account Executive,Business,2,9,4,3,4,Married,10840,3,No,Travel_Rarely,3,14,4,5,8,2,0,3,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+32,Yes,Business Development,Sales Director,Communications,1,13,3,1,2,Married,9392,3,Yes,Travel_Rarely,4,25,3,1,4,0,0,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+47,Yes,Enterprise Sales,Sales Director,Marketing,2,1,4,3,3,Single,9293,6,No,Travel_Rarely,3,16,1,3,3,0,0,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+45,No,Commercial Accounts,Sales Director,Business,4,5,1,4,3,Divorced,9402,2,Yes,Travel_Frequently,3,13,2,3,4,1,0,1,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+30,No,Business Development,Sales Director,Marketing,4,20,2,3,2,Divorced,8310,4,No,Travel_Frequently,4,17,4,0,0,0,0,0,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+37,No,Business Development,Account Executive,Communications,2,1,3,1,2,Single,8442,1,No,Travel_Rarely,3,15,4,0,1,0,0,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+46,No,Enterprise Sales,Solutions Specialist,Business,3,8,2,3,3,Single,8893,1,No,Travel_Frequently,3,14,4,0,2,0,0,0,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+47,Yes,Commercial Accounts,Solutions Specialist,Marketing,5,11,1,1,1,Divorced,11547,3,Yes,Travel_Rarely,3,18,5,2,11,0,2,1,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+34,No,Enterprise Sales,Account Executive,Communications,2,2,1,3,3,Single,11486,2,Yes,Travel_Frequently,3,25,5,5,9,1,1,1,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+26,No,Commercial Accounts,Solutions Specialist,Marketing,4,1,1,4,3,Divorced,9332,2,Yes,Travel_Rarely,3,12,2,2,3,0,0,2,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+30,No,Business Development,BDR Lead,Business,4,5,1,4,4,Married,12298,4,Yes,Travel_Rarely,4,16,5,10,12,4,2,0,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+25,No,Business Development,BDR Lead,Marketing,5,2,3,2,3,Single,8938,1,No,Travel_Rarely,3,15,1,3,3,3,1,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+34,Yes,Commercial Accounts,Solutions Specialist,Communications,4,1,3,2,2,Single,12375,0,No,Travel_Rarely,3,15,3,11,11,7,0,8,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+43,Yes,Commercial Accounts,BDR Lead,Business,3,1,3,1,4,Divorced,11753,1,No,Travel_Frequently,3,14,3,9,16,3,5,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+26,No,Commercial Accounts,Account Executive,Business,3,5,1,1,3,Married,9545,0,No,Travel_Frequently,4,15,3,4,6,1,4,2,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+21,Yes,Commercial Accounts,Solutions Specialist,Business,2,11,2,3,1,Single,9410,3,Yes,Travel_Rarely,3,20,5,1,3,1,0,1,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+45,No,Enterprise Sales,Sales Director,Business,2,37,3,2,4,Married,7785,2,Yes,Travel_Frequently,3,21,4,0,1,0,0,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+28,No,Business Development,BDR Lead,Communications,3,1,4,3,4,Single,7823,3,No,Travel_Frequently,3,11,3,0,1,0,0,0,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+34,No,Commercial Accounts,BDR Lead,Business,4,4,3,2,3,Divorced,9437,2,No,Travel_Frequently,3,25,2,4,5,1,1,1,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+42,Yes,Commercial Accounts,Sales Director,Marketing,3,1,4,3,4,Single,8401,1,No,Travel_Frequently,3,23,2,0,1,0,0,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+26,Yes,Commercial Accounts,Sales Director,Marketing,5,10,3,3,2,Single,8251,1,Yes,Travel_Frequently,3,25,2,0,1,0,0,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+41,No,Commercial Accounts,BDR Lead,Marketing,3,7,1,4,1,Married,15975,1,No,Travel_Frequently,3,22,4,4,23,4,0,2,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+26,Yes,Commercial Accounts,Solutions Specialist,Business,3,8,3,2,2,Divorced,10481,2,No,Travel_Rarely,3,13,3,5,7,5,5,2,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+36,No,Enterprise Sales,Sales Director,Communications,4,7,3,2,2,Divorced,12134,0,No,Travel_Frequently,4,20,4,0,11,0,0,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+45,No,Enterprise Sales,Solutions Specialist,Business,4,1,3,2,3,Single,11891,3,No,Travel_Rarely,4,24,3,0,13,0,0,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+24,Yes,Enterprise Sales,Solutions Specialist,Marketing,5,1,2,3,1,Married,9390,0,No,Travel_Frequently,3,20,4,4,4,1,0,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+47,Yes,Business Development,BDR Lead,Marketing,4,1,2,3,2,Divorced,13175,0,Yes,Travel_Rarely,3,13,4,4,13,1,1,1,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+45,No,Business Development,Account Executive,Marketing,4,5,4,4,3,Single,11184,3,No,Travel_Frequently,3,24,1,3,9,3,1,1,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+53,No,Commercial Accounts,Sales Director,Business,3,7,4,1,3,Divorced,9333,1,No,Travel_Rarely,3,12,5,5,6,1,0,1,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+33,No,Commercial Accounts,Sales Director,Communications,4,5,4,4,1,Single,9554,3,No,Travel_Frequently,3,13,4,4,5,1,0,0,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+31,Yes,Commercial Accounts,Sales Director,Marketing,3,3,3,3,2,Single,9015,2,Yes,Travel_Frequently,3,23,5,3,3,3,3,2,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+39,No,Business Development,Solutions Specialist,Marketing,2,3,4,4,4,Divorced,15009,3,No,Travel_Frequently,3,23,5,5,21,1,5,0,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+37,No,Enterprise Sales,BDR Lead,Marketing,2,3,2,4,3,Divorced,9371,2,Yes,Travel_Rarely,3,24,4,3,3,1,3,0,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+33,No,Enterprise Sales,Sales Director,Marketing,5,12,3,3,4,Divorced,8541,1,No,Travel_Frequently,3,24,3,1,1,0,1,1,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+33,No,Enterprise Sales,Sales Director,Marketing,4,4,2,3,2,Married,9455,1,No,Travel_Rarely,3,13,4,2,4,2,0,2,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+23,No,Commercial Accounts,Sales Director,Marketing,4,8,3,3,2,Married,9521,2,No,Travel_Frequently,3,11,5,3,5,3,1,0,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+22,No,Commercial Accounts,Account Executive,Marketing,4,1,3,2,2,Single,8392,4,No,Travel_Rarely,3,25,2,2,2,2,2,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+42,Yes,Business Development,Sales Director,Marketing,4,8,4,1,2,Single,13421,2,Yes,Travel_Rarely,3,11,3,6,17,3,5,3,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+40,No,Commercial Accounts,Sales Director,Communications,3,15,1,4,3,Divorced,11167,6,Yes,Travel_Frequently,3,14,4,2,8,0,0,0,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+39,No,Commercial Accounts,BDR Lead,Communications,4,25,4,2,4,Married,12630,1,No,Travel_Rarely,4,13,2,14,16,7,2,5,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+34,No,Enterprise Sales,Sales Director,Marketing,3,17,2,2,4,Single,14281,1,No,Travel_Frequently,3,15,4,4,16,3,4,2,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+40,No,Enterprise Sales,BDR Lead,Business,3,4,3,4,2,Married,15672,1,No,Travel_Frequently,3,24,2,12,22,9,4,8,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+36,No,Business Development,Sales Director,Marketing,2,2,3,3,3,Married,10191,0,Yes,Travel_Rarely,3,13,2,4,9,1,0,0,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+52,No,Enterprise Sales,BDR Lead,Communications,3,27,3,2,1,Married,10866,3,Yes,Travel_Frequently,3,16,3,7,7,3,0,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+33,No,Enterprise Sales,Account Executive,Communications,3,7,1,3,3,Divorced,9983,0,Yes,Travel_Frequently,3,21,3,0,7,0,0,0,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+38,No,Enterprise Sales,Sales Director,Marketing,3,5,3,2,2,Divorced,15578,0,Yes,Travel_Rarely,3,22,5,18,20,10,7,8,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+46,Yes,Business Development,BDR Lead,Marketing,1,1,1,3,3,Divorced,12085,7,Yes,Travel_Frequently,3,18,5,5,11,2,0,3,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+22,No,Enterprise Sales,BDR Lead,Communications,3,9,3,2,3,Single,9496,4,No,Travel_Rarely,3,15,4,2,4,0,0,1,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+48,Yes,Enterprise Sales,BDR Lead,Communications,3,9,1,2,3,Married,8615,3,Yes,Travel_Rarely,3,14,2,3,3,2,0,1,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+35,Yes,Business Development,Account Executive,Business,3,5,3,3,4,Married,8548,1,No,Travel_Frequently,3,17,3,3,3,0,3,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+42,No,Commercial Accounts,BDR Lead,Business,5,22,3,3,3,Single,10813,3,No,Travel_Rarely,3,13,4,1,8,0,0,0,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+21,Yes,Business Development,Sales Director,Communications,3,3,4,1,2,Married,8666,1,No,Travel_Rarely,3,17,5,1,3,0,1,1,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+51,Yes,Enterprise Sales,Sales Director,Marketing,5,2,2,2,3,Single,11881,2,No,Travel_Rarely,4,18,2,0,15,0,0,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+28,Yes,Business Development,Solutions Specialist,Marketing,5,2,4,3,2,Divorced,9548,5,No,Travel_Frequently,3,18,3,1,7,1,1,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+53,No,Business Development,Sales Director,Communications,3,13,2,3,3,Divorced,9890,4,Yes,Travel_Rarely,3,25,3,2,6,0,0,0,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+40,Yes,Enterprise Sales,Solutions Specialist,Marketing,4,1,4,4,2,Single,8627,3,No,Travel_Frequently,3,24,2,1,1,0,1,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+34,No,Enterprise Sales,Sales Director,Business,3,6,4,4,2,Divorced,10096,4,No,Travel_Rarely,3,19,5,6,7,0,3,0,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+37,Yes,Business Development,Solutions Specialist,Communications,3,5,3,3,1,Married,9378,1,Yes,Travel_Rarely,3,19,3,4,4,1,0,2,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+50,Yes,Business Development,BDR Lead,Marketing,3,9,3,3,4,Divorced,14941,1,Yes,Travel_Frequently,3,13,5,5,19,0,3,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+26,No,Enterprise Sales,BDR Lead,Marketing,5,17,3,3,3,Single,9273,3,Yes,Travel_Frequently,3,12,5,5,6,1,5,2,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+35,No,Enterprise Sales,BDR Lead,Business,3,1,3,3,4,Married,13627,1,No,Travel_Rarely,4,21,2,8,17,8,0,6,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+40,Yes,Commercial Accounts,Account Executive,Communications,4,37,3,4,2,Single,8328,2,Yes,Travel_Frequently,4,13,3,0,0,0,0,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+37,No,Commercial Accounts,Solutions Specialist,Business,4,2,3,3,2,Married,8976,5,No,Travel_Rarely,4,22,4,1,3,0,1,0,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+45,No,Commercial Accounts,Sales Director,Business,4,1,4,2,3,Married,9067,0,No,Travel_Rarely,3,17,2,3,6,3,3,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+49,Yes,Enterprise Sales,Solutions Specialist,Marketing,4,2,3,3,4,Married,8165,3,No,Travel_Rarely,3,20,5,1,1,0,0,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+36,Yes,Commercial Accounts,BDR Lead,Communications,4,11,3,2,1,Divorced,11723,4,Yes,Travel_Rarely,3,17,3,12,12,8,0,6,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+34,Yes,Business Development,BDR Lead,Marketing,5,31,1,3,2,Single,8816,1,Yes,Travel_Rarely,3,20,4,2,5,2,2,2,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+21,No,Business Development,Account Executive,Marketing,1,1,4,3,4,Married,8229,1,Yes,Travel_Rarely,3,11,3,1,1,0,1,1,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+33,No,Enterprise Sales,Solutions Specialist,Business,5,14,3,3,1,Single,9004,2,No,Travel_Frequently,3,15,5,2,3,0,1,0,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+35,Yes,Business Development,BDR Lead,Communications,3,1,2,1,3,Married,11606,4,No,Travel_Rarely,3,19,5,12,12,8,4,5,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+39,No,Commercial Accounts,BDR Lead,Business,3,14,1,3,2,Married,12109,1,No,Travel_Frequently,4,23,4,10,11,6,1,4,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+36,No,Business Development,Account Executive,Business,3,10,4,2,3,Divorced,9826,4,Yes,Travel_Frequently,3,15,2,1,5,1,1,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+29,Yes,Business Development,Solutions Specialist,Business,3,1,1,2,2,Divorced,12312,2,No,Travel_Frequently,3,19,5,9,11,5,0,3,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+33,Yes,Business Development,Sales Director,Marketing,3,1,2,4,3,Single,12135,1,No,Travel_Frequently,3,13,2,9,13,2,0,5,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+28,Yes,Commercial Accounts,Sales Director,Communications,3,31,4,3,3,Single,8048,4,Yes,Travel_Rarely,4,15,5,1,2,0,0,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+36,No,Commercial Accounts,Sales Director,Marketing,1,5,4,2,3,Single,12771,1,No,Travel_Frequently,3,17,3,10,13,5,1,6,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+47,Yes,Business Development,BDR Lead,Marketing,4,7,2,1,3,Divorced,8739,4,No,Travel_Rarely,3,21,2,2,3,2,2,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+40,No,Enterprise Sales,Sales Director,Marketing,3,9,4,3,3,Single,8562,2,Yes,Travel_Frequently,3,12,3,1,3,1,1,1,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+30,No,Commercial Accounts,Account Executive,Marketing,4,1,3,2,2,Divorced,7956,2,Yes,Travel_Frequently,4,19,1,2,2,1,2,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+33,No,Enterprise Sales,Sales Director,Marketing,2,2,3,4,2,Divorced,8634,1,No,Travel_Frequently,3,12,3,0,3,0,0,0,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+38,Yes,Business Development,Solutions Specialist,Marketing,3,1,1,4,2,Divorced,11174,3,Yes,Travel_Rarely,3,16,4,6,9,3,1,4,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+34,Yes,Business Development,Solutions Specialist,Marketing,3,9,2,4,2,Single,9295,3,Yes,Travel_Frequently,3,14,3,2,5,2,0,2,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+50,No,Business Development,BDR Lead,Business,5,2,3,2,3,Single,7895,3,Yes,Travel_Rarely,3,23,5,1,1,1,0,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+36,No,Enterprise Sales,Sales Director,Business,2,3,4,3,1,Single,10141,2,No,Travel_Frequently,4,21,1,9,9,7,0,5,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+43,Yes,Enterprise Sales,Sales Director,Marketing,3,1,2,2,3,Married,10958,1,Yes,Travel_Rarely,3,14,5,6,11,1,6,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+41,No,Enterprise Sales,BDR Lead,Marketing,1,4,3,3,2,Divorced,8859,1,No,Travel_Rarely,3,23,4,0,3,0,0,0,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+35,No,Commercial Accounts,Account Executive,Marketing,3,8,2,3,2,Divorced,10395,2,No,Travel_Rarely,3,14,3,0,10,0,0,0,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+33,No,Business Development,Account Executive,Marketing,3,1,3,4,3,Divorced,10143,1,No,Travel_Frequently,3,17,3,6,7,1,0,0,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+42,Yes,Commercial Accounts,BDR Lead,Marketing,3,5,3,2,4,Married,9845,2,Yes,Travel_Frequently,3,12,5,7,7,6,2,7,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+21,No,Commercial Accounts,Account Executive,Marketing,4,2,2,3,4,Divorced,8564,3,No,Travel_Frequently,4,21,4,1,3,1,1,0,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+31,Yes,Commercial Accounts,BDR Lead,Communications,3,8,3,2,2,Single,8220,5,Yes,Travel_Frequently,3,17,2,0,1,0,0,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+40,Yes,Enterprise Sales,Sales Director,Marketing,1,5,4,3,3,Married,11033,2,Yes,Travel_Frequently,4,25,1,7,7,3,0,1,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+43,No,Enterprise Sales,Account Executive,Marketing,4,2,3,3,4,Married,10061,3,Yes,Travel_Frequently,3,15,1,6,7,5,1,4,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+32,No,Business Development,Solutions Specialist,Business,4,5,2,2,1,Single,12275,2,No,Travel_Rarely,3,11,3,0,14,0,0,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+40,Yes,Business Development,BDR Lead,Business,3,5,1,3,4,Divorced,14321,2,Yes,Travel_Frequently,3,25,1,16,22,11,4,6,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+34,Yes,Enterprise Sales,Sales Director,Marketing,4,4,3,3,3,Married,8509,6,Yes,Travel_Rarely,3,24,4,0,4,0,0,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+50,No,Enterprise Sales,Sales Director,Communications,3,9,2,2,4,Married,8713,1,Yes,Travel_Rarely,3,16,4,1,1,0,1,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+51,Yes,Enterprise Sales,Account Executive,Business,3,12,2,1,2,Single,9517,1,No,Travel_Frequently,3,14,1,7,7,3,1,1,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+39,No,Enterprise Sales,Solutions Specialist,Communications,4,7,4,1,3,Married,13580,2,No,Travel_Rarely,3,16,1,0,17,0,0,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+33,No,Commercial Accounts,Solutions Specialist,Business,2,2,4,2,3,Married,10311,1,Yes,Travel_Rarely,3,11,5,5,6,3,1,2,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+35,No,Commercial Accounts,Account Executive,Business,3,1,3,2,1,Divorced,11891,1,No,Travel_Rarely,3,23,4,2,12,0,2,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+49,Yes,Business Development,Solutions Specialist,Communications,5,3,1,3,1,Married,10550,3,No,Travel_Frequently,3,14,4,5,6,3,2,3,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+29,No,Business Development,Account Executive,Communications,4,1,3,3,1,Married,9230,2,Yes,Travel_Rarely,3,17,4,4,4,2,0,0,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+27,No,Business Development,Sales Director,Marketing,3,2,4,1,3,Single,10725,0,No,Travel_Rarely,3,21,1,7,9,5,0,3,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+21,No,Enterprise Sales,Account Executive,Marketing,3,9,3,2,4,Single,8352,2,No,Travel_Frequently,3,17,2,1,3,0,1,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+27,No,Enterprise Sales,Sales Director,Communications,3,2,2,4,3,Divorced,11432,1,No,Travel_Rarely,3,20,5,6,9,2,2,1,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+29,No,Business Development,Account Executive,Business,4,5,2,2,4,Married,9071,2,Yes,Travel_Frequently,4,12,5,6,6,3,2,1,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+39,No,Business Development,Sales Director,Business,3,2,4,4,3,Divorced,11396,5,No,Travel_Frequently,3,23,2,5,10,3,0,4,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+42,No,Business Development,BDR Lead,Communications,3,15,4,3,3,Married,11635,2,Yes,Travel_Frequently,4,19,1,1,14,1,1,0,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+29,Yes,Business Development,BDR Lead,Marketing,4,25,4,2,1,Divorced,9572,2,No,Travel_Frequently,4,21,1,3,7,2,3,2,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+36,No,Enterprise Sales,Sales Director,Marketing,3,43,3,4,2,Single,12312,1,Yes,Travel_Rarely,3,23,3,4,15,3,3,3,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+30,No,Business Development,Solutions Specialist,Marketing,3,12,2,3,2,Divorced,11903,2,No,Travel_Frequently,3,17,1,10,11,6,0,4,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+36,Yes,Commercial Accounts,BDR Lead,Business,2,11,3,1,4,Single,10034,0,Yes,Travel_Rarely,3,11,2,1,5,0,1,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+50,No,Business Development,BDR Lead,Marketing,3,16,3,2,3,Married,7833,2,Yes,Travel_Rarely,4,18,3,1,1,0,1,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+34,Yes,Business Development,Solutions Specialist,Communications,5,1,1,1,1,Single,13787,1,No,Travel_Rarely,3,24,4,7,15,5,1,1,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+39,Yes,Commercial Accounts,Solutions Specialist,Business,3,1,2,4,2,Married,9753,1,No,Travel_Frequently,3,25,5,2,5,0,0,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+37,No,Business Development,BDR Lead,Business,5,1,3,2,3,Married,12785,3,Yes,Travel_Frequently,4,12,4,5,12,3,1,4,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+25,Yes,Enterprise Sales,BDR Lead,Communications,3,15,3,4,2,Single,10104,3,Yes,Travel_Frequently,3,23,4,5,5,4,3,4,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+33,No,Enterprise Sales,Sales Director,Marketing,3,16,2,3,3,Divorced,9562,1,No,Travel_Rarely,3,25,1,0,7,0,0,0,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+35,No,Enterprise Sales,BDR Lead,Business,3,10,3,3,2,Single,8614,4,Yes,Travel_Frequently,3,24,3,3,3,2,1,2,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+25,Yes,Business Development,Solutions Specialist,Marketing,2,10,3,4,3,Single,10554,2,No,Travel_Rarely,3,19,5,1,7,0,1,1,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+38,No,Enterprise Sales,BDR Lead,Communications,4,2,4,4,2,Single,9979,2,No,Travel_Frequently,3,18,3,6,9,0,0,1,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+34,Yes,Business Development,Account Executive,Communications,4,8,2,2,1,Single,8795,4,Yes,Travel_Rarely,4,11,2,1,2,0,1,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+21,No,Enterprise Sales,Account Executive,Business,4,14,3,4,2,Divorced,8280,1,No,Travel_Frequently,3,25,5,1,3,0,1,0,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+29,No,Enterprise Sales,Account Executive,Marketing,5,4,2,1,3,Married,11503,0,No,Travel_Frequently,3,19,1,5,11,2,4,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+62,No,Business Development,BDR Lead,Communications,5,1,4,4,2,Married,9565,6,No,Travel_Frequently,4,25,1,1,5,0,1,0,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+25,Yes,Enterprise Sales,Account Executive,Communications,3,3,2,4,3,Divorced,8593,6,Yes,Travel_Frequently,3,22,4,1,2,1,1,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+23,No,Commercial Accounts,Sales Director,Communications,4,3,2,4,4,Single,8429,4,No,Travel_Frequently,3,18,5,3,3,2,0,2,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+31,No,Commercial Accounts,Solutions Specialist,Marketing,4,1,3,3,3,Divorced,9520,2,Yes,Travel_Rarely,3,11,1,4,4,1,2,2,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+39,Yes,Commercial Accounts,Solutions Specialist,Communications,4,17,1,3,3,Divorced,7806,4,Yes,Travel_Rarely,3,22,1,0,0,0,0,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+30,Yes,Business Development,Sales Director,Marketing,2,5,3,2,3,Divorced,8897,2,No,Travel_Frequently,4,14,1,1,2,1,1,1,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+32,Yes,Enterprise Sales,Account Executive,Business,4,1,4,2,1,Single,12065,1,Yes,Travel_Frequently,4,11,2,2,12,0,1,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+31,Yes,Commercial Accounts,Solutions Specialist,Communications,3,1,3,3,3,Single,12414,0,No,Travel_Frequently,3,13,2,11,13,4,0,2,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+34,Yes,Business Development,BDR Lead,Communications,1,22,3,3,2,Divorced,8414,1,Yes,Travel_Frequently,3,19,5,1,1,0,1,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+28,No,Enterprise Sales,Account Executive,Marketing,2,1,3,3,4,Married,9875,2,Yes,Travel_Rarely,3,14,5,0,5,0,0,0,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+24,Yes,Enterprise Sales,Account Executive,Marketing,4,1,4,4,3,Single,9902,1,No,Travel_Rarely,3,13,4,2,6,2,0,1,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+36,Yes,Enterprise Sales,Account Executive,Marketing,2,4,1,4,3,Divorced,14701,4,Yes,Travel_Rarely,3,20,3,15,18,9,3,6,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+24,No,Enterprise Sales,Account Executive,Business,4,18,3,3,2,Married,10029,4,No,Travel_Frequently,4,23,1,0,6,0,0,0,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+40,No,Business Development,Account Executive,Marketing,5,17,3,4,3,Married,13250,0,No,Travel_Rarely,3,24,5,5,17,5,0,3,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+37,No,Enterprise Sales,Sales Director,Marketing,2,8,4,2,1,Divorced,11539,3,No,Travel_Frequently,3,16,5,11,12,6,0,6,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+32,No,Enterprise Sales,Solutions Specialist,Business,3,12,3,3,2,Divorced,9769,2,Yes,Travel_Frequently,3,20,5,0,8,0,0,0,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+35,No,Commercial Accounts,Sales Director,Business,3,3,3,3,1,Single,10591,3,Yes,Travel_Rarely,3,22,1,4,8,3,0,3,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+39,No,Enterprise Sales,Account Executive,Marketing,2,2,3,2,2,Divorced,8691,1,No,Travel_Frequently,3,11,5,2,4,2,0,1,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+42,No,Business Development,Sales Director,Marketing,1,13,3,3,3,Married,9450,3,No,Travel_Frequently,3,24,4,5,5,2,0,0,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+40,No,Business Development,Solutions Specialist,Business,3,1,3,3,3,Married,14698,4,No,Travel_Frequently,3,21,3,4,21,4,3,0,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+29,No,Enterprise Sales,Solutions Specialist,Communications,2,1,3,3,3,Divorced,10403,3,Yes,Travel_Rarely,3,21,4,6,7,3,5,3,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+41,No,Enterprise Sales,BDR Lead,Marketing,3,11,4,2,3,Divorced,13413,2,Yes,Travel_Frequently,3,20,5,14,16,4,4,0,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+45,No,Commercial Accounts,Account Executive,Business,5,1,4,3,4,Divorced,11794,1,No,Travel_Rarely,3,16,5,1,11,1,1,0,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+49,No,Commercial Accounts,Solutions Specialist,Marketing,3,1,4,3,2,Divorced,11571,1,No,Travel_Frequently,3,19,2,0,14,0,0,0,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+49,No,Business Development,Solutions Specialist,Communications,3,1,2,4,2,Single,9285,3,No,Travel_Rarely,3,12,4,3,5,3,1,1,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+32,No,Commercial Accounts,Solutions Specialist,Marketing,5,3,3,4,1,Divorced,12628,5,No,Travel_Rarely,3,17,4,5,14,2,0,1,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+23,No,Commercial Accounts,Sales Director,Communications,3,1,1,2,2,Divorced,9720,3,No,Travel_Rarely,3,23,2,3,5,3,3,2,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+33,No,Commercial Accounts,Sales Director,Communications,2,2,3,4,4,Married,8170,1,Yes,Travel_Frequently,4,25,5,0,1,0,0,0,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+29,No,Commercial Accounts,BDR Lead,Marketing,2,3,1,3,4,Divorced,11117,1,No,Travel_Rarely,3,20,4,1,10,0,1,0,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+37,No,Business Development,Solutions Specialist,Business,3,7,1,1,4,Married,14678,6,No,Travel_Rarely,3,12,4,17,19,11,1,10,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+43,Yes,Commercial Accounts,BDR Lead,Marketing,3,1,3,3,3,Divorced,9310,1,No,Travel_Frequently,4,12,3,1,3,0,1,1,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+53,No,Enterprise Sales,BDR Lead,Business,4,11,2,2,2,Single,9972,2,Yes,Travel_Rarely,3,20,5,4,6,1,0,1,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+36,No,Commercial Accounts,BDR Lead,Communications,3,14,4,4,4,Married,12305,2,Yes,Travel_Frequently,3,14,2,16,18,9,3,6,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+43,Yes,Business Development,Solutions Specialist,Marketing,1,8,2,3,4,Single,10478,5,Yes,Travel_Rarely,3,19,1,4,6,0,2,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.
+34,Yes,Enterprise Sales,Solutions Specialist,Marketing,5,11,3,3,4,Married,8988,1,Yes,Travel_Rarely,3,17,5,0,3,0,0,0,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+46,Yes,Enterprise Sales,BDR Lead,Communications,3,6,3,4,3,Married,9567,5,No,Travel_Rarely,3,20,5,1,4,1,1,1,Enterprise B2B Sales,High base salary disparity among newly hired peers.
+29,No,Business Development,Sales Director,Communications,4,11,3,4,3,Married,10113,3,No,Travel_Frequently,3,16,2,2,6,2,2,2,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+30,Yes,Business Development,Solutions Specialist,Business,3,5,4,4,3,Divorced,12931,1,Yes,Travel_Frequently,3,23,5,10,12,5,0,4,Enterprise B2B Sales,Unattainable quota increases after territory reshuffles.
+35,No,Commercial Accounts,BDR Lead,Marketing,4,7,3,4,2,Single,8046,0,Yes,Travel_Frequently,3,25,5,0,0,0,0,0,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+27,No,Commercial Accounts,Account Executive,Communications,4,6,1,3,3,Divorced,10517,2,Yes,Travel_Rarely,3,17,4,0,6,0,0,0,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+33,No,Commercial Accounts,Account Executive,Communications,3,5,3,3,3,Divorced,12625,2,Yes,Travel_Rarely,3,17,1,0,15,0,0,0,Enterprise B2B Sales,High energy team and great quarterly sales kickoffs.
+36,No,Commercial Accounts,Solutions Specialist,Communications,3,3,4,4,4,Divorced,8650,1,No,Travel_Frequently,3,22,2,1,1,0,1,0,Enterprise B2B Sales,Strong inbound lead pipeline and marketing support.
+39,No,Enterprise Sales,Solutions Specialist,Marketing,3,4,4,3,2,Divorced,12094,2,No,Travel_Rarely,4,22,2,16,17,10,1,10,Enterprise B2B Sales,Uncapped commission accelerators on mega deals.
+37,Yes,Commercial Accounts,BDR Lead,Communications,5,2,4,3,4,Single,12029,3,Yes,Travel_Frequently,3,25,1,0,10,0,0,0,Enterprise B2B Sales,Stressful end-of-quarter pressure and pipeline micromanagement.

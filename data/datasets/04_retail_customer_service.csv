@@ -1,0 +1,401 @@
+Age,Attrition,Department,JobRole,EducationField,Education,DistanceFromHome,EnvironmentSatisfaction,JobSatisfaction,WorkLifeBalance,MaritalStatus,MonthlyIncome,NumCompaniesWorked,OverTime,BusinessTravel,PerformanceRating,PercentSalaryHike,TrainingTimesLastYear,YearsAtCompany,TotalWorkingYears,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager,Industry,EmployeeFeedback
+30,No,Customer Experience,Customer Lead,Business,3,1,1,3,2,Divorced,3164,3,No,Non-Travel,3,15,1,0,6,0,0,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+43,Yes,Customer Experience,Inventory Specialist,Marketing,3,1,2,1,2,Married,2740,4,Yes,Non-Travel,3,14,4,0,0,0,0,0,Retail & Consumer Operations,High customer friction with little management backing.
+35,Yes,Store Operations,Store Supervisor,Other,3,9,3,3,2,Single,3087,4,Yes,Non-Travel,3,12,3,0,5,0,0,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+45,Yes,Merchandising,Customer Lead,Business,3,4,4,2,2,Single,2773,3,No,Non-Travel,3,19,3,0,1,0,0,0,Retail & Consumer Operations,High customer friction with little management backing.
+34,Yes,Store Operations,Merchandiser,Other,3,11,3,4,3,Married,3772,1,No,Non-Travel,3,18,2,0,14,0,0,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+47,No,Store Operations,Merchandiser,High School,4,2,3,4,4,Married,3999,3,No,Non-Travel,3,22,4,1,17,1,1,1,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+37,No,Store Operations,Merchandiser,Marketing,4,1,4,3,4,Single,3178,2,No,Non-Travel,3,17,2,0,5,0,0,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+47,No,Store Operations,Customer Lead,High School,3,3,2,3,2,Single,3137,3,Yes,Non-Travel,3,20,4,0,6,0,0,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+37,Yes,Merchandising,Customer Lead,Other,4,3,3,2,1,Single,3183,0,Yes,Non-Travel,3,15,5,4,5,0,4,1,Retail & Consumer Operations,High customer friction with little management backing.
+47,No,Merchandising,Inventory Specialist,Other,2,10,3,2,1,Married,3078,6,Yes,Non-Travel,4,22,5,2,3,1,2,1,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+34,No,Merchandising,Store Supervisor,Marketing,3,2,3,2,3,Single,3582,5,No,Non-Travel,3,16,4,5,11,4,3,3,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+28,Yes,Customer Experience,Customer Lead,Marketing,3,5,3,2,1,Divorced,2878,1,No,Non-Travel,3,24,1,1,2,1,0,1,Retail & Consumer Operations,High customer friction with little management backing.
+34,No,Store Operations,Inventory Specialist,Business,5,2,3,3,3,Divorced,3749,0,Yes,Non-Travel,3,11,5,8,14,6,2,5,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+29,No,Customer Experience,Customer Lead,Other,1,2,4,3,3,Single,3239,2,Yes,Non-Travel,3,21,4,1,7,0,0,0,Retail & Consumer Operations,Good staff discounts and customer interactions.
+38,Yes,Store Operations,Store Supervisor,Business,3,2,3,1,3,Married,4092,1,Yes,Non-Travel,3,22,5,9,20,4,3,2,Retail & Consumer Operations,High customer friction with little management backing.
+38,No,Store Operations,Customer Lead,Business,4,3,3,1,3,Divorced,3138,1,No,Non-Travel,3,12,3,2,3,2,2,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+30,No,Merchandising,Merchandiser,Business,3,5,3,3,3,Divorced,3566,3,Yes,Non-Travel,4,22,2,10,10,6,0,6,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+54,No,Store Operations,Inventory Specialist,Other,3,12,4,4,4,Married,3969,5,Yes,Non-Travel,3,18,2,17,21,11,4,6,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+29,Yes,Merchandising,Inventory Specialist,High School,2,9,2,1,3,Married,3506,3,Yes,Non-Travel,3,24,5,1,11,1,0,1,Retail & Consumer Operations,High customer friction with little management backing.
+27,No,Store Operations,Customer Lead,High School,3,18,2,4,3,Married,3593,4,Yes,Non-Travel,3,18,2,5,9,5,0,3,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+51,No,Customer Experience,Store Supervisor,Marketing,4,1,3,3,2,Single,3353,3,No,Non-Travel,3,15,1,4,6,3,4,4,Retail & Consumer Operations,Good staff discounts and customer interactions.
+21,No,Merchandising,Customer Lead,Marketing,3,7,4,2,4,Single,2973,4,No,Non-Travel,3,20,2,0,3,0,0,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+27,Yes,Merchandising,Inventory Specialist,Other,3,7,3,2,3,Married,3035,3,No,Non-Travel,3,16,2,0,5,0,0,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+38,No,Store Operations,Store Supervisor,Marketing,4,1,2,3,4,Single,3253,3,Yes,Non-Travel,4,22,4,1,8,1,1,0,Retail & Consumer Operations,Good staff discounts and customer interactions.
+35,Yes,Customer Experience,Store Supervisor,High School,5,2,3,2,3,Single,2989,4,Yes,Non-Travel,3,20,1,1,1,1,1,1,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+23,Yes,Customer Experience,Inventory Specialist,Marketing,4,3,4,3,1,Single,2857,5,No,Non-Travel,4,21,2,1,2,0,1,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+45,No,Customer Experience,Inventory Specialist,Other,5,7,3,3,3,Divorced,3336,2,No,Non-Travel,3,23,5,0,7,0,0,0,Retail & Consumer Operations,Good staff discounts and customer interactions.
+29,Yes,Merchandising,Inventory Specialist,Business,1,1,2,1,3,Married,3688,2,No,Non-Travel,3,16,4,2,11,0,2,1,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+33,Yes,Customer Experience,Merchandiser,High School,3,1,2,2,1,Married,2771,3,Yes,Non-Travel,3,25,5,0,1,0,0,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+32,No,Store Operations,Inventory Specialist,High School,3,33,3,4,3,Single,3941,1,No,Non-Travel,3,23,5,3,14,1,1,0,Retail & Consumer Operations,Good staff discounts and customer interactions.
+42,No,Merchandising,Inventory Specialist,Business,4,2,3,3,2,Single,4394,2,Yes,Non-Travel,3,21,4,22,24,12,2,10,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+50,Yes,Customer Experience,Merchandiser,Other,2,3,4,3,2,Single,3740,1,Yes,Non-Travel,3,12,2,10,16,9,1,4,Retail & Consumer Operations,High customer friction with little management backing.
+31,No,Customer Experience,Store Supervisor,Business,3,1,4,4,1,Single,3016,4,No,Non-Travel,3,23,4,0,4,0,0,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+38,Yes,Merchandising,Store Supervisor,Other,4,11,3,3,4,Married,3065,2,Yes,Non-Travel,3,23,3,1,2,0,1,1,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+32,Yes,Store Operations,Merchandiser,Other,5,7,3,2,3,Divorced,3078,2,Yes,Non-Travel,3,21,4,0,4,0,0,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+30,Yes,Customer Experience,Inventory Specialist,Other,3,25,4,3,2,Married,2997,3,Yes,Non-Travel,3,15,4,2,4,0,2,0,Retail & Consumer Operations,High customer friction with little management backing.
+62,Yes,Merchandising,Inventory Specialist,High School,2,11,1,3,3,Divorced,2794,2,Yes,Non-Travel,3,18,4,0,1,0,0,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+41,No,Customer Experience,Customer Lead,Business,3,21,2,4,2,Divorced,3394,2,Yes,Non-Travel,3,14,1,7,10,1,1,0,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+37,Yes,Merchandising,Inventory Specialist,Other,2,1,1,4,4,Single,3609,2,No,Non-Travel,3,13,2,0,9,0,0,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+38,Yes,Store Operations,Merchandiser,Marketing,3,1,3,2,3,Divorced,3850,2,No,Non-Travel,3,16,5,1,13,1,1,0,Retail & Consumer Operations,High customer friction with little management backing.
+34,Yes,Customer Experience,Inventory Specialist,Marketing,2,33,2,3,3,Single,3444,2,Yes,Non-Travel,3,24,5,10,12,4,2,3,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+31,No,Store Operations,Store Supervisor,Other,3,1,2,3,3,Married,3976,2,Yes,Non-Travel,4,20,5,6,13,6,6,4,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+59,No,Customer Experience,Store Supervisor,Marketing,4,2,4,3,4,Divorced,3210,2,Yes,Non-Travel,3,17,4,1,4,0,0,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+50,No,Store Operations,Customer Lead,Business,1,3,3,3,4,Single,3034,3,No,Non-Travel,3,14,3,2,5,2,2,2,Retail & Consumer Operations,Good staff discounts and customer interactions.
+36,Yes,Merchandising,Inventory Specialist,Marketing,4,2,3,3,2,Divorced,3993,6,No,Non-Travel,3,14,1,2,18,2,2,2,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+30,Yes,Merchandising,Customer Lead,Other,2,17,1,4,3,Married,3620,3,No,Non-Travel,3,22,3,8,10,5,8,2,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+26,No,Store Operations,Merchandiser,Marketing,4,12,2,3,3,Single,3474,2,Yes,Non-Travel,3,21,5,1,8,1,1,1,Retail & Consumer Operations,Good staff discounts and customer interactions.
+24,No,Store Operations,Store Supervisor,Business,3,3,2,4,4,Divorced,3091,4,Yes,Non-Travel,3,20,1,4,5,0,1,0,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+47,No,Merchandising,Merchandiser,Marketing,2,4,3,3,2,Married,3002,4,No,Non-Travel,3,23,3,2,3,0,2,0,Retail & Consumer Operations,Good staff discounts and customer interactions.
+45,No,Store Operations,Store Supervisor,Marketing,1,1,1,3,3,Married,3404,2,No,Non-Travel,3,18,1,4,8,4,4,3,Retail & Consumer Operations,Good staff discounts and customer interactions.
+22,Yes,Merchandising,Store Supervisor,High School,2,4,1,3,1,Divorced,2927,3,Yes,Non-Travel,3,18,5,1,1,0,1,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+28,No,Customer Experience,Merchandiser,Marketing,2,2,3,3,2,Married,3033,3,Yes,Non-Travel,3,15,3,3,4,3,3,3,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+25,No,Merchandising,Store Supervisor,High School,2,5,1,4,2,Married,3050,4,Yes,Non-Travel,3,20,4,1,4,0,1,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+43,Yes,Merchandising,Merchandiser,Marketing,3,3,4,1,2,Divorced,3869,1,No,Non-Travel,3,18,5,7,13,3,6,2,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+24,Yes,Customer Experience,Customer Lead,Business,4,2,1,4,2,Married,3088,2,No,Non-Travel,3,23,5,2,6,0,1,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+37,Yes,Merchandising,Merchandiser,Other,4,1,2,2,2,Married,3337,2,No,Non-Travel,3,16,3,10,10,7,2,4,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+34,Yes,Customer Experience,Customer Lead,Business,3,6,2,4,3,Divorced,3810,5,No,Non-Travel,3,12,1,5,12,3,0,1,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+34,No,Merchandising,Merchandiser,Other,4,1,3,2,3,Married,2968,4,Yes,Non-Travel,4,22,5,2,3,1,0,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+37,Yes,Customer Experience,Merchandiser,Other,4,2,3,4,2,Single,3905,5,Yes,Non-Travel,3,13,3,3,16,3,0,2,Retail & Consumer Operations,High customer friction with little management backing.
+42,No,Customer Experience,Customer Lead,Other,3,3,3,2,3,Married,2993,1,No,Non-Travel,3,18,3,0,1,0,0,0,Retail & Consumer Operations,High customer friction with little management backing.
+42,No,Store Operations,Inventory Specialist,High School,3,13,3,4,1,Divorced,3261,1,No,Non-Travel,3,15,5,2,5,0,0,1,Retail & Consumer Operations,Good staff discounts and customer interactions.
+42,No,Store Operations,Customer Lead,High School,4,4,3,3,4,Single,3120,6,No,Non-Travel,3,19,5,1,7,0,0,0,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+30,Yes,Merchandising,Store Supervisor,High School,3,1,4,1,4,Married,3215,2,No,Non-Travel,4,11,2,4,5,0,3,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+33,No,Merchandising,Inventory Specialist,Marketing,5,1,3,3,1,Single,3596,4,No,Non-Travel,4,16,1,3,10,2,2,1,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+41,No,Customer Experience,Merchandiser,Business,1,1,2,2,3,Single,3745,2,Yes,Non-Travel,3,13,4,9,12,4,8,1,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+35,Yes,Customer Experience,Customer Lead,High School,3,8,3,1,2,Divorced,2978,0,No,Non-Travel,3,24,5,2,4,1,0,1,Retail & Consumer Operations,High customer friction with little management backing.
+48,No,Store Operations,Store Supervisor,Business,3,22,3,4,3,Single,3745,1,No,Non-Travel,3,21,3,0,11,0,0,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+37,No,Store Operations,Customer Lead,Other,5,1,3,3,1,Single,3200,4,No,Non-Travel,3,18,1,0,4,0,0,0,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+35,No,Customer Experience,Inventory Specialist,High School,2,9,4,2,4,Single,2999,0,No,Non-Travel,3,17,4,3,4,2,3,0,Retail & Consumer Operations,High customer friction with little management backing.
+41,No,Store Operations,Merchandiser,Business,3,8,2,1,4,Married,3147,5,Yes,Non-Travel,3,13,2,0,4,0,0,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+51,No,Merchandising,Customer Lead,Other,4,19,3,3,4,Divorced,3154,4,No,Non-Travel,3,16,3,0,5,0,0,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+33,Yes,Store Operations,Customer Lead,Other,5,1,4,2,3,Divorced,3265,2,No,Non-Travel,3,19,1,4,6,3,0,1,Retail & Consumer Operations,High customer friction with little management backing.
+28,Yes,Customer Experience,Inventory Specialist,High School,2,11,2,3,3,Single,3240,4,No,Non-Travel,3,17,1,3,5,0,0,1,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+30,Yes,Merchandising,Merchandiser,Marketing,4,2,3,2,4,Divorced,3736,3,Yes,Non-Travel,3,25,1,3,12,3,3,3,Retail & Consumer Operations,High customer friction with little management backing.
+47,No,Customer Experience,Customer Lead,Other,5,1,3,2,4,Married,4478,3,No,Non-Travel,3,23,3,6,22,0,1,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+45,No,Customer Experience,Inventory Specialist,Other,4,2,4,2,4,Divorced,3552,2,No,Non-Travel,3,13,3,6,10,1,1,3,Retail & Consumer Operations,High customer friction with little management backing.
+51,No,Customer Experience,Customer Lead,Business,3,27,3,2,3,Divorced,2783,2,No,Non-Travel,3,18,3,0,0,0,0,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+42,No,Store Operations,Store Supervisor,High School,3,9,1,1,2,Single,3705,3,Yes,Non-Travel,3,12,2,16,16,7,1,3,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+48,No,Merchandising,Merchandiser,Business,4,5,2,2,1,Single,2925,0,No,Non-Travel,3,18,1,2,2,2,0,1,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+32,No,Store Operations,Customer Lead,High School,3,8,3,3,2,Divorced,3942,0,Yes,Non-Travel,3,24,5,8,14,6,0,3,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+50,No,Store Operations,Customer Lead,High School,5,1,3,4,3,Married,3800,1,Yes,Non-Travel,3,14,2,7,13,0,1,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+34,No,Merchandising,Inventory Specialist,Other,4,1,2,4,3,Single,3427,3,Yes,Non-Travel,3,14,1,5,11,1,2,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+33,Yes,Store Operations,Store Supervisor,High School,5,10,4,1,2,Single,3615,3,No,Non-Travel,4,11,1,2,9,0,2,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+41,No,Customer Experience,Store Supervisor,Marketing,3,1,1,4,1,Divorced,2981,3,No,Non-Travel,3,22,4,0,1,0,0,0,Retail & Consumer Operations,Good staff discounts and customer interactions.
+43,Yes,Store Operations,Merchandiser,Other,2,5,3,2,2,Married,2899,6,No,Non-Travel,3,20,5,1,1,1,1,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+33,Yes,Merchandising,Inventory Specialist,Other,5,11,2,4,4,Divorced,3028,0,Yes,Non-Travel,3,17,2,2,2,2,2,1,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+47,No,Merchandising,Merchandiser,High School,4,3,3,3,3,Single,4443,5,Yes,Non-Travel,3,15,3,9,19,6,0,4,Retail & Consumer Operations,Good staff discounts and customer interactions.
+37,No,Merchandising,Customer Lead,High School,3,10,4,3,3,Married,2902,4,Yes,Non-Travel,4,13,2,0,1,0,0,0,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+31,No,Customer Experience,Customer Lead,Other,2,1,3,3,2,Divorced,3220,5,No,Non-Travel,3,22,5,0,8,0,0,0,Retail & Consumer Operations,Good staff discounts and customer interactions.
+38,No,Customer Experience,Store Supervisor,High School,3,8,1,4,3,Married,3178,1,Yes,Non-Travel,3,19,4,2,6,0,1,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+25,No,Store Operations,Customer Lead,High School,3,6,3,4,1,Married,2990,1,Yes,Non-Travel,3,20,1,0,1,0,0,0,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+36,No,Store Operations,Customer Lead,High School,5,8,2,2,2,Divorced,3630,4,No,Non-Travel,3,22,2,1,9,1,0,1,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+48,Yes,Store Operations,Customer Lead,High School,3,1,2,4,1,Single,2948,2,No,Non-Travel,4,24,3,1,3,1,1,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+21,Yes,Merchandising,Merchandiser,High School,5,20,1,1,3,Single,3113,2,No,Non-Travel,4,11,2,1,3,1,1,1,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+38,No,Customer Experience,Store Supervisor,Other,4,10,3,3,4,Married,3005,1,No,Non-Travel,4,16,4,0,2,0,0,0,Retail & Consumer Operations,Good staff discounts and customer interactions.
+31,No,Customer Experience,Merchandiser,High School,3,22,3,3,3,Single,3080,3,No,Non-Travel,3,15,5,1,2,0,1,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+23,Yes,Merchandising,Inventory Specialist,High School,3,6,2,3,2,Single,2946,2,Yes,Non-Travel,4,15,5,3,4,0,3,0,Retail & Consumer Operations,High customer friction with little management backing.
+48,Yes,Customer Experience,Store Supervisor,High School,3,13,3,4,3,Single,2797,1,Yes,Non-Travel,3,18,2,0,1,0,0,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+46,Yes,Merchandising,Customer Lead,Business,4,1,3,4,4,Single,3089,1,No,Non-Travel,4,13,2,0,4,0,0,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+43,No,Store Operations,Customer Lead,Business,3,11,2,1,1,Divorced,3453,2,No,Non-Travel,4,15,2,2,10,1,0,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+50,Yes,Merchandising,Customer Lead,Marketing,4,2,3,4,2,Divorced,2977,2,Yes,Non-Travel,3,21,5,0,1,0,0,0,Retail & Consumer Operations,High customer friction with little management backing.
+43,No,Customer Experience,Store Supervisor,High School,3,2,3,4,3,Married,3206,1,No,Non-Travel,3,14,2,5,5,1,1,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+37,Yes,Store Operations,Merchandiser,Marketing,3,1,3,2,3,Single,3660,1,No,Non-Travel,3,11,2,6,10,3,1,3,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+40,Yes,Customer Experience,Inventory Specialist,Other,2,16,3,2,4,Single,3958,1,No,Non-Travel,3,23,5,6,21,3,2,3,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+34,No,Merchandising,Store Supervisor,High School,2,4,4,4,1,Divorced,2713,2,No,Non-Travel,3,23,3,0,0,0,0,0,Retail & Consumer Operations,Good staff discounts and customer interactions.
+40,No,Store Operations,Merchandiser,Business,2,3,2,2,1,Single,3958,4,No,Non-Travel,3,21,5,4,16,1,3,1,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+36,No,Customer Experience,Customer Lead,High School,3,6,2,3,3,Married,3413,1,No,Non-Travel,3,12,3,5,8,2,2,1,Retail & Consumer Operations,Good staff discounts and customer interactions.
+34,No,Customer Experience,Inventory Specialist,Other,3,21,2,2,1,Single,3315,4,No,Non-Travel,3,23,5,2,5,0,2,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+34,No,Customer Experience,Inventory Specialist,Other,4,4,3,2,2,Single,2947,3,No,Non-Travel,3,16,5,2,2,1,0,2,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+50,No,Store Operations,Store Supervisor,Marketing,2,1,4,4,3,Single,3947,2,No,Non-Travel,4,24,4,0,14,0,0,0,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+36,No,Merchandising,Store Supervisor,Marketing,3,5,3,4,3,Married,3413,1,No,Non-Travel,3,13,1,4,7,3,1,2,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+21,Yes,Store Operations,Store Supervisor,Marketing,2,1,2,1,1,Married,2941,3,No,Non-Travel,3,16,3,1,2,0,0,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+32,Yes,Merchandising,Store Supervisor,Marketing,2,6,2,4,4,Divorced,2819,3,No,Non-Travel,3,13,5,1,1,1,0,1,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+31,Yes,Merchandising,Customer Lead,High School,5,23,4,4,3,Single,3492,0,Yes,Non-Travel,3,22,4,4,8,0,4,1,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+43,No,Store Operations,Merchandiser,Business,3,1,4,2,4,Divorced,2822,1,No,Non-Travel,3,21,4,0,1,0,0,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+26,No,Customer Experience,Inventory Specialist,Marketing,3,6,4,3,3,Divorced,3200,2,No,Non-Travel,4,16,2,2,8,2,2,0,Retail & Consumer Operations,Good staff discounts and customer interactions.
+26,No,Merchandising,Store Supervisor,Marketing,1,1,3,3,3,Divorced,3220,4,Yes,Non-Travel,3,14,1,4,8,3,2,2,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+27,No,Customer Experience,Store Supervisor,Business,3,2,4,3,4,Married,3275,3,No,Non-Travel,4,13,1,1,5,1,1,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+38,Yes,Customer Experience,Inventory Specialist,Marketing,2,15,3,2,2,Single,2875,2,Yes,Non-Travel,3,21,4,0,0,0,0,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+44,Yes,Customer Experience,Customer Lead,Other,4,12,3,3,3,Divorced,3324,1,Yes,Non-Travel,3,18,4,0,8,0,0,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+31,Yes,Customer Experience,Store Supervisor,High School,4,45,4,1,1,Married,3259,0,No,Non-Travel,3,16,1,3,5,0,0,0,Retail & Consumer Operations,High customer friction with little management backing.
+51,Yes,Customer Experience,Customer Lead,Business,3,5,1,1,3,Divorced,4225,3,Yes,Non-Travel,3,11,2,1,18,1,0,1,Retail & Consumer Operations,High customer friction with little management backing.
+46,No,Store Operations,Store Supervisor,Business,4,6,3,4,3,Divorced,3359,3,No,Non-Travel,3,14,1,1,6,0,1,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+36,No,Customer Experience,Inventory Specialist,Other,4,9,4,3,3,Married,3767,4,Yes,Non-Travel,3,12,3,2,13,2,1,1,Retail & Consumer Operations,Good staff discounts and customer interactions.
+48,Yes,Store Operations,Customer Lead,Business,4,4,4,2,3,Married,3772,1,No,Non-Travel,3,20,2,6,17,2,0,1,Retail & Consumer Operations,High customer friction with little management backing.
+31,No,Merchandising,Customer Lead,High School,5,1,4,3,2,Divorced,3303,4,No,Non-Travel,3,18,3,0,5,0,0,0,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+42,No,Store Operations,Inventory Specialist,Other,4,8,2,3,4,Divorced,2999,3,No,Non-Travel,3,21,2,1,1,1,0,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+32,Yes,Merchandising,Merchandiser,Marketing,4,8,2,2,3,Married,2847,4,Yes,Non-Travel,3,25,1,0,2,0,0,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+39,Yes,Customer Experience,Inventory Specialist,Business,4,17,4,2,3,Married,3286,4,Yes,Non-Travel,3,23,3,6,9,6,0,6,Retail & Consumer Operations,High customer friction with little management backing.
+42,Yes,Customer Experience,Inventory Specialist,High School,1,8,3,3,3,Single,3892,3,No,Non-Travel,3,14,2,14,20,11,2,6,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+30,No,Store Operations,Inventory Specialist,Other,5,27,4,3,4,Single,3543,3,No,Non-Travel,3,21,4,10,10,4,2,4,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+39,No,Merchandising,Customer Lead,High School,3,19,2,3,4,Single,2851,4,No,Non-Travel,4,21,4,0,1,0,0,0,Retail & Consumer Operations,Good staff discounts and customer interactions.
+41,No,Customer Experience,Inventory Specialist,Other,2,7,1,3,4,Married,4230,4,No,Non-Travel,3,23,4,15,18,5,2,3,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+25,Yes,Customer Experience,Store Supervisor,Business,3,2,1,1,2,Divorced,3298,2,No,Non-Travel,3,20,1,4,6,2,2,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+38,No,Merchandising,Merchandiser,Marketing,3,16,2,4,3,Single,3246,2,Yes,Non-Travel,3,11,1,5,7,3,1,1,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+39,Yes,Customer Experience,Inventory Specialist,Marketing,3,31,4,3,4,Married,3185,1,Yes,Non-Travel,3,16,2,3,7,0,0,2,Retail & Consumer Operations,High customer friction with little management backing.
+35,Yes,Customer Experience,Merchandiser,Other,1,4,4,2,2,Divorced,2907,3,No,Non-Travel,3,13,3,0,2,0,0,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+39,No,Store Operations,Customer Lead,Marketing,3,2,4,3,3,Married,3369,3,Yes,Non-Travel,3,25,5,8,10,5,0,4,Retail & Consumer Operations,Good staff discounts and customer interactions.
+29,No,Customer Experience,Store Supervisor,Business,3,10,3,3,3,Single,3326,3,Yes,Non-Travel,3,23,2,3,7,2,0,3,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+38,Yes,Store Operations,Store Supervisor,Business,2,26,2,4,4,Married,3245,2,No,Non-Travel,3,25,5,2,9,2,0,2,Retail & Consumer Operations,High customer friction with little management backing.
+38,No,Merchandising,Inventory Specialist,Business,3,3,3,1,2,Married,3237,1,No,Non-Travel,3,21,5,2,5,1,0,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+42,No,Merchandising,Inventory Specialist,Other,4,4,3,4,3,Single,3164,2,No,Non-Travel,4,23,5,1,3,0,1,1,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+32,Yes,Merchandising,Store Supervisor,Business,3,5,3,4,1,Married,2780,2,Yes,Non-Travel,3,17,4,0,0,0,0,0,Retail & Consumer Operations,High customer friction with little management backing.
+39,Yes,Customer Experience,Store Supervisor,Marketing,3,6,3,2,1,Married,3459,2,Yes,Non-Travel,3,15,5,6,8,2,0,1,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+47,Yes,Customer Experience,Store Supervisor,High School,3,2,4,3,3,Single,3526,8,No,Non-Travel,3,14,3,1,8,1,1,1,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+39,Yes,Merchandising,Inventory Specialist,Business,3,3,1,3,3,Single,3094,3,No,Non-Travel,3,25,2,2,5,1,0,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+29,No,Customer Experience,Merchandiser,High School,4,6,2,2,2,Single,3349,1,No,Non-Travel,3,25,2,0,7,0,0,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+57,No,Merchandising,Customer Lead,Other,3,1,2,4,1,Divorced,3247,2,Yes,Non-Travel,3,18,3,1,6,0,1,0,Retail & Consumer Operations,Good staff discounts and customer interactions.
+27,No,Store Operations,Customer Lead,Other,4,6,3,2,3,Divorced,2985,0,No,Non-Travel,3,11,3,0,3,0,0,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+38,Yes,Store Operations,Store Supervisor,Marketing,3,7,3,1,2,Married,3739,0,Yes,Non-Travel,3,21,2,3,12,0,2,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+26,No,Merchandising,Store Supervisor,Marketing,4,2,4,3,2,Divorced,3292,4,Yes,Non-Travel,4,19,3,4,5,0,1,2,Retail & Consumer Operations,Good staff discounts and customer interactions.
+30,No,Customer Experience,Inventory Specialist,Business,3,1,3,1,2,Married,2945,3,Yes,Non-Travel,4,18,5,2,3,1,0,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+36,Yes,Store Operations,Customer Lead,Marketing,3,2,4,1,1,Married,3560,2,No,Non-Travel,3,11,2,8,11,4,0,1,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+30,No,Merchandising,Inventory Specialist,Business,5,11,3,3,3,Divorced,3563,2,No,Non-Travel,3,22,1,6,12,2,0,1,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+52,No,Store Operations,Merchandiser,High School,3,5,3,3,3,Single,3419,6,No,Non-Travel,3,14,2,5,12,0,5,0,Retail & Consumer Operations,Good staff discounts and customer interactions.
+52,Yes,Store Operations,Customer Lead,Marketing,3,7,1,3,1,Divorced,3007,1,Yes,Non-Travel,3,22,4,2,4,1,2,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+26,Yes,Customer Experience,Inventory Specialist,Business,5,20,3,2,3,Single,3177,3,No,Non-Travel,3,12,4,6,6,2,1,1,Retail & Consumer Operations,High customer friction with little management backing.
+43,Yes,Store Operations,Store Supervisor,High School,4,3,3,2,2,Divorced,2997,4,Yes,Non-Travel,3,16,1,0,3,0,0,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+35,No,Merchandising,Customer Lead,High School,3,1,4,3,3,Divorced,3083,2,No,Non-Travel,3,11,1,0,5,0,0,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+36,No,Merchandising,Inventory Specialist,Business,2,10,1,3,3,Single,3097,2,Yes,Non-Travel,3,17,5,1,4,0,0,0,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+37,Yes,Merchandising,Store Supervisor,High School,5,8,2,1,2,Single,3881,3,No,Non-Travel,3,16,5,13,13,9,2,6,Retail & Consumer Operations,High customer friction with little management backing.
+36,Yes,Merchandising,Customer Lead,Other,3,19,2,2,4,Married,3005,2,Yes,Non-Travel,3,22,3,2,4,1,2,1,Retail & Consumer Operations,High customer friction with little management backing.
+27,No,Customer Experience,Inventory Specialist,Other,5,3,2,4,3,Married,3239,2,Yes,Non-Travel,3,25,1,3,4,3,0,2,Retail & Consumer Operations,Good staff discounts and customer interactions.
+27,No,Merchandising,Merchandiser,Other,3,2,3,1,4,Married,3477,0,No,Non-Travel,3,20,2,0,7,0,0,0,Retail & Consumer Operations,High customer friction with little management backing.
+28,No,Store Operations,Inventory Specialist,Business,1,9,3,4,4,Married,3494,1,No,Non-Travel,3,21,5,0,10,0,0,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+44,Yes,Customer Experience,Customer Lead,Marketing,3,13,3,2,1,Divorced,2972,2,No,Non-Travel,4,20,1,3,4,2,3,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+31,No,Customer Experience,Merchandiser,High School,4,26,2,2,1,Married,3296,2,No,Non-Travel,3,17,3,5,7,4,5,3,Retail & Consumer Operations,High customer friction with little management backing.
+40,Yes,Store Operations,Store Supervisor,Other,4,8,3,2,3,Married,3378,1,Yes,Non-Travel,3,21,1,0,9,0,0,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+40,Yes,Customer Experience,Inventory Specialist,High School,2,2,3,3,1,Divorced,4335,2,Yes,Non-Travel,3,20,1,8,21,6,3,4,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+40,No,Merchandising,Merchandiser,Marketing,3,1,3,4,4,Divorced,3112,1,No,Non-Travel,3,14,2,3,4,0,0,1,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+40,No,Store Operations,Store Supervisor,Other,3,3,3,3,2,Married,3064,2,Yes,Non-Travel,3,18,4,5,6,2,1,1,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+40,No,Store Operations,Merchandiser,Other,3,4,4,3,3,Single,3515,4,No,Non-Travel,3,21,4,8,10,3,1,1,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+41,Yes,Merchandising,Merchandiser,Other,2,7,2,3,2,Single,3007,2,Yes,Non-Travel,3,19,4,0,3,0,0,0,Retail & Consumer Operations,High customer friction with little management backing.
+27,No,Merchandising,Customer Lead,Marketing,4,5,3,3,2,Single,3227,4,Yes,Non-Travel,3,16,5,3,5,3,0,1,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+25,No,Merchandising,Customer Lead,Other,2,8,3,3,2,Single,3146,1,No,Non-Travel,3,22,2,0,3,0,0,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+49,No,Store Operations,Inventory Specialist,High School,2,3,3,4,1,Married,3156,4,Yes,Non-Travel,3,20,2,3,5,1,3,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+53,No,Merchandising,Merchandiser,Business,2,1,3,3,4,Divorced,3396,2,No,Non-Travel,3,24,3,4,11,0,1,1,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+30,No,Store Operations,Store Supervisor,Marketing,3,7,3,4,4,Married,3871,2,No,Non-Travel,3,22,3,10,12,7,1,3,Retail & Consumer Operations,Good staff discounts and customer interactions.
+34,Yes,Customer Experience,Customer Lead,Marketing,4,6,2,4,1,Married,3655,8,No,Non-Travel,3,13,2,3,11,2,3,3,Retail & Consumer Operations,High customer friction with little management backing.
+34,No,Store Operations,Store Supervisor,Business,4,7,4,4,1,Single,2792,2,Yes,Non-Travel,3,17,3,1,1,0,0,0,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+29,Yes,Customer Experience,Inventory Specialist,Marketing,2,11,1,1,2,Divorced,3222,2,No,Non-Travel,4,18,2,5,5,4,0,2,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+38,No,Store Operations,Merchandiser,Business,5,8,4,3,1,Divorced,2869,2,Yes,Non-Travel,3,24,3,0,2,0,0,0,Retail & Consumer Operations,Good staff discounts and customer interactions.
+42,No,Store Operations,Store Supervisor,Business,5,1,3,3,4,Married,2910,5,No,Non-Travel,3,22,2,0,2,0,0,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+42,No,Store Operations,Inventory Specialist,Other,3,8,4,3,2,Divorced,2841,5,No,Non-Travel,3,23,5,0,1,0,0,0,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+39,Yes,Store Operations,Merchandiser,Business,3,9,3,1,3,Divorced,3214,4,Yes,Non-Travel,3,24,4,2,6,2,2,0,Retail & Consumer Operations,High customer friction with little management backing.
+38,No,Merchandising,Store Supervisor,Other,3,11,2,4,4,Single,2987,1,Yes,Non-Travel,4,13,2,3,3,2,3,3,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+40,No,Merchandising,Inventory Specialist,Business,3,1,3,2,4,Married,3551,2,No,Non-Travel,3,20,2,1,8,0,1,1,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+28,No,Merchandising,Customer Lead,Business,3,11,3,3,4,Divorced,3153,2,Yes,Non-Travel,3,14,3,5,7,0,3,1,Retail & Consumer Operations,Good staff discounts and customer interactions.
+34,Yes,Customer Experience,Store Supervisor,Marketing,3,32,4,3,2,Divorced,3508,0,Yes,Non-Travel,3,16,5,7,10,1,0,2,Retail & Consumer Operations,High customer friction with little management backing.
+38,No,Customer Experience,Customer Lead,Marketing,3,1,4,2,1,Divorced,3128,3,No,Non-Travel,3,12,3,1,3,1,1,0,Retail & Consumer Operations,High customer friction with little management backing.
+37,No,Customer Experience,Inventory Specialist,Other,3,6,3,2,3,Married,3510,5,No,Non-Travel,3,15,3,7,9,3,3,3,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+38,Yes,Store Operations,Customer Lead,High School,2,4,3,3,3,Divorced,4239,3,No,Non-Travel,3,21,2,2,17,0,1,1,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+36,No,Store Operations,Store Supervisor,Other,4,14,1,3,2,Married,3751,0,Yes,Non-Travel,3,23,5,0,13,0,0,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+35,No,Customer Experience,Store Supervisor,Marketing,2,1,1,3,3,Divorced,2999,2,Yes,Non-Travel,3,20,3,0,1,0,0,0,Retail & Consumer Operations,Good staff discounts and customer interactions.
+36,No,Customer Experience,Store Supervisor,Other,4,3,3,4,2,Divorced,2723,0,No,Non-Travel,3,16,2,0,0,0,0,0,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+37,No,Store Operations,Customer Lead,High School,3,31,3,3,3,Married,3202,5,Yes,Non-Travel,3,12,3,2,5,0,1,1,Retail & Consumer Operations,Good staff discounts and customer interactions.
+42,No,Store Operations,Store Supervisor,Marketing,3,5,3,4,4,Divorced,3114,5,No,Non-Travel,4,18,1,3,5,2,0,3,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+39,Yes,Store Operations,Inventory Specialist,High School,3,11,4,4,3,Single,2788,3,Yes,Non-Travel,3,24,2,0,1,0,0,0,Retail & Consumer Operations,High customer friction with little management backing.
+50,No,Store Operations,Merchandiser,High School,1,7,2,3,2,Divorced,3630,5,No,Non-Travel,3,22,2,15,15,9,0,3,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+51,Yes,Merchandising,Merchandiser,Business,4,4,4,1,2,Single,3161,3,No,Non-Travel,3,17,5,0,6,0,0,0,Retail & Consumer Operations,High customer friction with little management backing.
+37,No,Merchandising,Inventory Specialist,Business,3,1,3,3,3,Married,2747,3,No,Non-Travel,3,24,1,0,0,0,0,0,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+44,No,Merchandising,Customer Lead,High School,2,15,3,3,4,Married,2849,4,No,Non-Travel,4,23,2,0,1,0,0,0,Retail & Consumer Operations,Good staff discounts and customer interactions.
+47,No,Customer Experience,Merchandiser,High School,2,3,3,4,2,Single,3007,3,No,Non-Travel,3,16,4,0,4,0,0,0,Retail & Consumer Operations,Good staff discounts and customer interactions.
+22,No,Customer Experience,Customer Lead,Business,3,2,4,3,3,Divorced,2968,0,No,Non-Travel,3,12,1,2,2,1,0,1,Retail & Consumer Operations,Good staff discounts and customer interactions.
+35,No,Store Operations,Merchandiser,Marketing,4,10,3,4,4,Married,3144,1,Yes,Non-Travel,3,23,4,2,3,0,1,0,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+46,No,Store Operations,Inventory Specialist,Business,3,32,1,4,2,Divorced,3187,3,Yes,Non-Travel,4,22,2,0,5,0,0,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+34,No,Merchandising,Store Supervisor,Marketing,4,1,2,3,1,Single,3841,2,No,Non-Travel,3,21,4,1,16,0,0,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+29,No,Store Operations,Customer Lead,Marketing,3,5,3,3,3,Married,3173,5,No,Non-Travel,3,20,2,3,4,0,1,0,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+41,Yes,Merchandising,Inventory Specialist,Other,1,39,2,3,1,Single,3191,3,Yes,Non-Travel,3,22,2,3,6,2,1,1,Retail & Consumer Operations,High customer friction with little management backing.
+34,Yes,Merchandising,Customer Lead,High School,2,1,4,2,3,Divorced,3141,4,Yes,Non-Travel,4,16,2,1,5,0,1,1,Retail & Consumer Operations,High customer friction with little management backing.
+36,No,Merchandising,Store Supervisor,Business,3,9,3,1,3,Married,3401,2,No,Non-Travel,4,15,2,1,6,0,1,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+39,No,Customer Experience,Merchandiser,Business,4,3,3,3,2,Single,2840,5,No,Non-Travel,3,24,2,1,1,0,1,0,Retail & Consumer Operations,Good staff discounts and customer interactions.
+35,Yes,Merchandising,Inventory Specialist,Business,3,2,3,1,4,Single,3824,1,No,Non-Travel,3,19,4,5,17,2,0,2,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+38,No,Store Operations,Merchandiser,Business,3,12,4,3,3,Married,3531,3,Yes,Non-Travel,4,24,2,9,12,4,0,3,Retail & Consumer Operations,Good staff discounts and customer interactions.
+31,No,Store Operations,Inventory Specialist,Business,5,1,2,3,3,Single,3452,0,No,Non-Travel,3,14,4,1,8,1,1,0,Retail & Consumer Operations,Good staff discounts and customer interactions.
+34,No,Customer Experience,Inventory Specialist,Other,3,2,4,2,2,Single,3172,4,No,Non-Travel,3,24,5,5,6,3,1,4,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+33,No,Merchandising,Customer Lead,Other,2,16,3,4,3,Divorced,3862,1,Yes,Non-Travel,3,20,1,13,15,10,8,9,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+25,Yes,Store Operations,Merchandiser,Business,4,23,2,2,1,Married,3237,4,No,Non-Travel,3,22,2,5,6,2,3,4,Retail & Consumer Operations,High customer friction with little management backing.
+56,Yes,Merchandising,Store Supervisor,Business,2,6,2,2,2,Married,4338,3,Yes,Non-Travel,4,15,5,3,25,0,0,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+43,Yes,Merchandising,Merchandiser,Other,4,1,3,1,3,Married,3447,3,Yes,Non-Travel,3,19,2,7,8,2,2,2,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+39,No,Merchandising,Merchandiser,Business,3,1,3,1,3,Divorced,4009,2,No,Non-Travel,3,25,5,7,21,0,7,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+53,No,Customer Experience,Store Supervisor,Other,2,1,3,4,3,Single,4560,1,Yes,Non-Travel,4,17,2,12,24,6,0,4,Retail & Consumer Operations,Good staff discounts and customer interactions.
+46,No,Store Operations,Inventory Specialist,Other,3,5,2,4,1,Single,3151,4,Yes,Non-Travel,3,21,1,0,6,0,0,0,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+36,Yes,Merchandising,Customer Lead,Other,3,20,1,2,2,Divorced,2916,2,No,Non-Travel,3,16,1,0,3,0,0,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+34,No,Customer Experience,Inventory Specialist,High School,3,29,3,2,3,Single,3309,4,Yes,Non-Travel,3,18,2,4,5,0,0,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+42,Yes,Customer Experience,Inventory Specialist,Other,3,1,1,3,2,Married,2857,1,Yes,Non-Travel,3,21,4,0,2,0,0,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+42,Yes,Store Operations,Customer Lead,Marketing,2,3,3,4,3,Married,3024,1,No,Non-Travel,3,17,1,1,2,0,0,1,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+28,Yes,Store Operations,Customer Lead,Marketing,3,17,4,4,2,Single,3165,1,No,Non-Travel,3,12,5,6,6,4,5,1,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+34,No,Merchandising,Store Supervisor,Other,4,2,3,1,3,Single,3698,2,Yes,Non-Travel,3,13,2,4,16,3,0,0,Retail & Consumer Operations,High customer friction with little management backing.
+43,No,Merchandising,Inventory Specialist,Marketing,4,7,4,3,2,Married,3210,3,No,Non-Travel,3,17,3,6,7,6,2,2,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+40,No,Customer Experience,Inventory Specialist,High School,2,1,1,3,2,Married,2988,1,No,Non-Travel,3,22,5,3,4,2,0,1,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+32,Yes,Store Operations,Inventory Specialist,High School,3,8,4,4,3,Divorced,3756,4,No,Non-Travel,4,16,5,0,14,0,0,0,Retail & Consumer Operations,High customer friction with little management backing.
+45,No,Merchandising,Store Supervisor,Other,3,11,1,3,2,Single,3083,3,No,Non-Travel,3,16,3,0,2,0,0,0,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+38,No,Store Operations,Store Supervisor,Marketing,4,34,2,3,4,Single,2939,3,No,Non-Travel,3,14,1,1,2,1,1,1,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+34,Yes,Merchandising,Store Supervisor,Other,3,1,4,3,2,Divorced,3003,7,Yes,Non-Travel,3,20,2,1,5,1,1,1,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+29,Yes,Customer Experience,Merchandiser,Marketing,3,1,2,2,1,Married,3486,4,No,Non-Travel,3,23,3,5,7,3,0,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+44,No,Store Operations,Store Supervisor,Marketing,5,15,3,4,1,Single,3469,3,No,Non-Travel,3,15,1,4,8,0,4,0,Retail & Consumer Operations,Good staff discounts and customer interactions.
+44,No,Customer Experience,Inventory Specialist,Marketing,2,3,3,3,3,Married,2771,1,No,Non-Travel,3,20,4,1,1,0,1,0,Retail & Consumer Operations,Good staff discounts and customer interactions.
+43,Yes,Merchandising,Merchandiser,Other,3,6,1,3,3,Single,4304,2,No,Non-Travel,3,11,1,4,25,2,1,1,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+44,Yes,Store Operations,Store Supervisor,Other,3,1,2,3,2,Single,3326,3,Yes,Non-Travel,3,12,4,4,5,2,2,1,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+22,Yes,Merchandising,Inventory Specialist,Other,3,26,2,3,1,Single,2994,3,No,Non-Travel,3,22,5,2,4,0,0,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+36,Yes,Merchandising,Store Supervisor,Marketing,3,12,2,3,2,Single,3392,1,No,Non-Travel,4,13,2,0,8,0,0,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+45,Yes,Store Operations,Inventory Specialist,Business,3,8,1,3,3,Single,2810,5,No,Non-Travel,3,13,5,0,1,0,0,0,Retail & Consumer Operations,High customer friction with little management backing.
+41,No,Merchandising,Inventory Specialist,Marketing,3,8,1,2,4,Married,2833,3,No,Non-Travel,4,19,1,0,1,0,0,0,Retail & Consumer Operations,High customer friction with little management backing.
+39,No,Store Operations,Customer Lead,Other,4,33,2,3,3,Married,3709,4,No,Non-Travel,3,17,2,8,13,4,8,4,Retail & Consumer Operations,Good staff discounts and customer interactions.
+37,No,Store Operations,Merchandiser,Other,2,4,3,3,3,Single,3376,2,No,Non-Travel,3,21,4,5,9,4,0,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+39,No,Customer Experience,Store Supervisor,Other,1,5,3,3,3,Married,3137,2,No,Non-Travel,3,21,5,3,4,0,3,1,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+42,No,Customer Experience,Store Supervisor,Other,4,12,3,3,2,Married,2931,2,No,Non-Travel,3,17,1,0,3,0,0,0,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+47,No,Store Operations,Customer Lead,High School,3,5,4,3,4,Divorced,4260,1,No,Non-Travel,3,16,4,16,24,4,2,2,Retail & Consumer Operations,Good staff discounts and customer interactions.
+23,Yes,Merchandising,Merchandiser,Business,2,9,1,2,3,Divorced,3107,3,No,Non-Travel,3,20,5,3,5,0,0,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+48,No,Store Operations,Inventory Specialist,Other,4,4,2,3,1,Divorced,3492,1,No,Non-Travel,3,25,2,6,7,3,6,2,Retail & Consumer Operations,Good staff discounts and customer interactions.
+35,Yes,Customer Experience,Store Supervisor,Marketing,4,1,2,2,3,Single,3725,3,No,Non-Travel,3,21,3,1,10,1,1,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+32,No,Customer Experience,Inventory Specialist,Other,3,1,4,4,3,Single,4048,0,No,Non-Travel,3,25,4,10,14,9,5,6,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+36,No,Store Operations,Store Supervisor,Other,3,1,3,3,3,Divorced,3113,3,Yes,Non-Travel,3,18,4,0,3,0,0,0,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+45,No,Store Operations,Customer Lead,Other,3,20,1,2,2,Married,2731,4,No,Non-Travel,3,24,2,0,0,0,0,0,Retail & Consumer Operations,High customer friction with little management backing.
+43,No,Store Operations,Merchandiser,Marketing,4,13,2,3,3,Divorced,4104,0,Yes,Non-Travel,3,14,4,3,15,1,3,2,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+36,Yes,Merchandising,Store Supervisor,Marketing,3,1,1,4,2,Married,3163,6,No,Non-Travel,3,17,5,3,5,3,2,3,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+46,No,Merchandising,Customer Lead,Other,4,12,2,2,2,Married,3332,3,No,Non-Travel,3,14,4,1,7,0,1,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+45,Yes,Store Operations,Customer Lead,High School,4,1,3,1,1,Married,4141,2,No,Non-Travel,3,24,2,17,17,7,4,6,Retail & Consumer Operations,High customer friction with little management backing.
+37,No,Store Operations,Customer Lead,Other,5,6,3,3,3,Divorced,4160,0,Yes,Non-Travel,3,12,3,4,17,1,0,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+49,No,Customer Experience,Customer Lead,Other,4,19,3,4,2,Divorced,3124,1,Yes,Non-Travel,3,22,4,3,3,1,1,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+23,No,Customer Experience,Store Supervisor,Marketing,4,30,3,4,4,Divorced,3130,3,No,Non-Travel,3,19,3,3,3,0,0,0,Retail & Consumer Operations,Good staff discounts and customer interactions.
+55,Yes,Customer Experience,Merchandiser,Marketing,3,34,2,3,2,Divorced,3368,2,No,Non-Travel,3,25,1,3,9,3,1,1,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+38,No,Customer Experience,Merchandiser,Other,3,12,1,4,3,Married,3357,2,No,Non-Travel,3,17,5,9,11,4,1,1,Retail & Consumer Operations,Good staff discounts and customer interactions.
+40,No,Store Operations,Customer Lead,Business,4,1,3,3,4,Single,4566,2,Yes,Non-Travel,3,18,2,18,22,8,16,7,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+55,No,Store Operations,Customer Lead,Other,4,4,3,4,4,Divorced,3620,1,No,Non-Travel,4,17,4,7,9,4,0,3,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+36,No,Store Operations,Merchandiser,Marketing,1,2,3,2,4,Married,3072,1,No,Non-Travel,3,21,3,0,2,0,0,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+52,No,Customer Experience,Store Supervisor,High School,3,2,3,1,4,Divorced,3402,6,No,Non-Travel,4,21,5,5,10,0,5,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+28,Yes,Customer Experience,Merchandiser,Business,4,11,1,4,2,Single,3421,0,Yes,Non-Travel,4,25,2,8,8,3,1,1,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+44,Yes,Customer Experience,Merchandiser,High School,3,1,3,1,1,Divorced,2943,2,Yes,Non-Travel,3,12,2,0,3,0,0,0,Retail & Consumer Operations,High customer friction with little management backing.
+37,Yes,Merchandising,Inventory Specialist,High School,3,17,1,2,2,Married,2965,2,No,Non-Travel,3,21,2,0,4,0,0,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+37,Yes,Store Operations,Inventory Specialist,Business,3,6,2,2,3,Divorced,3562,1,No,Non-Travel,3,14,4,2,10,0,0,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+51,No,Customer Experience,Inventory Specialist,High School,2,10,4,3,4,Divorced,2956,2,Yes,Non-Travel,3,13,2,0,1,0,0,0,Retail & Consumer Operations,Good staff discounts and customer interactions.
+21,No,Store Operations,Customer Lead,Other,3,4,4,2,3,Married,2977,2,No,Non-Travel,3,15,2,1,3,0,1,1,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+37,Yes,Customer Experience,Customer Lead,Marketing,3,15,1,2,2,Married,3043,2,Yes,Non-Travel,3,13,3,3,3,0,0,2,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+29,No,Store Operations,Merchandiser,Other,3,1,3,4,3,Married,2887,1,No,Non-Travel,3,22,3,0,1,0,0,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+26,No,Store Operations,Inventory Specialist,Marketing,3,8,4,3,2,Married,3228,1,Yes,Non-Travel,3,17,3,3,5,3,1,3,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+40,Yes,Store Operations,Merchandiser,Business,2,5,2,1,1,Divorced,3100,3,Yes,Non-Travel,3,22,1,2,3,2,0,2,Retail & Consumer Operations,High customer friction with little management backing.
+38,Yes,Merchandising,Merchandiser,Business,1,12,1,4,1,Single,3538,6,Yes,Non-Travel,4,15,1,1,11,1,0,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+31,No,Customer Experience,Merchandiser,Marketing,4,16,4,4,4,Divorced,2865,4,No,Non-Travel,4,22,5,1,1,1,1,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+30,No,Merchandising,Inventory Specialist,Marketing,2,13,4,4,3,Single,3771,3,Yes,Non-Travel,3,17,1,2,12,0,2,0,Retail & Consumer Operations,Good staff discounts and customer interactions.
+38,Yes,Merchandising,Customer Lead,Other,2,8,3,3,3,Married,3473,2,Yes,Non-Travel,3,22,2,0,7,0,0,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+40,No,Merchandising,Merchandiser,Other,3,3,3,3,2,Single,3068,2,No,Non-Travel,3,16,3,5,5,5,0,4,Retail & Consumer Operations,Good staff discounts and customer interactions.
+45,No,Merchandising,Customer Lead,High School,3,6,3,3,2,Married,2976,5,No,Non-Travel,3,20,3,0,3,0,0,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+43,No,Store Operations,Inventory Specialist,Marketing,4,1,3,4,2,Single,3241,3,Yes,Non-Travel,3,20,5,4,7,4,0,3,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+46,Yes,Customer Experience,Inventory Specialist,High School,3,1,3,2,2,Divorced,2858,4,No,Non-Travel,3,18,5,0,0,0,0,0,Retail & Consumer Operations,High customer friction with little management backing.
+53,No,Customer Experience,Inventory Specialist,High School,3,11,2,3,3,Single,2832,5,No,Non-Travel,3,16,4,0,1,0,0,0,Retail & Consumer Operations,Good staff discounts and customer interactions.
+37,No,Store Operations,Inventory Specialist,Business,3,12,2,1,2,Married,3394,4,No,Non-Travel,3,22,1,4,7,1,1,2,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+49,No,Customer Experience,Customer Lead,Business,2,23,1,3,3,Married,3622,4,Yes,Non-Travel,3,18,4,3,11,3,3,1,Retail & Consumer Operations,Good staff discounts and customer interactions.
+50,No,Customer Experience,Customer Lead,High School,2,30,2,3,3,Single,3232,3,No,Non-Travel,3,21,1,3,5,0,1,0,Retail & Consumer Operations,Good staff discounts and customer interactions.
+31,Yes,Merchandising,Merchandiser,Business,3,5,2,2,3,Married,2920,4,Yes,Non-Travel,3,25,3,2,2,0,2,2,Retail & Consumer Operations,High customer friction with little management backing.
+32,No,Merchandising,Customer Lead,High School,3,6,1,4,2,Single,3416,1,No,Non-Travel,3,12,1,5,9,5,0,5,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+30,No,Customer Experience,Store Supervisor,Marketing,3,16,4,3,1,Divorced,2834,5,No,Non-Travel,4,16,5,0,2,0,0,0,Retail & Consumer Operations,Good staff discounts and customer interactions.
+24,Yes,Customer Experience,Inventory Specialist,Marketing,3,10,3,4,2,Divorced,3086,1,Yes,Non-Travel,4,21,4,1,6,0,0,0,Retail & Consumer Operations,High customer friction with little management backing.
+39,Yes,Store Operations,Merchandiser,High School,3,16,2,2,4,Divorced,2875,3,No,Non-Travel,3,23,2,2,2,0,0,0,Retail & Consumer Operations,High customer friction with little management backing.
+37,Yes,Merchandising,Customer Lead,Other,3,4,1,3,2,Divorced,3838,3,Yes,Non-Travel,3,13,5,4,16,4,4,3,Retail & Consumer Operations,High customer friction with little management backing.
+45,No,Merchandising,Inventory Specialist,Other,3,1,3,3,2,Married,3061,1,No,Non-Travel,3,19,5,4,6,2,4,1,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+35,No,Store Operations,Merchandiser,Marketing,1,2,3,2,3,Single,3011,2,Yes,Non-Travel,4,11,5,4,4,0,2,1,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+38,No,Customer Experience,Inventory Specialist,Business,3,2,3,3,3,Divorced,3981,6,No,Non-Travel,3,11,2,9,20,3,0,1,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+28,No,Merchandising,Merchandiser,High School,4,16,2,1,4,Divorced,3201,0,No,Non-Travel,3,22,3,1,4,1,0,1,Retail & Consumer Operations,High customer friction with little management backing.
+29,Yes,Merchandising,Store Supervisor,Marketing,4,1,3,4,3,Single,3131,1,No,Non-Travel,3,24,4,2,6,2,2,1,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+45,Yes,Store Operations,Merchandiser,Marketing,4,9,3,3,3,Single,3394,3,No,Non-Travel,3,12,3,3,6,3,1,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+44,Yes,Store Operations,Inventory Specialist,Business,3,1,4,3,3,Single,2861,1,No,Non-Travel,4,18,5,0,1,0,0,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+34,Yes,Customer Experience,Store Supervisor,High School,4,6,3,1,3,Divorced,3543,2,No,Non-Travel,3,15,2,3,9,1,2,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+26,No,Store Operations,Inventory Specialist,Marketing,2,10,4,3,4,Married,3572,6,Yes,Non-Travel,3,17,1,6,8,2,2,0,Retail & Consumer Operations,Good staff discounts and customer interactions.
+33,Yes,Merchandising,Customer Lead,High School,3,16,3,1,4,Single,4042,3,Yes,Non-Travel,3,14,4,2,15,0,2,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+51,No,Merchandising,Customer Lead,Marketing,5,3,3,3,3,Married,5286,3,No,Non-Travel,3,20,4,1,33,0,0,0,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+36,Yes,Store Operations,Inventory Specialist,Other,1,1,3,1,2,Married,3537,6,No,Non-Travel,3,16,2,6,8,1,1,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+46,Yes,Store Operations,Store Supervisor,Business,3,7,3,4,2,Single,3789,2,No,Non-Travel,3,19,1,6,12,3,1,4,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+48,Yes,Customer Experience,Customer Lead,Marketing,5,3,1,2,2,Single,3184,0,No,Non-Travel,3,25,5,2,7,2,0,1,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+38,Yes,Customer Experience,Merchandiser,Marketing,3,3,3,2,3,Single,2879,5,Yes,Non-Travel,3,18,2,0,2,0,0,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+48,No,Merchandising,Customer Lead,High School,4,22,3,3,3,Married,3156,2,Yes,Non-Travel,3,18,5,3,5,0,0,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+34,Yes,Merchandising,Store Supervisor,Other,4,2,1,3,2,Single,3183,1,Yes,Non-Travel,3,19,4,2,6,2,0,2,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+38,Yes,Store Operations,Store Supervisor,Other,4,4,2,4,3,Married,3036,2,No,Non-Travel,3,12,2,3,3,1,0,0,Retail & Consumer Operations,High customer friction with little management backing.
+38,Yes,Customer Experience,Store Supervisor,Marketing,2,13,2,3,3,Married,3021,1,No,Non-Travel,4,13,5,3,4,0,0,0,Retail & Consumer Operations,High customer friction with little management backing.
+38,Yes,Merchandising,Store Supervisor,Other,4,1,2,3,2,Divorced,4125,0,No,Non-Travel,3,24,3,18,18,13,3,8,Retail & Consumer Operations,High customer friction with little management backing.
+33,No,Store Operations,Merchandiser,Business,3,10,4,3,3,Divorced,2998,2,Yes,Non-Travel,3,19,3,2,3,0,0,2,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+29,No,Store Operations,Merchandiser,Marketing,3,1,3,3,3,Divorced,3176,2,No,Non-Travel,3,21,1,5,6,5,0,4,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+34,No,Customer Experience,Customer Lead,Business,2,1,4,2,3,Married,3358,2,No,Non-Travel,4,12,3,0,10,0,0,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+45,No,Customer Experience,Inventory Specialist,High School,4,14,2,3,2,Single,3210,5,Yes,Non-Travel,4,22,3,5,5,2,1,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+41,Yes,Store Operations,Inventory Specialist,Marketing,4,3,3,2,2,Divorced,3442,2,No,Non-Travel,3,11,3,6,7,5,1,2,Retail & Consumer Operations,High customer friction with little management backing.
+28,No,Merchandising,Inventory Specialist,Business,3,12,3,3,1,Divorced,3421,1,Yes,Non-Travel,3,13,1,5,9,4,1,1,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+21,No,Customer Experience,Customer Lead,Marketing,4,3,2,4,3,Married,3130,3,Yes,Non-Travel,3,18,3,1,3,0,1,0,Retail & Consumer Operations,Good staff discounts and customer interactions.
+33,Yes,Customer Experience,Store Supervisor,Marketing,3,14,2,1,1,Single,3484,0,No,Non-Travel,3,20,1,4,10,2,4,2,Retail & Consumer Operations,High customer friction with little management backing.
+42,Yes,Store Operations,Store Supervisor,Business,1,15,3,2,4,Single,3161,3,Yes,Non-Travel,3,25,2,4,4,3,1,3,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+42,No,Merchandising,Inventory Specialist,Other,5,9,3,2,3,Divorced,4051,2,Yes,Non-Travel,4,18,5,9,15,5,0,4,Retail & Consumer Operations,High customer friction with little management backing.
+29,No,Store Operations,Merchandiser,Business,3,1,3,3,1,Single,2851,2,No,Non-Travel,3,18,2,1,1,1,0,1,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+39,No,Customer Experience,Store Supervisor,Marketing,2,4,3,3,4,Divorced,3389,1,No,Non-Travel,3,13,4,3,8,3,0,3,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+34,No,Customer Experience,Merchandiser,Business,3,10,2,3,2,Divorced,3129,4,No,Non-Travel,3,24,3,2,4,0,1,2,Retail & Consumer Operations,Good staff discounts and customer interactions.
+34,No,Store Operations,Inventory Specialist,Marketing,2,6,4,4,2,Divorced,3296,4,No,Non-Travel,3,16,5,1,5,0,1,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+37,Yes,Customer Experience,Customer Lead,High School,3,1,4,4,3,Married,4039,3,No,Non-Travel,4,18,5,5,16,3,0,1,Retail & Consumer Operations,High customer friction with little management backing.
+40,No,Customer Experience,Store Supervisor,High School,3,4,4,3,2,Single,4053,3,Yes,Non-Travel,3,11,5,1,15,1,1,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+33,Yes,Merchandising,Merchandiser,Other,3,7,3,3,2,Divorced,3746,3,Yes,Non-Travel,3,14,2,3,11,0,0,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+37,No,Store Operations,Inventory Specialist,High School,4,2,1,2,3,Single,3074,2,No,Non-Travel,3,21,3,0,3,0,0,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+48,Yes,Customer Experience,Store Supervisor,Marketing,3,23,3,2,2,Divorced,3461,0,No,Non-Travel,3,12,1,4,11,0,4,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+37,No,Customer Experience,Inventory Specialist,Business,4,3,3,1,2,Divorced,3998,3,Yes,Non-Travel,4,19,5,6,19,2,3,1,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+24,No,Merchandising,Store Supervisor,Other,2,5,2,3,2,Divorced,3310,2,Yes,Non-Travel,3,19,5,0,6,0,0,0,Retail & Consumer Operations,Good staff discounts and customer interactions.
+28,Yes,Merchandising,Merchandiser,High School,3,15,3,4,1,Divorced,3344,3,No,Non-Travel,3,20,3,3,7,2,3,1,Retail & Consumer Operations,High customer friction with little management backing.
+44,No,Merchandising,Inventory Specialist,Other,2,26,4,2,3,Divorced,3869,3,Yes,Non-Travel,3,22,1,0,13,0,0,0,Retail & Consumer Operations,High customer friction with little management backing.
+32,Yes,Merchandising,Customer Lead,Marketing,3,3,4,2,2,Divorced,3407,2,No,Non-Travel,3,17,1,6,6,2,0,1,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+28,Yes,Customer Experience,Inventory Specialist,Business,2,20,2,1,1,Single,3592,4,No,Non-Travel,3,24,3,3,10,0,3,1,Retail & Consumer Operations,High customer friction with little management backing.
+28,No,Merchandising,Inventory Specialist,Other,4,9,4,3,4,Divorced,3513,2,Yes,Non-Travel,3,17,3,8,8,6,0,5,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+39,No,Customer Experience,Store Supervisor,High School,5,1,3,4,1,Married,3988,1,No,Non-Travel,4,17,4,12,15,5,0,4,Retail & Consumer Operations,Good staff discounts and customer interactions.
+41,No,Customer Experience,Store Supervisor,Marketing,3,12,3,3,1,Married,3953,3,No,Non-Travel,4,19,5,1,16,1,1,1,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+29,Yes,Customer Experience,Inventory Specialist,High School,2,1,3,3,2,Divorced,2915,2,Yes,Non-Travel,3,15,1,0,1,0,0,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+39,No,Merchandising,Store Supervisor,Other,3,1,2,3,3,Married,2782,0,No,Non-Travel,3,16,4,0,0,0,0,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+45,No,Merchandising,Inventory Specialist,High School,3,2,1,4,3,Married,3504,4,No,Non-Travel,3,12,1,1,9,0,0,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+54,No,Store Operations,Customer Lead,Other,3,6,3,3,2,Single,3993,0,No,Non-Travel,3,22,1,0,14,0,0,0,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+43,No,Customer Experience,Merchandiser,Marketing,3,6,3,4,2,Single,2970,2,No,Non-Travel,4,15,5,0,4,0,0,0,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+37,Yes,Merchandising,Merchandiser,Other,4,15,1,3,3,Married,3441,7,No,Non-Travel,3,15,2,4,9,1,0,1,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+34,No,Merchandising,Merchandiser,Business,2,1,2,3,3,Single,2904,5,Yes,Non-Travel,3,21,1,0,1,0,0,0,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+31,Yes,Customer Experience,Customer Lead,Business,3,1,3,4,4,Divorced,3256,2,No,Non-Travel,3,15,3,4,8,1,4,0,Retail & Consumer Operations,High customer friction with little management backing.
+36,Yes,Customer Experience,Inventory Specialist,Marketing,4,1,1,2,3,Divorced,2851,5,Yes,Non-Travel,3,23,3,0,1,0,0,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+44,No,Store Operations,Customer Lead,High School,1,20,3,1,3,Single,3251,3,No,Non-Travel,3,13,3,8,9,4,1,3,Retail & Consumer Operations,High customer friction with little management backing.
+23,Yes,Merchandising,Store Supervisor,Other,5,7,3,3,2,Divorced,3018,2,No,Non-Travel,3,12,1,3,4,0,3,0,Retail & Consumer Operations,High customer friction with little management backing.
+39,No,Store Operations,Merchandiser,High School,3,3,3,3,3,Single,3915,3,No,Non-Travel,3,11,3,11,13,5,3,0,Retail & Consumer Operations,Good staff discounts and customer interactions.
+32,No,Merchandising,Merchandiser,Other,3,5,3,2,4,Divorced,3428,3,No,Non-Travel,3,15,4,5,8,3,0,5,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+32,No,Customer Experience,Customer Lead,Marketing,3,21,3,2,1,Married,3138,6,No,Non-Travel,4,24,1,1,3,0,1,1,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+44,Yes,Customer Experience,Customer Lead,High School,4,6,2,1,3,Married,3572,4,No,Non-Travel,4,16,3,5,8,0,0,0,Retail & Consumer Operations,High customer friction with little management backing.
+40,Yes,Customer Experience,Merchandiser,High School,3,2,2,1,3,Divorced,3345,3,Yes,Non-Travel,3,11,4,5,6,1,1,0,Retail & Consumer Operations,High customer friction with little management backing.
+31,Yes,Merchandising,Merchandiser,Other,4,3,2,1,4,Divorced,3707,1,No,Non-Travel,4,12,2,0,13,0,0,0,Retail & Consumer Operations,High customer friction with little management backing.
+21,No,Merchandising,Store Supervisor,Business,3,1,1,3,3,Divorced,3068,3,No,Non-Travel,3,13,2,1,3,0,1,0,Retail & Consumer Operations,Good staff discounts and customer interactions.
+29,Yes,Customer Experience,Merchandiser,High School,2,19,2,2,3,Single,2832,1,No,Non-Travel,3,19,2,0,1,0,0,0,Retail & Consumer Operations,High customer friction with little management backing.
+38,No,Store Operations,Inventory Specialist,Other,3,2,3,4,1,Married,3012,4,Yes,Non-Travel,3,11,2,1,3,0,1,0,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+35,No,Merchandising,Customer Lead,Business,3,1,3,2,3,Single,3406,1,No,Non-Travel,3,17,1,4,6,2,1,2,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+30,No,Customer Experience,Store Supervisor,Marketing,3,1,4,2,1,Single,3318,1,No,Non-Travel,3,20,3,7,7,7,1,6,Retail & Consumer Operations,High customer friction with little management backing.
+33,Yes,Store Operations,Merchandiser,Business,3,1,4,2,3,Single,3585,3,No,Non-Travel,4,13,1,6,11,4,1,3,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+21,No,Store Operations,Inventory Specialist,Other,3,13,3,3,2,Married,2739,4,No,Non-Travel,3,23,5,0,0,0,0,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+30,No,Merchandising,Customer Lead,Business,3,11,3,3,2,Married,3501,3,No,Non-Travel,3,21,4,10,12,6,2,7,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+41,No,Merchandising,Store Supervisor,Marketing,3,4,1,3,3,Single,3419,1,No,Non-Travel,3,21,3,4,12,3,4,3,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+49,Yes,Store Operations,Customer Lead,High School,4,1,3,1,3,Single,3885,4,No,Non-Travel,3,25,1,7,15,3,0,4,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+32,Yes,Merchandising,Store Supervisor,Marketing,4,1,3,4,1,Single,2840,3,Yes,Non-Travel,3,16,1,0,0,0,0,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+40,No,Merchandising,Store Supervisor,Business,2,1,4,4,3,Divorced,3422,4,Yes,Non-Travel,3,15,5,4,9,0,3,3,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+34,No,Customer Experience,Merchandiser,Other,3,45,2,3,4,Divorced,3036,2,Yes,Non-Travel,4,15,1,1,3,1,0,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+41,No,Merchandising,Customer Lead,High School,3,3,3,1,3,Divorced,3313,1,Yes,Non-Travel,3,19,3,6,7,3,0,1,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+35,Yes,Store Operations,Merchandiser,Marketing,2,1,4,2,1,Divorced,3197,1,No,Non-Travel,3,22,4,1,6,0,1,1,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+38,Yes,Customer Experience,Store Supervisor,Marketing,4,10,1,1,3,Married,3481,0,Yes,Non-Travel,3,12,2,5,7,1,1,3,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+28,Yes,Store Operations,Customer Lead,High School,2,1,2,3,3,Divorced,3670,4,No,Non-Travel,3,22,2,8,10,1,2,1,Retail & Consumer Operations,High customer friction with little management backing.
+40,Yes,Store Operations,Customer Lead,Other,3,7,1,2,3,Married,3908,7,Yes,Non-Travel,3,16,1,4,16,2,0,3,Retail & Consumer Operations,High customer friction with little management backing.
+38,Yes,Merchandising,Inventory Specialist,Other,3,3,3,2,3,Single,3163,4,No,Non-Travel,4,25,2,2,5,0,2,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+38,No,Customer Experience,Inventory Specialist,Marketing,3,13,2,3,2,Married,3682,0,No,Non-Travel,4,12,5,3,11,0,0,2,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+35,Yes,Store Operations,Store Supervisor,Marketing,3,1,3,3,2,Divorced,3076,5,Yes,Non-Travel,4,13,3,0,6,0,0,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+39,No,Merchandising,Merchandiser,Marketing,3,1,4,4,2,Divorced,3093,6,No,Non-Travel,3,21,2,1,3,0,1,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+43,Yes,Customer Experience,Customer Lead,High School,2,13,3,3,2,Single,3376,2,No,Non-Travel,4,22,3,0,10,0,0,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+31,No,Store Operations,Merchandiser,Other,4,7,3,1,3,Divorced,3182,4,No,Non-Travel,3,22,1,5,8,1,1,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+31,Yes,Customer Experience,Store Supervisor,Marketing,2,12,3,2,2,Single,3062,3,No,Non-Travel,3,17,4,2,2,0,2,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+40,Yes,Merchandising,Merchandiser,Marketing,2,10,2,3,1,Single,2835,3,Yes,Non-Travel,3,16,3,0,0,0,0,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+39,No,Merchandising,Customer Lead,Business,3,8,3,3,2,Married,3411,4,No,Non-Travel,4,20,1,0,9,0,0,0,Retail & Consumer Operations,Good staff discounts and customer interactions.
+37,No,Store Operations,Inventory Specialist,Marketing,3,1,3,2,2,Divorced,2896,1,No,Non-Travel,3,19,3,1,3,0,1,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+36,Yes,Customer Experience,Merchandiser,High School,2,5,2,4,3,Single,3339,1,Yes,Non-Travel,3,15,3,6,6,3,0,3,Retail & Consumer Operations,High customer friction with little management backing.
+32,No,Merchandising,Merchandiser,Marketing,2,3,3,2,4,Married,3420,5,No,Non-Travel,4,21,2,2,10,0,2,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+29,No,Store Operations,Inventory Specialist,Business,3,1,2,2,2,Divorced,2752,4,No,Non-Travel,3,21,3,0,0,0,0,0,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+31,Yes,Merchandising,Inventory Specialist,High School,2,3,1,3,2,Single,3670,1,Yes,Non-Travel,3,11,5,11,13,3,5,3,Retail & Consumer Operations,High customer friction with little management backing.
+38,No,Store Operations,Merchandiser,Other,1,5,3,3,1,Married,3009,1,No,Non-Travel,3,25,1,0,3,0,0,0,Retail & Consumer Operations,Clear entry-level progression to shift lead.
+40,Yes,Customer Experience,Merchandiser,Business,5,3,1,2,2,Single,2990,3,No,Non-Travel,3,14,1,1,1,0,1,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+47,No,Store Operations,Customer Lead,Other,3,1,2,2,3,Divorced,2789,0,Yes,Non-Travel,3,21,3,0,0,0,0,0,Retail & Consumer Operations,High customer friction with little management backing.
+35,No,Store Operations,Merchandiser,Business,2,8,2,4,2,Married,3283,2,No,Non-Travel,3,17,4,5,7,3,2,0,Retail & Consumer Operations,Friendly store team and flexible day shift scheduling.
+35,No,Store Operations,Customer Lead,Business,3,3,4,1,3,Divorced,3079,3,No,Non-Travel,3,22,3,4,6,1,1,0,Retail & Consumer Operations,Irregular shift scheduling makes second jobs impossible.
+30,No,Customer Experience,Store Supervisor,Business,4,1,2,2,4,Married,2979,1,Yes,Non-Travel,4,23,3,1,1,0,1,1,Retail & Consumer Operations,Hourly wage is barely keeping up with cost of living.
+28,No,Merchandising,Store Supervisor,High School,3,29,3,3,2,Divorced,3202,0,Yes,Non-Travel,3,14,1,3,7,3,1,1,Retail & Consumer Operations,Clear entry-level progression to shift lead.

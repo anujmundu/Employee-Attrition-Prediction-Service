@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  attrition-service:
+    build: .
+    container_name: employee-attrition-service
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+      - ./models:/app/models
+      - ./monitoring.db:/app/monitoring.db
+    restart: unless-stopped
+    environment:
+      - PYTHONUNBUFFERED=1

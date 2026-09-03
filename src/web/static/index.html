@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>RetainAI Enterprise | HR Retention Intelligence & MLOps Command Center</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <!-- Top Navigation Bar -->
+  <header class="top-nav">
+    <div class="brand">
+      <div class="brand-icon">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path>
+          <circle cx="9" cy="7" r="4"></circle>
+          <polyline points="16 11 18 13 22 9"></polyline>
+        </svg>
+      </div>
+      <div class="brand-text">
+        <h1>RetainAI <span class="badge-enterprise">Enterprise</span></h1>
+        <p class="brand-sub">Multi-Domain Employee Attrition Intelligence & MLOps Platform</p>
+      </div>
+    </div>
+    
+    <div class="nav-controls">
+      <div class="trust-shield-pill">
+        <span class="status-dot pulse"></span>
+        <span class="trust-shield-text">Data Trust Shield: <strong>ACTIVE</strong></span>
+      </div>
+      <button class="btn btn-outline" id="refresh-btn" onclick="app.refreshAll()">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <polyline points="23 4 23 10 17 10"></polyline>
+          <path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"></path>
+        </svg>
+        Sync Data
+      </button>
+      <a href="/docs" target="_blank" class="btn btn-primary">API Docs</a>
+    </div>
+  </header>
+
+  <!-- Main Container -->
+  <main class="main-layout">
+    <!-- Tab Navigation -->
+    <nav class="sub-nav">
+      <button class="tab-btn active" onclick="app.switchTab('dashboard')">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect></svg>
+        Executive Dashboard
+      </button>
+      <button class="tab-btn" onclick="app.switchTab('datasets')">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path></svg>
+        20 Industry Datasets
+      </button>
+      <button class="tab-btn" onclick="app.switchTab('predict-single')">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg>
+        Employee Risk Inspector
+      </button>
+      <button class="tab-btn" onclick="app.switchTab('batch')">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="17 8 12 3 7 8"></polyline><line x1="12" y1="3" x2="12" y2="15"></line></svg>
+        Batch CSV Scoring
+      </button>
+      <button class="tab-btn" onclick="app.switchTab('mlops')">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v20"></path><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path></svg>
+        Model Benchmarks & Drift
+      </button>
+    </nav>
+
+    <!-- Tab 1: Executive Dashboard -->
+    <section id="tab-dashboard" class="tab-content active">
+      <!-- Executive KPI Cards -->
+      <div class="kpi-grid">
+        <div class="kpi-card">
+          <div class="kpi-icon icon-blue">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
+          </div>
+          <div class="kpi-details">
+            <span class="kpi-label">Monitored Headcount</span>
+            <span class="kpi-value" id="kpi-total-analyzed">--</span>
+            <span class="kpi-trend trend-neutral">Across all active business units</span>
+          </div>
+        </div>
+
+        <div class="kpi-card">
+          <div class="kpi-icon icon-amber">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="20" x2="18" y2="10"></line><line x1="12" y1="20" x2="12" y2="4"></line><line x1="6" y1="20" x2="6" y2="14"></line></svg>
+          </div>
+          <div class="kpi-details">
+            <span class="kpi-label">Average Attrition Risk</span>
+            <span class="kpi-value" id="kpi-avg-risk">--%</span>
+            <span class="kpi-trend" id="kpi-risk-trend">Empirical calibrated probability</span>
+          </div>
+        </div>
+
+        <div class="kpi-card">
+          <div class="kpi-icon icon-red">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"></path><line x1="12" y1="9" x2="12" y2="13"></line><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>
+          </div>
+          <div class="kpi-details">
+            <span class="kpi-label">High-Risk Personnel</span>
+            <span class="kpi-value" id="kpi-high-risk">--</span>
+            <span class="kpi-trend trend-down">Urgent retention interventions needed</span>
+          </div>
+        </div>
+
+        <div class="kpi-card">
+          <div class="kpi-icon icon-green">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="1" x2="12" y2="23"></line><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path></svg>
+          </div>
+          <div class="kpi-details">
+            <span class="kpi-label">Turnover Loss At Risk</span>
+            <span class="kpi-value" id="kpi-loss-at-risk">$0</span>
+            <span class="kpi-trend trend-neutral">Projected replacement & vacancy costs</span>
+          </div>
+        </div>
+
+        <div class="kpi-card">
+          <div class="kpi-icon icon-cyan">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
+          </div>
+          <div class="kpi-details">
+            <span class="kpi-label">Data Trust Index</span>
+            <span class="kpi-value" id="kpi-trust-score">97.8%</span>
+            <span class="kpi-trend trend-up">Autoencoder & IsoForest shield</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Charts Section -->
+      <div class="charts-grid">
+        <div class="chart-card">
+          <div class="card-header">
+            <h3>Attrition Risk Tier Distribution</h3>
+            <span class="card-hint">Calibrated Probabilities</span>
+          </div>
+          <div class="chart-wrapper">
+            <canvas id="riskTierChart"></canvas>
+          </div>
+        </div>
+
+        <div class="chart-card">
+          <div class="card-header">
+            <h3>Behavioral Persona Segments</h3>
+            <span class="card-hint">KMeans Archetypes</span>
+          </div>
+          <div class="chart-wrapper">
+            <canvas id="personaChart"></canvas>
+          </div>
+        </div>
+
+        <div class="chart-card wide-card">
+          <div class="card-header">
+            <h3>Departmental Turnover Financial Exposure ($)</h3>
+            <span class="card-hint">Replacement Cost Model</span>
+          </div>
+          <div class="chart-wrapper">
+            <canvas id="deptChart"></canvas>
+          </div>
+        </div>
+      </div>
+
+      <!-- Live Actionable Roster -->
+      <div class="table-card">
+        <div class="card-header-flex">
+          <div>
+            <h3>Enterprise Retention Roster</h3>
+            <p class="card-sub">Real-time inference queue with risk attribution and prescription playbooks</p>
+          </div>
+          <div class="table-filters">
+            <input type="text" id="roster-search" placeholder="Search by role or department..." oninput="app.filterRoster()" />
+            <select id="roster-filter-tier" onchange="app.filterRoster()">
+              <option value="ALL">All Risk Tiers</option>
+              <option value="CRITICAL">Critical Risk (>80%)</option>
+              <option value="HIGH">High Risk (60-80%)</option>
+              <option value="MODERATE">Moderate Risk (35-60%)</option>
+              <option value="LOW">Low Risk (<35%)</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="table-responsive">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>Employee ID</th>
+                <th>Department & Role</th>
+                <th>Monthly Salary</th>
+                <th>Risk Score</th>
+                <th>Risk Tier</th>
+                <th>Trust Score</th>
+                <th>Persona Archetype</th>
+                <th>Expected Loss</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody id="roster-tbody">
+              <tr><td colspan="9" class="text-center loading-cell">Loading employee data...</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- Tab 2: 20 Datasets Explorer -->
+    <section id="tab-datasets" class="tab-content">
+      <div class="card-header-flex" style="margin-bottom: 1.25rem;">
+        <div>
+          <h2>Workforce Datasets Explorer</h2>
+          <p class="card-sub">Access 20 real-world datasets downloaded directly from open-source online repositories + 20 specialized industry domain benchmarks.</p>
+        </div>
+        <div class="dataset-switch-pills" style="display: flex; gap: 0.5rem;">
+          <button class="btn btn-primary btn-sm" id="btn-show-online" onclick="app.setDatasetView('online')">
+            20 Real Online GitHub Datasets
+          </button>
+          <button class="btn btn-outline btn-sm" id="btn-show-industry" onclick="app.setDatasetView('industry')">
+            20 Industry Domain Benchmarks
+          </button>
+        </div>
+      </div>
+
+      <div class="datasets-grid" id="datasets-grid">
+        <!-- Injected via JavaScript -->
+      </div>
+
+      <!-- Dataset Sample Modal / Preview Drawer -->
+      <div class="table-card" id="dataset-preview-card" style="display:none; margin-top: 2rem;">
+        <div class="card-header-flex">
+          <div>
+            <h3 id="dataset-preview-title">Dataset Preview</h3>
+            <p class="card-sub">First 10 records from the selected industry dataset</p>
+          </div>
+          <button class="btn btn-outline" onclick="app.closeDatasetPreview()">Close Preview</button>
+        </div>
+        <div class="table-responsive" id="dataset-preview-table"></div>
+      </div>
+    </section>
+
+    <!-- Tab 3: Single Employee Risk Inspector -->
+    <section id="tab-predict-single" class="tab-content">
+      <div class="section-intro">
+        <h2>Individual Employee Risk & Retention Inspector</h2>
+        <p>Input employee profile details to generate instant probability, SHAP-style driver explanations, anomaly score, and tailored retention playbooks.</p>
+      </div>
+
+      <div class="form-grid-layout">
+        <!-- Input Form -->
+        <div class="form-card">
+          <h3>Employee Profile Parameters</h3>
+          <form id="employee-form" onsubmit="app.handleSinglePredict(event)">
+            <div class="form-row">
+              <div class="form-group">
+                <label>Age</label>
+                <input type="number" id="inp-age" value="32" min="18" max="75" required />
+              </div>
+              <div class="form-group">
+                <label>Department</label>
+                <select id="inp-dept" onchange="app.handleDepartmentChange()">
+                  <option value="Research & Development">Research & Development</option>
+                  <option value="Sales">Sales</option>
+                  <option value="Human Resources">Human Resources</option>
+                  <option value="Engineering">Engineering</option>
+                  <option value="Healthcare & Clinical">Healthcare & Clinical</option>
+                  <option value="Finance & Banking">Finance & Banking</option>
+                  <option value="Management Consulting">Management Consulting</option>
+                  <option value="Retail & Operations">Retail & Operations</option>
+                  <option value="Logistics & Supply Chain">Logistics & Supply Chain</option>
+                  <option value="Customer Support & BPO">Customer Support & BPO</option>
+                  <option value="Legal & Compliance">Legal & Compliance</option>
+                  <option value="Creative Agency & Media">Creative Agency & Media</option>
+                  <option value="Public Sector & Gov">Public Sector & Gov</option>
+                  <option value="Manufacturing & Industrial">Manufacturing & Industrial</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="form-row">
+              <div class="form-group">
+                <label>Job Role</label>
+                <select id="inp-role" required style="cursor: pointer;">
+                  <option value="Research Scientist">Research Scientist</option>
+                  <option value="Laboratory Technician">Laboratory Technician</option>
+                  <option value="Manufacturing Director">Manufacturing Director</option>
+                  <option value="Healthcare Representative">Healthcare Representative</option>
+                  <option value="Research Director">Research Director</option>
+                  <option value="Manager">Manager</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label>Monthly Income ($)</label>
+                <input type="number" id="inp-income" value="4800" min="1000" max="80000" required />
+              </div>
+            </div>
+
+            <div class="form-row">
+              <div class="form-group">
+                <label>Overtime</label>
+                <select id="inp-overtime">
+                  <option value="Yes">Yes (Regular Overtime)</option>
+                  <option value="No">No</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label>Distance From Home (km)</label>
+                <input type="number" id="inp-distance" value="22" min="0" max="100" />
+              </div>
+            </div>
+
+            <div class="form-row">
+              <div class="form-group">
+                <label>Job Satisfaction (1-4)</label>
+                <select id="inp-jobsat">
+                  <option value="1">1 - Very Dissatisfied</option>
+                  <option value="2" selected>2 - Dissatisfied</option>
+                  <option value="3">3 - Satisfied</option>
+                  <option value="4">4 - Highly Satisfied</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label>Work-Life Balance (1-4)</label>
+                <select id="inp-wlb">
+                  <option value="1">1 - Bad</option>
+                  <option value="2" selected>2 - Compromised</option>
+                  <option value="3">3 - Good</option>
+                  <option value="4">4 - Excellent</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="form-row">
+              <div class="form-group">
+                <label>Years At Company</label>
+                <input type="number" id="inp-yearscompany" value="4" min="0" max="40" />
+              </div>
+              <div class="form-group">
+                <label>Years Since Last Promotion</label>
+                <input type="number" id="inp-yearspromo" value="3" min="0" max="30" />
+              </div>
+            </div>
+
+            <div class="form-group">
+              <label>Employee Feedback / Pulse Notes (Optional)</label>
+              <textarea id="inp-feedback" rows="2" placeholder="e.g. Overtime is becoming unmanageable and pay hasn't kept up with competitors."></textarea>
+            </div>
+
+            <button type="submit" class="btn btn-primary btn-block">
+              Analyze Risk & Generate Retention Plan
+            </button>
+          </form>
+        </div>
+
+        <!-- Result View -->
+        <div class="result-card" id="single-result-card" style="display: none;">
+          <!-- Populated by JS -->
+        </div>
+      </div>
+    </section>
+
+    <!-- Tab 4: Batch CSV Scoring -->
+    <section id="tab-batch" class="tab-content">
+      <div class="section-intro">
+        <h2>Enterprise Batch CSV Scoring & Risk Auditing</h2>
+        <p>Upload large workforce CSV datasets to score hundreds of employees in parallel, identify out-of-distribution profiles, and export audited retention reports.</p>
+      </div>
+
+      <div class="upload-dropzone" id="dropzone" onclick="document.getElementById('csv-file-input').click()">
+        <input type="file" id="csv-file-input" accept=".csv" style="display:none;" onchange="app.handleBatchUpload(event)" />
+        <div class="dropzone-icon">
+          <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+            <polyline points="17 8 12 3 7 8"></polyline>
+            <line x1="12" y1="3" x2="12" y2="15"></line>
+          </svg>
+        </div>
+        <h3>Drop employee CSV file here or click to browse</h3>
+        <p class="dropzone-hint">Supports IBM HR format, custom HRIS exports, or any of our 20 industry datasets</p>
+        <button type="button" class="btn btn-outline" style="margin-top: 1rem;" onclick="event.stopPropagation(); app.loadSampleBatch();">
+          Load Sample 100-Employee Batch
+        </button>
+      </div>
+
+      <div id="batch-results-container" style="display: none; margin-top: 2rem;">
+        <div class="kpi-grid">
+          <div class="kpi-card">
+            <div class="kpi-details">
+              <span class="kpi-label">Batch Processed</span>
+              <span class="kpi-value" id="batch-total-count">0</span>
+            </div>
+          </div>
+          <div class="kpi-card">
+            <div class="kpi-details">
+              <span class="kpi-label">Avg Batch Risk</span>
+              <span class="kpi-value" id="batch-avg-risk">0%</span>
+            </div>
+          </div>
+          <div class="kpi-card">
+            <div class="kpi-details">
+              <span class="kpi-label">High-Risk Employees</span>
+              <span class="kpi-value" id="batch-high-risk-count">0</span>
+            </div>
+          </div>
+          <div class="kpi-card">
+            <div class="kpi-details">
+              <span class="kpi-label">Total Loss At Risk</span>
+              <span class="kpi-value" id="batch-total-loss">$0</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="table-card">
+          <div class="card-header-flex">
+            <h3>Scored Workforce Report</h3>
+            <button class="btn btn-primary" onclick="app.downloadBatchCSV()">Download Scored CSV</button>
+          </div>
+          <div class="table-responsive" id="batch-table-container"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Tab 5: MLOps Model Benchmarks & Drift -->
+    <section id="tab-mlops" class="tab-content">
+      <div class="section-intro">
+        <h2>MLOps Governance, Drift & Model Benchmark Board</h2>
+        <p>Evaluate competitive multi-model performances across Supervised, Unsupervised, Deep Learning, and NLP algorithms, with two-sample Kolmogorov-Smirnov drift testing.</p>
+      </div>
+
+      <div class="mlops-grid">
+        <div class="table-card">
+          <div class="card-header">
+            <h3>Multi-Model Supervised Leaderboard</h3>
+            <span class="card-hint">Validation Metrics (Holdout 20%)</span>
+          </div>
+          <div class="table-responsive">
+            <table class="data-table" id="benchmark-table">
+              <thead>
+                <tr>
+                  <th>Model Algorithm</th>
+                  <th>ROC-AUC</th>
+                  <th>F1 Score</th>
+                  <th>Accuracy</th>
+                  <th>Precision</th>
+                  <th>Recall</th>
+                  <th>Brier Score</th>
+                </tr>
+              </thead>
+              <tbody id="benchmark-tbody">
+                <tr><td colspan="7" class="text-center">Loading model benchmarks...</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <div class="table-card">
+          <div class="card-header-flex">
+            <div>
+              <h3>Real-Time Data Drift Status</h3>
+              <p class="card-sub">Two-Sample Kolmogorov-Smirnov (KS) & TVD vs. Baseline</p>
+            </div>
+            <button class="btn btn-outline" onclick="app.fetchDriftStatus()">Check Drift</button>
+          </div>
+          <div id="drift-status-container" class="drift-box">
+            <div class="drift-badge-row">
+              <span class="status-pill status-healthy" id="drift-summary-pill">No Critical Drift Detected</span>
+              <span class="text-muted" id="drift-monitored-text">Monitored across 22 production features</span>
+            </div>
+            <div class="table-responsive" style="margin-top: 1rem;">
+              <table class="data-table" id="drift-features-table">
+                <thead>
+                  <tr>
+                    <th>Feature</th>
+                    <th>Type</th>
+                    <th>Drift Metric</th>
+                    <th>Statistic</th>
+                    <th>P-Value</th>
+                    <th>Status</th>
+                  </tr>
+                </thead>
+                <tbody id="drift-features-tbody">
+                  <tr><td colspan="6" class="text-center">Awaiting production traffic for drift evaluation.</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Employee Inspector & What-If Sandbox Modal -->
+  <div class="modal-overlay" id="employee-modal" style="display: none;">
+    <div class="modal-card">
+      <div class="modal-header">
+        <div>
+          <h2 id="modal-emp-name">Employee Retention Profile</h2>
+          <p id="modal-emp-sub" class="text-muted">ID: EMP-001 | Software Engineer</p>
+        </div>
+        <button class="modal-close-btn" onclick="app.closeModal()">&times;</button>
+      </div>
+
+      <div class="modal-body" id="modal-content">
+        <!-- Injected via JavaScript -->
+      </div>
+    </div>
+  </div>
+
+  <script src="/static/app.js?v=3.0"></script>
+  <script>
+    // Ensure department-to-role binding works even on immediate page load
+    document.addEventListener("DOMContentLoaded", function() {
+      if (window.app && typeof window.app.handleDepartmentChange === "function") {
+        window.app.handleDepartmentChange();
+      }
+    });
+  </script>
+</body>
+</html>

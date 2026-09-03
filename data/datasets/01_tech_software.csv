@@ -1,0 +1,401 @@
+Age,Attrition,Department,JobRole,EducationField,Education,DistanceFromHome,EnvironmentSatisfaction,JobSatisfaction,WorkLifeBalance,MaritalStatus,MonthlyIncome,NumCompaniesWorked,OverTime,BusinessTravel,PerformanceRating,PercentSalaryHike,TrainingTimesLastYear,YearsAtCompany,TotalWorkingYears,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager,Industry,EmployeeFeedback
+40,No,Engineering,Software Engineer,Mathematics,1,22,3,4,3,Single,11117,3,Yes,Non-Travel,3,12,4,5,9,2,0,1,Technology & Software Engineering,Great tech stack and modern microservices.
+35,Yes,Data Science,QA Lead,Computer Science,3,1,1,2,3,Single,8947,1,Yes,Travel_Rarely,3,14,1,0,3,0,0,0,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+32,Yes,Data Science,Tech Lead,Information Technology,1,6,4,1,2,Married,9952,5,No,Travel_Rarely,3,12,2,0,5,0,0,0,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+35,Yes,Data Science,QA Lead,Information Technology,3,1,3,4,2,Single,10208,2,Yes,Non-Travel,3,23,1,3,6,2,2,3,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+42,No,Engineering,Product Manager,Information Technology,3,10,3,4,1,Married,11421,2,No,Travel_Frequently,3,24,5,6,10,1,6,1,Technology & Software Engineering,Good equity upside and generous learning budget.
+41,Yes,Engineering,Tech Lead,Information Technology,3,3,3,3,1,Divorced,11010,3,No,Travel_Frequently,3,25,1,4,11,4,1,3,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+30,No,Engineering,DevOps Engineer,Information Technology,2,3,4,2,3,Single,11328,2,No,Travel_Rarely,3,22,1,10,12,4,4,4,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+39,No,Engineering,Product Manager,Information Technology,2,4,2,1,4,Divorced,10800,1,Yes,Travel_Rarely,3,18,1,7,7,0,0,0,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+45,No,Data Science,DevOps Engineer,Computer Science,3,1,3,3,3,Married,17490,4,Yes,Non-Travel,3,16,4,0,27,0,0,0,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+36,Yes,Data Science,Product Manager,Computer Science,2,3,2,4,2,Single,11937,5,No,Travel_Rarely,3,25,3,6,14,3,2,0,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+38,No,Engineering,QA Lead,Information Technology,4,9,3,4,4,Married,9031,7,Yes,Travel_Frequently,3,19,3,4,5,0,4,0,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+37,Yes,Data Science,Tech Lead,Information Technology,3,8,2,4,1,Married,13636,1,Yes,Travel_Frequently,3,14,3,1,15,0,1,0,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+29,No,Engineering,Software Engineer,Computer Science,4,6,3,3,3,Divorced,11640,0,Yes,Travel_Rarely,3,23,3,9,11,3,3,2,Technology & Software Engineering,Good equity upside and generous learning budget.
+43,Yes,Product,Tech Lead,Information Technology,3,1,2,4,3,Married,15943,1,No,Travel_Frequently,3,22,1,20,23,13,3,9,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+21,Yes,Data Science,Tech Lead,Information Technology,3,9,2,2,2,Married,8864,2,Yes,Travel_Frequently,4,19,3,1,3,0,1,0,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+28,No,Data Science,DevOps Engineer,Mathematics,5,1,3,1,2,Divorced,9104,3,Yes,Travel_Rarely,3,13,1,3,3,0,3,0,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+39,Yes,Product,DevOps Engineer,Mathematics,1,10,3,3,1,Single,10677,3,No,Travel_Frequently,3,12,4,1,9,0,0,1,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+35,No,Product,DevOps Engineer,Computer Science,5,2,3,4,2,Divorced,7699,4,No,Travel_Rarely,3,19,5,0,0,0,0,0,Technology & Software Engineering,Great tech stack and modern microservices.
+47,No,Data Science,DevOps Engineer,Computer Science,3,4,3,1,3,Married,7769,1,No,Travel_Frequently,3,24,5,0,0,0,0,0,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+43,No,Engineering,Tech Lead,Mathematics,3,6,1,2,3,Single,9387,4,No,Travel_Frequently,3,21,4,1,5,1,1,0,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+39,No,Product,Tech Lead,Information Technology,2,2,3,3,4,Single,8197,5,Yes,Travel_Rarely,3,15,5,0,1,0,0,0,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+43,No,Data Science,DevOps Engineer,Computer Science,3,18,1,3,4,Divorced,11545,0,No,Travel_Rarely,3,19,5,1,14,0,1,1,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+39,No,Engineering,Tech Lead,Computer Science,5,21,3,2,3,Divorced,12845,1,No,Non-Travel,3,19,5,12,16,6,0,3,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+53,Yes,Engineering,QA Lead,Information Technology,3,1,3,4,2,Single,10289,4,Yes,Travel_Rarely,3,21,2,5,8,4,5,3,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+38,Yes,Data Science,Software Engineer,Mathematics,4,6,2,2,2,Divorced,9959,4,Yes,Travel_Frequently,3,12,4,1,7,1,1,0,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+34,No,Engineering,DevOps Engineer,Computer Science,2,39,4,4,3,Married,9091,5,Yes,Travel_Frequently,3,16,5,2,5,1,1,0,Technology & Software Engineering,Great tech stack and modern microservices.
+46,No,Product,Tech Lead,Computer Science,5,1,2,2,3,Divorced,11294,5,No,Travel_Rarely,3,12,4,9,9,9,2,7,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+44,Yes,Engineering,QA Lead,Information Technology,5,5,4,4,1,Single,12411,4,No,Non-Travel,3,11,1,0,12,0,0,0,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+38,No,Product,Product Manager,Information Technology,3,2,2,3,2,Married,11107,2,No,Non-Travel,3,11,3,3,9,0,3,0,Technology & Software Engineering,Good equity upside and generous learning budget.
+43,No,Engineering,DevOps Engineer,Information Technology,3,7,4,2,4,Single,8396,7,No,Travel_Rarely,3,21,1,1,1,0,1,0,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+43,Yes,Engineering,Tech Lead,Information Technology,3,5,3,2,3,Divorced,10499,3,Yes,Travel_Frequently,3,20,1,0,6,0,0,0,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+52,No,Engineering,Tech Lead,Computer Science,1,1,4,3,3,Single,10133,1,No,Travel_Frequently,3,12,5,4,5,3,0,0,Technology & Software Engineering,Great tech stack and modern microservices.
+36,Yes,Data Science,Software Engineer,Information Technology,4,1,3,4,1,Divorced,8450,1,No,Travel_Frequently,4,25,5,0,2,0,0,0,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+37,No,Engineering,Product Manager,Information Technology,3,18,3,3,1,Divorced,13508,1,No,Travel_Rarely,3,13,3,17,19,10,3,8,Technology & Software Engineering,Great tech stack and modern microservices.
+49,Yes,Engineering,QA Lead,Mathematics,4,9,2,2,1,Single,8339,1,Yes,Travel_Frequently,4,14,1,1,2,0,0,0,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+36,Yes,Engineering,DevOps Engineer,Information Technology,3,34,2,2,3,Single,10180,1,No,Non-Travel,3,18,3,3,7,0,0,2,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+33,Yes,Data Science,Tech Lead,Information Technology,5,6,3,1,2,Single,7998,0,No,Travel_Frequently,4,25,2,0,1,0,0,0,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+32,No,Data Science,Tech Lead,Computer Science,3,4,3,3,4,Married,12657,1,No,Non-Travel,3,20,4,12,14,8,3,7,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+24,Yes,Data Science,QA Lead,Information Technology,2,1,1,2,1,Single,9328,0,No,Travel_Rarely,4,23,2,3,3,3,0,3,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+24,Yes,Engineering,Product Manager,Computer Science,3,1,3,4,2,Married,8856,2,No,Travel_Frequently,4,21,1,0,3,0,0,0,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+41,Yes,Data Science,DevOps Engineer,Mathematics,3,7,4,3,2,Married,11104,3,No,Travel_Rarely,3,12,3,5,13,3,0,1,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+40,No,Product,Software Engineer,Information Technology,4,5,3,2,3,Divorced,8474,5,Yes,Travel_Rarely,3,25,5,3,3,2,1,0,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+42,No,Data Science,DevOps Engineer,Computer Science,4,10,3,3,3,Single,9854,3,No,Travel_Rarely,3,23,4,2,9,0,1,0,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+29,No,Product,DevOps Engineer,Information Technology,1,7,4,3,1,Divorced,9048,6,Yes,Travel_Rarely,3,24,2,1,2,0,1,1,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+52,Yes,Engineering,QA Lead,Information Technology,3,7,1,4,4,Single,10673,0,Yes,Non-Travel,4,17,3,2,8,2,2,0,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+35,No,Engineering,Product Manager,Information Technology,2,4,2,3,3,Divorced,11552,2,Yes,Travel_Frequently,3,21,3,1,9,1,1,0,Technology & Software Engineering,Great tech stack and modern microservices.
+35,No,Engineering,Product Manager,Computer Science,4,1,3,4,3,Married,10567,1,Yes,Travel_Frequently,3,17,3,3,8,3,0,1,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+28,Yes,Product,Tech Lead,Mathematics,2,1,3,3,3,Married,8576,4,No,Travel_Rarely,3,16,3,0,3,0,0,0,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+34,Yes,Engineering,Tech Lead,Mathematics,4,1,3,2,1,Divorced,10169,1,No,Travel_Frequently,3,25,5,0,6,0,0,0,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+37,Yes,Engineering,Product Manager,Mathematics,3,1,2,3,2,Divorced,10458,0,No,Non-Travel,4,17,2,1,7,1,1,1,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+39,No,Data Science,QA Lead,Information Technology,3,4,3,3,2,Divorced,11058,4,Yes,Non-Travel,3,16,1,2,13,0,0,0,Technology & Software Engineering,Good equity upside and generous learning budget.
+45,No,Data Science,DevOps Engineer,Mathematics,5,1,3,3,2,Married,13574,6,No,Travel_Frequently,3,21,4,8,16,4,0,3,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+36,Yes,Product,Tech Lead,Mathematics,3,14,2,3,3,Married,9447,4,No,Travel_Frequently,3,20,5,5,5,0,0,0,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+31,No,Data Science,DevOps Engineer,Mathematics,3,5,4,3,2,Married,10321,2,No,Travel_Rarely,4,16,5,0,7,0,0,0,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+39,Yes,Data Science,Product Manager,Computer Science,1,27,3,3,1,Single,8908,1,Yes,Travel_Rarely,3,22,4,2,4,0,2,0,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+22,Yes,Product,QA Lead,Mathematics,4,9,4,1,3,Single,9086,2,No,Travel_Frequently,3,11,5,2,4,2,1,2,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+43,No,Data Science,Software Engineer,Computer Science,1,14,3,4,4,Single,10156,2,Yes,Non-Travel,4,12,3,0,5,0,0,0,Technology & Software Engineering,Great tech stack and modern microservices.
+35,No,Data Science,DevOps Engineer,Computer Science,3,17,3,2,3,Single,9757,1,No,Non-Travel,3,12,1,0,5,0,0,0,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+37,No,Product,Tech Lead,Mathematics,3,10,4,3,4,Married,13759,1,No,Travel_Frequently,3,19,4,11,19,8,1,5,Technology & Software Engineering,Good equity upside and generous learning budget.
+48,No,Product,Product Manager,Computer Science,5,18,4,2,3,Married,8671,1,No,Travel_Frequently,3,16,3,1,2,0,1,0,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+46,No,Product,Software Engineer,Mathematics,3,7,4,4,3,Single,10378,2,Yes,Non-Travel,3,19,3,1,9,0,1,0,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+36,No,Engineering,DevOps Engineer,Information Technology,3,2,4,1,4,Single,12168,0,No,Travel_Frequently,3,18,3,16,18,14,3,10,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+41,No,Product,Software Engineer,Computer Science,3,5,1,4,4,Married,9943,4,No,Non-Travel,4,12,5,5,6,2,1,1,Technology & Software Engineering,Good equity upside and generous learning budget.
+37,No,Product,Software Engineer,Information Technology,2,11,4,3,3,Married,13532,2,No,Non-Travel,3,25,3,8,15,6,5,5,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+35,No,Product,DevOps Engineer,Information Technology,3,7,1,3,2,Married,9854,3,Yes,Non-Travel,3,11,1,1,7,0,1,0,Technology & Software Engineering,Good equity upside and generous learning budget.
+33,No,Data Science,DevOps Engineer,Information Technology,4,2,1,4,4,Divorced,11086,0,No,Travel_Rarely,3,12,4,5,8,2,2,2,Technology & Software Engineering,Great tech stack and modern microservices.
+22,Yes,Engineering,QA Lead,Computer Science,3,1,2,1,3,Single,8518,3,Yes,Non-Travel,3,20,2,2,2,2,0,2,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+32,No,Product,QA Lead,Information Technology,4,19,4,2,4,Married,10065,4,No,Non-Travel,3,23,5,6,7,4,0,4,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+44,Yes,Product,DevOps Engineer,Mathematics,4,14,2,3,2,Divorced,10111,2,Yes,Travel_Rarely,3,18,3,0,10,0,0,0,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+50,Yes,Data Science,DevOps Engineer,Computer Science,3,1,3,2,2,Married,12308,2,No,Travel_Rarely,3,19,4,10,14,5,0,6,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+34,Yes,Product,DevOps Engineer,Mathematics,3,1,4,3,3,Divorced,8946,2,No,Travel_Frequently,3,16,3,0,2,0,0,0,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+33,Yes,Engineering,Tech Lead,Computer Science,2,4,1,3,2,Divorced,11511,3,No,Non-Travel,3,14,2,3,9,1,0,0,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+48,No,Engineering,Tech Lead,Mathematics,3,18,3,4,3,Single,12462,5,Yes,Travel_Frequently,3,21,3,0,13,0,0,0,Technology & Software Engineering,Great tech stack and modern microservices.
+31,No,Data Science,Software Engineer,Information Technology,5,44,3,3,3,Married,7935,3,No,Travel_Frequently,3,16,5,0,1,0,0,0,Technology & Software Engineering,Great tech stack and modern microservices.
+45,No,Product,QA Lead,Computer Science,3,10,1,4,4,Married,11933,4,No,Non-Travel,3,14,2,5,11,2,1,0,Technology & Software Engineering,Good equity upside and generous learning budget.
+29,No,Engineering,Tech Lead,Mathematics,4,1,3,2,4,Divorced,11062,3,No,Non-Travel,3,22,2,9,10,8,3,8,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+21,No,Data Science,Tech Lead,Information Technology,3,17,2,3,3,Single,7952,3,No,Non-Travel,3,23,3,1,1,1,0,1,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+36,No,Product,Tech Lead,Mathematics,3,15,3,3,3,Married,9811,1,Yes,Travel_Frequently,3,18,4,2,6,0,2,0,Technology & Software Engineering,Good equity upside and generous learning budget.
+27,No,Engineering,Product Manager,Information Technology,3,28,3,3,3,Married,8238,2,No,Non-Travel,3,19,2,0,0,0,0,0,Technology & Software Engineering,Great tech stack and modern microservices.
+29,Yes,Data Science,DevOps Engineer,Computer Science,5,8,3,2,1,Divorced,9005,1,No,Travel_Rarely,3,25,2,3,3,1,0,0,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+42,Yes,Data Science,QA Lead,Information Technology,2,3,4,3,4,Single,11945,5,Yes,Travel_Rarely,3,19,2,7,14,3,6,2,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+34,No,Product,Tech Lead,Mathematics,3,3,4,3,4,Married,8404,3,No,Non-Travel,3,23,3,1,1,1,1,1,Technology & Software Engineering,Good equity upside and generous learning budget.
+21,No,Product,Product Manager,Information Technology,5,6,2,3,3,Single,8724,3,No,Travel_Rarely,3,19,3,1,3,1,0,0,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+51,No,Engineering,DevOps Engineer,Mathematics,3,1,3,3,3,Married,9501,3,No,Non-Travel,3,15,3,0,3,0,0,0,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+35,No,Engineering,DevOps Engineer,Information Technology,3,2,3,4,2,Married,8370,1,Yes,Travel_Rarely,3,12,2,0,3,0,0,0,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+29,No,Engineering,Software Engineer,Mathematics,3,3,2,3,4,Divorced,9716,1,No,Non-Travel,3,17,1,4,5,4,0,3,Technology & Software Engineering,Great tech stack and modern microservices.
+38,Yes,Engineering,Tech Lead,Information Technology,4,10,3,4,3,Married,10399,3,No,Non-Travel,3,14,2,3,10,3,1,0,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+40,Yes,Engineering,Software Engineer,Information Technology,3,2,2,3,2,Single,8848,3,No,Non-Travel,3,17,3,2,2,2,1,1,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+30,Yes,Engineering,DevOps Engineer,Computer Science,3,2,1,1,4,Married,10892,0,No,Travel_Frequently,3,18,1,2,8,2,0,2,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+50,No,Product,QA Lead,Information Technology,4,41,3,4,3,Married,8778,3,Yes,Travel_Frequently,3,13,2,2,2,0,1,1,Technology & Software Engineering,Great tech stack and modern microservices.
+41,Yes,Engineering,DevOps Engineer,Information Technology,3,20,3,3,2,Single,9078,1,Yes,Travel_Frequently,3,14,3,0,5,0,0,0,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+25,No,Product,QA Lead,Mathematics,1,9,1,3,3,Married,9689,1,Yes,Travel_Frequently,3,22,4,5,7,5,1,4,Technology & Software Engineering,Good equity upside and generous learning budget.
+31,No,Engineering,DevOps Engineer,Information Technology,3,15,3,3,4,Divorced,12812,3,No,Travel_Frequently,3,16,4,11,13,6,1,3,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+24,Yes,Data Science,DevOps Engineer,Information Technology,5,6,3,1,2,Single,10251,3,Yes,Travel_Rarely,3,12,4,4,6,3,0,3,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+32,No,Product,Software Engineer,Information Technology,4,22,2,3,1,Married,13169,2,No,Travel_Frequently,3,22,5,12,14,9,1,6,Technology & Software Engineering,Good equity upside and generous learning budget.
+39,Yes,Product,Software Engineer,Mathematics,2,4,2,2,3,Married,9366,0,No,Travel_Rarely,3,25,1,0,4,0,0,0,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+31,No,Data Science,Tech Lead,Mathematics,4,1,2,2,2,Divorced,9631,2,No,Travel_Rarely,3,16,2,0,5,0,0,0,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+47,No,Product,Tech Lead,Mathematics,3,1,3,3,1,Married,11151,3,Yes,Non-Travel,3,20,2,2,10,2,0,2,Technology & Software Engineering,Good equity upside and generous learning budget.
+25,Yes,Engineering,QA Lead,Information Technology,3,15,2,4,3,Married,9489,2,Yes,Non-Travel,3,23,4,4,7,0,0,0,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+33,No,Data Science,QA Lead,Information Technology,2,7,4,4,3,Married,12574,1,No,Travel_Frequently,3,16,1,4,15,3,0,2,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+37,No,Product,Product Manager,Computer Science,4,3,1,1,4,Divorced,8597,2,No,Non-Travel,3,20,4,4,4,4,0,3,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+33,Yes,Product,Software Engineer,Computer Science,3,3,4,1,2,Married,9524,1,No,Travel_Frequently,3,19,1,0,5,0,0,0,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+42,Yes,Engineering,Product Manager,Mathematics,3,2,3,4,1,Married,9174,4,No,Travel_Rarely,3,18,2,3,3,3,3,3,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+51,No,Data Science,DevOps Engineer,Information Technology,3,11,4,4,4,Single,7958,4,No,Travel_Frequently,4,12,5,0,1,0,0,0,Technology & Software Engineering,Great tech stack and modern microservices.
+39,No,Product,Software Engineer,Mathematics,4,11,2,4,3,Married,10872,1,No,Travel_Rarely,4,23,3,11,11,6,3,4,Technology & Software Engineering,Good equity upside and generous learning budget.
+36,No,Product,QA Lead,Computer Science,2,2,3,2,3,Divorced,7791,5,Yes,Non-Travel,3,13,1,0,0,0,0,0,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+29,No,Engineering,Product Manager,Information Technology,3,44,3,1,3,Divorced,9085,4,Yes,Non-Travel,3,13,3,3,6,3,3,2,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+38,No,Engineering,QA Lead,Mathematics,3,6,3,3,3,Married,10526,4,Yes,Non-Travel,3,20,4,2,7,2,0,0,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+45,Yes,Engineering,DevOps Engineer,Mathematics,5,10,3,2,1,Single,11107,5,No,Non-Travel,3,21,4,4,11,1,0,0,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+43,Yes,Data Science,QA Lead,Information Technology,5,9,2,2,2,Divorced,11274,1,No,Travel_Frequently,3,11,5,2,11,2,2,0,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+33,No,Engineering,QA Lead,Computer Science,1,12,3,3,1,Married,8780,0,Yes,Travel_Frequently,4,13,1,1,4,1,1,0,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+30,No,Engineering,QA Lead,Information Technology,4,2,2,1,1,Divorced,8501,4,No,Non-Travel,3,17,3,1,1,1,1,0,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+38,No,Product,QA Lead,Mathematics,4,1,1,4,2,Divorced,9401,4,Yes,Travel_Rarely,3,21,4,0,4,0,0,0,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+43,Yes,Data Science,Software Engineer,Information Technology,3,10,4,2,4,Divorced,11506,1,No,Travel_Rarely,3,11,2,15,15,7,1,6,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+39,Yes,Engineering,Software Engineer,Information Technology,3,8,2,3,4,Married,8859,2,Yes,Travel_Rarely,3,15,2,1,3,0,1,1,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+38,No,Data Science,DevOps Engineer,Computer Science,4,6,4,4,3,Single,9646,1,No,Travel_Rarely,3,15,4,5,6,2,1,1,Technology & Software Engineering,Good equity upside and generous learning budget.
+39,Yes,Data Science,DevOps Engineer,Computer Science,4,3,3,3,1,Divorced,8116,2,Yes,Non-Travel,3,22,1,0,1,0,0,0,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+42,No,Product,Tech Lead,Computer Science,4,1,3,3,2,Married,9172,4,No,Travel_Rarely,3,19,2,0,2,0,0,0,Technology & Software Engineering,Good equity upside and generous learning budget.
+32,Yes,Data Science,Product Manager,Information Technology,4,33,4,1,3,Single,12638,3,No,Non-Travel,3,11,5,8,13,3,2,2,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+27,No,Data Science,Product Manager,Mathematics,3,13,1,4,3,Divorced,8480,4,Yes,Non-Travel,3,23,1,0,0,0,0,0,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+36,No,Engineering,Tech Lead,Mathematics,4,11,2,1,1,Single,11133,5,No,Travel_Frequently,3,25,2,7,9,0,4,0,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+30,No,Engineering,Tech Lead,Information Technology,3,9,4,2,2,Divorced,9183,1,Yes,Travel_Rarely,3,17,3,0,5,0,0,0,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+41,No,Data Science,Software Engineer,Mathematics,2,3,3,4,3,Single,12314,3,Yes,Travel_Frequently,3,18,4,8,15,5,0,4,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+45,No,Engineering,Product Manager,Information Technology,3,8,3,4,3,Married,8252,1,Yes,Travel_Frequently,3,19,4,2,2,2,2,2,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+36,No,Data Science,Tech Lead,Information Technology,3,8,3,2,3,Married,9800,2,No,Travel_Rarely,3,22,2,0,4,0,0,0,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+32,No,Data Science,Product Manager,Computer Science,2,1,3,4,1,Single,11186,6,Yes,Non-Travel,3,13,4,1,8,0,1,0,Technology & Software Engineering,Good equity upside and generous learning budget.
+31,Yes,Data Science,Product Manager,Computer Science,3,1,3,3,3,Single,10030,5,Yes,Non-Travel,3,17,4,5,9,0,2,0,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+44,No,Data Science,QA Lead,Mathematics,2,5,2,1,2,Single,9197,2,No,Non-Travel,4,23,5,4,4,0,1,0,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+35,No,Data Science,DevOps Engineer,Mathematics,2,7,2,3,4,Divorced,8754,3,No,Travel_Rarely,3,15,1,0,1,0,0,0,Technology & Software Engineering,Good equity upside and generous learning budget.
+32,No,Engineering,DevOps Engineer,Computer Science,4,2,3,3,4,Married,11289,2,No,Travel_Rarely,3,22,5,4,14,1,1,0,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+33,No,Product,QA Lead,Information Technology,3,18,3,3,2,Divorced,8394,3,No,Travel_Frequently,3,22,4,1,1,0,0,1,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+44,No,Product,Software Engineer,Information Technology,4,6,2,1,2,Married,11661,5,No,Travel_Frequently,3,15,2,4,14,2,0,4,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+43,No,Product,QA Lead,Computer Science,3,15,4,3,2,Single,9903,2,No,Non-Travel,3,19,5,6,7,3,0,4,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+35,Yes,Engineering,QA Lead,Information Technology,3,23,2,3,3,Single,11598,2,No,Travel_Rarely,3,11,1,3,10,1,1,0,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+47,No,Data Science,Tech Lead,Computer Science,5,2,3,3,1,Married,8501,1,Yes,Travel_Rarely,3,12,5,3,3,0,3,0,Technology & Software Engineering,Great tech stack and modern microservices.
+46,No,Data Science,DevOps Engineer,Mathematics,3,3,2,2,3,Single,8011,4,Yes,Travel_Rarely,3,20,5,0,1,0,0,0,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+28,No,Product,DevOps Engineer,Computer Science,3,1,4,2,2,Married,10259,3,No,Travel_Frequently,3,23,3,0,10,0,0,0,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+22,Yes,Engineering,Product Manager,Computer Science,2,10,2,3,2,Married,8934,3,Yes,Travel_Frequently,3,13,5,0,4,0,0,0,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+50,No,Data Science,Software Engineer,Mathematics,4,5,1,3,4,Married,9058,2,No,Travel_Rarely,4,20,4,1,4,1,1,0,Technology & Software Engineering,Good equity upside and generous learning budget.
+37,No,Data Science,DevOps Engineer,Mathematics,3,13,4,3,4,Divorced,10690,1,No,Travel_Rarely,3,13,4,0,7,0,0,0,Technology & Software Engineering,Good equity upside and generous learning budget.
+28,No,Data Science,Software Engineer,Computer Science,4,3,1,4,4,Married,8226,1,No,Non-Travel,3,24,5,1,2,0,1,1,Technology & Software Engineering,Good equity upside and generous learning budget.
+30,No,Engineering,Software Engineer,Information Technology,4,13,4,3,3,Single,10569,2,Yes,Travel_Frequently,3,18,5,10,10,4,0,4,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+49,No,Product,Tech Lead,Mathematics,4,5,1,3,1,Married,9716,1,No,Non-Travel,4,12,1,1,6,0,1,1,Technology & Software Engineering,Great tech stack and modern microservices.
+43,No,Data Science,Tech Lead,Mathematics,3,14,4,4,2,Married,8356,1,No,Travel_Rarely,4,23,5,0,2,0,0,0,Technology & Software Engineering,Good equity upside and generous learning budget.
+33,No,Product,QA Lead,Mathematics,3,2,3,4,3,Married,10063,2,No,Travel_Rarely,3,12,4,5,6,0,1,1,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+40,No,Data Science,QA Lead,Computer Science,1,5,3,4,2,Single,11497,2,Yes,Travel_Rarely,3,19,1,9,15,3,5,1,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+43,Yes,Data Science,Software Engineer,Mathematics,2,8,4,2,4,Divorced,7987,0,Yes,Travel_Frequently,3,11,4,1,1,0,1,0,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+30,Yes,Data Science,Software Engineer,Information Technology,5,9,4,2,2,Married,11738,2,Yes,Travel_Frequently,3,21,1,3,12,2,0,2,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+21,Yes,Engineering,Software Engineer,Information Technology,4,1,4,1,2,Married,8680,3,Yes,Travel_Frequently,3,14,2,1,3,0,1,0,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+30,No,Data Science,Tech Lead,Mathematics,3,17,3,2,2,Divorced,9372,1,No,Travel_Frequently,3,16,1,3,4,2,3,0,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+37,Yes,Engineering,DevOps Engineer,Information Technology,3,26,3,3,3,Married,10711,4,No,Travel_Frequently,3,21,1,1,10,0,1,0,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+29,No,Data Science,QA Lead,Computer Science,1,3,2,1,3,Divorced,9865,4,No,Travel_Rarely,3,14,1,9,9,4,0,3,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+38,No,Product,QA Lead,Information Technology,5,1,2,2,3,Single,11091,5,Yes,Non-Travel,3,17,4,6,9,4,0,0,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+30,No,Engineering,DevOps Engineer,Computer Science,4,3,3,4,1,Single,8403,3,No,Travel_Frequently,3,18,4,1,2,0,1,0,Technology & Software Engineering,Good equity upside and generous learning budget.
+44,No,Data Science,QA Lead,Information Technology,5,7,3,4,2,Single,8741,2,No,Non-Travel,3,15,5,4,4,2,0,0,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+53,No,Data Science,Tech Lead,Information Technology,2,8,1,3,4,Divorced,9407,4,Yes,Travel_Frequently,3,25,4,2,6,1,2,2,Technology & Software Engineering,Great tech stack and modern microservices.
+35,Yes,Engineering,DevOps Engineer,Information Technology,3,2,4,3,4,Single,10596,2,No,Travel_Rarely,3,20,4,10,10,3,2,1,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+47,No,Data Science,QA Lead,Computer Science,3,2,2,3,2,Married,9953,2,No,Travel_Rarely,4,18,3,5,8,4,0,2,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+62,No,Engineering,QA Lead,Mathematics,5,15,4,3,2,Married,10775,2,Yes,Travel_Rarely,3,12,4,2,7,0,0,0,Technology & Software Engineering,Good equity upside and generous learning budget.
+31,No,Data Science,QA Lead,Mathematics,2,14,3,3,3,Married,11663,6,Yes,Travel_Frequently,3,22,2,7,13,5,0,2,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+25,No,Data Science,QA Lead,Mathematics,3,14,2,3,4,Single,8224,3,No,Non-Travel,3,25,3,1,2,1,1,0,Technology & Software Engineering,Good equity upside and generous learning budget.
+37,Yes,Data Science,Software Engineer,Information Technology,3,10,3,2,1,Divorced,10954,1,Yes,Non-Travel,3,16,5,8,11,3,0,0,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+44,No,Data Science,Tech Lead,Computer Science,3,2,3,3,3,Married,8666,1,No,Non-Travel,4,15,1,0,1,0,0,0,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+29,No,Engineering,DevOps Engineer,Information Technology,3,12,3,2,2,Single,11797,1,No,Travel_Rarely,3,21,2,9,11,6,1,3,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+42,No,Data Science,QA Lead,Information Technology,2,13,2,3,4,Divorced,10780,2,No,Travel_Frequently,3,18,3,1,7,0,1,0,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+39,No,Data Science,Product Manager,Computer Science,3,2,1,2,3,Single,8177,3,No,Non-Travel,3,23,1,0,0,0,0,0,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+33,No,Product,Tech Lead,Computer Science,4,26,3,3,2,Married,10160,5,No,Non-Travel,3,16,5,6,10,4,3,3,Technology & Software Engineering,Great tech stack and modern microservices.
+60,No,Data Science,Software Engineer,Mathematics,1,1,4,4,4,Divorced,10840,1,Yes,Travel_Frequently,3,14,4,1,9,0,0,0,Technology & Software Engineering,Great tech stack and modern microservices.
+42,No,Product,Tech Lead,Mathematics,4,32,2,1,3,Married,11579,2,No,Travel_Rarely,3,24,4,2,12,0,1,0,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+41,No,Engineering,Product Manager,Mathematics,3,6,3,1,4,Divorced,10126,1,No,Travel_Rarely,3,12,2,6,10,3,6,1,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+40,No,Data Science,Tech Lead,Mathematics,3,7,2,3,4,Married,10312,2,Yes,Travel_Rarely,3,19,4,5,9,5,0,5,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+40,No,Data Science,Tech Lead,Computer Science,2,1,2,2,3,Divorced,11775,4,Yes,Travel_Frequently,4,11,3,13,14,10,2,9,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+45,No,Product,Product Manager,Mathematics,4,5,3,4,4,Divorced,8469,2,No,Travel_Frequently,3,16,1,2,2,2,1,0,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+41,No,Product,Product Manager,Mathematics,4,1,2,4,3,Divorced,12681,1,Yes,Travel_Frequently,3,12,4,6,15,3,1,4,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+29,No,Data Science,QA Lead,Mathematics,4,7,3,4,3,Single,9653,2,No,Non-Travel,3,18,3,0,4,0,0,0,Technology & Software Engineering,Great tech stack and modern microservices.
+47,Yes,Data Science,QA Lead,Mathematics,3,7,4,3,3,Single,11174,4,Yes,Non-Travel,3,15,2,1,13,1,0,1,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+33,No,Engineering,DevOps Engineer,Computer Science,2,2,1,4,3,Single,8636,1,Yes,Travel_Rarely,3,12,1,0,1,0,0,0,Technology & Software Engineering,Great tech stack and modern microservices.
+37,No,Data Science,Product Manager,Mathematics,3,6,2,1,2,Divorced,9062,3,Yes,Travel_Rarely,3,18,2,0,5,0,0,0,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+27,No,Data Science,QA Lead,Computer Science,1,4,4,2,3,Married,10232,2,No,Non-Travel,3,17,3,2,9,0,1,1,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+21,No,Data Science,QA Lead,Computer Science,3,3,3,4,3,Single,9303,2,Yes,Travel_Frequently,3,16,1,1,3,0,1,0,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+45,No,Product,Tech Lead,Information Technology,4,4,2,2,3,Married,8358,4,No,Non-Travel,3,21,5,0,1,0,0,0,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+32,No,Engineering,Tech Lead,Computer Science,2,5,3,3,4,Single,9710,8,No,Non-Travel,3,18,2,1,4,0,1,0,Technology & Software Engineering,Great tech stack and modern microservices.
+34,No,Data Science,Tech Lead,Computer Science,3,6,4,3,2,Single,11915,3,No,Non-Travel,3,16,1,5,15,3,3,3,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+45,No,Product,Software Engineer,Computer Science,3,36,3,4,4,Married,9978,1,No,Non-Travel,3,23,5,2,7,0,2,0,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+30,No,Engineering,QA Lead,Computer Science,3,3,2,1,4,Single,11462,1,Yes,Non-Travel,3,12,1,5,9,2,1,0,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+48,No,Engineering,DevOps Engineer,Computer Science,2,10,3,3,3,Married,8773,5,No,Non-Travel,3,13,4,0,4,0,0,0,Technology & Software Engineering,Good equity upside and generous learning budget.
+43,No,Data Science,Software Engineer,Computer Science,5,4,2,2,2,Married,9818,2,Yes,Travel_Rarely,3,21,2,3,8,2,3,1,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+27,No,Engineering,Product Manager,Computer Science,3,3,3,2,2,Single,9701,2,Yes,Non-Travel,4,24,5,4,6,3,3,3,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+24,Yes,Engineering,Software Engineer,Information Technology,1,2,3,1,2,Divorced,9842,3,Yes,Travel_Frequently,3,11,5,4,6,3,0,3,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+43,No,Product,QA Lead,Computer Science,3,45,4,4,2,Married,9412,5,Yes,Travel_Frequently,3,16,3,4,5,3,4,1,Technology & Software Engineering,Great tech stack and modern microservices.
+28,No,Data Science,Product Manager,Computer Science,1,11,2,3,1,Divorced,9173,6,No,Travel_Frequently,3,12,1,0,2,0,0,0,Technology & Software Engineering,Good equity upside and generous learning budget.
+48,No,Product,Software Engineer,Mathematics,3,6,3,2,4,Married,13751,6,Yes,Non-Travel,4,17,4,18,25,14,1,10,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+52,Yes,Engineering,Software Engineer,Mathematics,4,1,2,3,1,Married,9601,3,Yes,Travel_Frequently,3,14,1,4,6,1,2,3,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+37,No,Data Science,QA Lead,Mathematics,3,1,4,4,3,Divorced,9537,4,Yes,Non-Travel,3,24,5,0,7,0,0,0,Technology & Software Engineering,Good equity upside and generous learning budget.
+30,Yes,Engineering,Product Manager,Computer Science,1,45,4,4,2,Single,11194,5,No,Travel_Rarely,3,18,1,3,12,1,0,1,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+43,No,Data Science,QA Lead,Information Technology,3,4,2,2,3,Divorced,8215,2,Yes,Travel_Rarely,3,20,4,1,1,0,0,0,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+41,No,Product,Software Engineer,Information Technology,4,14,4,2,2,Married,8407,2,No,Non-Travel,4,12,2,0,0,0,0,0,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+45,Yes,Product,QA Lead,Information Technology,3,1,3,4,3,Married,10470,3,No,Travel_Frequently,3,12,1,6,7,3,1,2,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+49,No,Data Science,Product Manager,Information Technology,3,4,3,3,3,Single,10880,7,Yes,Travel_Rarely,3,12,4,11,11,7,2,1,Technology & Software Engineering,Good equity upside and generous learning budget.
+52,No,Engineering,QA Lead,Information Technology,3,18,2,4,4,Single,17441,4,No,Non-Travel,3,16,2,14,27,6,0,6,Technology & Software Engineering,Good equity upside and generous learning budget.
+46,No,Product,Software Engineer,Computer Science,3,3,3,3,3,Divorced,9544,2,No,Travel_Frequently,3,11,4,3,5,0,1,0,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+23,No,Engineering,DevOps Engineer,Mathematics,3,11,1,3,3,Married,8182,5,Yes,Travel_Frequently,3,17,2,1,2,1,1,1,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+27,Yes,Product,QA Lead,Mathematics,3,11,4,2,4,Divorced,10033,4,Yes,Travel_Rarely,4,22,3,4,7,3,2,1,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+39,Yes,Engineering,Tech Lead,Computer Science,5,14,3,3,2,Married,12810,3,Yes,Travel_Frequently,3,15,5,10,15,3,0,3,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+35,No,Engineering,DevOps Engineer,Information Technology,3,7,3,3,3,Married,8491,3,No,Travel_Frequently,3,22,2,2,3,0,0,0,Technology & Software Engineering,Good equity upside and generous learning budget.
+28,Yes,Engineering,Tech Lead,Information Technology,5,1,2,4,1,Married,9538,4,Yes,Travel_Frequently,3,22,1,2,7,0,1,0,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+33,Yes,Data Science,QA Lead,Computer Science,3,1,1,2,1,Married,9814,3,No,Travel_Frequently,4,14,2,4,5,1,4,0,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+21,No,Product,DevOps Engineer,Mathematics,5,10,2,3,2,Divorced,8963,3,No,Travel_Frequently,3,16,1,1,2,1,1,1,Technology & Software Engineering,Great tech stack and modern microservices.
+28,No,Engineering,DevOps Engineer,Computer Science,2,6,3,3,2,Single,11126,4,Yes,Non-Travel,3,22,4,4,10,2,2,2,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+31,Yes,Data Science,Software Engineer,Computer Science,4,18,2,1,1,Married,11716,4,No,Non-Travel,3,15,1,11,11,8,0,5,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+42,Yes,Data Science,Software Engineer,Computer Science,3,5,2,4,1,Divorced,9190,2,Yes,Non-Travel,3,19,4,3,4,3,0,3,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+34,No,Data Science,Tech Lead,Computer Science,3,14,2,4,1,Married,13329,3,No,Travel_Rarely,3,23,1,4,15,1,4,1,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+48,No,Product,DevOps Engineer,Computer Science,3,28,4,3,2,Divorced,10817,1,Yes,Non-Travel,3,21,2,6,7,4,1,2,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+38,No,Engineering,Product Manager,Computer Science,4,4,2,1,3,Divorced,8782,5,Yes,Travel_Frequently,3,22,5,2,2,2,2,1,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+31,No,Data Science,DevOps Engineer,Mathematics,2,14,2,1,4,Single,9087,2,Yes,Travel_Frequently,3,17,5,3,3,0,3,0,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+24,No,Data Science,Software Engineer,Computer Science,2,2,3,3,4,Single,8619,3,No,Travel_Rarely,3,24,2,1,1,0,1,0,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+23,No,Data Science,QA Lead,Mathematics,4,15,3,3,2,Single,9396,1,No,Travel_Frequently,3,13,5,3,4,2,3,1,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+44,Yes,Product,DevOps Engineer,Mathematics,3,7,3,2,2,Married,9786,2,No,Non-Travel,3,19,2,1,5,1,1,0,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+34,Yes,Product,QA Lead,Computer Science,5,14,3,3,2,Divorced,11339,1,Yes,Non-Travel,3,21,5,2,9,0,0,0,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+35,Yes,Product,DevOps Engineer,Information Technology,3,12,3,3,1,Divorced,12376,0,Yes,Travel_Frequently,3,16,1,8,17,3,0,2,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+23,No,Engineering,DevOps Engineer,Computer Science,4,14,2,4,3,Married,10027,1,No,Travel_Rarely,3,22,5,3,5,3,0,3,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+28,No,Product,Tech Lead,Mathematics,3,5,1,4,2,Single,10987,2,No,Non-Travel,3,23,4,6,10,3,1,1,Technology & Software Engineering,Good equity upside and generous learning budget.
+39,No,Product,QA Lead,Computer Science,4,3,3,3,3,Married,12884,3,No,Travel_Rarely,3,14,5,6,13,1,0,0,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+35,No,Engineering,Software Engineer,Information Technology,3,8,2,4,3,Divorced,8505,0,No,Non-Travel,3,15,4,1,1,1,1,0,Technology & Software Engineering,Great tech stack and modern microservices.
+36,Yes,Engineering,QA Lead,Computer Science,3,4,3,3,4,Divorced,8544,3,Yes,Non-Travel,3,21,4,2,2,0,2,0,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+28,No,Data Science,Tech Lead,Computer Science,3,12,3,3,2,Divorced,8807,1,Yes,Non-Travel,3,15,2,2,3,2,0,2,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+32,Yes,Data Science,Tech Lead,Computer Science,4,2,4,3,2,Single,12188,1,Yes,Travel_Rarely,3,16,2,12,12,6,0,3,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+34,Yes,Engineering,DevOps Engineer,Mathematics,4,12,3,1,3,Married,8654,4,No,Travel_Frequently,4,17,4,4,4,0,0,2,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+40,No,Product,Tech Lead,Information Technology,4,38,4,2,4,Divorced,7747,5,No,Travel_Rarely,3,16,4,0,0,0,0,0,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+21,No,Engineering,QA Lead,Mathematics,3,8,1,2,3,Married,8656,1,No,Travel_Frequently,3,22,1,1,2,0,1,0,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+38,No,Data Science,Tech Lead,Information Technology,3,25,3,1,2,Single,8835,1,Yes,Non-Travel,3,16,5,0,2,0,0,0,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+42,No,Data Science,Software Engineer,Mathematics,4,6,2,1,1,Married,9915,4,No,Non-Travel,3,25,3,3,5,0,0,2,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+50,No,Data Science,Software Engineer,Mathematics,4,5,3,3,3,Single,9830,2,No,Non-Travel,3,14,3,4,5,0,0,0,Technology & Software Engineering,Good equity upside and generous learning budget.
+29,Yes,Engineering,DevOps Engineer,Computer Science,2,6,4,2,1,Divorced,8375,0,Yes,Travel_Frequently,3,21,5,1,3,1,0,1,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+38,No,Product,DevOps Engineer,Information Technology,4,18,3,3,2,Divorced,9709,4,No,Travel_Frequently,3,20,4,3,4,0,0,1,Technology & Software Engineering,Great tech stack and modern microservices.
+40,Yes,Data Science,DevOps Engineer,Mathematics,3,27,2,1,1,Divorced,10058,3,Yes,Travel_Rarely,3,16,1,0,6,0,0,0,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+48,No,Engineering,QA Lead,Mathematics,2,4,2,1,1,Divorced,9900,4,Yes,Non-Travel,3,13,4,1,5,1,1,1,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+32,No,Data Science,QA Lead,Computer Science,3,1,3,3,3,Married,8883,2,No,Travel_Rarely,3,14,1,4,4,3,0,2,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+37,No,Product,DevOps Engineer,Mathematics,2,2,1,3,3,Married,11540,1,Yes,Travel_Frequently,4,12,4,3,13,0,3,0,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+44,No,Product,Software Engineer,Mathematics,4,1,3,3,4,Divorced,9505,3,Yes,Travel_Frequently,3,15,5,3,3,3,0,2,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+40,Yes,Product,Software Engineer,Information Technology,2,2,1,4,4,Single,12605,3,Yes,Travel_Frequently,3,17,5,3,16,0,3,0,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+53,No,Engineering,DevOps Engineer,Mathematics,3,12,4,1,4,Divorced,11337,6,No,Non-Travel,3,11,2,3,14,0,1,0,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+26,Yes,Engineering,Software Engineer,Mathematics,3,1,3,2,1,Single,9407,1,No,Travel_Frequently,3,25,3,3,7,2,1,3,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+41,No,Engineering,DevOps Engineer,Computer Science,3,41,3,2,1,Single,10124,1,No,Travel_Frequently,3,17,5,2,5,0,2,0,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+21,Yes,Data Science,DevOps Engineer,Information Technology,4,1,4,4,3,Married,9420,1,No,Non-Travel,3,14,1,1,3,1,1,0,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+21,No,Data Science,Software Engineer,Computer Science,2,3,2,1,3,Single,7903,2,No,Non-Travel,3,14,4,1,1,1,0,0,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+29,No,Engineering,Product Manager,Computer Science,3,14,4,3,1,Married,8226,6,No,Travel_Rarely,3,19,3,1,2,1,1,1,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+45,Yes,Product,Tech Lead,Mathematics,4,17,3,3,1,Single,8324,4,No,Non-Travel,3,15,2,0,1,0,0,0,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+47,No,Product,DevOps Engineer,Mathematics,3,9,3,2,2,Divorced,13017,2,Yes,Non-Travel,3,17,3,20,20,13,1,11,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+50,No,Data Science,DevOps Engineer,Computer Science,3,9,2,4,3,Divorced,9976,4,No,Travel_Frequently,3,21,3,4,5,0,0,0,Technology & Software Engineering,Great tech stack and modern microservices.
+32,Yes,Product,Software Engineer,Computer Science,3,1,3,1,4,Married,9448,4,Yes,Travel_Rarely,3,13,1,3,6,0,3,0,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+36,No,Product,Product Manager,Information Technology,3,1,3,4,3,Divorced,9831,1,No,Non-Travel,4,11,2,0,9,0,0,0,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+41,No,Engineering,Software Engineer,Information Technology,1,13,3,2,2,Single,9530,4,No,Non-Travel,3,14,5,3,5,0,0,0,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+38,Yes,Data Science,Software Engineer,Mathematics,1,16,4,3,4,Married,10464,2,No,Non-Travel,3,25,1,0,10,0,0,0,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+33,No,Product,Tech Lead,Information Technology,3,21,2,4,2,Divorced,10936,5,No,Non-Travel,3,18,5,7,10,3,3,0,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+43,No,Engineering,Tech Lead,Computer Science,3,1,3,2,3,Married,10731,6,No,Travel_Frequently,3,13,3,4,10,0,1,0,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+46,No,Engineering,Tech Lead,Mathematics,4,16,3,1,3,Divorced,9584,2,No,Travel_Rarely,3,23,5,0,7,0,0,0,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+40,No,Engineering,DevOps Engineer,Mathematics,3,24,2,2,1,Married,10422,6,Yes,Travel_Frequently,3,23,3,7,8,4,0,2,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+45,No,Engineering,Tech Lead,Information Technology,3,14,3,3,4,Divorced,9475,2,Yes,Non-Travel,3,19,3,4,5,4,0,3,Technology & Software Engineering,Great tech stack and modern microservices.
+37,Yes,Product,Product Manager,Computer Science,2,2,4,1,3,Single,9148,2,No,Travel_Frequently,3,25,1,3,6,2,3,2,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+35,Yes,Data Science,Software Engineer,Computer Science,2,2,4,2,3,Single,9869,2,Yes,Non-Travel,4,14,1,7,8,3,4,3,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+48,No,Product,QA Lead,Information Technology,4,4,3,3,4,Married,9486,3,Yes,Non-Travel,3,14,5,0,3,0,0,0,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+38,No,Data Science,Product Manager,Computer Science,3,6,3,3,3,Divorced,9269,5,Yes,Travel_Rarely,4,12,1,5,6,4,0,2,Technology & Software Engineering,Great tech stack and modern microservices.
+42,No,Engineering,Product Manager,Information Technology,2,1,3,3,2,Divorced,10162,0,No,Travel_Frequently,3,22,2,1,7,0,0,0,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+47,Yes,Product,Product Manager,Computer Science,4,34,1,4,3,Single,9205,4,No,Non-Travel,3,13,2,1,3,0,1,0,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+53,No,Data Science,Software Engineer,Computer Science,2,4,1,4,2,Single,9131,1,Yes,Travel_Rarely,3,18,3,4,6,3,1,1,Technology & Software Engineering,Great tech stack and modern microservices.
+40,No,Engineering,Software Engineer,Information Technology,2,8,4,3,2,Single,12104,0,No,Non-Travel,3,25,3,6,12,3,1,4,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+38,No,Data Science,Product Manager,Computer Science,4,5,2,4,4,Divorced,11174,5,Yes,Travel_Frequently,3,23,2,9,10,5,0,5,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+30,Yes,Engineering,Product Manager,Computer Science,3,1,3,2,3,Divorced,8979,1,Yes,Travel_Frequently,3,14,1,1,4,0,0,0,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+30,No,Data Science,QA Lead,Mathematics,5,1,3,2,4,Single,9122,3,No,Non-Travel,3,17,2,2,2,0,0,0,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+33,Yes,Data Science,QA Lead,Information Technology,3,1,2,1,2,Married,13059,2,Yes,Travel_Rarely,3,17,2,11,15,5,4,4,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+43,No,Product,DevOps Engineer,Information Technology,2,12,2,3,4,Divorced,8273,2,No,Travel_Rarely,3,24,3,0,1,0,0,0,Technology & Software Engineering,Good equity upside and generous learning budget.
+28,Yes,Engineering,Product Manager,Computer Science,4,2,2,2,1,Divorced,9169,1,Yes,Non-Travel,4,12,1,0,4,0,0,0,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+25,Yes,Engineering,Product Manager,Information Technology,3,7,1,2,4,Divorced,10700,2,No,Travel_Frequently,3,14,5,3,7,0,1,1,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+58,No,Product,DevOps Engineer,Information Technology,4,7,1,4,3,Single,8576,3,Yes,Non-Travel,3,24,4,3,3,1,0,0,Technology & Software Engineering,Good equity upside and generous learning budget.
+21,No,Engineering,Tech Lead,Mathematics,3,10,4,4,3,Married,8704,0,No,Travel_Rarely,3,14,5,1,2,1,1,1,Technology & Software Engineering,Good equity upside and generous learning budget.
+35,Yes,Product,Tech Lead,Mathematics,2,3,1,2,3,Married,9838,4,Yes,Non-Travel,3,19,5,3,6,0,2,0,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+55,No,Data Science,QA Lead,Information Technology,4,8,3,3,1,Married,11623,2,Yes,Travel_Rarely,3,17,5,13,16,10,2,9,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+49,Yes,Engineering,Product Manager,Mathematics,3,4,4,1,1,Divorced,14147,3,No,Travel_Frequently,3,21,5,5,23,4,2,0,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+43,No,Product,Tech Lead,Computer Science,3,1,3,3,3,Divorced,12583,7,No,Non-Travel,3,11,2,5,14,2,0,0,Technology & Software Engineering,Good equity upside and generous learning budget.
+32,No,Data Science,QA Lead,Information Technology,3,11,3,3,4,Divorced,8812,2,No,Travel_Rarely,3,12,4,1,4,1,0,1,Technology & Software Engineering,Good equity upside and generous learning budget.
+47,No,Engineering,Tech Lead,Mathematics,3,8,4,2,2,Divorced,10331,2,Yes,Travel_Rarely,3,22,5,3,6,0,1,0,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+21,Yes,Engineering,QA Lead,Computer Science,3,5,3,1,3,Single,8015,2,Yes,Travel_Frequently,3,20,5,1,1,0,1,0,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+34,No,Product,Software Engineer,Mathematics,3,4,3,3,1,Divorced,8423,4,No,Travel_Frequently,3,21,2,0,0,0,0,0,Technology & Software Engineering,Great tech stack and modern microservices.
+35,No,Engineering,Tech Lead,Mathematics,3,16,4,3,2,Single,12037,2,Yes,Non-Travel,3,11,3,3,12,0,1,1,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+26,Yes,Engineering,Tech Lead,Mathematics,2,6,1,2,2,Married,11091,0,No,Travel_Frequently,3,12,1,6,8,1,0,0,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+28,No,Data Science,DevOps Engineer,Computer Science,3,15,4,3,3,Divorced,8987,0,No,Travel_Rarely,3,17,2,2,2,0,2,0,Technology & Software Engineering,Good equity upside and generous learning budget.
+38,Yes,Engineering,Product Manager,Information Technology,3,9,2,3,2,Divorced,12298,2,Yes,Non-Travel,4,18,4,5,13,3,0,0,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+41,No,Data Science,Software Engineer,Computer Science,1,3,1,2,2,Married,8331,2,Yes,Non-Travel,3,14,5,0,1,0,0,0,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+36,Yes,Engineering,QA Lead,Information Technology,3,22,2,4,3,Married,9690,4,No,Travel_Frequently,3,20,3,2,4,2,0,2,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+42,No,Engineering,DevOps Engineer,Mathematics,4,4,3,3,4,Married,9104,2,Yes,Travel_Frequently,3,14,5,0,2,0,0,0,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+28,No,Data Science,Tech Lead,Mathematics,3,1,2,3,1,Single,10094,1,No,Travel_Rarely,3,20,1,1,8,1,1,0,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+44,No,Data Science,QA Lead,Computer Science,4,5,3,3,1,Single,9318,3,No,Non-Travel,3,17,3,0,4,0,0,0,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+51,Yes,Product,DevOps Engineer,Mathematics,4,4,4,3,4,Single,13581,3,No,Travel_Frequently,3,22,5,2,15,0,2,0,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+37,No,Engineering,Software Engineer,Information Technology,3,1,2,2,3,Divorced,9102,4,No,Travel_Frequently,3,17,1,1,4,1,0,0,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+43,Yes,Data Science,Product Manager,Information Technology,3,7,1,1,3,Single,12155,0,Yes,Non-Travel,3,25,4,8,11,2,0,3,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+40,No,Engineering,Tech Lead,Information Technology,3,4,2,4,3,Divorced,9207,2,Yes,Travel_Rarely,4,18,4,2,5,1,2,0,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+33,No,Data Science,QA Lead,Information Technology,3,1,3,2,3,Single,9124,5,Yes,Non-Travel,3,14,4,1,2,0,0,0,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+37,No,Engineering,DevOps Engineer,Computer Science,2,1,2,4,3,Married,8408,0,No,Travel_Rarely,3,14,5,0,1,0,0,0,Technology & Software Engineering,Great tech stack and modern microservices.
+33,Yes,Engineering,Product Manager,Mathematics,4,1,3,1,1,Divorced,9835,0,No,Travel_Rarely,4,21,3,7,7,3,0,1,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+38,No,Product,QA Lead,Computer Science,2,14,2,2,2,Divorced,11206,4,No,Travel_Frequently,3,16,2,6,8,0,3,0,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+41,Yes,Data Science,QA Lead,Computer Science,4,5,3,3,1,Married,12439,3,Yes,Travel_Rarely,3,12,5,10,15,4,0,2,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+32,No,Product,QA Lead,Information Technology,3,12,3,4,1,Single,8788,3,Yes,Non-Travel,3,17,2,0,1,0,0,0,Technology & Software Engineering,Good equity upside and generous learning budget.
+32,Yes,Data Science,Tech Lead,Computer Science,3,4,2,4,2,Single,9822,2,Yes,Non-Travel,3,16,2,7,9,3,1,2,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+36,No,Product,QA Lead,Information Technology,3,16,1,3,3,Divorced,8000,3,No,Non-Travel,3,16,4,0,1,0,0,0,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+44,No,Product,Product Manager,Computer Science,3,12,2,3,2,Married,9170,2,Yes,Non-Travel,3,12,1,1,3,1,0,0,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+46,No,Product,QA Lead,Information Technology,3,10,3,2,3,Married,9315,0,Yes,Non-Travel,3,20,2,2,4,2,0,2,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+22,No,Data Science,Tech Lead,Computer Science,3,7,2,3,3,Married,8599,3,No,Travel_Frequently,3,17,3,2,3,0,1,0,Technology & Software Engineering,Great tech stack and modern microservices.
+49,No,Product,QA Lead,Computer Science,2,12,3,4,2,Married,10979,1,Yes,Travel_Frequently,3,21,4,1,9,0,0,1,Technology & Software Engineering,Good equity upside and generous learning budget.
+32,No,Engineering,QA Lead,Mathematics,3,1,4,4,3,Divorced,11296,1,No,Non-Travel,3,20,5,8,11,2,2,1,Technology & Software Engineering,Good equity upside and generous learning budget.
+41,Yes,Data Science,Software Engineer,Information Technology,1,21,3,2,2,Divorced,12436,5,No,Travel_Frequently,4,13,5,3,12,1,3,0,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+39,No,Data Science,Product Manager,Computer Science,4,14,4,4,2,Divorced,12239,1,Yes,Travel_Frequently,3,13,2,6,11,1,2,1,Technology & Software Engineering,Good equity upside and generous learning budget.
+28,No,Product,QA Lead,Computer Science,4,8,2,4,3,Single,11011,2,Yes,Travel_Rarely,3,23,5,8,10,0,0,0,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+21,No,Product,Product Manager,Information Technology,3,2,3,3,1,Divorced,8355,4,No,Non-Travel,3,16,2,1,1,1,1,1,Technology & Software Engineering,Great tech stack and modern microservices.
+41,Yes,Product,Software Engineer,Information Technology,2,1,3,1,3,Single,11480,2,Yes,Non-Travel,3,14,5,0,9,0,0,0,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+30,No,Product,QA Lead,Computer Science,4,6,2,3,1,Married,8720,2,Yes,Travel_Frequently,3,21,4,0,4,0,0,0,Technology & Software Engineering,Good equity upside and generous learning budget.
+43,No,Product,Software Engineer,Information Technology,3,15,3,4,4,Divorced,13940,3,Yes,Travel_Rarely,3,15,4,13,17,8,2,6,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+47,No,Data Science,DevOps Engineer,Mathematics,3,2,4,3,2,Divorced,9011,4,Yes,Travel_Rarely,3,13,4,3,3,0,0,0,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+36,No,Product,DevOps Engineer,Computer Science,5,4,4,2,2,Divorced,12074,2,No,Travel_Frequently,3,14,4,9,18,7,5,3,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+34,No,Product,Tech Lead,Information Technology,4,20,3,2,2,Single,8068,4,No,Non-Travel,3,14,4,1,1,1,0,0,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+25,Yes,Data Science,Software Engineer,Mathematics,4,33,2,4,3,Married,8891,2,Yes,Travel_Rarely,3,21,1,0,3,0,0,0,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+44,Yes,Data Science,Product Manager,Mathematics,4,1,2,3,3,Divorced,12301,2,Yes,Non-Travel,4,20,3,6,18,6,1,2,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+40,No,Data Science,DevOps Engineer,Mathematics,3,4,3,3,1,Married,11160,1,No,Travel_Frequently,3,21,3,4,10,1,0,2,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+29,No,Engineering,DevOps Engineer,Information Technology,5,30,4,4,3,Single,10318,1,Yes,Travel_Rarely,3,16,5,9,10,4,2,1,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+34,No,Data Science,QA Lead,Information Technology,2,1,3,3,2,Married,10729,4,No,Travel_Rarely,4,17,1,6,8,2,6,1,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+31,No,Data Science,DevOps Engineer,Information Technology,3,1,3,3,1,Single,9015,5,Yes,Non-Travel,3,13,5,2,2,1,1,0,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+39,No,Engineering,QA Lead,Computer Science,2,25,2,3,2,Married,9240,3,No,Travel_Rarely,3,12,1,0,4,0,0,0,Technology & Software Engineering,Good equity upside and generous learning budget.
+35,Yes,Product,QA Lead,Information Technology,5,2,3,2,3,Single,13802,1,No,Travel_Rarely,3,15,3,4,17,0,1,2,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+30,No,Product,DevOps Engineer,Mathematics,3,43,1,3,3,Single,9317,5,No,Non-Travel,3,20,5,0,4,0,0,0,Technology & Software Engineering,Good equity upside and generous learning budget.
+41,No,Data Science,Tech Lead,Computer Science,3,1,2,4,4,Single,9883,1,Yes,Travel_Frequently,3,13,3,3,6,1,0,0,Technology & Software Engineering,Great tech stack and modern microservices.
+48,No,Data Science,QA Lead,Mathematics,3,10,3,3,1,Married,8351,4,Yes,Travel_Rarely,4,16,1,0,0,0,0,0,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+35,No,Engineering,QA Lead,Information Technology,3,1,3,1,2,Single,13286,2,No,Non-Travel,3,21,2,14,14,6,1,4,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+36,No,Engineering,Tech Lead,Mathematics,3,18,4,2,3,Divorced,8285,1,No,Non-Travel,3,13,2,1,1,1,0,1,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+41,Yes,Engineering,Software Engineer,Mathematics,3,1,3,3,2,Divorced,10173,3,Yes,Non-Travel,3,17,4,7,7,3,0,2,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+21,No,Product,Tech Lead,Information Technology,1,13,2,3,3,Divorced,8256,3,No,Travel_Frequently,3,12,5,1,2,1,1,1,Technology & Software Engineering,Good equity upside and generous learning budget.
+36,No,Engineering,Product Manager,Mathematics,3,26,2,3,4,Divorced,9718,0,No,Travel_Rarely,3,19,1,4,7,2,0,3,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+26,No,Data Science,QA Lead,Information Technology,4,4,1,3,3,Divorced,10619,2,No,Travel_Rarely,3,12,4,6,8,5,1,4,Technology & Software Engineering,Great tech stack and modern microservices.
+40,No,Data Science,Software Engineer,Information Technology,4,2,2,3,3,Divorced,12145,3,Yes,Travel_Frequently,3,25,5,1,11,1,0,0,Technology & Software Engineering,Good equity upside and generous learning budget.
+35,No,Product,Tech Lead,Computer Science,4,4,4,4,3,Single,9758,4,No,Travel_Frequently,4,24,5,0,6,0,0,0,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+39,No,Engineering,Tech Lead,Information Technology,4,1,3,4,2,Married,9227,1,No,Travel_Rarely,3,20,5,2,4,2,0,1,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+42,No,Product,Tech Lead,Mathematics,2,10,2,2,2,Divorced,11209,2,No,Travel_Rarely,3,21,4,8,9,2,2,1,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+33,No,Engineering,Software Engineer,Mathematics,2,1,2,3,4,Single,10675,1,Yes,Non-Travel,3,21,5,1,7,0,1,1,Technology & Software Engineering,Great tech stack and modern microservices.
+36,No,Product,DevOps Engineer,Mathematics,5,1,2,4,3,Divorced,12684,4,Yes,Travel_Rarely,3,15,4,10,13,6,2,6,Technology & Software Engineering,Great tech stack and modern microservices.
+28,Yes,Data Science,Product Manager,Information Technology,3,12,1,1,2,Married,9116,1,No,Travel_Rarely,4,17,3,1,3,1,0,1,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+39,No,Data Science,DevOps Engineer,Information Technology,4,1,3,3,1,Single,8354,3,No,Travel_Frequently,3,22,3,0,3,0,0,0,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+35,No,Data Science,DevOps Engineer,Mathematics,3,2,4,3,1,Married,8858,2,Yes,Travel_Frequently,3,11,3,1,2,0,1,0,Technology & Software Engineering,Good equity upside and generous learning budget.
+38,Yes,Data Science,DevOps Engineer,Information Technology,4,1,2,3,1,Single,10475,4,Yes,Travel_Rarely,3,18,3,1,7,1,0,0,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+62,Yes,Product,Product Manager,Computer Science,4,12,1,3,4,Single,11323,4,No,Non-Travel,3,12,2,1,10,0,1,1,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+38,No,Data Science,DevOps Engineer,Information Technology,3,1,2,4,1,Divorced,9232,2,Yes,Non-Travel,3,16,4,3,3,0,1,0,Technology & Software Engineering,Good equity upside and generous learning budget.
+46,No,Engineering,Software Engineer,Computer Science,2,7,2,3,2,Single,9086,2,No,Travel_Rarely,3,19,3,2,4,0,1,0,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+26,No,Engineering,DevOps Engineer,Information Technology,3,1,4,3,2,Single,8453,1,Yes,Travel_Frequently,3,24,3,1,1,0,1,1,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+21,No,Data Science,Software Engineer,Mathematics,4,6,4,4,3,Single,8952,1,No,Non-Travel,3,11,4,1,3,1,1,1,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+28,No,Data Science,Software Engineer,Computer Science,4,2,4,3,3,Married,8062,2,Yes,Non-Travel,4,12,1,0,0,0,0,0,Technology & Software Engineering,Great tech stack and modern microservices.
+37,Yes,Product,Product Manager,Computer Science,3,17,1,3,2,Divorced,9293,2,No,Non-Travel,3,25,1,4,4,0,2,0,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+39,Yes,Engineering,Software Engineer,Mathematics,4,9,3,1,3,Single,7906,3,Yes,Travel_Rarely,3,19,3,1,1,0,1,1,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+45,No,Data Science,Product Manager,Mathematics,4,13,3,4,1,Divorced,8566,3,No,Travel_Frequently,3,16,3,2,2,0,2,0,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+34,Yes,Product,Software Engineer,Information Technology,3,12,4,4,3,Divorced,13922,1,No,Travel_Rarely,3,12,4,2,16,2,0,1,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+41,No,Product,Tech Lead,Mathematics,2,1,3,3,3,Divorced,11456,6,No,Travel_Frequently,4,20,3,9,13,6,2,2,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+34,No,Engineering,DevOps Engineer,Computer Science,4,6,4,3,3,Single,11195,4,No,Non-Travel,4,23,1,4,10,4,1,1,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+39,Yes,Engineering,Software Engineer,Mathematics,3,12,1,2,2,Divorced,8936,2,Yes,Travel_Rarely,4,19,2,2,3,0,0,1,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+29,No,Engineering,Product Manager,Computer Science,3,8,2,3,3,Married,9510,5,No,Travel_Frequently,3,16,3,5,7,3,0,2,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+49,Yes,Product,Product Manager,Mathematics,3,10,1,1,1,Married,8129,8,No,Travel_Rarely,3,18,1,0,0,0,0,0,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+29,No,Data Science,Product Manager,Computer Science,3,3,3,3,3,Divorced,10089,2,Yes,Non-Travel,3,13,2,2,9,2,2,2,Technology & Software Engineering,Great tech stack and modern microservices.
+42,Yes,Engineering,Tech Lead,Computer Science,3,1,2,3,2,Single,11228,4,Yes,Travel_Rarely,3,14,1,2,11,0,0,0,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+26,Yes,Engineering,Software Engineer,Mathematics,3,11,1,4,1,Divorced,8882,5,No,Travel_Frequently,4,24,5,3,4,3,0,3,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+35,Yes,Product,Software Engineer,Mathematics,4,2,2,4,1,Single,13409,3,No,Non-Travel,3,20,1,9,15,4,1,3,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+36,Yes,Product,Software Engineer,Information Technology,3,9,3,2,3,Married,9301,0,Yes,Non-Travel,3,12,1,0,4,0,0,0,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+37,No,Product,Tech Lead,Information Technology,4,3,2,3,2,Divorced,13261,2,Yes,Travel_Frequently,3,23,5,5,19,1,0,0,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+38,No,Data Science,Tech Lead,Computer Science,1,5,4,3,4,Single,9117,2,No,Travel_Rarely,3,16,1,6,6,3,1,3,Technology & Software Engineering,Great tech stack and modern microservices.
+35,No,Product,Software Engineer,Mathematics,3,7,2,1,4,Divorced,8475,2,No,Non-Travel,3,11,5,1,3,1,0,1,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+37,Yes,Product,QA Lead,Computer Science,3,1,1,1,3,Divorced,10630,5,Yes,Travel_Rarely,3,23,2,11,12,4,0,3,Technology & Software Engineering,Lack of clear staff engineer promotion criteria.
+41,No,Data Science,Product Manager,Information Technology,3,1,4,3,4,Single,8654,4,No,Travel_Frequently,3,19,5,0,2,0,0,0,Technology & Software Engineering,Good equity upside and generous learning budget.
+44,Yes,Engineering,Tech Lead,Mathematics,3,2,3,2,2,Married,11322,4,No,Travel_Rarely,3,20,5,9,14,5,0,3,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+43,Yes,Product,Product Manager,Information Technology,3,1,1,1,4,Married,10811,2,Yes,Non-Travel,3,18,2,1,7,1,0,0,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+59,Yes,Engineering,Software Engineer,Computer Science,3,8,3,4,2,Married,8495,4,Yes,Non-Travel,3,20,2,2,3,2,2,0,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+42,Yes,Product,Product Manager,Information Technology,4,1,2,1,3,Single,9626,2,Yes,Non-Travel,3,21,1,1,4,1,1,1,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+48,Yes,Engineering,Product Manager,Computer Science,4,1,3,1,1,Divorced,8771,1,Yes,Travel_Rarely,3,23,1,0,3,0,0,0,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+46,Yes,Product,DevOps Engineer,Computer Science,3,1,3,4,3,Married,11680,3,No,Non-Travel,4,15,1,5,12,4,3,3,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+31,Yes,Engineering,Software Engineer,Computer Science,3,4,2,3,2,Single,10622,3,Yes,Travel_Rarely,3,14,4,3,7,1,1,3,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+50,No,Data Science,Tech Lead,Information Technology,2,3,4,4,3,Single,8848,1,No,Travel_Rarely,4,12,5,1,4,0,1,0,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+29,No,Engineering,Product Manager,Computer Science,2,6,4,3,3,Married,11786,1,Yes,Travel_Rarely,4,18,5,9,10,3,1,5,Technology & Software Engineering,Good equity upside and generous learning budget.
+46,Yes,Product,Software Engineer,Information Technology,4,11,3,4,3,Married,10984,1,Yes,Travel_Frequently,3,12,3,4,12,1,1,0,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+28,No,Product,DevOps Engineer,Computer Science,3,2,2,4,2,Divorced,10959,4,No,Travel_Frequently,3,21,5,8,9,4,0,2,Technology & Software Engineering,Good equity upside and generous learning budget.
+45,No,Engineering,Software Engineer,Information Technology,3,7,3,3,3,Single,10644,2,No,Non-Travel,3,16,5,7,8,0,4,0,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+37,No,Data Science,Tech Lead,Computer Science,2,4,1,3,3,Divorced,8993,2,Yes,Non-Travel,3,18,3,1,3,0,1,0,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+26,No,Product,Product Manager,Computer Science,5,4,2,4,2,Married,9125,5,No,Travel_Rarely,3,12,3,5,6,2,5,0,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+30,Yes,Engineering,QA Lead,Mathematics,2,1,2,1,3,Divorced,9157,5,No,Non-Travel,4,24,5,1,2,0,0,0,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+34,No,Product,Tech Lead,Mathematics,4,10,3,4,3,Single,11213,2,No,Travel_Rarely,3,19,5,0,8,0,0,0,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+36,Yes,Engineering,DevOps Engineer,Mathematics,2,17,3,3,1,Divorced,9761,5,No,Non-Travel,3,11,1,0,4,0,0,0,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+31,No,Data Science,Tech Lead,Computer Science,2,2,3,3,2,Single,12220,4,No,Travel_Frequently,4,22,2,2,12,0,0,2,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+31,Yes,Engineering,QA Lead,Computer Science,4,14,1,4,2,Single,9140,2,Yes,Travel_Rarely,3,18,1,2,5,1,2,2,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+33,No,Product,Tech Lead,Computer Science,2,1,3,3,4,Married,8428,4,No,Travel_Rarely,3,25,1,0,0,0,0,0,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+31,No,Engineering,Software Engineer,Computer Science,5,13,1,2,2,Divorced,10544,3,No,Travel_Frequently,3,16,4,6,7,2,5,1,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+25,No,Engineering,Product Manager,Mathematics,4,1,3,3,3,Married,9855,2,No,Travel_Frequently,3,12,4,5,7,3,0,1,Technology & Software Engineering,Love the remote flexibility and autonomous culture.
+38,No,Data Science,QA Lead,Mathematics,4,2,3,2,2,Divorced,12320,5,Yes,Non-Travel,3,11,2,6,13,2,4,1,Technology & Software Engineering,Endless technical debt and lack of refactoring time.
+28,Yes,Engineering,Tech Lead,Computer Science,3,1,3,3,3,Married,8699,4,No,Non-Travel,3,20,5,3,3,0,0,0,Technology & Software Engineering,On-call rotations are exhausting and burning out the team.
+31,No,Data Science,Tech Lead,Information Technology,3,2,1,1,4,Single,9002,4,Yes,Travel_Frequently,3,11,4,4,4,0,0,1,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+49,No,Data Science,Tech Lead,Computer Science,2,4,3,3,4,Single,15462,3,Yes,Non-Travel,3,15,3,25,31,13,1,8,Technology & Software Engineering,High engineering standards and fast CI/CD pipelines.
+42,Yes,Engineering,Software Engineer,Mathematics,3,2,1,3,2,Divorced,10406,2,No,Travel_Frequently,3,21,2,9,9,8,1,7,Technology & Software Engineering,Salary benchmark is below competing FAANG offers.
+37,No,Engineering,Software Engineer,Information Technology,4,7,1,4,3,Single,11382,1,No,Non-Travel,3,19,3,5,15,5,0,5,Technology & Software Engineering,Good equity upside and generous learning budget.

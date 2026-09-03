@@ -1,0 +1,401 @@
+Age,Attrition,Department,JobRole,EducationField,Education,DistanceFromHome,EnvironmentSatisfaction,JobSatisfaction,WorkLifeBalance,MaritalStatus,MonthlyIncome,NumCompaniesWorked,OverTime,BusinessTravel,PerformanceRating,PercentSalaryHike,TrainingTimesLastYear,YearsAtCompany,TotalWorkingYears,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager,Industry,EmployeeFeedback
+45,Yes,Inpatient Nursing,Nurse Practitioner,Medical Science,3,15,3,2,2,Married,5679,3,Yes,Travel_Rarely,3,16,2,1,2,0,1,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+46,Yes,Emergency Medicine,ICU Specialist,Nursing,5,3,4,1,3,Single,6175,1,No,Travel_Rarely,3,14,2,5,6,5,1,3,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+21,No,Inpatient Nursing,Registered Nurse,Medical Science,4,1,3,1,3,Married,5527,3,Yes,Non-Travel,3,13,4,1,1,0,1,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+31,No,Intensive Care,Nurse Practitioner,Healthcare Admin,3,7,3,4,2,Married,5716,5,No,Non-Travel,3,18,1,2,2,0,1,0,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+42,No,Inpatient Nursing,Registered Nurse,Medical Science,5,11,3,1,2,Single,9351,1,Yes,Non-Travel,3,13,2,14,23,7,1,5,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+36,No,Intensive Care,Clinical Coordinator,Medical Science,3,4,3,2,4,Single,6933,6,Yes,Non-Travel,4,21,2,3,8,3,0,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+46,Yes,Inpatient Nursing,Clinical Coordinator,Nursing,3,8,1,2,1,Single,5671,3,Yes,Travel_Rarely,3,20,2,0,0,0,0,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+21,No,Inpatient Nursing,Registered Nurse,Nursing,3,1,4,4,3,Divorced,5804,6,Yes,Non-Travel,3,18,1,0,3,0,0,0,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+29,Yes,Intensive Care,Nurse Practitioner,Medical Science,5,1,2,3,3,Single,6153,0,Yes,Travel_Rarely,3,21,4,4,4,0,1,1,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+29,No,Intensive Care,ICU Specialist,Medical Science,3,6,2,1,2,Married,6360,4,Yes,Non-Travel,3,21,4,4,6,0,3,4,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+40,No,Inpatient Nursing,ICU Specialist,Healthcare Admin,1,3,3,2,3,Single,8029,2,No,Non-Travel,3,13,3,11,13,10,1,7,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+52,No,Inpatient Nursing,Registered Nurse,Medical Science,2,6,4,3,3,Divorced,10378,3,No,Travel_Rarely,3,23,1,5,25,3,1,3,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+29,No,Intensive Care,Clinical Coordinator,Nursing,2,3,2,3,4,Divorced,6117,3,Yes,Travel_Rarely,3,12,2,0,3,0,0,0,Healthcare & Clinical Services,High team trust during critical medical shifts.
+23,Yes,Emergency Medicine,ICU Specialist,Nursing,3,9,4,2,3,Single,6141,2,No,Travel_Rarely,3,12,1,0,5,0,0,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+39,No,Inpatient Nursing,Registered Nurse,Medical Science,4,1,2,3,2,Divorced,6576,2,Yes,Non-Travel,3,20,5,2,4,0,1,1,Healthcare & Clinical Services,High team trust during critical medical shifts.
+32,Yes,Intensive Care,Clinical Coordinator,Healthcare Admin,1,15,3,2,3,Single,6313,0,Yes,Non-Travel,4,13,5,5,5,3,0,3,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+37,No,Emergency Medicine,Nurse Practitioner,Nursing,5,16,2,4,4,Single,6688,2,Yes,Travel_Rarely,3,16,3,2,9,1,0,1,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+41,No,Inpatient Nursing,Registered Nurse,Medical Science,3,2,3,3,4,Married,6338,1,Yes,Travel_Rarely,3,16,1,1,4,1,1,0,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+50,Yes,Inpatient Nursing,ICU Specialist,Medical Science,4,16,3,1,1,Single,6864,5,Yes,Travel_Rarely,3,23,1,7,7,5,0,3,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+37,No,Intensive Care,ICU Specialist,Nursing,3,12,3,4,3,Married,5632,4,No,Travel_Rarely,4,19,5,1,2,0,1,1,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+36,Yes,Intensive Care,Clinical Coordinator,Medical Science,5,25,4,3,2,Single,9151,4,Yes,Non-Travel,3,20,3,13,18,4,1,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+35,Yes,Intensive Care,Nurse Practitioner,Healthcare Admin,4,2,1,3,2,Single,6336,5,Yes,Non-Travel,3,15,1,1,3,0,1,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+38,Yes,Emergency Medicine,Clinical Coordinator,Nursing,3,7,3,2,3,Single,6235,2,Yes,Non-Travel,3,20,3,0,4,0,0,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+37,No,Emergency Medicine,Registered Nurse,Nursing,3,21,3,3,2,Single,6640,5,No,Non-Travel,3,14,3,7,8,3,7,2,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+21,Yes,Emergency Medicine,ICU Specialist,Medical Science,3,3,4,1,4,Married,6158,2,Yes,Travel_Rarely,4,16,5,1,3,0,1,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+53,No,Inpatient Nursing,Clinical Coordinator,Medical Science,3,1,3,4,2,Single,6687,0,No,Travel_Rarely,4,16,3,6,7,4,5,4,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+41,No,Inpatient Nursing,Clinical Coordinator,Healthcare Admin,4,5,3,2,1,Married,6188,3,Yes,Non-Travel,3,23,1,0,6,0,0,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+28,No,Inpatient Nursing,ICU Specialist,Healthcare Admin,1,12,3,3,1,Married,6240,4,No,Non-Travel,3,14,2,0,4,0,0,0,Healthcare & Clinical Services,High team trust during critical medical shifts.
+39,No,Inpatient Nursing,Nurse Practitioner,Nursing,4,3,3,2,1,Divorced,6761,4,No,Non-Travel,3,20,5,0,9,0,0,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+40,Yes,Emergency Medicine,Clinical Coordinator,Medical Science,4,2,1,3,3,Married,8483,0,Yes,Travel_Rarely,3,11,4,5,21,3,2,3,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+34,No,Emergency Medicine,Nurse Practitioner,Healthcare Admin,3,12,2,3,4,Single,8361,0,Yes,Non-Travel,3,21,4,3,16,2,2,0,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+50,No,Emergency Medicine,Clinical Coordinator,Medical Science,3,1,3,2,1,Married,6198,0,Yes,Non-Travel,3,16,2,2,2,0,1,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+27,No,Intensive Care,Clinical Coordinator,Nursing,3,19,2,4,4,Divorced,6508,1,No,Non-Travel,3,12,5,0,4,0,0,0,Healthcare & Clinical Services,High team trust during critical medical shifts.
+31,Yes,Intensive Care,Clinical Coordinator,Healthcare Admin,4,1,2,3,3,Divorced,6070,1,Yes,Non-Travel,3,11,4,3,3,0,1,1,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+43,Yes,Intensive Care,Nurse Practitioner,Healthcare Admin,3,2,3,1,3,Divorced,7423,1,No,Non-Travel,3,11,2,1,11,0,1,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+38,Yes,Emergency Medicine,ICU Specialist,Healthcare Admin,1,4,2,1,3,Divorced,6686,1,Yes,Travel_Rarely,4,23,2,2,8,0,1,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+36,No,Emergency Medicine,ICU Specialist,Medical Science,2,22,3,2,3,Married,7379,1,Yes,Non-Travel,3,13,4,1,13,1,1,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+34,Yes,Emergency Medicine,Clinical Coordinator,Healthcare Admin,3,2,2,1,1,Single,5710,4,Yes,Non-Travel,3,11,1,0,0,0,0,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+26,No,Intensive Care,Clinical Coordinator,Healthcare Admin,5,1,3,2,2,Married,6841,3,No,Travel_Rarely,4,25,1,5,8,0,0,1,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+21,No,Emergency Medicine,Registered Nurse,Medical Science,4,2,1,4,4,Divorced,5849,1,Yes,Non-Travel,3,20,1,1,1,1,0,1,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+21,No,Inpatient Nursing,ICU Specialist,Nursing,3,33,3,3,2,Married,6116,4,Yes,Non-Travel,3,12,2,1,3,1,0,0,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+31,Yes,Inpatient Nursing,Clinical Coordinator,Healthcare Admin,3,13,3,3,1,Single,6987,2,Yes,Non-Travel,3,13,5,8,8,1,1,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+37,No,Inpatient Nursing,Registered Nurse,Medical Science,4,2,2,3,4,Single,6566,0,No,Travel_Rarely,3,13,3,6,8,1,3,2,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+36,No,Inpatient Nursing,ICU Specialist,Healthcare Admin,4,2,3,4,3,Divorced,8047,1,Yes,Travel_Rarely,3,11,1,16,16,8,1,8,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+51,No,Inpatient Nursing,ICU Specialist,Healthcare Admin,3,3,2,4,4,Single,6409,1,No,Travel_Rarely,3,23,4,4,4,0,4,0,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+33,Yes,Emergency Medicine,Registered Nurse,Healthcare Admin,5,10,2,4,2,Single,6274,2,No,Non-Travel,3,24,4,3,5,0,2,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+32,No,Emergency Medicine,Clinical Coordinator,Nursing,1,1,4,1,2,Single,7121,4,Yes,Non-Travel,3,14,5,8,11,5,0,5,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+40,No,Emergency Medicine,Clinical Coordinator,Medical Science,3,5,4,2,3,Married,5748,3,No,Non-Travel,3,21,4,1,1,0,0,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+41,Yes,Intensive Care,Registered Nurse,Nursing,2,37,3,2,3,Divorced,6461,1,No,Non-Travel,3,21,5,3,7,2,0,1,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+40,No,Inpatient Nursing,Registered Nurse,Medical Science,3,13,3,4,3,Married,6353,2,No,Non-Travel,3,18,2,6,6,2,2,1,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+44,Yes,Emergency Medicine,Registered Nurse,Healthcare Admin,4,2,2,3,3,Divorced,6456,4,No,Non-Travel,4,15,3,2,8,0,0,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+41,No,Intensive Care,Registered Nurse,Healthcare Admin,4,8,1,4,1,Married,6313,1,No,Travel_Rarely,3,25,4,4,6,2,0,0,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+25,No,Intensive Care,Nurse Practitioner,Healthcare Admin,2,2,1,2,2,Divorced,6482,1,Yes,Non-Travel,3,14,2,5,5,5,5,1,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+26,No,Inpatient Nursing,Registered Nurse,Medical Science,3,17,4,4,2,Single,5976,3,Yes,Non-Travel,3,12,4,1,2,1,1,1,Healthcare & Clinical Services,High team trust during critical medical shifts.
+31,No,Inpatient Nursing,Clinical Coordinator,Healthcare Admin,3,11,3,3,1,Married,6426,4,Yes,Travel_Rarely,3,20,2,1,5,0,1,0,Healthcare & Clinical Services,High team trust during critical medical shifts.
+30,No,Intensive Care,Clinical Coordinator,Nursing,5,12,2,3,3,Single,7239,2,No,Non-Travel,3,13,1,3,8,2,0,1,Healthcare & Clinical Services,High team trust during critical medical shifts.
+31,No,Intensive Care,ICU Specialist,Nursing,4,7,3,3,3,Divorced,7600,3,No,Non-Travel,3,21,4,1,10,0,1,0,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+32,No,Intensive Care,Clinical Coordinator,Medical Science,4,22,2,4,2,Single,6490,2,No,Non-Travel,3,14,3,0,4,0,0,0,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+47,Yes,Emergency Medicine,Clinical Coordinator,Medical Science,4,13,1,3,3,Single,8126,3,No,Non-Travel,3,21,1,13,13,6,1,3,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+21,No,Emergency Medicine,ICU Specialist,Medical Science,3,3,3,4,2,Married,5923,2,No,Travel_Rarely,4,11,2,1,3,0,0,0,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+41,Yes,Intensive Care,ICU Specialist,Nursing,5,13,2,3,1,Married,5632,4,No,Travel_Rarely,3,12,2,0,1,0,0,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+35,No,Intensive Care,ICU Specialist,Nursing,4,29,2,2,2,Divorced,8976,1,No,Non-Travel,3,19,2,4,17,3,4,2,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+39,Yes,Intensive Care,Nurse Practitioner,Healthcare Admin,3,4,1,1,1,Single,5901,3,Yes,Travel_Rarely,3,18,2,1,1,0,1,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+34,Yes,Emergency Medicine,ICU Specialist,Medical Science,1,11,4,2,3,Single,8063,1,No,Travel_Rarely,3,18,3,6,16,1,4,3,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+27,No,Intensive Care,Registered Nurse,Healthcare Admin,1,4,3,3,3,Divorced,6885,4,No,Non-Travel,3,25,1,3,8,3,0,1,Healthcare & Clinical Services,High team trust during critical medical shifts.
+34,Yes,Inpatient Nursing,Nurse Practitioner,Healthcare Admin,1,8,2,1,3,Married,7198,4,Yes,Non-Travel,4,13,5,7,9,5,2,4,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+32,No,Emergency Medicine,Registered Nurse,Nursing,3,15,3,3,2,Divorced,6653,2,No,Non-Travel,4,21,2,2,5,0,0,0,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+35,No,Intensive Care,Clinical Coordinator,Nursing,4,4,3,4,3,Married,5750,4,Yes,Travel_Rarely,3,24,5,2,2,0,2,0,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+38,Yes,Inpatient Nursing,Registered Nurse,Medical Science,3,2,4,1,3,Divorced,6299,0,Yes,Travel_Rarely,3,16,3,0,3,0,0,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+33,No,Intensive Care,Registered Nurse,Nursing,3,1,3,3,3,Married,6913,3,Yes,Travel_Rarely,3,24,3,0,8,0,0,0,Healthcare & Clinical Services,High team trust during critical medical shifts.
+32,No,Emergency Medicine,Clinical Coordinator,Healthcare Admin,5,5,2,4,3,Divorced,6727,4,No,Non-Travel,4,23,1,3,5,0,2,0,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+37,Yes,Inpatient Nursing,Nurse Practitioner,Medical Science,3,15,4,2,4,Divorced,6552,0,No,Travel_Rarely,3,23,4,3,5,3,1,1,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+37,No,Inpatient Nursing,Registered Nurse,Medical Science,3,2,2,4,2,Divorced,8306,0,No,Travel_Rarely,3,15,4,1,19,0,1,1,Healthcare & Clinical Services,High team trust during critical medical shifts.
+43,No,Inpatient Nursing,Registered Nurse,Nursing,1,4,1,3,4,Single,5881,2,No,Travel_Rarely,4,24,5,0,1,0,0,0,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+41,Yes,Emergency Medicine,ICU Specialist,Nursing,5,4,4,1,3,Married,6102,2,Yes,Non-Travel,3,25,3,2,2,0,2,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+51,No,Inpatient Nursing,Nurse Practitioner,Nursing,2,1,3,2,3,Married,7934,0,Yes,Non-Travel,3,16,1,12,14,8,12,5,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+39,No,Inpatient Nursing,Registered Nurse,Healthcare Admin,4,1,1,3,2,Divorced,6716,0,Yes,Travel_Rarely,3,21,4,4,7,3,1,1,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+40,No,Emergency Medicine,ICU Specialist,Healthcare Admin,3,3,2,4,2,Single,7289,3,Yes,Non-Travel,3,11,1,10,10,6,7,4,Healthcare & Clinical Services,High team trust during critical medical shifts.
+43,Yes,Intensive Care,Nurse Practitioner,Healthcare Admin,3,1,2,2,4,Married,5820,2,Yes,Non-Travel,4,14,5,1,2,0,1,1,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+44,No,Inpatient Nursing,Nurse Practitioner,Healthcare Admin,2,1,1,4,2,Divorced,6549,5,Yes,Travel_Rarely,3,15,1,2,7,0,2,0,Healthcare & Clinical Services,High team trust during critical medical shifts.
+39,No,Emergency Medicine,ICU Specialist,Nursing,2,9,4,4,2,Divorced,7208,3,No,Non-Travel,3,25,2,1,9,1,0,1,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+40,No,Emergency Medicine,ICU Specialist,Healthcare Admin,3,1,4,4,3,Divorced,7641,3,Yes,Travel_Rarely,3,19,4,9,14,5,1,5,Healthcare & Clinical Services,High team trust during critical medical shifts.
+29,Yes,Emergency Medicine,Nurse Practitioner,Healthcare Admin,4,7,3,4,2,Married,5765,0,No,Travel_Rarely,3,16,4,0,1,0,0,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+39,Yes,Inpatient Nursing,Registered Nurse,Nursing,3,2,3,3,4,Single,7374,4,No,Travel_Rarely,4,19,3,10,10,3,0,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+46,No,Emergency Medicine,Clinical Coordinator,Nursing,4,13,3,3,2,Married,5955,4,No,Non-Travel,3,23,3,0,4,0,0,0,Healthcare & Clinical Services,High team trust during critical medical shifts.
+33,No,Emergency Medicine,ICU Specialist,Healthcare Admin,3,2,3,1,2,Single,6086,3,Yes,Travel_Rarely,3,13,2,1,2,0,1,1,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+21,Yes,Emergency Medicine,Registered Nurse,Medical Science,1,6,2,2,3,Married,6376,2,No,Travel_Rarely,4,20,4,0,3,0,0,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+51,No,Inpatient Nursing,Registered Nurse,Healthcare Admin,1,2,2,3,3,Single,6076,5,Yes,Travel_Rarely,3,20,1,0,2,0,0,0,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+28,Yes,Emergency Medicine,Clinical Coordinator,Healthcare Admin,4,17,4,3,2,Divorced,6088,4,No,Non-Travel,3,15,3,1,4,0,0,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+50,Yes,Inpatient Nursing,ICU Specialist,Nursing,3,10,2,3,2,Married,6372,3,Yes,Non-Travel,3,23,3,5,6,4,3,2,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+50,Yes,Emergency Medicine,Clinical Coordinator,Nursing,3,1,1,2,1,Married,5991,3,No,Travel_Rarely,3,12,4,2,4,2,1,1,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+31,Yes,Emergency Medicine,Registered Nurse,Healthcare Admin,3,1,4,3,2,Married,5941,1,No,Travel_Rarely,3,11,5,1,2,0,1,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+40,Yes,Intensive Care,ICU Specialist,Nursing,2,1,4,2,2,Divorced,8201,1,Yes,Non-Travel,3,13,5,2,16,0,1,1,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+31,No,Inpatient Nursing,ICU Specialist,Healthcare Admin,3,5,3,1,3,Married,7331,1,Yes,Travel_Rarely,3,23,3,11,13,3,0,4,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+30,No,Intensive Care,Registered Nurse,Nursing,3,11,1,1,3,Married,6162,2,Yes,Travel_Rarely,3,14,5,0,3,0,0,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+29,Yes,Inpatient Nursing,Clinical Coordinator,Medical Science,1,8,3,3,4,Married,7587,3,Yes,Non-Travel,3,13,4,1,11,0,1,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+41,No,Intensive Care,Nurse Practitioner,Medical Science,3,20,2,2,3,Married,5732,0,No,Non-Travel,4,15,2,1,2,1,0,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+37,No,Inpatient Nursing,Registered Nurse,Healthcare Admin,4,1,3,3,3,Single,6943,3,No,Non-Travel,3,18,4,4,7,1,0,0,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+34,No,Inpatient Nursing,ICU Specialist,Healthcare Admin,2,2,4,2,3,Divorced,5662,4,No,Travel_Rarely,3,22,1,1,2,0,0,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+53,No,Intensive Care,Clinical Coordinator,Nursing,4,16,4,3,3,Single,5909,1,Yes,Non-Travel,3,13,3,0,1,0,0,0,Healthcare & Clinical Services,High team trust during critical medical shifts.
+26,Yes,Inpatient Nursing,Clinical Coordinator,Medical Science,3,1,4,4,3,Married,6807,2,Yes,Travel_Rarely,3,21,1,0,8,0,0,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+42,Yes,Inpatient Nursing,Registered Nurse,Healthcare Admin,4,3,1,4,3,Divorced,7051,5,Yes,Non-Travel,3,22,4,2,8,0,0,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+23,No,Inpatient Nursing,Clinical Coordinator,Healthcare Admin,1,4,4,3,3,Divorced,6241,5,Yes,Travel_Rarely,4,22,3,3,3,2,0,0,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+43,No,Emergency Medicine,Registered Nurse,Medical Science,3,11,2,3,3,Divorced,6402,2,Yes,Non-Travel,3,22,5,0,4,0,0,0,Healthcare & Clinical Services,High team trust during critical medical shifts.
+29,Yes,Intensive Care,ICU Specialist,Medical Science,2,30,3,3,2,Single,7405,6,Yes,Travel_Rarely,3,15,5,9,11,8,0,4,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+41,No,Emergency Medicine,Nurse Practitioner,Healthcare Admin,3,7,1,3,1,Married,6571,3,Yes,Non-Travel,3,21,3,1,5,1,0,0,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+29,Yes,Intensive Care,ICU Specialist,Nursing,3,5,2,1,2,Single,7080,4,Yes,Non-Travel,3,23,4,8,11,4,0,2,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+46,Yes,Emergency Medicine,Registered Nurse,Healthcare Admin,3,1,3,3,4,Divorced,6086,4,Yes,Travel_Rarely,4,17,3,2,4,2,1,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+40,Yes,Inpatient Nursing,Nurse Practitioner,Medical Science,3,5,1,1,4,Single,6047,4,No,Travel_Rarely,3,15,3,1,4,1,1,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+35,No,Inpatient Nursing,Clinical Coordinator,Medical Science,3,1,3,2,4,Married,6096,4,Yes,Travel_Rarely,3,15,4,1,4,1,0,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+35,Yes,Emergency Medicine,Clinical Coordinator,Medical Science,3,22,2,2,3,Single,6928,2,Yes,Travel_Rarely,3,23,4,3,10,3,0,3,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+29,No,Emergency Medicine,Nurse Practitioner,Medical Science,3,2,4,3,2,Single,6414,3,No,Travel_Rarely,3,18,4,2,6,2,2,0,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+36,Yes,Intensive Care,Clinical Coordinator,Medical Science,4,1,2,1,3,Single,6487,3,Yes,Non-Travel,3,24,1,6,8,6,2,4,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+42,Yes,Emergency Medicine,ICU Specialist,Medical Science,4,25,3,2,1,Divorced,6030,2,Yes,Non-Travel,4,24,1,4,5,0,0,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+29,No,Emergency Medicine,Nurse Practitioner,Healthcare Admin,2,4,4,2,3,Single,6746,4,Yes,Non-Travel,3,11,1,7,7,2,0,1,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+34,No,Emergency Medicine,ICU Specialist,Medical Science,5,9,3,3,3,Single,8263,2,No,Travel_Rarely,4,15,2,12,16,8,7,9,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+47,No,Intensive Care,Registered Nurse,Medical Science,3,5,3,3,2,Divorced,6050,2,Yes,Travel_Rarely,3,21,3,1,4,1,1,1,Healthcare & Clinical Services,High team trust during critical medical shifts.
+31,Yes,Emergency Medicine,ICU Specialist,Healthcare Admin,2,5,1,2,2,Married,6766,2,Yes,Non-Travel,3,16,3,0,7,0,0,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+39,Yes,Emergency Medicine,Nurse Practitioner,Medical Science,3,4,3,4,2,Single,6768,3,No,Non-Travel,4,18,4,7,9,0,0,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+39,Yes,Inpatient Nursing,ICU Specialist,Healthcare Admin,3,2,3,3,2,Married,5886,0,Yes,Travel_Rarely,3,19,4,1,2,0,0,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+35,Yes,Intensive Care,Registered Nurse,Healthcare Admin,5,6,2,3,3,Divorced,8364,4,Yes,Travel_Rarely,3,12,1,11,17,5,4,5,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+48,Yes,Intensive Care,Clinical Coordinator,Healthcare Admin,3,2,2,2,3,Divorced,6559,3,Yes,Non-Travel,3,21,4,1,4,0,1,1,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+32,No,Intensive Care,Clinical Coordinator,Medical Science,4,3,2,3,4,Divorced,7576,4,Yes,Travel_Rarely,3,17,2,4,10,4,2,3,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+35,No,Inpatient Nursing,Clinical Coordinator,Nursing,3,3,3,4,1,Single,6466,2,Yes,Non-Travel,4,14,1,0,5,0,0,0,Healthcare & Clinical Services,High team trust during critical medical shifts.
+32,No,Inpatient Nursing,Nurse Practitioner,Medical Science,4,1,1,2,3,Married,6691,3,No,Non-Travel,3,18,4,4,7,4,3,1,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+39,Yes,Intensive Care,Registered Nurse,Nursing,1,7,1,4,1,Single,7264,4,Yes,Non-Travel,3,19,1,4,13,4,2,2,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+50,No,Emergency Medicine,ICU Specialist,Nursing,3,1,3,2,2,Married,6403,0,No,Non-Travel,3,13,4,0,5,0,0,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+30,Yes,Emergency Medicine,Registered Nurse,Healthcare Admin,3,7,1,3,1,Single,5809,4,Yes,Travel_Rarely,3,23,5,0,1,0,0,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+41,No,Inpatient Nursing,ICU Specialist,Medical Science,4,6,2,4,3,Divorced,6436,1,No,Non-Travel,3,11,5,6,7,3,4,2,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+46,Yes,Inpatient Nursing,Clinical Coordinator,Medical Science,4,12,3,1,3,Single,5976,2,Yes,Non-Travel,3,24,4,2,4,0,2,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+38,Yes,Emergency Medicine,Nurse Practitioner,Nursing,3,14,2,3,3,Single,6807,2,Yes,Non-Travel,3,15,5,6,7,2,1,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+52,No,Emergency Medicine,Registered Nurse,Nursing,2,11,3,3,3,Divorced,6467,1,Yes,Travel_Rarely,3,19,5,1,5,0,0,1,Healthcare & Clinical Services,High team trust during critical medical shifts.
+38,No,Emergency Medicine,Nurse Practitioner,Healthcare Admin,2,7,3,3,2,Married,6538,5,No,Travel_Rarely,3,16,5,4,5,0,4,0,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+41,Yes,Intensive Care,Clinical Coordinator,Healthcare Admin,3,3,2,2,3,Married,6215,2,Yes,Non-Travel,3,16,4,0,4,0,0,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+44,No,Intensive Care,Nurse Practitioner,Medical Science,3,1,3,3,3,Single,9583,2,No,Non-Travel,3,17,3,0,22,0,0,0,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+41,Yes,Emergency Medicine,Registered Nurse,Medical Science,3,2,3,1,2,Divorced,5859,4,No,Non-Travel,3,24,2,0,2,0,0,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+24,No,Emergency Medicine,Clinical Coordinator,Medical Science,3,3,2,3,4,Divorced,6369,2,Yes,Travel_Rarely,3,11,4,4,6,3,4,2,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+35,Yes,Intensive Care,Nurse Practitioner,Nursing,2,5,4,4,2,Divorced,5622,2,Yes,Travel_Rarely,3,16,5,0,1,0,0,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+36,No,Emergency Medicine,Nurse Practitioner,Healthcare Admin,3,5,1,2,3,Divorced,5754,4,Yes,Non-Travel,3,12,4,1,2,0,1,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+36,No,Inpatient Nursing,ICU Specialist,Healthcare Admin,3,3,3,2,1,Married,8627,2,No,Travel_Rarely,3,23,5,16,18,10,3,8,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+28,No,Inpatient Nursing,Nurse Practitioner,Healthcare Admin,2,8,1,4,2,Single,6211,2,No,Non-Travel,3,18,1,4,4,1,0,0,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+44,No,Inpatient Nursing,Clinical Coordinator,Nursing,5,18,3,4,3,Single,10160,4,Yes,Travel_Rarely,4,25,2,7,26,4,1,0,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+29,Yes,Emergency Medicine,Clinical Coordinator,Healthcare Admin,2,23,3,3,3,Single,5876,3,Yes,Non-Travel,3,14,2,0,2,0,0,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+47,No,Emergency Medicine,Clinical Coordinator,Nursing,4,3,3,2,4,Divorced,7219,2,Yes,Non-Travel,4,24,3,1,9,0,0,1,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+38,Yes,Inpatient Nursing,Clinical Coordinator,Nursing,3,1,2,3,1,Single,7399,2,Yes,Non-Travel,3,20,5,6,13,6,4,5,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+29,No,Intensive Care,Nurse Practitioner,Healthcare Admin,4,27,1,4,3,Divorced,6031,1,Yes,Non-Travel,3,18,5,2,2,0,2,0,Healthcare & Clinical Services,High team trust during critical medical shifts.
+35,No,Intensive Care,Clinical Coordinator,Medical Science,4,14,3,2,1,Single,7160,5,Yes,Travel_Rarely,3,22,1,6,12,6,0,6,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+44,Yes,Inpatient Nursing,Clinical Coordinator,Nursing,5,28,1,1,3,Divorced,6478,5,Yes,Travel_Rarely,4,21,1,1,8,1,0,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+31,No,Emergency Medicine,Clinical Coordinator,Healthcare Admin,5,9,3,4,3,Divorced,5840,2,Yes,Travel_Rarely,3,22,1,0,2,0,0,0,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+48,No,Intensive Care,Nurse Practitioner,Healthcare Admin,4,21,3,3,4,Divorced,6060,1,No,Travel_Rarely,3,25,3,0,3,0,0,0,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+42,No,Emergency Medicine,ICU Specialist,Healthcare Admin,3,4,3,2,4,Married,7339,4,Yes,Non-Travel,3,22,1,6,12,6,4,3,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+37,Yes,Intensive Care,ICU Specialist,Medical Science,2,1,3,3,4,Married,7337,2,No,Non-Travel,3,20,5,2,9,2,2,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+46,No,Intensive Care,Clinical Coordinator,Medical Science,3,15,4,4,3,Divorced,7826,3,Yes,Non-Travel,3,17,5,4,11,1,4,3,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+38,Yes,Intensive Care,ICU Specialist,Nursing,3,10,3,2,1,Married,5881,3,Yes,Non-Travel,3,20,3,2,3,1,0,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+38,No,Intensive Care,ICU Specialist,Nursing,3,6,4,1,3,Single,8363,4,No,Non-Travel,3,23,2,8,16,4,3,2,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+29,No,Inpatient Nursing,Nurse Practitioner,Medical Science,5,2,1,1,3,Married,7755,3,No,Travel_Rarely,3,20,2,9,11,7,1,8,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+37,Yes,Intensive Care,ICU Specialist,Healthcare Admin,2,2,2,4,3,Married,6447,5,Yes,Travel_Rarely,4,12,4,4,5,1,2,3,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+44,No,Intensive Care,Registered Nurse,Healthcare Admin,3,3,3,2,3,Married,6596,1,No,Travel_Rarely,3,20,3,0,5,0,0,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+43,Yes,Emergency Medicine,Nurse Practitioner,Medical Science,2,11,3,3,3,Single,6300,0,No,Non-Travel,3,17,2,4,5,4,1,4,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+52,No,Emergency Medicine,Clinical Coordinator,Nursing,3,8,4,3,4,Single,11155,3,Yes,Travel_Rarely,3,14,4,14,29,8,0,5,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+27,No,Intensive Care,Nurse Practitioner,Nursing,5,1,2,4,3,Divorced,6137,4,No,Travel_Rarely,3,23,4,0,4,0,0,0,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+42,Yes,Inpatient Nursing,ICU Specialist,Healthcare Admin,3,27,3,1,2,Single,6969,3,No,Non-Travel,3,15,5,0,7,0,0,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+41,No,Inpatient Nursing,ICU Specialist,Healthcare Admin,5,1,4,4,2,Married,5581,1,No,Non-Travel,3,14,5,0,1,0,0,0,Healthcare & Clinical Services,High team trust during critical medical shifts.
+37,No,Emergency Medicine,Clinical Coordinator,Medical Science,2,5,4,3,3,Married,7256,1,Yes,Travel_Rarely,3,15,5,3,10,0,0,0,Healthcare & Clinical Services,High team trust during critical medical shifts.
+50,No,Inpatient Nursing,Registered Nurse,Nursing,2,1,3,4,4,Married,5951,1,No,Travel_Rarely,3,23,5,0,4,0,0,0,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+51,No,Intensive Care,Clinical Coordinator,Healthcare Admin,4,4,2,1,3,Married,6384,1,Yes,Travel_Rarely,3,16,1,2,7,0,2,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+33,No,Inpatient Nursing,ICU Specialist,Medical Science,3,1,2,2,4,Married,7967,3,No,Travel_Rarely,3,23,1,7,15,2,3,3,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+22,No,Intensive Care,Clinical Coordinator,Medical Science,3,9,4,3,4,Single,6528,0,Yes,Non-Travel,3,12,1,2,4,0,2,1,Healthcare & Clinical Services,High team trust during critical medical shifts.
+30,No,Emergency Medicine,Nurse Practitioner,Nursing,5,2,4,3,3,Single,5505,2,Yes,Non-Travel,3,17,2,0,0,0,0,0,Healthcare & Clinical Services,High team trust during critical medical shifts.
+35,No,Intensive Care,Nurse Practitioner,Medical Science,3,2,3,2,3,Married,8331,1,No,Travel_Rarely,3,22,5,8,17,5,1,4,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+47,No,Inpatient Nursing,Registered Nurse,Nursing,3,5,3,3,4,Divorced,7263,1,Yes,Non-Travel,3,13,1,7,9,3,2,1,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+37,Yes,Inpatient Nursing,Nurse Practitioner,Nursing,4,15,3,3,2,Single,6686,1,No,Non-Travel,3,14,3,5,7,5,2,5,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+25,No,Emergency Medicine,Registered Nurse,Nursing,4,26,3,2,2,Divorced,6841,5,Yes,Travel_Rarely,3,20,5,0,7,0,0,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+43,No,Inpatient Nursing,ICU Specialist,Healthcare Admin,4,6,2,2,2,Married,8203,2,Yes,Travel_Rarely,4,18,5,9,20,2,3,1,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+21,Yes,Inpatient Nursing,Clinical Coordinator,Medical Science,4,3,4,2,2,Married,6097,1,No,Travel_Rarely,3,23,4,1,3,0,1,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+47,No,Inpatient Nursing,ICU Specialist,Healthcare Admin,3,1,3,4,2,Divorced,6672,4,No,Travel_Rarely,4,24,3,5,5,4,3,2,Healthcare & Clinical Services,High team trust during critical medical shifts.
+35,Yes,Emergency Medicine,Clinical Coordinator,Medical Science,5,7,3,1,1,Divorced,6768,5,Yes,Travel_Rarely,3,16,4,6,10,2,1,2,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+44,Yes,Intensive Care,ICU Specialist,Medical Science,3,1,2,3,4,Single,8664,3,Yes,Non-Travel,3,11,4,12,17,7,5,4,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+38,No,Intensive Care,Registered Nurse,Healthcare Admin,4,1,3,2,4,Married,5720,3,Yes,Travel_Rarely,3,18,4,0,0,0,0,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+31,Yes,Inpatient Nursing,Registered Nurse,Healthcare Admin,3,2,2,3,2,Single,7736,2,Yes,Travel_Rarely,3,22,1,6,13,4,0,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+28,No,Emergency Medicine,Nurse Practitioner,Medical Science,2,4,3,3,3,Married,7314,2,Yes,Non-Travel,3,21,1,4,10,2,4,0,Healthcare & Clinical Services,High team trust during critical medical shifts.
+21,Yes,Emergency Medicine,Clinical Coordinator,Medical Science,3,45,3,3,2,Married,5796,2,Yes,Travel_Rarely,4,19,4,1,3,1,1,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+42,No,Emergency Medicine,Nurse Practitioner,Healthcare Admin,2,6,4,4,4,Married,6384,4,No,Travel_Rarely,3,12,5,4,5,3,4,1,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+34,No,Inpatient Nursing,Registered Nurse,Nursing,4,12,2,2,3,Married,5867,1,Yes,Non-Travel,3,25,1,0,1,0,0,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+32,No,Inpatient Nursing,ICU Specialist,Nursing,3,3,4,2,4,Single,6398,7,Yes,Travel_Rarely,3,21,2,2,6,1,2,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+26,Yes,Intensive Care,Registered Nurse,Medical Science,1,1,2,2,2,Single,7119,3,Yes,Non-Travel,3,24,1,0,8,0,0,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+28,Yes,Inpatient Nursing,ICU Specialist,Medical Science,2,1,1,1,3,Single,6417,4,Yes,Travel_Rarely,3,18,1,0,4,0,0,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+27,No,Inpatient Nursing,Registered Nurse,Nursing,1,15,3,3,2,Divorced,7048,3,No,Travel_Rarely,3,15,1,2,9,1,2,0,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+39,Yes,Intensive Care,Clinical Coordinator,Medical Science,3,4,1,1,3,Divorced,6228,3,No,Non-Travel,3,22,1,0,3,0,0,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+42,No,Intensive Care,Nurse Practitioner,Healthcare Admin,3,16,3,3,3,Single,5920,3,Yes,Travel_Rarely,3,18,3,3,4,3,1,1,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+43,Yes,Inpatient Nursing,Nurse Practitioner,Medical Science,3,1,3,1,3,Single,7601,3,No,Non-Travel,3,21,4,12,12,8,1,4,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+52,Yes,Inpatient Nursing,Registered Nurse,Healthcare Admin,3,6,1,3,2,Divorced,5837,0,Yes,Travel_Rarely,3,11,4,0,2,0,0,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+38,Yes,Intensive Care,Registered Nurse,Healthcare Admin,5,30,3,3,2,Divorced,6282,2,Yes,Travel_Rarely,3,18,3,2,5,1,0,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+29,No,Inpatient Nursing,ICU Specialist,Medical Science,3,7,4,1,3,Married,7656,4,No,Non-Travel,3,16,4,9,11,8,0,9,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+36,Yes,Emergency Medicine,ICU Specialist,Nursing,3,17,3,2,4,Married,5621,4,No,Travel_Rarely,3,17,5,0,1,0,0,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+39,Yes,Intensive Care,Clinical Coordinator,Healthcare Admin,3,5,1,3,2,Single,9010,2,Yes,Travel_Rarely,3,16,4,9,21,4,0,3,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+40,No,Intensive Care,ICU Specialist,Nursing,3,5,3,4,4,Married,6799,3,Yes,Non-Travel,3,12,1,2,9,0,2,0,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+44,No,Emergency Medicine,Nurse Practitioner,Healthcare Admin,4,5,3,2,4,Single,7352,2,Yes,Non-Travel,3,11,5,9,12,2,1,2,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+35,No,Emergency Medicine,Registered Nurse,Healthcare Admin,3,1,3,3,3,Single,6070,2,Yes,Travel_Rarely,3,18,1,2,3,0,0,0,Healthcare & Clinical Services,High team trust during critical medical shifts.
+38,Yes,Intensive Care,Clinical Coordinator,Medical Science,1,1,1,1,2,Single,6005,2,Yes,Travel_Rarely,3,15,5,1,2,0,1,1,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+35,No,Inpatient Nursing,Registered Nurse,Nursing,3,2,2,3,3,Married,6575,4,Yes,Non-Travel,3,19,2,1,9,0,0,1,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+29,Yes,Emergency Medicine,Nurse Practitioner,Healthcare Admin,3,11,3,3,4,Single,7460,1,Yes,Travel_Rarely,3,15,2,0,11,0,0,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+36,No,Emergency Medicine,Nurse Practitioner,Nursing,3,5,3,3,3,Divorced,5946,3,Yes,Travel_Rarely,4,17,1,1,2,1,0,1,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+32,Yes,Intensive Care,Registered Nurse,Healthcare Admin,3,2,4,2,4,Divorced,6069,2,Yes,Travel_Rarely,3,11,3,5,5,2,0,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+36,No,Emergency Medicine,Registered Nurse,Nursing,4,19,2,4,3,Divorced,6161,1,Yes,Non-Travel,3,12,5,5,5,3,2,1,Healthcare & Clinical Services,High team trust during critical medical shifts.
+41,Yes,Emergency Medicine,ICU Specialist,Healthcare Admin,3,4,4,2,1,Divorced,5659,1,Yes,Travel_Rarely,3,11,2,0,0,0,0,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+45,No,Emergency Medicine,Nurse Practitioner,Nursing,3,9,3,3,3,Single,7830,3,Yes,Non-Travel,3,16,5,0,14,0,0,0,Healthcare & Clinical Services,High team trust during critical medical shifts.
+25,No,Emergency Medicine,Nurse Practitioner,Medical Science,3,26,4,4,3,Divorced,5810,1,No,Travel_Rarely,3,15,3,2,2,1,0,2,Healthcare & Clinical Services,High team trust during critical medical shifts.
+21,Yes,Intensive Care,Clinical Coordinator,Healthcare Admin,4,30,1,3,1,Divorced,5687,2,Yes,Non-Travel,3,12,2,1,1,1,1,1,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+33,No,Intensive Care,Clinical Coordinator,Medical Science,4,4,3,3,3,Married,5774,1,Yes,Travel_Rarely,3,18,1,2,3,1,1,0,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+44,No,Emergency Medicine,ICU Specialist,Medical Science,3,6,3,4,4,Married,6608,3,No,Non-Travel,3,12,5,2,8,2,0,2,Healthcare & Clinical Services,High team trust during critical medical shifts.
+44,No,Intensive Care,ICU Specialist,Nursing,3,1,3,4,3,Married,6399,5,Yes,Non-Travel,3,20,2,1,7,0,1,0,Healthcare & Clinical Services,High team trust during critical medical shifts.
+21,Yes,Inpatient Nursing,ICU Specialist,Medical Science,3,7,1,1,3,Single,5953,0,Yes,Travel_Rarely,3,24,2,1,2,0,1,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+35,No,Emergency Medicine,Clinical Coordinator,Medical Science,5,1,4,4,2,Married,6702,1,No,Non-Travel,3,21,5,5,6,2,2,3,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+37,Yes,Emergency Medicine,Clinical Coordinator,Nursing,2,6,4,1,2,Single,6706,0,No,Travel_Rarely,4,22,4,4,5,2,2,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+26,No,Intensive Care,Registered Nurse,Nursing,2,19,3,3,3,Divorced,6761,2,No,Non-Travel,4,21,2,6,8,2,4,0,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+27,Yes,Intensive Care,ICU Specialist,Medical Science,3,1,3,3,2,Single,6907,2,Yes,Non-Travel,3,25,4,7,7,3,0,4,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+28,No,Emergency Medicine,Registered Nurse,Nursing,3,6,3,3,4,Married,5987,2,No,Travel_Rarely,3,19,4,4,4,4,3,3,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+40,No,Emergency Medicine,Registered Nurse,Healthcare Admin,4,24,4,3,3,Married,8783,0,Yes,Travel_Rarely,3,20,5,20,20,13,1,11,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+34,No,Inpatient Nursing,Nurse Practitioner,Healthcare Admin,4,4,4,3,1,Married,7586,6,Yes,Non-Travel,3,17,3,9,12,9,0,5,Healthcare & Clinical Services,High team trust during critical medical shifts.
+40,No,Emergency Medicine,ICU Specialist,Nursing,3,3,1,1,3,Married,6408,4,No,Non-Travel,3,25,2,4,6,2,0,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+23,No,Inpatient Nursing,Nurse Practitioner,Medical Science,3,2,2,3,4,Married,6274,2,Yes,Travel_Rarely,3,20,2,3,5,1,1,0,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+28,No,Inpatient Nursing,Clinical Coordinator,Healthcare Admin,5,6,3,3,4,Divorced,6588,1,Yes,Travel_Rarely,3,23,3,3,9,0,2,1,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+35,No,Emergency Medicine,Clinical Coordinator,Nursing,5,15,3,3,1,Single,7942,1,No,Non-Travel,4,21,2,0,17,0,0,0,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+33,Yes,Intensive Care,Registered Nurse,Medical Science,3,11,3,4,3,Married,7367,3,Yes,Non-Travel,4,24,1,10,15,8,0,8,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+26,Yes,Inpatient Nursing,ICU Specialist,Healthcare Admin,3,1,3,3,2,Divorced,7078,3,Yes,Travel_Rarely,4,17,1,1,8,1,0,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+47,No,Emergency Medicine,Registered Nurse,Medical Science,5,10,1,3,2,Married,5786,6,Yes,Non-Travel,3,20,1,1,2,1,0,1,Healthcare & Clinical Services,High team trust during critical medical shifts.
+42,No,Intensive Care,Registered Nurse,Medical Science,2,7,1,4,3,Single,7835,2,Yes,Non-Travel,3,19,2,5,16,3,2,4,Healthcare & Clinical Services,High team trust during critical medical shifts.
+42,No,Intensive Care,Registered Nurse,Nursing,2,3,4,4,3,Divorced,6564,2,Yes,Travel_Rarely,3,25,4,1,4,0,1,1,Healthcare & Clinical Services,High team trust during critical medical shifts.
+24,Yes,Inpatient Nursing,Clinical Coordinator,Medical Science,3,4,1,3,2,Single,6739,3,Yes,Non-Travel,3,16,4,4,5,4,1,2,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+40,Yes,Inpatient Nursing,Registered Nurse,Nursing,3,1,3,4,2,Married,6400,2,Yes,Travel_Rarely,3,15,1,0,4,0,0,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+26,Yes,Intensive Care,Clinical Coordinator,Healthcare Admin,4,3,4,4,2,Single,6377,1,No,Travel_Rarely,4,11,1,1,3,0,1,1,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+44,Yes,Emergency Medicine,Clinical Coordinator,Medical Science,3,2,2,4,1,Divorced,6618,4,No,Non-Travel,3,22,3,2,8,0,0,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+42,No,Emergency Medicine,ICU Specialist,Nursing,4,6,3,3,3,Divorced,7798,0,No,Travel_Rarely,3,15,2,13,13,7,7,6,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+36,Yes,Intensive Care,ICU Specialist,Healthcare Admin,4,1,1,3,1,Married,6697,0,No,Non-Travel,3,20,1,0,5,0,0,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+25,No,Inpatient Nursing,ICU Specialist,Healthcare Admin,1,15,3,4,3,Divorced,6263,1,Yes,Non-Travel,3,11,2,0,3,0,0,0,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+44,No,Emergency Medicine,ICU Specialist,Medical Science,3,4,3,2,3,Divorced,7066,1,No,Non-Travel,3,12,3,0,7,0,0,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+28,No,Emergency Medicine,Registered Nurse,Nursing,2,1,1,3,2,Single,7457,6,No,Travel_Rarely,3,18,4,8,10,4,4,2,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+43,Yes,Intensive Care,Clinical Coordinator,Medical Science,3,5,4,2,2,Single,8303,2,No,Travel_Rarely,4,11,3,2,21,0,2,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+35,Yes,Emergency Medicine,Clinical Coordinator,Healthcare Admin,3,8,4,4,2,Divorced,7039,4,Yes,Non-Travel,3,22,2,3,8,1,0,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+27,Yes,Intensive Care,ICU Specialist,Healthcare Admin,2,4,3,2,3,Divorced,6722,1,Yes,Travel_Rarely,3,24,2,2,9,1,2,2,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+34,No,Inpatient Nursing,ICU Specialist,Nursing,2,3,2,3,4,Single,8219,1,Yes,Non-Travel,3,12,5,1,13,1,1,0,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+25,No,Inpatient Nursing,ICU Specialist,Nursing,5,2,4,3,4,Single,7125,4,No,Non-Travel,3,21,3,3,7,1,1,2,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+35,No,Emergency Medicine,Clinical Coordinator,Medical Science,2,6,3,3,2,Married,6585,2,Yes,Non-Travel,3,22,2,1,9,0,1,0,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+39,No,Emergency Medicine,Clinical Coordinator,Medical Science,5,4,2,4,4,Divorced,6358,2,Yes,Non-Travel,3,20,4,4,5,2,1,3,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+40,No,Emergency Medicine,Nurse Practitioner,Healthcare Admin,5,9,2,3,3,Divorced,6241,2,Yes,Non-Travel,4,20,5,2,3,1,2,0,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+36,No,Intensive Care,Nurse Practitioner,Medical Science,5,1,1,3,4,Married,6022,2,Yes,Travel_Rarely,3,21,3,0,3,0,0,0,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+21,No,Emergency Medicine,ICU Specialist,Medical Science,2,1,3,4,2,Single,5824,2,No,Travel_Rarely,3,21,1,1,3,1,1,0,Healthcare & Clinical Services,High team trust during critical medical shifts.
+31,Yes,Emergency Medicine,ICU Specialist,Medical Science,3,23,1,1,3,Married,6434,4,Yes,Travel_Rarely,3,19,5,4,7,0,1,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+46,No,Inpatient Nursing,Nurse Practitioner,Nursing,3,1,3,4,2,Married,7058,3,No,Travel_Rarely,4,16,4,3,7,2,0,2,Healthcare & Clinical Services,High team trust during critical medical shifts.
+51,No,Emergency Medicine,Registered Nurse,Nursing,3,5,3,3,1,Divorced,5680,3,Yes,Non-Travel,3,15,3,1,1,0,0,0,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+41,No,Emergency Medicine,ICU Specialist,Medical Science,4,23,2,2,3,Single,8334,3,No,Travel_Rarely,3,15,1,13,14,10,3,7,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+36,No,Inpatient Nursing,ICU Specialist,Nursing,2,1,3,2,2,Divorced,6991,3,Yes,Non-Travel,3,25,2,9,10,4,6,2,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+36,Yes,Intensive Care,ICU Specialist,Nursing,4,34,3,3,3,Single,8847,3,Yes,Non-Travel,3,11,1,10,18,7,0,6,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+28,No,Intensive Care,Registered Nurse,Healthcare Admin,3,3,4,2,3,Single,7013,6,Yes,Travel_Rarely,4,20,3,0,8,0,0,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+22,Yes,Inpatient Nursing,Registered Nurse,Nursing,4,1,2,1,2,Divorced,6453,2,Yes,Travel_Rarely,3,12,1,2,4,0,2,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+35,No,Inpatient Nursing,Registered Nurse,Healthcare Admin,5,20,4,2,4,Single,6040,1,Yes,Travel_Rarely,3,23,3,5,5,3,0,4,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+33,No,Intensive Care,Clinical Coordinator,Nursing,4,1,4,4,2,Single,5724,2,Yes,Non-Travel,3,14,3,2,2,0,2,0,Healthcare & Clinical Services,High team trust during critical medical shifts.
+38,Yes,Emergency Medicine,ICU Specialist,Medical Science,3,9,2,3,3,Single,5795,2,Yes,Travel_Rarely,3,16,3,1,2,0,1,1,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+34,No,Inpatient Nursing,Nurse Practitioner,Healthcare Admin,4,1,3,2,2,Married,6524,0,Yes,Non-Travel,4,11,1,4,8,4,0,4,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+39,No,Emergency Medicine,Nurse Practitioner,Healthcare Admin,4,1,2,4,1,Divorced,5654,7,Yes,Non-Travel,4,14,5,0,2,0,0,0,Healthcare & Clinical Services,High team trust during critical medical shifts.
+49,No,Emergency Medicine,Registered Nurse,Medical Science,4,9,3,2,2,Married,8791,1,Yes,Travel_Rarely,3,11,4,6,22,3,0,2,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+43,No,Intensive Care,ICU Specialist,Healthcare Admin,4,45,3,3,3,Divorced,6070,1,No,Travel_Rarely,3,12,2,1,3,1,1,1,Healthcare & Clinical Services,High team trust during critical medical shifts.
+44,Yes,Inpatient Nursing,Clinical Coordinator,Nursing,3,1,3,3,4,Single,8145,2,Yes,Non-Travel,3,24,4,4,15,4,0,4,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+30,Yes,Emergency Medicine,Nurse Practitioner,Medical Science,3,12,2,2,4,Married,7851,6,Yes,Non-Travel,3,17,2,10,12,8,4,8,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+34,No,Inpatient Nursing,Clinical Coordinator,Medical Science,3,11,3,3,1,Married,6265,1,Yes,Non-Travel,4,19,5,0,4,0,0,0,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+46,No,Emergency Medicine,Clinical Coordinator,Medical Science,4,1,3,4,2,Divorced,8946,1,Yes,Travel_Rarely,3,19,4,5,17,1,2,0,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+35,No,Intensive Care,Clinical Coordinator,Healthcare Admin,3,7,4,4,4,Married,6666,1,No,Travel_Rarely,3,20,2,0,6,0,0,0,Healthcare & Clinical Services,High team trust during critical medical shifts.
+31,No,Intensive Care,Clinical Coordinator,Medical Science,4,43,3,3,1,Divorced,6406,1,Yes,Travel_Rarely,3,13,3,2,5,2,2,2,Healthcare & Clinical Services,High team trust during critical medical shifts.
+38,No,Intensive Care,Registered Nurse,Nursing,4,10,1,2,1,Married,6969,1,Yes,Travel_Rarely,3,17,2,2,11,2,2,2,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+39,No,Intensive Care,ICU Specialist,Healthcare Admin,3,12,4,3,3,Single,6304,1,Yes,Travel_Rarely,3,21,5,2,3,0,1,0,Healthcare & Clinical Services,High team trust during critical medical shifts.
+45,Yes,Intensive Care,Registered Nurse,Medical Science,1,9,2,4,2,Single,5469,3,Yes,Travel_Rarely,3,15,2,0,0,0,0,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+39,No,Inpatient Nursing,Clinical Coordinator,Nursing,3,4,4,4,3,Married,5900,4,No,Non-Travel,3,18,1,1,1,0,1,0,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+36,No,Emergency Medicine,Registered Nurse,Medical Science,4,27,1,2,3,Single,5902,1,Yes,Non-Travel,3,23,4,2,2,2,2,2,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+41,No,Intensive Care,ICU Specialist,Nursing,5,1,3,4,3,Single,5888,2,No,Non-Travel,3,18,1,2,2,2,1,0,Healthcare & Clinical Services,High team trust during critical medical shifts.
+37,Yes,Inpatient Nursing,Registered Nurse,Medical Science,4,9,2,2,4,Divorced,9002,3,No,Non-Travel,4,16,2,10,18,6,0,4,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+48,Yes,Inpatient Nursing,Clinical Coordinator,Nursing,3,1,2,2,3,Divorced,7901,4,No,Travel_Rarely,3,21,3,1,16,0,1,1,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+31,Yes,Emergency Medicine,Clinical Coordinator,Medical Science,3,1,3,3,2,Married,6515,1,Yes,Non-Travel,3,16,2,4,7,2,1,2,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+37,No,Emergency Medicine,Registered Nurse,Nursing,4,4,2,3,3,Divorced,6262,0,Yes,Travel_Rarely,4,14,2,2,6,1,0,1,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+37,Yes,Emergency Medicine,ICU Specialist,Nursing,4,8,1,1,3,Married,6571,3,Yes,Non-Travel,3,23,1,3,7,0,3,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+42,Yes,Inpatient Nursing,Nurse Practitioner,Healthcare Admin,4,2,4,2,2,Single,5670,1,Yes,Non-Travel,4,14,4,0,2,0,0,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+29,No,Emergency Medicine,Nurse Practitioner,Healthcare Admin,5,2,3,3,4,Married,6879,3,Yes,Travel_Rarely,3,13,4,2,10,2,1,2,Healthcare & Clinical Services,High team trust during critical medical shifts.
+32,No,Inpatient Nursing,Nurse Practitioner,Healthcare Admin,3,5,3,4,4,Single,6158,0,No,Non-Travel,3,15,5,0,2,0,0,0,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+48,Yes,Intensive Care,Nurse Practitioner,Medical Science,3,1,3,2,3,Single,5782,1,Yes,Non-Travel,3,25,2,0,0,0,0,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+43,Yes,Intensive Care,ICU Specialist,Healthcare Admin,4,8,2,3,2,Married,5771,0,Yes,Travel_Rarely,4,24,1,1,3,1,1,1,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+39,Yes,Intensive Care,Nurse Practitioner,Nursing,2,13,3,3,1,Married,6250,2,Yes,Travel_Rarely,3,23,1,3,6,1,3,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+36,No,Inpatient Nursing,Clinical Coordinator,Healthcare Admin,3,2,4,4,4,Married,8317,5,Yes,Non-Travel,4,25,3,10,18,8,2,4,Healthcare & Clinical Services,High team trust during critical medical shifts.
+37,No,Inpatient Nursing,ICU Specialist,Medical Science,3,1,3,2,3,Single,6448,3,Yes,Travel_Rarely,3,18,4,4,4,1,0,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+35,No,Emergency Medicine,Clinical Coordinator,Healthcare Admin,1,1,1,1,4,Single,7711,1,No,Non-Travel,4,14,5,13,17,4,12,2,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+42,Yes,Intensive Care,Registered Nurse,Healthcare Admin,3,37,3,4,2,Married,9107,2,Yes,Travel_Rarely,3,17,4,14,19,9,1,8,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+31,Yes,Inpatient Nursing,Registered Nurse,Healthcare Admin,3,13,4,4,1,Married,6846,4,Yes,Travel_Rarely,3,24,1,0,7,0,0,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+52,No,Emergency Medicine,Registered Nurse,Nursing,4,2,4,3,2,Married,8301,2,Yes,Non-Travel,3,20,2,17,18,12,1,10,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+41,No,Inpatient Nursing,Clinical Coordinator,Medical Science,4,16,4,3,2,Married,6701,2,No,Travel_Rarely,3,18,2,3,5,1,0,1,Healthcare & Clinical Services,High team trust during critical medical shifts.
+38,Yes,Inpatient Nursing,Nurse Practitioner,Nursing,2,1,3,3,1,Single,6427,4,Yes,Travel_Rarely,3,25,2,2,5,0,2,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+36,Yes,Emergency Medicine,Clinical Coordinator,Nursing,3,24,4,1,4,Single,8755,3,Yes,Travel_Rarely,3,19,2,7,18,4,0,1,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+39,No,Emergency Medicine,Nurse Practitioner,Medical Science,3,1,2,3,3,Married,7016,3,Yes,Travel_Rarely,3,25,3,6,8,1,0,0,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+38,Yes,Emergency Medicine,Nurse Practitioner,Medical Science,3,25,3,3,2,Single,8106,6,Yes,Travel_Rarely,3,22,4,2,13,0,1,1,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+22,Yes,Inpatient Nursing,Registered Nurse,Nursing,5,1,2,3,4,Divorced,6385,5,Yes,Travel_Rarely,3,13,2,0,3,0,0,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+48,No,Intensive Care,Nurse Practitioner,Healthcare Admin,2,8,4,3,3,Divorced,8795,0,Yes,Travel_Rarely,3,20,3,1,20,1,1,0,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+35,No,Intensive Care,Clinical Coordinator,Nursing,2,2,2,4,2,Married,5958,0,Yes,Non-Travel,3,14,5,2,2,0,1,0,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+37,No,Emergency Medicine,Clinical Coordinator,Medical Science,5,16,2,4,1,Single,6441,6,No,Travel_Rarely,3,25,2,4,5,2,0,2,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+40,No,Emergency Medicine,Nurse Practitioner,Healthcare Admin,3,3,3,4,3,Single,6892,0,No,Non-Travel,3,21,2,1,8,0,0,0,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+33,No,Intensive Care,Registered Nurse,Healthcare Admin,3,2,3,3,1,Single,6743,4,Yes,Non-Travel,3,14,2,3,6,1,0,1,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+46,Yes,Emergency Medicine,Clinical Coordinator,Healthcare Admin,3,4,2,3,2,Married,6688,3,Yes,Non-Travel,3,25,3,4,10,0,0,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+40,No,Emergency Medicine,Clinical Coordinator,Medical Science,2,3,2,3,2,Married,5640,3,Yes,Travel_Rarely,3,20,3,2,2,2,0,1,Healthcare & Clinical Services,High team trust during critical medical shifts.
+37,No,Intensive Care,Clinical Coordinator,Nursing,3,10,1,2,3,Divorced,5380,1,Yes,Travel_Rarely,3,18,4,0,0,0,0,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+45,No,Emergency Medicine,Registered Nurse,Medical Science,2,18,4,3,3,Single,6346,3,Yes,Travel_Rarely,4,16,5,6,7,6,1,3,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+48,No,Inpatient Nursing,Clinical Coordinator,Medical Science,3,1,2,1,1,Single,5973,3,No,Travel_Rarely,3,14,3,2,2,0,2,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+21,Yes,Inpatient Nursing,Nurse Practitioner,Medical Science,4,3,4,4,3,Married,5903,5,No,Non-Travel,3,13,4,0,3,0,0,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+36,Yes,Inpatient Nursing,Clinical Coordinator,Nursing,4,6,1,1,1,Divorced,5569,1,No,Non-Travel,3,22,2,0,1,0,0,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+36,No,Intensive Care,ICU Specialist,Healthcare Admin,4,2,1,2,2,Divorced,5887,3,Yes,Travel_Rarely,3,19,5,3,3,0,2,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+27,Yes,Inpatient Nursing,Clinical Coordinator,Nursing,4,22,3,4,1,Single,5740,4,Yes,Non-Travel,3,15,1,0,1,0,0,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+42,No,Inpatient Nursing,Nurse Practitioner,Healthcare Admin,3,11,3,2,3,Married,6413,4,Yes,Travel_Rarely,3,14,2,2,5,1,1,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+37,No,Intensive Care,Nurse Practitioner,Healthcare Admin,4,5,3,2,2,Divorced,5778,2,No,Travel_Rarely,3,22,2,2,3,2,2,1,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+36,Yes,Intensive Care,Nurse Practitioner,Healthcare Admin,2,4,4,2,3,Married,7143,2,Yes,Travel_Rarely,3,16,2,1,8,0,1,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+40,Yes,Intensive Care,Nurse Practitioner,Healthcare Admin,3,2,1,1,3,Divorced,6070,2,No,Non-Travel,3,20,2,2,2,1,0,2,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+37,No,Emergency Medicine,ICU Specialist,Medical Science,1,3,3,3,3,Divorced,7289,1,Yes,Non-Travel,3,17,4,10,14,6,3,4,Healthcare & Clinical Services,High team trust during critical medical shifts.
+33,Yes,Inpatient Nursing,Nurse Practitioner,Medical Science,4,7,2,2,1,Divorced,6160,4,Yes,Non-Travel,3,23,5,0,5,0,0,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+43,No,Inpatient Nursing,ICU Specialist,Healthcare Admin,3,1,3,4,3,Divorced,5670,2,No,Non-Travel,3,25,5,0,2,0,0,0,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+29,Yes,Emergency Medicine,ICU Specialist,Nursing,4,5,4,4,2,Married,7518,2,Yes,Non-Travel,4,11,5,9,11,2,0,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+34,No,Intensive Care,Nurse Practitioner,Healthcare Admin,2,1,2,3,3,Married,7297,4,Yes,Travel_Rarely,3,11,5,6,14,3,1,1,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+28,No,Intensive Care,Clinical Coordinator,Nursing,3,1,1,4,2,Married,5796,3,Yes,Travel_Rarely,3,17,4,3,3,3,0,2,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+26,Yes,Emergency Medicine,Nurse Practitioner,Nursing,3,5,2,3,4,Single,7113,3,Yes,Travel_Rarely,4,12,4,1,8,0,0,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+55,No,Inpatient Nursing,Nurse Practitioner,Healthcare Admin,4,4,4,2,3,Single,6477,3,Yes,Travel_Rarely,3,18,4,0,8,0,0,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+26,No,Inpatient Nursing,Nurse Practitioner,Nursing,2,26,2,2,3,Single,6655,1,No,Non-Travel,4,25,4,6,8,4,2,4,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+37,No,Emergency Medicine,Registered Nurse,Healthcare Admin,3,4,3,3,2,Married,6647,1,Yes,Travel_Rarely,3,11,4,5,5,3,1,1,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+34,No,Emergency Medicine,ICU Specialist,Nursing,3,14,2,3,2,Divorced,8118,6,No,Travel_Rarely,3,20,3,9,16,6,0,7,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+43,Yes,Intensive Care,Clinical Coordinator,Medical Science,2,7,3,4,1,Divorced,6500,5,No,Non-Travel,3,18,3,3,5,3,3,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+42,No,Inpatient Nursing,Nurse Practitioner,Medical Science,4,1,3,1,3,Single,6555,1,Yes,Non-Travel,3,25,5,0,4,0,0,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+22,No,Emergency Medicine,Nurse Practitioner,Nursing,2,8,4,3,3,Married,6156,2,Yes,Travel_Rarely,3,23,1,1,3,1,0,1,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+36,No,Inpatient Nursing,ICU Specialist,Nursing,5,20,3,2,3,Married,6960,1,Yes,Non-Travel,3,24,3,7,7,2,0,2,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+34,Yes,Emergency Medicine,Nurse Practitioner,Nursing,5,7,2,4,2,Married,8530,3,Yes,Non-Travel,4,13,3,14,16,12,3,11,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+36,Yes,Inpatient Nursing,Nurse Practitioner,Healthcare Admin,3,1,3,4,3,Divorced,9079,1,Yes,Non-Travel,3,21,3,5,18,2,2,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+30,Yes,Intensive Care,Registered Nurse,Medical Science,3,4,3,3,3,Single,5835,4,No,Non-Travel,3,11,4,1,3,0,0,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+39,Yes,Intensive Care,Registered Nurse,Medical Science,5,1,1,2,4,Divorced,8393,3,Yes,Non-Travel,3,20,5,2,15,1,2,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+37,No,Emergency Medicine,ICU Specialist,Nursing,5,14,4,3,3,Married,8240,1,Yes,Non-Travel,3,20,3,9,14,7,0,5,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+52,No,Intensive Care,Registered Nurse,Healthcare Admin,5,18,2,3,2,Married,5908,1,No,Non-Travel,3,22,3,1,1,0,1,0,Healthcare & Clinical Services,High team trust during critical medical shifts.
+36,No,Inpatient Nursing,Clinical Coordinator,Nursing,2,27,3,4,3,Married,6172,2,Yes,Non-Travel,3,13,3,1,4,0,0,0,Healthcare & Clinical Services,High team trust during critical medical shifts.
+52,Yes,Inpatient Nursing,Nurse Practitioner,Nursing,3,1,1,3,1,Single,6472,3,Yes,Non-Travel,3,11,4,2,4,0,0,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+37,No,Inpatient Nursing,Nurse Practitioner,Nursing,1,1,4,3,3,Single,6083,2,Yes,Non-Travel,3,11,3,3,5,0,0,0,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+35,Yes,Intensive Care,Nurse Practitioner,Healthcare Admin,4,6,2,1,1,Single,6806,3,Yes,Non-Travel,3,25,2,9,9,5,1,7,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+44,No,Inpatient Nursing,Registered Nurse,Healthcare Admin,4,5,1,3,1,Divorced,6911,5,Yes,Non-Travel,3,20,5,0,6,0,0,0,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+37,Yes,Intensive Care,Nurse Practitioner,Nursing,3,2,1,2,3,Single,7539,3,Yes,Non-Travel,3,11,2,3,12,0,1,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+38,Yes,Emergency Medicine,ICU Specialist,Medical Science,4,32,2,2,4,Married,6653,3,Yes,Non-Travel,3,22,5,0,9,0,0,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+32,Yes,Intensive Care,ICU Specialist,Nursing,3,26,4,3,2,Single,5639,1,Yes,Non-Travel,3,12,4,1,1,1,0,1,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+34,Yes,Emergency Medicine,Nurse Practitioner,Nursing,3,1,3,3,3,Divorced,7225,1,Yes,Non-Travel,3,21,2,4,10,0,0,1,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+30,No,Intensive Care,Registered Nurse,Nursing,3,1,4,3,4,Divorced,7268,3,Yes,Non-Travel,3,18,1,4,10,4,0,3,Healthcare & Clinical Services,High team trust during critical medical shifts.
+37,No,Emergency Medicine,Clinical Coordinator,Nursing,3,11,4,4,3,Married,6773,3,Yes,Non-Travel,3,25,3,9,9,2,1,0,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+42,Yes,Intensive Care,ICU Specialist,Nursing,3,1,4,3,2,Divorced,7585,0,Yes,Travel_Rarely,3,14,4,1,10,1,1,1,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+22,Yes,Intensive Care,ICU Specialist,Medical Science,4,2,3,1,1,Single,6019,3,Yes,Travel_Rarely,3,12,1,0,4,0,0,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+42,Yes,Inpatient Nursing,Clinical Coordinator,Nursing,3,2,4,2,4,Divorced,6963,1,Yes,Non-Travel,3,19,2,7,10,1,0,2,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+47,No,Intensive Care,Nurse Practitioner,Nursing,2,15,2,2,3,Single,9932,2,No,Travel_Rarely,3,21,3,6,26,4,0,5,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+40,No,Emergency Medicine,ICU Specialist,Healthcare Admin,4,6,3,4,3,Single,6246,4,Yes,Non-Travel,3,23,5,1,4,1,0,1,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+35,Yes,Emergency Medicine,Nurse Practitioner,Medical Science,2,7,3,1,2,Single,8633,0,No,Travel_Rarely,4,22,2,6,17,4,2,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+27,Yes,Intensive Care,ICU Specialist,Healthcare Admin,3,5,1,1,4,Divorced,6638,3,No,Non-Travel,3,14,4,7,7,2,1,1,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+26,Yes,Emergency Medicine,Registered Nurse,Medical Science,4,9,3,4,4,Married,6707,3,No,Travel_Rarely,3,12,3,6,6,1,6,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+31,Yes,Inpatient Nursing,Registered Nurse,Healthcare Admin,5,11,3,2,4,Divorced,7829,3,No,Non-Travel,3,13,2,10,11,5,8,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+40,No,Inpatient Nursing,Registered Nurse,Nursing,5,1,2,4,2,Divorced,7564,2,Yes,Travel_Rarely,3,17,3,3,11,2,2,0,Healthcare & Clinical Services,High team trust during critical medical shifts.
+47,No,Emergency Medicine,Registered Nurse,Medical Science,1,5,2,3,3,Single,6782,1,No,Travel_Rarely,3,17,2,4,8,0,0,1,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+37,No,Emergency Medicine,Nurse Practitioner,Healthcare Admin,2,15,3,4,3,Divorced,7949,3,Yes,Non-Travel,3,13,1,2,12,0,2,0,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+48,No,Intensive Care,Nurse Practitioner,Medical Science,3,6,3,3,4,Divorced,6855,2,Yes,Non-Travel,3,15,1,1,6,0,1,1,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+38,Yes,Emergency Medicine,Clinical Coordinator,Nursing,3,4,3,2,1,Married,6148,2,Yes,Non-Travel,4,14,1,2,3,2,2,1,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+40,Yes,Emergency Medicine,Registered Nurse,Healthcare Admin,4,6,3,3,4,Single,6049,2,No,Non-Travel,3,18,5,1,4,1,1,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+39,No,Emergency Medicine,ICU Specialist,Healthcare Admin,3,2,3,3,3,Married,6509,3,Yes,Non-Travel,3,17,1,0,7,0,0,0,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+37,Yes,Inpatient Nursing,Registered Nurse,Medical Science,3,3,2,3,1,Married,7214,2,Yes,Travel_Rarely,3,12,2,3,10,3,3,2,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+21,No,Emergency Medicine,Clinical Coordinator,Medical Science,4,1,3,1,3,Divorced,6269,3,No,Travel_Rarely,3,16,1,1,3,1,1,1,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+34,No,Inpatient Nursing,Nurse Practitioner,Nursing,1,7,4,2,3,Married,7858,3,No,Non-Travel,4,17,2,5,16,4,0,1,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+31,No,Inpatient Nursing,Clinical Coordinator,Nursing,2,3,2,2,3,Married,7315,2,Yes,Non-Travel,3,16,3,11,13,11,3,10,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+37,No,Intensive Care,Nurse Practitioner,Healthcare Admin,2,1,3,3,2,Married,7129,0,Yes,Non-Travel,3,25,3,0,10,0,0,0,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+24,No,Inpatient Nursing,Registered Nurse,Nursing,3,12,3,3,4,Divorced,6015,1,Yes,Non-Travel,4,24,1,0,3,0,0,0,Healthcare & Clinical Services,High team trust during critical medical shifts.
+52,No,Intensive Care,Nurse Practitioner,Healthcare Admin,5,3,3,1,3,Married,5836,4,Yes,Travel_Rarely,4,11,4,0,3,0,0,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+29,No,Intensive Care,ICU Specialist,Medical Science,4,1,4,2,4,Married,6456,1,No,Travel_Rarely,3,24,3,1,8,1,1,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+39,No,Inpatient Nursing,ICU Specialist,Healthcare Admin,2,13,2,2,4,Single,6999,1,No,Travel_Rarely,4,25,5,6,7,0,3,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+30,No,Inpatient Nursing,ICU Specialist,Nursing,4,6,4,4,2,Single,7589,5,No,Non-Travel,4,12,5,1,12,1,0,1,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+43,Yes,Inpatient Nursing,ICU Specialist,Healthcare Admin,5,1,1,1,3,Divorced,7178,2,Yes,Non-Travel,3,11,5,4,11,0,4,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+33,No,Inpatient Nursing,Clinical Coordinator,Nursing,4,12,4,4,4,Married,7461,1,No,Non-Travel,4,11,4,3,10,2,3,0,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+26,Yes,Inpatient Nursing,Registered Nurse,Healthcare Admin,3,1,2,3,2,Divorced,5897,4,No,Travel_Rarely,3,12,4,1,2,0,1,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+38,No,Emergency Medicine,ICU Specialist,Healthcare Admin,3,1,3,3,2,Married,6391,1,No,Travel_Rarely,4,12,3,0,4,0,0,0,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+54,Yes,Emergency Medicine,Registered Nurse,Medical Science,3,5,1,3,1,Married,5460,2,Yes,Non-Travel,3,24,1,0,0,0,0,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+24,No,Inpatient Nursing,ICU Specialist,Healthcare Admin,5,7,1,4,1,Married,6215,1,Yes,Non-Travel,3,25,5,0,6,0,0,0,Healthcare & Clinical Services,High team trust during critical medical shifts.
+37,No,Emergency Medicine,Registered Nurse,Healthcare Admin,3,3,3,3,3,Single,6137,3,Yes,Travel_Rarely,3,22,3,2,3,2,2,0,Healthcare & Clinical Services,Deeply rewarding patient care and strong peer camaraderie.
+28,No,Emergency Medicine,Clinical Coordinator,Medical Science,1,4,3,2,3,Divorced,7054,0,No,Non-Travel,3,20,4,0,10,0,0,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+24,Yes,Intensive Care,Clinical Coordinator,Medical Science,4,5,2,3,2,Divorced,6732,4,Yes,Travel_Rarely,3,23,3,4,6,1,0,1,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+40,No,Intensive Care,Clinical Coordinator,Nursing,3,21,3,1,3,Divorced,6260,1,No,Travel_Rarely,3,15,5,0,6,0,0,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+42,No,Inpatient Nursing,ICU Specialist,Medical Science,4,1,3,1,2,Divorced,7830,3,No,Travel_Rarely,3,19,2,2,18,2,2,1,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+37,No,Inpatient Nursing,Registered Nurse,Medical Science,2,1,3,1,3,Married,5733,1,Yes,Travel_Rarely,4,21,3,1,1,0,1,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+38,No,Inpatient Nursing,ICU Specialist,Medical Science,4,9,3,4,3,Divorced,6278,0,Yes,Travel_Rarely,3,25,3,1,3,1,1,0,Healthcare & Clinical Services,High team trust during critical medical shifts.
+37,Yes,Intensive Care,Nurse Practitioner,Healthcare Admin,2,4,3,3,1,Single,6811,5,Yes,Travel_Rarely,3,25,2,9,11,7,2,6,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+43,No,Emergency Medicine,Nurse Practitioner,Nursing,4,1,3,1,2,Married,5969,4,Yes,Travel_Rarely,3,16,2,0,1,0,0,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+35,No,Inpatient Nursing,Clinical Coordinator,Medical Science,3,13,4,2,1,Divorced,8415,1,No,Non-Travel,4,24,2,2,17,2,0,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+22,No,Emergency Medicine,Nurse Practitioner,Healthcare Admin,3,1,3,2,3,Married,5956,4,Yes,Non-Travel,3,21,2,2,2,2,2,2,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+34,Yes,Emergency Medicine,Registered Nurse,Nursing,3,6,2,2,3,Married,6815,2,No,Travel_Rarely,3,16,5,10,10,8,2,8,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+52,No,Intensive Care,Nurse Practitioner,Healthcare Admin,3,13,2,3,4,Single,7217,2,Yes,Travel_Rarely,3,18,2,9,10,1,0,0,Healthcare & Clinical Services,High team trust during critical medical shifts.
+26,No,Inpatient Nursing,ICU Specialist,Nursing,5,4,1,3,2,Divorced,6402,8,Yes,Non-Travel,3,18,1,2,6,0,2,1,Healthcare & Clinical Services,Solid hospital benefits and retirement match.
+45,Yes,Intensive Care,Clinical Coordinator,Nursing,2,11,3,4,2,Single,6404,1,Yes,Travel_Rarely,3,11,3,1,5,0,0,1,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+32,Yes,Intensive Care,Clinical Coordinator,Nursing,3,11,2,4,3,Single,5461,1,Yes,Non-Travel,3,23,4,0,0,0,0,0,Healthcare & Clinical Services,Emotional fatigue and unsupportive floor leadership.
+33,Yes,Emergency Medicine,Registered Nurse,Medical Science,5,1,3,3,2,Single,5557,2,Yes,Travel_Rarely,3,16,3,1,1,1,1,0,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+33,Yes,Intensive Care,Clinical Coordinator,Nursing,2,9,3,4,3,Divorced,6002,2,Yes,Travel_Rarely,3,14,5,1,1,0,1,1,Healthcare & Clinical Services,Mandatory weekend overtime is ruining family balance.
+36,Yes,Inpatient Nursing,Registered Nurse,Nursing,3,3,2,1,1,Divorced,6619,3,Yes,Non-Travel,3,16,1,1,8,0,1,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.
+43,Yes,Inpatient Nursing,Nurse Practitioner,Healthcare Admin,3,6,1,1,1,Single,6378,8,Yes,Non-Travel,3,24,5,3,5,1,3,0,Healthcare & Clinical Services,Understaffed shifts causing severe clinical burnout.

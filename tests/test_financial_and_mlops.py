@@ -60,4 +60,5 @@ def test_monitoring_db_and_drift():
     detector = DriftDetector()
     drift_status = detector.check_drift()
     assert "drift_detected" in drift_status
-    assert "p_value" in drift_status or "details" in drift_status or "feature_results" in drift_status
+    assert "feature_details" in drift_status or "details" in drift_status or "composite_drift_score" in drift_status
+

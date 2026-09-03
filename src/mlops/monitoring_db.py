@@ -162,3 +162,41 @@ def get_recent_predictions(limit: int = 50):
     rows = [dict(r) for r in c.fetchall()]
     conn.close()
     return rows
+
+
+class MonitoringDB:
+    """Class wrapper for monitoring and telemetry SQLite database operations."""
+
+    def __init__(self):
+        init_db()
+
+    def log_prediction(self, features: dict, prediction: float, risk_tier: str = "LOW", trust_score: float = 95.0, latency_ms: float = 0.0) -> int:
+        res = {
+            "attrition_probability": prediction,
+            "attrition_prediction": 1 if prediction >= 0.5 else 0,
+            "risk_tier": risk_tier,
+            "data_trust_score": trust_score,
+            "cluster_id": 0,
+            "is_isolation_forest_anomaly": 0,
+            "is_deep_anomaly": 0,
+            "is_lof_anomaly": 0,
+            "financials": {
+                "replacement_cost": features.get("MonthlyIncome", 5000) * 6,
+                "expected_loss_at_risk": features.get("MonthlyIncome", 5000) * 6 * prediction
+            }
+        }
+        return log_prediction(features, res)
+
+    def get_statistics(self) -> dict:
+        summary = get_kpi_summary()
+        return {
+            "total_predictions": summary.get("total_predictions", 0),
+            "avg_risk_probability": summary.get("average_attrition_risk", 0.0),
+            "avg_trust_score": summary.get("average_trust_score", 95.0),
+            "high_risk_count": summary.get("high_risk_count", 0),
+            "total_loss_at_risk": summary.get("total_loss_at_risk", 0.0)
+        }
+
+    def get_recent(self, limit: int = 50) -> list:
+        return get_recent_predictions(limit)
+

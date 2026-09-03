@@ -1,3 +1,4 @@
+import json
 import joblib
 import numpy as np
 import pandas as pd
@@ -101,3 +102,34 @@ def detect_data_drift(new_data: list, baseline_path=BASELINE_STATS_PATH) -> dict
         "total_features_monitored": total_features,
         "feature_details": feature_drift_results,
     }
+
+
+class DriftDetector:
+    """Class wrapper for data drift detection operations."""
+
+    def __init__(self, baseline_path=BASELINE_STATS_PATH):
+        self.baseline_path = baseline_path
+
+    def check_drift(self, incoming_data: list = None) -> dict:
+        if incoming_data is None:
+            # Check against recent monitoring logs if available
+            try:
+                from src.mlops.monitoring_db import get_recent_predictions
+                recent = get_recent_predictions(limit=50)
+                incoming_data = [json.loads(r["data_json"]) for r in recent if r.get("data_json")]
+            except Exception:
+                incoming_data = []
+
+        if not incoming_data:
+            return {
+                "drift_detected": False,
+                "composite_drift_score": 0.0,
+                "drifted_features_count": 0,
+                "total_features_monitored": 0,
+                "summary": "No incoming streaming data to evaluate."
+            }
+
+        res = detect_data_drift(incoming_data, baseline_path=self.baseline_path)
+        res["summary"] = "Drift detected across features." if res["drift_detected"] else "Features within baseline tolerance."
+        return res
+

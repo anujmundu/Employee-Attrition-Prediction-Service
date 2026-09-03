@@ -1,0 +1,401 @@
+Age,Attrition,Department,JobRole,EducationField,Education,DistanceFromHome,EnvironmentSatisfaction,JobSatisfaction,WorkLifeBalance,MaritalStatus,MonthlyIncome,NumCompaniesWorked,OverTime,BusinessTravel,PerformanceRating,PercentSalaryHike,TrainingTimesLastYear,YearsAtCompany,TotalWorkingYears,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager,Industry,EmployeeFeedback
+56,Yes,Compliance Audit,Regulatory Specialist,Public Policy,4,2,4,2,4,Divorced,19474,2,Yes,Non-Travel,3,19,4,26,34,20,4,16,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+37,Yes,Corporate Legal,Contracts Officer,Law,5,4,2,1,3,Single,13521,1,No,Non-Travel,4,21,4,4,14,1,0,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+47,No,Regulatory Affairs,Contracts Officer,Public Policy,3,10,4,3,1,Divorced,9777,2,Yes,Non-Travel,4,25,4,0,0,0,0,0,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+48,Yes,Regulatory Affairs,Regulatory Specialist,Law,2,4,2,2,2,Divorced,11662,5,No,Travel_Rarely,3,18,3,4,5,4,0,4,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+41,No,Regulatory Affairs,Legal Counsel,Public Policy,5,4,2,2,3,Divorced,16373,2,Yes,Non-Travel,3,19,5,7,16,3,1,2,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+38,Yes,Corporate Legal,Legal Counsel,Finance,3,1,1,3,2,Married,14986,1,No,Non-Travel,3,20,1,0,17,0,0,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+33,No,Compliance Audit,Legal Counsel,Public Policy,5,1,3,3,1,Married,10075,5,No,Travel_Rarely,3,12,1,1,1,1,0,1,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+48,No,Corporate Legal,Legal Counsel,Public Policy,4,2,3,2,4,Married,13696,2,Yes,Travel_Rarely,3,25,3,0,10,0,0,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+34,No,Compliance Audit,Legal Counsel,Finance,3,16,2,3,2,Single,14296,3,No,Non-Travel,3,23,1,2,16,0,0,1,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+27,No,Regulatory Affairs,Legal Counsel,Public Policy,1,1,3,4,3,Married,13859,3,Yes,Travel_Rarely,3,22,5,7,9,1,1,1,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+35,Yes,Regulatory Affairs,Legal Counsel,Law,3,14,2,3,3,Married,11458,3,Yes,Non-Travel,3,13,4,0,4,0,0,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+35,No,Regulatory Affairs,Regulatory Specialist,Public Policy,3,6,4,4,3,Divorced,14060,1,Yes,Non-Travel,3,19,1,1,11,1,1,0,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+38,No,Regulatory Affairs,Legal Counsel,Finance,3,8,2,2,4,Divorced,13740,4,Yes,Non-Travel,3,16,4,0,11,0,0,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+29,No,Corporate Legal,Compliance Analyst,Finance,4,4,4,4,4,Single,14435,3,No,Travel_Rarely,3,24,3,9,11,7,3,8,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+43,No,Compliance Audit,Regulatory Specialist,Public Policy,3,1,3,3,2,Married,18284,3,No,Travel_Rarely,3,18,4,2,24,0,0,1,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+43,Yes,Compliance Audit,Regulatory Specialist,Finance,3,1,3,1,2,Single,10632,1,Yes,Non-Travel,4,16,1,2,3,0,0,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+47,No,Corporate Legal,Legal Counsel,Law,4,1,3,4,1,Single,9657,5,No,Non-Travel,3,25,5,0,0,0,0,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+45,No,Regulatory Affairs,Legal Counsel,Law,5,8,2,1,2,Single,13094,6,Yes,Travel_Rarely,3,15,1,1,7,1,1,1,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+32,Yes,Corporate Legal,Contracts Officer,Public Policy,3,6,3,3,4,Divorced,11274,2,No,Non-Travel,3,15,4,0,6,0,0,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+38,No,Compliance Audit,Compliance Analyst,Public Policy,4,23,2,2,3,Married,13055,6,No,Non-Travel,3,25,4,4,8,3,4,2,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+37,Yes,Compliance Audit,Compliance Analyst,Public Policy,3,15,2,4,2,Married,9745,2,No,Travel_Rarely,3,20,1,1,1,1,1,1,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+27,No,Corporate Legal,Compliance Analyst,Finance,3,9,4,3,4,Married,12923,4,No,Travel_Rarely,3,14,3,5,9,4,2,2,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+47,No,Corporate Legal,Compliance Analyst,Law,4,5,1,3,3,Married,11692,3,Yes,Travel_Rarely,3,14,2,3,4,3,0,3,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+39,No,Compliance Audit,Legal Counsel,Law,2,14,4,2,2,Married,11036,4,No,Non-Travel,3,23,2,3,4,1,0,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+33,Yes,Compliance Audit,Contracts Officer,Law,3,1,2,3,2,Divorced,9453,2,No,Non-Travel,3,21,1,0,0,0,0,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+21,No,Compliance Audit,Contracts Officer,Law,4,2,2,3,4,Divorced,9789,3,No,Non-Travel,3,23,2,1,1,1,0,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+27,Yes,Corporate Legal,Compliance Analyst,Public Policy,3,6,1,3,2,Single,13465,2,No,Travel_Rarely,3,11,4,3,8,0,1,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+34,No,Corporate Legal,Regulatory Specialist,Finance,4,29,2,3,2,Married,10385,3,Yes,Travel_Rarely,3,25,1,0,3,0,0,0,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+43,No,Compliance Audit,Regulatory Specialist,Law,4,33,2,3,3,Married,11248,3,No,Travel_Rarely,3,15,3,3,3,0,0,3,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+41,No,Corporate Legal,Legal Counsel,Public Policy,3,8,1,3,3,Single,11209,2,No,Non-Travel,3,12,1,5,6,1,2,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+42,No,Regulatory Affairs,Compliance Analyst,Public Policy,3,1,2,3,1,Married,12369,0,No,Travel_Rarely,3,17,1,1,7,0,1,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+40,Yes,Compliance Audit,Contracts Officer,Finance,3,8,3,1,3,Single,9983,1,Yes,Non-Travel,3,24,1,2,2,0,1,1,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+33,No,Corporate Legal,Contracts Officer,Law,4,5,2,2,2,Single,12213,1,Yes,Non-Travel,3,24,1,2,6,2,2,2,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+43,No,Corporate Legal,Contracts Officer,Finance,1,1,3,1,3,Divorced,9830,6,No,Non-Travel,3,12,5,0,0,0,0,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+38,No,Compliance Audit,Contracts Officer,Finance,3,13,3,3,3,Divorced,11163,2,No,Non-Travel,3,16,1,4,5,2,3,4,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+28,Yes,Compliance Audit,Legal Counsel,Law,2,7,1,3,1,Single,13395,3,No,Travel_Rarely,4,14,5,5,8,2,3,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+25,No,Compliance Audit,Compliance Analyst,Law,2,5,1,3,3,Married,10593,2,No,Non-Travel,3,21,1,0,2,0,0,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+21,No,Regulatory Affairs,Compliance Analyst,Public Policy,3,4,3,2,1,Single,10946,1,No,Travel_Rarely,3,14,2,1,2,0,1,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+40,Yes,Corporate Legal,Contracts Officer,Public Policy,2,3,3,1,1,Single,17505,2,Yes,Travel_Rarely,4,20,1,1,20,1,1,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+43,No,Compliance Audit,Contracts Officer,Public Policy,3,5,4,3,1,Divorced,9797,3,Yes,Non-Travel,3,22,1,0,1,0,0,0,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+39,No,Corporate Legal,Contracts Officer,Public Policy,2,37,3,4,2,Single,10562,2,No,Travel_Rarely,3,14,1,3,3,3,3,3,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+38,Yes,Corporate Legal,Regulatory Specialist,Law,3,7,1,3,3,Married,15557,1,Yes,Travel_Rarely,3,25,4,1,19,0,1,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+30,No,Compliance Audit,Compliance Analyst,Law,5,10,1,3,4,Single,10163,4,Yes,Non-Travel,3,13,4,0,2,0,0,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+37,Yes,Regulatory Affairs,Regulatory Specialist,Finance,3,12,2,4,1,Married,11137,5,No,Non-Travel,3,22,5,4,5,2,4,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+29,No,Corporate Legal,Contracts Officer,Law,4,5,4,3,4,Married,12692,3,No,Travel_Rarely,3,16,2,3,6,0,0,1,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+29,No,Compliance Audit,Legal Counsel,Public Policy,4,4,3,4,2,Divorced,11831,0,No,Travel_Rarely,3,12,3,1,8,1,1,1,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+27,Yes,Corporate Legal,Regulatory Specialist,Law,5,7,4,1,4,Divorced,11597,4,Yes,Non-Travel,3,25,5,5,5,3,0,5,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+30,Yes,Compliance Audit,Regulatory Specialist,Law,5,3,2,3,1,Single,13160,6,No,Non-Travel,3,13,5,10,10,5,9,5,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+36,Yes,Compliance Audit,Compliance Analyst,Public Policy,3,6,4,2,2,Divorced,11787,1,Yes,Travel_Rarely,3,22,5,5,6,4,3,2,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+44,No,Corporate Legal,Regulatory Specialist,Law,3,11,3,2,3,Divorced,12899,1,No,Travel_Rarely,3,18,4,1,6,0,1,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+47,Yes,Corporate Legal,Legal Counsel,Law,3,10,2,1,3,Single,14904,0,No,Non-Travel,3,25,4,6,13,2,3,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+48,No,Corporate Legal,Contracts Officer,Law,3,1,3,4,1,Married,13779,4,No,Non-Travel,3,17,3,8,12,4,0,4,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+23,No,Compliance Audit,Regulatory Specialist,Law,4,16,3,2,2,Single,11595,4,Yes,Non-Travel,3,24,1,3,5,0,1,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+56,No,Regulatory Affairs,Legal Counsel,Finance,3,4,3,3,4,Divorced,10073,2,No,Travel_Rarely,3,16,1,0,1,0,0,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+32,No,Compliance Audit,Legal Counsel,Law,2,7,3,2,2,Divorced,10911,2,No,Travel_Rarely,3,14,1,2,4,0,0,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+33,No,Regulatory Affairs,Contracts Officer,Public Policy,3,12,2,2,3,Single,13446,3,No,Non-Travel,3,11,3,4,10,1,0,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+41,No,Regulatory Affairs,Contracts Officer,Law,3,17,2,3,3,Divorced,10475,1,Yes,Travel_Rarely,4,13,2,0,2,0,0,0,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+39,Yes,Corporate Legal,Compliance Analyst,Public Policy,4,7,2,4,1,Married,12590,1,No,Non-Travel,3,22,4,3,6,1,3,2,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+33,No,Compliance Audit,Regulatory Specialist,Law,3,17,4,2,3,Divorced,9768,3,Yes,Travel_Rarely,3,20,3,1,1,1,1,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+31,Yes,Corporate Legal,Regulatory Specialist,Finance,3,4,3,3,2,Divorced,12102,4,No,Travel_Rarely,4,13,2,2,7,0,0,2,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+40,No,Compliance Audit,Compliance Analyst,Finance,3,17,1,3,1,Divorced,13889,2,Yes,Travel_Rarely,3,24,3,3,12,0,0,2,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+37,No,Compliance Audit,Regulatory Specialist,Law,4,3,3,4,3,Divorced,10637,3,Yes,Non-Travel,3,18,5,1,2,1,0,1,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+35,No,Corporate Legal,Compliance Analyst,Public Policy,3,12,3,3,3,Divorced,13878,1,Yes,Travel_Rarely,3,11,4,5,12,1,0,3,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+48,Yes,Regulatory Affairs,Compliance Analyst,Public Policy,3,3,3,2,1,Divorced,12626,5,No,Travel_Rarely,3,23,4,4,7,3,1,3,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+30,No,Regulatory Affairs,Compliance Analyst,Finance,3,4,4,3,3,Divorced,11415,2,No,Travel_Rarely,4,14,2,2,4,2,2,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+21,Yes,Regulatory Affairs,Legal Counsel,Finance,3,10,3,4,2,Single,9683,0,No,Travel_Rarely,4,20,4,1,1,0,1,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+32,No,Compliance Audit,Compliance Analyst,Law,3,3,4,4,1,Single,11660,2,Yes,Non-Travel,3,12,3,3,3,0,1,1,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+38,No,Compliance Audit,Contracts Officer,Finance,2,19,4,3,2,Married,16241,0,No,Non-Travel,3,13,2,15,20,6,3,4,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+26,No,Corporate Legal,Legal Counsel,Law,3,4,4,2,3,Married,10143,3,No,Travel_Rarely,3,25,3,0,0,0,0,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+43,No,Regulatory Affairs,Compliance Analyst,Finance,3,1,3,3,3,Single,10682,1,No,Travel_Rarely,3,14,2,0,4,0,0,0,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+43,No,Regulatory Affairs,Compliance Analyst,Finance,3,5,3,3,1,Divorced,11371,2,Yes,Non-Travel,4,21,3,1,3,0,0,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+32,No,Regulatory Affairs,Contracts Officer,Public Policy,3,15,3,4,3,Single,11994,1,Yes,Non-Travel,4,19,2,6,8,1,2,3,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+52,No,Corporate Legal,Regulatory Specialist,Public Policy,4,10,2,1,2,Single,13963,2,No,Non-Travel,3,16,4,4,10,4,0,2,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+29,No,Corporate Legal,Legal Counsel,Law,1,27,4,3,3,Married,12295,1,No,Non-Travel,3,13,1,3,7,3,3,3,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+33,Yes,Corporate Legal,Compliance Analyst,Finance,3,10,2,3,2,Single,15226,2,Yes,Travel_Rarely,3,22,3,9,15,5,0,5,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+38,No,Regulatory Affairs,Compliance Analyst,Finance,3,5,1,3,3,Single,11053,1,No,Travel_Rarely,3,20,5,1,4,1,0,0,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+32,Yes,Corporate Legal,Contracts Officer,Finance,5,19,4,3,3,Single,13585,2,Yes,Travel_Rarely,3,19,2,8,14,5,0,4,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+30,Yes,Regulatory Affairs,Compliance Analyst,Public Policy,5,1,1,1,2,Married,11942,4,Yes,Travel_Rarely,3,19,1,2,4,1,0,2,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+31,Yes,Regulatory Affairs,Compliance Analyst,Law,3,8,2,1,2,Single,12240,4,No,Travel_Rarely,3,25,3,3,5,2,2,1,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+31,Yes,Corporate Legal,Contracts Officer,Law,5,7,1,4,4,Married,11460,5,No,Travel_Rarely,3,13,1,2,6,2,0,2,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+25,No,Corporate Legal,Legal Counsel,Law,5,6,1,3,2,Single,12282,0,Yes,Non-Travel,3,25,3,3,5,0,1,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+37,No,Corporate Legal,Contracts Officer,Law,1,22,1,3,2,Married,10138,3,Yes,Travel_Rarely,3,14,1,1,1,1,1,1,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+36,No,Regulatory Affairs,Legal Counsel,Public Policy,4,1,2,4,3,Single,9865,1,No,Non-Travel,3,23,2,1,1,0,1,0,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+37,No,Regulatory Affairs,Legal Counsel,Finance,4,4,4,3,2,Married,15188,2,No,Travel_Rarely,3,24,2,1,12,1,0,1,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+41,Yes,Corporate Legal,Compliance Analyst,Law,2,1,2,3,3,Single,13942,2,Yes,Non-Travel,3,11,3,6,12,4,0,3,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+35,Yes,Regulatory Affairs,Legal Counsel,Law,5,8,2,1,3,Divorced,11610,2,Yes,Non-Travel,4,11,5,2,3,0,1,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+35,Yes,Regulatory Affairs,Legal Counsel,Finance,4,2,4,4,3,Single,12710,2,Yes,Non-Travel,3,22,4,6,7,5,0,4,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+31,Yes,Regulatory Affairs,Compliance Analyst,Law,3,2,2,3,2,Married,12366,1,No,Travel_Rarely,3,25,2,2,7,0,0,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+42,No,Regulatory Affairs,Regulatory Specialist,Public Policy,4,6,4,1,4,Single,11245,2,Yes,Non-Travel,3,19,3,6,6,5,1,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+38,Yes,Compliance Audit,Contracts Officer,Public Policy,4,6,2,2,2,Single,13183,1,Yes,Non-Travel,3,17,2,5,12,4,0,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+46,No,Corporate Legal,Legal Counsel,Law,3,1,4,4,1,Single,10109,1,Yes,Non-Travel,3,21,1,0,0,0,0,0,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+41,Yes,Corporate Legal,Contracts Officer,Public Policy,5,10,4,3,2,Divorced,11514,1,Yes,Travel_Rarely,3,17,5,2,5,0,0,2,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+39,No,Corporate Legal,Contracts Officer,Finance,3,8,2,2,2,Married,11990,3,No,Non-Travel,3,15,4,1,5,0,1,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+30,No,Regulatory Affairs,Contracts Officer,Finance,1,28,2,2,2,Single,12885,3,Yes,Travel_Rarely,3,25,2,4,11,0,1,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+39,Yes,Corporate Legal,Compliance Analyst,Law,2,17,4,2,2,Single,11666,3,Yes,Travel_Rarely,3,12,2,0,3,0,0,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+36,No,Compliance Audit,Legal Counsel,Public Policy,3,4,4,4,3,Divorced,13092,2,Yes,Travel_Rarely,3,22,3,8,9,4,0,4,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+37,No,Regulatory Affairs,Legal Counsel,Finance,3,1,2,3,4,Married,13037,4,No,Travel_Rarely,3,12,3,4,9,2,0,1,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+34,No,Regulatory Affairs,Regulatory Specialist,Law,1,16,4,2,2,Divorced,11729,5,Yes,Non-Travel,3,16,2,0,7,0,0,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+47,No,Compliance Audit,Contracts Officer,Law,1,1,3,4,4,Married,16354,3,Yes,Non-Travel,4,22,1,13,15,9,0,5,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+56,No,Compliance Audit,Regulatory Specialist,Law,3,3,2,4,3,Single,10963,0,No,Travel_Rarely,3,19,1,1,4,1,1,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+53,No,Regulatory Affairs,Legal Counsel,Law,5,3,3,2,3,Married,10081,3,No,Travel_Rarely,4,14,4,0,1,0,0,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+44,No,Regulatory Affairs,Legal Counsel,Public Policy,3,25,3,3,3,Single,13575,5,No,Non-Travel,3,14,2,0,9,0,0,0,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+33,No,Compliance Audit,Regulatory Specialist,Public Policy,4,1,2,3,2,Single,12019,2,Yes,Non-Travel,3,14,4,1,7,1,1,0,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+52,Yes,Corporate Legal,Legal Counsel,Law,4,6,4,1,1,Divorced,9998,6,No,Travel_Rarely,4,20,4,1,2,0,1,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+47,Yes,Regulatory Affairs,Contracts Officer,Public Policy,3,26,2,3,3,Married,11987,1,Yes,Travel_Rarely,3,20,1,1,4,0,1,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+33,No,Compliance Audit,Compliance Analyst,Finance,4,5,2,2,1,Single,9482,1,Yes,Non-Travel,3,12,4,0,0,0,0,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+49,No,Corporate Legal,Compliance Analyst,Public Policy,4,1,4,3,4,Single,10436,1,No,Non-Travel,3,16,3,0,3,0,0,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+28,Yes,Regulatory Affairs,Regulatory Specialist,Law,3,21,3,4,3,Single,13339,2,Yes,Travel_Rarely,3,16,5,1,10,1,1,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+34,No,Regulatory Affairs,Legal Counsel,Law,3,3,2,3,2,Married,14077,3,Yes,Travel_Rarely,3,15,4,0,13,0,0,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+42,No,Compliance Audit,Legal Counsel,Law,4,7,2,3,1,Divorced,12258,4,Yes,Non-Travel,3,18,4,6,7,2,1,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+42,Yes,Corporate Legal,Contracts Officer,Public Policy,4,11,3,3,2,Married,13507,0,Yes,Travel_Rarely,3,15,5,0,9,0,0,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+26,Yes,Regulatory Affairs,Legal Counsel,Public Policy,2,2,2,1,3,Divorced,11668,1,Yes,Non-Travel,4,22,5,2,7,0,0,2,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+35,No,Corporate Legal,Regulatory Specialist,Finance,1,1,3,3,1,Single,17408,4,No,Travel_Rarely,3,24,5,5,17,3,0,3,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+24,Yes,Corporate Legal,Regulatory Specialist,Finance,3,1,2,2,3,Married,10153,1,No,Non-Travel,3,22,2,0,2,0,0,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+42,No,Regulatory Affairs,Regulatory Specialist,Public Policy,1,4,3,3,4,Married,9877,2,Yes,Non-Travel,3,19,1,0,0,0,0,0,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+23,No,Corporate Legal,Contracts Officer,Law,4,16,3,3,3,Married,11620,2,Yes,Non-Travel,3,22,3,3,4,3,0,3,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+42,Yes,Corporate Legal,Compliance Analyst,Public Policy,3,9,2,3,2,Single,10365,2,No,Non-Travel,3,17,4,0,1,0,0,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+33,No,Corporate Legal,Legal Counsel,Law,3,1,3,3,4,Divorced,10666,7,Yes,Non-Travel,3,15,4,0,1,0,0,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+27,No,Compliance Audit,Compliance Analyst,Public Policy,3,1,3,4,2,Single,12442,1,Yes,Non-Travel,3,25,1,7,9,3,1,3,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+45,No,Compliance Audit,Regulatory Specialist,Public Policy,4,1,4,1,3,Divorced,16337,4,No,Travel_Rarely,3,11,4,13,22,9,0,6,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+33,No,Corporate Legal,Contracts Officer,Law,2,8,1,4,2,Divorced,13542,4,No,Travel_Rarely,3,14,3,3,8,0,3,0,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+40,No,Corporate Legal,Legal Counsel,Public Policy,2,8,3,2,3,Single,16317,1,No,Non-Travel,4,25,2,5,16,1,1,1,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+36,No,Corporate Legal,Contracts Officer,Law,2,20,2,1,2,Divorced,15890,3,Yes,Travel_Rarely,3,20,2,12,17,5,0,3,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+21,No,Corporate Legal,Legal Counsel,Finance,2,4,3,3,4,Divorced,9694,3,Yes,Travel_Rarely,3,19,4,1,1,0,0,0,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+25,Yes,Compliance Audit,Regulatory Specialist,Law,3,1,1,1,2,Married,13196,4,Yes,Non-Travel,4,21,2,5,7,1,2,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+42,No,Regulatory Affairs,Legal Counsel,Public Policy,4,4,3,3,2,Married,11620,1,Yes,Travel_Rarely,3,22,2,1,5,1,1,0,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+37,No,Compliance Audit,Contracts Officer,Law,3,11,4,1,2,Divorced,10389,3,No,Travel_Rarely,3,22,2,1,2,0,1,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+22,No,Regulatory Affairs,Regulatory Specialist,Finance,3,1,4,3,3,Divorced,11534,0,No,Non-Travel,3,14,2,2,4,1,2,0,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+39,Yes,Compliance Audit,Regulatory Specialist,Law,3,38,4,2,1,Divorced,13665,3,No,Travel_Rarely,3,23,3,10,13,6,2,3,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+27,Yes,Regulatory Affairs,Legal Counsel,Law,5,9,4,2,1,Divorced,10027,1,No,Travel_Rarely,3,21,1,1,2,1,1,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+34,No,Compliance Audit,Legal Counsel,Public Policy,3,10,3,3,3,Divorced,13410,1,Yes,Travel_Rarely,3,23,3,3,12,3,3,3,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+25,No,Compliance Audit,Compliance Analyst,Law,2,1,4,4,1,Married,10690,2,No,Non-Travel,3,13,5,0,2,0,0,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+45,Yes,Regulatory Affairs,Legal Counsel,Public Policy,3,2,2,4,2,Divorced,14535,1,Yes,Travel_Rarely,3,25,2,6,11,0,0,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+33,Yes,Corporate Legal,Compliance Analyst,Public Policy,4,2,1,3,1,Married,11215,3,Yes,Travel_Rarely,3,22,2,0,3,0,0,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+28,Yes,Corporate Legal,Legal Counsel,Law,3,11,4,4,2,Divorced,10226,2,No,Travel_Rarely,3,12,1,0,2,0,0,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+47,Yes,Compliance Audit,Regulatory Specialist,Finance,3,14,3,3,2,Married,10786,2,No,Travel_Rarely,3,21,3,4,4,4,4,4,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+47,Yes,Compliance Audit,Contracts Officer,Public Policy,5,6,1,2,4,Single,9602,2,Yes,Non-Travel,3,17,5,0,0,0,0,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+38,No,Corporate Legal,Contracts Officer,Public Policy,2,10,2,4,4,Married,13409,2,No,Travel_Rarely,4,12,5,2,11,2,0,2,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+39,No,Regulatory Affairs,Regulatory Specialist,Law,3,5,2,2,3,Divorced,10836,1,Yes,Travel_Rarely,3,22,1,0,3,0,0,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+29,No,Corporate Legal,Regulatory Specialist,Public Policy,4,15,3,3,3,Married,10594,3,No,Travel_Rarely,3,11,4,1,4,0,1,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+35,Yes,Compliance Audit,Contracts Officer,Law,3,16,2,4,1,Single,12860,1,Yes,Travel_Rarely,3,15,3,0,8,0,0,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+41,Yes,Compliance Audit,Legal Counsel,Public Policy,5,2,2,2,2,Married,12825,2,Yes,Non-Travel,3,19,3,7,8,4,3,1,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+30,No,Regulatory Affairs,Legal Counsel,Finance,3,9,4,4,2,Divorced,13315,2,Yes,Travel_Rarely,3,25,1,10,11,8,1,5,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+34,Yes,Corporate Legal,Compliance Analyst,Public Policy,4,25,4,2,2,Married,11259,2,Yes,Travel_Rarely,3,17,3,1,3,0,0,1,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+25,Yes,Regulatory Affairs,Compliance Analyst,Public Policy,4,3,2,1,3,Single,11824,2,Yes,Travel_Rarely,3,14,5,5,7,2,3,3,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+46,No,Corporate Legal,Regulatory Specialist,Law,3,1,3,4,2,Divorced,12447,4,No,Travel_Rarely,3,18,5,1,7,0,1,1,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+43,No,Regulatory Affairs,Legal Counsel,Finance,4,6,3,2,2,Single,14921,1,No,Travel_Rarely,3,25,1,11,13,6,0,3,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+24,No,Regulatory Affairs,Legal Counsel,Finance,3,2,4,3,2,Married,10168,2,Yes,Travel_Rarely,3,25,5,1,1,1,1,1,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+39,No,Regulatory Affairs,Compliance Analyst,Finance,5,19,3,3,3,Divorced,15041,1,No,Non-Travel,3,11,2,6,17,2,3,2,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+45,No,Regulatory Affairs,Compliance Analyst,Finance,3,3,4,3,2,Divorced,11643,4,No,Travel_Rarely,3,11,3,2,4,0,2,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+21,No,Corporate Legal,Contracts Officer,Public Policy,3,16,3,2,3,Divorced,10791,1,No,Travel_Rarely,3,17,1,1,3,0,1,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+34,No,Corporate Legal,Compliance Analyst,Law,4,1,3,4,1,Married,13267,2,No,Travel_Rarely,4,23,1,5,10,1,5,0,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+43,No,Compliance Audit,Contracts Officer,Law,3,4,1,4,3,Divorced,10289,4,No,Non-Travel,4,18,5,1,3,0,1,0,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+32,Yes,Compliance Audit,Legal Counsel,Public Policy,1,1,2,1,2,Married,15036,1,No,Travel_Rarely,3,16,1,5,13,3,5,3,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+33,No,Corporate Legal,Contracts Officer,Finance,4,5,3,3,1,Single,13288,1,No,Travel_Rarely,3,15,4,10,10,5,1,3,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+42,No,Compliance Audit,Compliance Analyst,Public Policy,3,1,4,3,3,Divorced,11410,2,No,Travel_Rarely,4,17,1,2,5,2,0,1,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+28,No,Corporate Legal,Compliance Analyst,Law,3,2,1,2,3,Divorced,12556,6,No,Non-Travel,4,22,5,7,10,4,2,2,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+45,No,Corporate Legal,Contracts Officer,Law,5,5,3,3,3,Divorced,11735,3,No,Non-Travel,3,12,5,4,7,2,1,0,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+37,Yes,Corporate Legal,Regulatory Specialist,Law,1,11,4,3,3,Divorced,12698,2,Yes,Non-Travel,3,18,1,5,6,2,4,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+34,Yes,Compliance Audit,Compliance Analyst,Law,3,1,3,3,3,Divorced,11784,0,Yes,Travel_Rarely,3,15,1,2,5,0,2,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+39,No,Regulatory Affairs,Regulatory Specialist,Public Policy,3,22,2,4,3,Single,14579,3,Yes,Travel_Rarely,3,24,4,7,10,4,2,4,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+43,Yes,Corporate Legal,Contracts Officer,Public Policy,3,5,2,2,3,Single,13553,3,No,Non-Travel,3,24,3,4,8,0,3,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+41,Yes,Corporate Legal,Regulatory Specialist,Law,4,22,4,1,3,Divorced,11346,1,Yes,Non-Travel,3,24,4,0,4,0,0,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+40,Yes,Regulatory Affairs,Regulatory Specialist,Finance,2,1,3,3,1,Married,14560,0,No,Travel_Rarely,3,14,4,1,11,0,1,1,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+21,Yes,Regulatory Affairs,Regulatory Specialist,Law,4,11,2,3,2,Single,11198,2,No,Non-Travel,3,15,1,1,3,0,0,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+42,Yes,Compliance Audit,Compliance Analyst,Public Policy,3,1,4,3,2,Married,10594,2,Yes,Travel_Rarely,3,19,1,2,2,0,2,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+44,No,Compliance Audit,Contracts Officer,Finance,4,2,2,3,4,Married,11282,3,Yes,Travel_Rarely,3,13,5,3,3,0,0,0,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+21,Yes,Compliance Audit,Contracts Officer,Public Policy,3,1,3,1,1,Divorced,10586,1,Yes,Travel_Rarely,3,17,4,1,3,0,1,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+44,No,Compliance Audit,Regulatory Specialist,Finance,3,7,3,3,3,Divorced,13726,0,Yes,Non-Travel,3,17,1,9,10,5,1,4,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+35,No,Corporate Legal,Regulatory Specialist,Law,3,1,4,4,3,Married,13571,3,Yes,Travel_Rarely,3,13,2,9,10,6,2,7,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+30,Yes,Corporate Legal,Regulatory Specialist,Law,3,18,3,3,3,Single,12742,3,Yes,Non-Travel,3,20,1,3,9,2,2,3,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+48,Yes,Regulatory Affairs,Legal Counsel,Law,3,5,2,4,1,Married,10833,2,No,Travel_Rarely,3,22,2,4,4,1,3,1,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+47,No,Compliance Audit,Legal Counsel,Public Policy,4,1,3,3,2,Divorced,18699,2,Yes,Travel_Rarely,4,18,4,0,28,0,0,0,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+38,Yes,Corporate Legal,Contracts Officer,Law,4,4,1,4,3,Divorced,10540,3,No,Travel_Rarely,3,15,3,0,1,0,0,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+43,No,Regulatory Affairs,Contracts Officer,Law,4,1,2,3,1,Married,11444,3,No,Travel_Rarely,3,18,2,3,3,0,0,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+44,No,Compliance Audit,Regulatory Specialist,Public Policy,4,1,3,3,3,Single,10514,1,Yes,Non-Travel,3,14,1,0,2,0,0,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+48,No,Compliance Audit,Regulatory Specialist,Law,1,1,3,3,2,Divorced,11527,2,No,Non-Travel,3,14,4,6,6,4,5,1,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+38,Yes,Corporate Legal,Compliance Analyst,Law,4,6,4,2,2,Single,14468,2,Yes,Non-Travel,3,22,1,0,13,0,0,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+24,No,Corporate Legal,Contracts Officer,Law,4,15,4,4,4,Married,10451,3,Yes,Travel_Rarely,3,15,4,2,2,1,1,0,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+36,No,Compliance Audit,Regulatory Specialist,Law,3,2,3,3,2,Divorced,14141,5,Yes,Travel_Rarely,3,12,1,5,16,5,1,4,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+37,Yes,Compliance Audit,Legal Counsel,Public Policy,3,7,2,2,3,Single,11424,3,No,Non-Travel,3,23,3,2,5,2,2,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+27,No,Compliance Audit,Contracts Officer,Law,3,1,3,1,3,Divorced,13722,2,Yes,Travel_Rarely,3,12,4,3,9,0,3,2,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+25,No,Corporate Legal,Regulatory Specialist,Finance,3,19,3,3,3,Divorced,10430,4,Yes,Travel_Rarely,4,23,5,0,0,0,0,0,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+52,No,Corporate Legal,Compliance Analyst,Public Policy,3,17,4,3,1,Divorced,11496,3,Yes,Non-Travel,3,19,4,3,4,3,0,3,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+48,No,Compliance Audit,Legal Counsel,Public Policy,4,11,2,3,3,Single,11954,5,No,Travel_Rarely,3,16,1,4,4,4,3,4,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+31,No,Regulatory Affairs,Contracts Officer,Public Policy,4,3,3,3,3,Married,14518,1,Yes,Non-Travel,3,11,3,8,11,3,2,0,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+45,No,Regulatory Affairs,Compliance Analyst,Public Policy,3,1,2,3,2,Married,12317,4,Yes,Travel_Rarely,3,13,2,4,5,0,4,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+24,No,Regulatory Affairs,Regulatory Specialist,Finance,3,14,3,4,3,Married,12136,3,No,Non-Travel,3,21,5,3,6,0,1,1,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+38,Yes,Compliance Audit,Legal Counsel,Finance,3,5,2,4,4,Married,10321,2,No,Non-Travel,3,17,5,3,3,1,1,2,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+49,Yes,Corporate Legal,Compliance Analyst,Public Policy,5,4,3,3,2,Married,11622,0,No,Travel_Rarely,3,21,3,6,6,1,1,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+26,Yes,Regulatory Affairs,Legal Counsel,Finance,4,21,2,3,3,Married,13510,2,No,Travel_Rarely,3,20,1,3,8,2,0,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+32,No,Compliance Audit,Compliance Analyst,Law,5,1,3,3,3,Married,12431,2,Yes,Non-Travel,3,22,3,2,5,0,0,0,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+34,No,Corporate Legal,Contracts Officer,Finance,4,9,3,3,3,Married,13720,4,No,Non-Travel,3,25,3,1,10,0,1,0,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+38,No,Regulatory Affairs,Compliance Analyst,Public Policy,4,2,3,3,2,Married,13483,1,No,Non-Travel,3,15,5,3,8,0,3,0,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+38,No,Corporate Legal,Legal Counsel,Public Policy,3,4,4,4,1,Married,12304,2,Yes,Travel_Rarely,3,25,1,3,5,1,0,2,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+41,Yes,Compliance Audit,Legal Counsel,Finance,2,2,3,1,2,Single,10345,2,No,Non-Travel,4,19,3,0,3,0,0,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+38,No,Regulatory Affairs,Regulatory Specialist,Public Policy,3,15,3,1,2,Married,11812,2,No,Non-Travel,3,21,2,0,4,0,0,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+38,No,Corporate Legal,Compliance Analyst,Finance,5,2,2,4,4,Married,10133,3,No,Travel_Rarely,3,15,2,1,1,0,1,0,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+23,Yes,Compliance Audit,Regulatory Specialist,Public Policy,4,1,2,2,4,Married,11102,1,No,Non-Travel,3,25,5,1,3,0,0,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+42,No,Corporate Legal,Contracts Officer,Public Policy,3,1,4,3,1,Divorced,10503,4,Yes,Non-Travel,3,23,1,1,3,0,0,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+27,No,Regulatory Affairs,Contracts Officer,Law,2,13,2,3,2,Married,11957,2,No,Travel_Rarely,4,15,1,5,6,5,2,4,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+29,No,Corporate Legal,Regulatory Specialist,Public Policy,3,1,3,4,2,Married,11731,2,No,Non-Travel,3,11,5,4,5,2,0,3,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+30,Yes,Compliance Audit,Regulatory Specialist,Finance,4,35,3,2,4,Divorced,12085,1,No,Travel_Rarely,3,18,5,1,6,1,0,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+50,No,Regulatory Affairs,Legal Counsel,Finance,2,21,3,3,4,Married,10563,2,No,Travel_Rarely,3,22,2,1,1,0,1,1,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+31,No,Compliance Audit,Legal Counsel,Finance,1,14,3,3,1,Married,13960,3,Yes,Non-Travel,3,20,4,8,13,3,0,2,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+36,No,Corporate Legal,Contracts Officer,Public Policy,3,1,2,2,3,Married,12017,1,No,Non-Travel,4,14,3,1,6,0,1,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+29,No,Compliance Audit,Contracts Officer,Public Policy,3,1,3,4,4,Divorced,12361,1,Yes,Non-Travel,3,13,5,4,7,2,1,0,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+33,No,Regulatory Affairs,Legal Counsel,Finance,3,4,1,1,1,Divorced,10630,6,Yes,Travel_Rarely,3,18,4,1,3,0,1,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+28,No,Regulatory Affairs,Compliance Analyst,Finance,3,13,4,2,4,Single,11735,2,Yes,Travel_Rarely,3,20,5,3,5,0,3,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+37,No,Corporate Legal,Legal Counsel,Finance,4,13,3,3,4,Divorced,16543,2,No,Non-Travel,3,25,1,11,19,5,0,5,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+32,No,Regulatory Affairs,Legal Counsel,Law,1,1,2,3,3,Divorced,11532,1,No,Travel_Rarely,4,21,5,2,4,2,2,1,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+43,No,Compliance Audit,Compliance Analyst,Public Policy,2,1,3,2,3,Married,13232,0,No,Non-Travel,4,11,3,0,7,0,0,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+39,No,Compliance Audit,Contracts Officer,Finance,3,4,2,4,1,Single,16650,1,Yes,Non-Travel,3,25,4,13,15,10,0,7,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+28,No,Compliance Audit,Regulatory Specialist,Law,3,5,2,2,3,Married,13627,1,No,Non-Travel,3,17,4,1,9,0,0,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+29,Yes,Corporate Legal,Regulatory Specialist,Law,2,10,4,2,3,Divorced,12574,3,Yes,Travel_Rarely,4,23,3,1,6,0,0,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+42,No,Corporate Legal,Compliance Analyst,Finance,3,2,4,2,4,Single,11045,2,Yes,Non-Travel,3,15,1,1,2,0,1,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+31,No,Corporate Legal,Contracts Officer,Public Policy,3,1,3,4,2,Married,13955,3,No,Non-Travel,3,15,4,1,13,0,1,0,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+31,No,Regulatory Affairs,Compliance Analyst,Public Policy,4,8,3,3,1,Married,13774,1,No,Non-Travel,3,18,4,1,9,0,0,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+39,Yes,Compliance Audit,Contracts Officer,Public Policy,4,9,4,3,2,Single,16916,2,Yes,Travel_Rarely,3,17,2,6,20,3,0,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+21,No,Compliance Audit,Legal Counsel,Law,3,13,1,3,2,Divorced,11551,1,No,Travel_Rarely,3,21,3,1,3,0,0,0,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+47,No,Compliance Audit,Legal Counsel,Law,4,3,3,3,3,Single,10297,1,Yes,Travel_Rarely,3,21,3,0,0,0,0,0,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+42,No,Compliance Audit,Contracts Officer,Public Policy,3,10,1,2,1,Divorced,10026,4,Yes,Non-Travel,3,18,2,0,2,0,0,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+46,No,Corporate Legal,Compliance Analyst,Law,3,13,1,1,3,Married,9703,3,Yes,Travel_Rarely,4,15,4,0,0,0,0,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+35,No,Regulatory Affairs,Regulatory Specialist,Public Policy,4,4,2,4,1,Divorced,10578,2,No,Non-Travel,3,21,4,0,2,0,0,0,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+35,No,Compliance Audit,Compliance Analyst,Public Policy,3,28,3,1,4,Divorced,12544,4,No,Non-Travel,3,18,1,5,7,0,4,1,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+27,Yes,Corporate Legal,Compliance Analyst,Public Policy,2,1,4,3,4,Divorced,10490,2,Yes,Non-Travel,4,24,1,0,3,0,0,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+43,No,Regulatory Affairs,Contracts Officer,Public Policy,3,3,1,3,3,Married,11511,5,Yes,Non-Travel,3,11,2,3,3,2,1,1,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+38,No,Compliance Audit,Contracts Officer,Law,4,15,2,4,2,Married,12824,1,Yes,Non-Travel,3,23,5,0,10,0,0,0,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+42,Yes,Compliance Audit,Regulatory Specialist,Law,3,7,3,4,2,Divorced,12638,0,Yes,Travel_Rarely,3,23,1,2,6,1,2,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+53,No,Regulatory Affairs,Contracts Officer,Finance,4,4,3,3,3,Married,12178,3,Yes,Non-Travel,3,17,5,5,9,3,1,2,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+52,Yes,Corporate Legal,Contracts Officer,Finance,4,18,4,2,1,Married,9847,4,No,Non-Travel,4,23,1,0,0,0,0,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+51,No,Corporate Legal,Compliance Analyst,Finance,2,33,4,2,3,Married,13035,2,No,Travel_Rarely,3,17,2,3,7,3,1,3,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+48,Yes,Compliance Audit,Contracts Officer,Law,1,14,2,2,2,Divorced,12229,0,No,Non-Travel,3,23,2,2,5,0,2,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+46,No,Compliance Audit,Regulatory Specialist,Finance,3,10,3,3,2,Married,12072,5,No,Travel_Rarely,3,11,4,4,6,3,1,2,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+52,No,Compliance Audit,Contracts Officer,Finance,3,4,3,3,2,Married,11595,1,No,Non-Travel,3,20,2,6,6,6,4,1,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+43,No,Regulatory Affairs,Contracts Officer,Finance,4,2,4,4,1,Divorced,16399,0,No,Travel_Rarely,3,13,5,8,20,4,0,3,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+34,No,Corporate Legal,Contracts Officer,Law,1,7,3,3,2,Divorced,14090,2,No,Non-Travel,3,20,1,2,10,2,1,0,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+36,No,Corporate Legal,Compliance Analyst,Law,3,1,4,3,3,Divorced,16368,2,Yes,Non-Travel,3,13,1,0,17,0,0,0,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+50,Yes,Compliance Audit,Contracts Officer,Finance,5,1,3,2,3,Single,10492,0,No,Non-Travel,3,12,4,2,3,1,0,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+37,No,Corporate Legal,Legal Counsel,Public Policy,4,1,2,2,1,Married,12888,5,Yes,Non-Travel,4,21,2,2,6,0,0,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+39,Yes,Regulatory Affairs,Compliance Analyst,Finance,4,11,4,2,1,Divorced,15379,3,Yes,Travel_Rarely,3,22,5,4,14,4,1,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+49,Yes,Compliance Audit,Compliance Analyst,Law,1,1,3,3,1,Single,13977,4,No,Non-Travel,3,12,3,8,11,5,2,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+39,No,Compliance Audit,Compliance Analyst,Finance,5,19,3,3,3,Single,14926,5,Yes,Travel_Rarely,3,12,1,3,16,0,3,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+54,No,Corporate Legal,Compliance Analyst,Finance,2,6,3,3,2,Married,12354,3,Yes,Travel_Rarely,3,16,4,5,5,3,1,2,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+34,No,Regulatory Affairs,Contracts Officer,Finance,3,1,3,2,4,Single,10036,2,No,Non-Travel,3,25,3,0,1,0,0,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+39,No,Regulatory Affairs,Regulatory Specialist,Finance,4,7,4,1,3,Single,11130,2,No,Travel_Rarely,4,21,3,1,3,0,1,1,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+29,Yes,Corporate Legal,Legal Counsel,Finance,4,9,1,1,2,Single,12417,1,No,Non-Travel,3,11,4,3,7,0,0,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+49,No,Compliance Audit,Regulatory Specialist,Finance,2,5,2,1,2,Divorced,13857,1,No,Travel_Rarely,3,20,3,5,15,0,3,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+46,No,Regulatory Affairs,Compliance Analyst,Finance,3,1,3,1,2,Divorced,15665,0,Yes,Travel_Rarely,3,14,2,7,19,6,0,3,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+49,No,Compliance Audit,Regulatory Specialist,Public Policy,3,23,2,4,1,Married,11922,1,No,Non-Travel,3,13,2,4,5,3,3,2,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+31,No,Regulatory Affairs,Contracts Officer,Public Policy,3,14,3,3,4,Divorced,15197,4,Yes,Travel_Rarely,3,23,1,2,13,0,2,0,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+43,Yes,Corporate Legal,Compliance Analyst,Public Policy,3,39,3,2,1,Divorced,11709,2,No,Travel_Rarely,3,25,5,2,5,0,2,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+37,No,Regulatory Affairs,Legal Counsel,Finance,4,7,2,2,4,Divorced,10255,5,Yes,Travel_Rarely,3,13,3,1,1,1,1,1,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+38,No,Corporate Legal,Legal Counsel,Public Policy,4,3,4,3,3,Divorced,11133,4,No,Non-Travel,3,22,4,0,2,0,0,0,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+42,No,Compliance Audit,Legal Counsel,Finance,5,38,3,1,3,Married,10303,0,No,Non-Travel,3,23,1,0,2,0,0,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+45,No,Compliance Audit,Compliance Analyst,Law,4,1,4,4,3,Married,11940,3,No,Travel_Rarely,3,19,2,5,7,3,0,4,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+35,No,Corporate Legal,Regulatory Specialist,Law,4,4,2,3,2,Divorced,17250,3,No,Travel_Rarely,4,24,4,11,17,5,1,3,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+30,Yes,Compliance Audit,Legal Counsel,Law,2,7,4,3,1,Single,13421,3,Yes,Travel_Rarely,3,15,1,7,12,5,0,2,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+26,Yes,Compliance Audit,Legal Counsel,Finance,2,3,2,4,2,Divorced,12261,1,No,Non-Travel,3,23,5,6,8,2,3,4,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+27,No,Corporate Legal,Regulatory Specialist,Public Policy,3,13,3,2,4,Married,13765,2,No,Non-Travel,4,17,4,7,8,5,0,3,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+43,No,Corporate Legal,Contracts Officer,Law,4,10,1,4,4,Married,13580,1,Yes,Non-Travel,4,17,2,3,13,2,2,3,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+41,No,Compliance Audit,Compliance Analyst,Law,2,2,3,4,1,Single,10377,3,No,Travel_Rarely,4,19,4,1,3,1,1,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+50,Yes,Compliance Audit,Compliance Analyst,Law,4,2,3,2,3,Married,13633,4,Yes,Travel_Rarely,3,25,1,10,10,6,4,3,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+43,No,Regulatory Affairs,Legal Counsel,Finance,3,6,4,4,3,Married,16554,4,No,Non-Travel,3,15,1,6,21,2,4,2,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+46,No,Regulatory Affairs,Legal Counsel,Public Policy,4,4,4,1,4,Divorced,13844,3,No,Travel_Rarely,3,11,3,11,13,7,0,6,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+33,Yes,Corporate Legal,Compliance Analyst,Public Policy,3,5,4,1,3,Divorced,12318,1,Yes,Non-Travel,3,11,4,2,8,2,1,1,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+43,No,Corporate Legal,Regulatory Specialist,Law,3,7,4,4,1,Married,11256,4,No,Non-Travel,3,13,4,1,5,0,1,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+33,Yes,Compliance Audit,Compliance Analyst,Law,3,3,1,2,2,Single,10026,4,No,Non-Travel,3,16,3,1,2,1,0,1,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+37,Yes,Corporate Legal,Contracts Officer,Public Policy,3,4,4,1,3,Divorced,14088,2,Yes,Travel_Rarely,3,19,4,1,15,1,1,1,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+30,No,Regulatory Affairs,Contracts Officer,Public Policy,3,9,3,3,2,Divorced,12285,5,Yes,Non-Travel,3,11,4,0,6,0,0,0,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+33,No,Regulatory Affairs,Legal Counsel,Law,3,16,3,4,3,Married,12717,5,No,Travel_Rarely,3,20,1,6,6,4,1,1,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+46,No,Compliance Audit,Contracts Officer,Public Policy,3,5,4,4,4,Single,13684,2,No,Travel_Rarely,3,22,5,1,9,1,0,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+31,No,Compliance Audit,Compliance Analyst,Finance,3,3,3,3,4,Divorced,13587,4,Yes,Non-Travel,4,14,5,3,9,1,2,1,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+47,Yes,Corporate Legal,Legal Counsel,Finance,5,7,3,3,2,Married,14110,3,Yes,Travel_Rarely,4,20,2,11,14,2,1,2,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+36,Yes,Corporate Legal,Contracts Officer,Finance,3,5,2,3,2,Single,17460,4,No,Travel_Rarely,3,19,1,0,18,0,0,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+49,No,Regulatory Affairs,Regulatory Specialist,Public Policy,4,19,1,4,1,Married,11838,0,Yes,Non-Travel,3,24,3,1,7,0,1,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+39,Yes,Regulatory Affairs,Contracts Officer,Finance,2,5,2,3,3,Married,13279,3,Yes,Travel_Rarely,3,15,5,0,12,0,0,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+40,No,Corporate Legal,Compliance Analyst,Law,3,15,2,3,1,Married,13766,4,No,Travel_Rarely,3,19,5,4,14,4,0,2,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+43,No,Regulatory Affairs,Compliance Analyst,Finance,1,1,3,1,3,Single,12782,2,No,Travel_Rarely,3,21,2,4,6,2,4,4,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+52,No,Regulatory Affairs,Legal Counsel,Finance,3,1,4,3,3,Divorced,17449,6,Yes,Non-Travel,3,11,4,3,25,3,2,0,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+29,No,Regulatory Affairs,Contracts Officer,Finance,4,4,3,4,3,Single,13397,3,Yes,Travel_Rarely,3,16,4,4,11,3,0,1,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+32,No,Regulatory Affairs,Compliance Analyst,Law,5,24,3,4,3,Single,15080,1,Yes,Travel_Rarely,3,11,5,9,13,8,0,9,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+22,No,Compliance Audit,Legal Counsel,Finance,3,12,1,4,3,Married,11248,2,No,Non-Travel,3,16,2,2,2,0,0,0,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+42,Yes,Corporate Legal,Contracts Officer,Law,3,1,1,3,2,Married,16825,7,Yes,Non-Travel,3,13,4,0,18,0,0,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+42,No,Regulatory Affairs,Legal Counsel,Public Policy,3,3,3,3,3,Divorced,15919,2,No,Non-Travel,3,15,1,7,19,5,2,4,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+40,No,Corporate Legal,Contracts Officer,Public Policy,4,20,4,1,3,Married,13457,0,No,Travel_Rarely,3,25,3,4,8,2,0,1,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+31,No,Regulatory Affairs,Compliance Analyst,Finance,3,45,4,4,3,Married,12444,3,No,Non-Travel,3,20,3,0,8,0,0,0,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+27,Yes,Regulatory Affairs,Regulatory Specialist,Finance,4,22,4,3,1,Single,10358,3,No,Non-Travel,3,21,3,0,1,0,0,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+37,No,Regulatory Affairs,Legal Counsel,Law,2,33,2,3,2,Divorced,14584,3,No,Travel_Rarely,3,23,1,5,12,2,0,1,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+43,Yes,Corporate Legal,Contracts Officer,Finance,3,2,4,4,2,Divorced,13063,1,Yes,Travel_Rarely,3,24,2,1,8,1,1,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+34,No,Compliance Audit,Legal Counsel,Public Policy,4,3,2,4,1,Divorced,10471,3,No,Travel_Rarely,3,22,1,2,2,0,1,1,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+40,Yes,Corporate Legal,Compliance Analyst,Law,4,4,1,1,3,Divorced,10353,4,Yes,Travel_Rarely,3,13,2,0,0,0,0,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+36,No,Compliance Audit,Regulatory Specialist,Law,3,21,3,4,2,Married,12308,2,No,Travel_Rarely,3,21,3,1,6,0,1,0,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+35,No,Compliance Audit,Compliance Analyst,Law,3,12,2,1,2,Single,13628,2,Yes,Non-Travel,4,18,4,4,8,3,1,2,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+21,No,Compliance Audit,Legal Counsel,Public Policy,2,2,3,2,3,Divorced,10282,1,No,Travel_Rarely,3,14,5,1,1,0,1,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+31,Yes,Compliance Audit,Regulatory Specialist,Public Policy,3,2,3,2,3,Divorced,12785,2,No,Travel_Rarely,3,24,4,6,6,1,5,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+39,Yes,Compliance Audit,Legal Counsel,Public Policy,5,1,2,4,4,Divorced,12282,3,No,Travel_Rarely,3,11,2,6,8,2,6,3,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+23,No,Corporate Legal,Regulatory Specialist,Law,3,1,2,1,4,Married,11638,4,No,Non-Travel,3,22,4,2,4,0,1,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+43,Yes,Regulatory Affairs,Compliance Analyst,Public Policy,4,2,4,3,4,Single,12413,2,Yes,Non-Travel,3,15,1,0,6,0,0,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+38,Yes,Regulatory Affairs,Regulatory Specialist,Law,2,11,2,2,3,Divorced,16304,2,No,Travel_Rarely,3,15,1,1,20,0,0,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+31,No,Regulatory Affairs,Regulatory Specialist,Public Policy,3,16,3,2,1,Divorced,10470,0,No,Travel_Rarely,4,25,3,0,3,0,0,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+45,No,Regulatory Affairs,Regulatory Specialist,Law,3,22,4,3,3,Divorced,10418,3,No,Travel_Rarely,3,22,1,2,3,2,2,2,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+26,No,Compliance Audit,Legal Counsel,Finance,3,1,4,3,3,Married,10224,1,Yes,Non-Travel,3,23,2,0,0,0,0,0,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+34,No,Regulatory Affairs,Compliance Analyst,Law,4,1,1,4,1,Single,10407,2,Yes,Travel_Rarely,3,21,2,0,3,0,0,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+34,No,Regulatory Affairs,Regulatory Specialist,Public Policy,3,1,1,4,3,Married,12586,2,Yes,Travel_Rarely,3,18,1,2,6,0,0,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+38,Yes,Regulatory Affairs,Contracts Officer,Public Policy,4,5,3,3,1,Married,12680,3,No,Non-Travel,3,15,2,3,6,0,3,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+29,Yes,Compliance Audit,Regulatory Specialist,Finance,2,23,3,1,1,Single,9890,2,Yes,Non-Travel,3,17,4,0,1,0,0,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+37,Yes,Regulatory Affairs,Legal Counsel,Law,4,7,3,2,1,Divorced,10796,5,No,Non-Travel,3,16,2,2,2,1,0,2,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+36,No,Compliance Audit,Regulatory Specialist,Law,3,12,3,2,3,Single,11791,2,No,Non-Travel,3,14,4,6,6,1,0,1,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+24,No,Compliance Audit,Contracts Officer,Finance,3,6,3,2,3,Married,11716,2,Yes,Travel_Rarely,3,22,4,4,6,2,2,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+39,Yes,Corporate Legal,Compliance Analyst,Finance,3,1,2,1,1,Single,11240,1,Yes,Travel_Rarely,3,14,2,2,4,0,0,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+36,No,Corporate Legal,Contracts Officer,Finance,5,4,3,3,3,Divorced,11173,2,Yes,Non-Travel,3,16,4,2,2,0,2,0,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+37,No,Regulatory Affairs,Compliance Analyst,Public Policy,5,4,3,3,2,Married,12345,4,No,Travel_Rarely,3,17,1,1,6,0,0,1,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+35,Yes,Regulatory Affairs,Legal Counsel,Public Policy,1,3,3,2,1,Divorced,10381,2,No,Non-Travel,4,20,2,0,2,0,0,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+52,No,Corporate Legal,Legal Counsel,Finance,4,9,2,3,3,Single,12343,2,No,Travel_Rarely,3,22,3,0,8,0,0,0,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+33,No,Compliance Audit,Legal Counsel,Finance,2,1,2,4,1,Divorced,10452,3,No,Travel_Rarely,3,21,3,1,1,1,0,0,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+21,Yes,Compliance Audit,Contracts Officer,Public Policy,3,1,4,3,2,Divorced,10223,2,Yes,Travel_Rarely,3,20,4,1,1,0,1,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+21,No,Regulatory Affairs,Legal Counsel,Public Policy,4,5,3,2,3,Divorced,10753,1,No,Non-Travel,3,19,5,1,3,0,0,1,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+42,No,Corporate Legal,Legal Counsel,Finance,3,19,4,1,2,Married,14001,0,Yes,Non-Travel,3,16,1,2,11,2,0,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+34,No,Compliance Audit,Legal Counsel,Finance,2,7,2,3,1,Single,15377,6,No,Travel_Rarely,3,24,4,5,12,4,0,5,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+55,No,Compliance Audit,Compliance Analyst,Law,3,1,2,2,3,Married,11329,0,Yes,Travel_Rarely,3,24,4,0,6,0,0,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+34,No,Regulatory Affairs,Contracts Officer,Law,3,1,4,3,4,Divorced,11989,4,No,Travel_Rarely,3,14,5,0,6,0,0,0,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+40,Yes,Regulatory Affairs,Contracts Officer,Finance,3,7,3,3,2,Single,11597,4,No,Non-Travel,3,15,4,1,3,1,1,1,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+21,Yes,Regulatory Affairs,Regulatory Specialist,Law,3,5,1,3,2,Single,10336,1,No,Non-Travel,4,14,3,1,1,1,1,1,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+51,No,Corporate Legal,Legal Counsel,Finance,4,10,4,3,2,Single,12337,6,No,Travel_Rarely,3,21,3,2,10,0,1,0,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+41,No,Regulatory Affairs,Compliance Analyst,Finance,3,5,3,3,3,Divorced,13400,5,No,Non-Travel,3,21,3,3,9,2,3,3,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+27,No,Compliance Audit,Compliance Analyst,Law,1,1,3,4,3,Single,11266,1,No,Travel_Rarely,3,11,3,5,6,3,5,4,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+44,No,Regulatory Affairs,Compliance Analyst,Law,3,1,2,1,3,Divorced,14565,4,No,Travel_Rarely,3,12,1,2,14,2,0,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+41,No,Corporate Legal,Contracts Officer,Public Policy,3,3,3,4,3,Married,10505,5,No,Travel_Rarely,3,15,3,1,1,0,0,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+40,No,Corporate Legal,Regulatory Specialist,Law,3,15,3,3,3,Married,10413,1,No,Travel_Rarely,3,19,1,1,1,0,0,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+42,Yes,Compliance Audit,Contracts Officer,Law,2,11,1,4,1,Single,11757,4,Yes,Non-Travel,3,13,1,4,4,3,2,4,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+49,No,Corporate Legal,Regulatory Specialist,Law,4,4,4,3,3,Divorced,10039,1,No,Non-Travel,3,19,3,0,0,0,0,0,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+28,No,Corporate Legal,Compliance Analyst,Finance,2,10,1,3,4,Single,14273,2,Yes,Travel_Rarely,3,11,1,8,10,6,0,3,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+54,No,Corporate Legal,Compliance Analyst,Public Policy,5,1,3,1,4,Divorced,9932,1,Yes,Non-Travel,3,24,2,0,0,0,0,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+29,No,Corporate Legal,Legal Counsel,Public Policy,4,12,4,4,2,Divorced,11208,0,No,Non-Travel,4,22,5,5,5,2,0,3,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+42,Yes,Compliance Audit,Regulatory Specialist,Law,3,17,3,3,2,Divorced,11226,5,No,Non-Travel,3,19,5,1,3,0,1,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+39,Yes,Compliance Audit,Contracts Officer,Law,4,1,4,2,3,Married,12280,2,No,Non-Travel,3,23,3,5,6,3,1,2,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+35,No,Corporate Legal,Regulatory Specialist,Finance,2,1,2,2,3,Married,9664,4,Yes,Travel_Rarely,3,11,2,0,0,0,0,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+44,Yes,Compliance Audit,Legal Counsel,Public Policy,3,7,2,3,3,Divorced,10998,3,Yes,Travel_Rarely,3,20,2,2,2,0,0,1,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+46,Yes,Regulatory Affairs,Contracts Officer,Finance,2,6,3,2,4,Single,13651,5,No,Non-Travel,4,25,5,9,10,6,1,2,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+40,No,Compliance Audit,Regulatory Specialist,Public Policy,3,26,3,2,2,Married,13757,3,No,Travel_Rarely,3,25,4,8,8,4,1,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+43,Yes,Compliance Audit,Legal Counsel,Public Policy,3,3,3,3,4,Single,14802,2,Yes,Non-Travel,3,17,3,1,11,0,1,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+41,Yes,Compliance Audit,Contracts Officer,Public Policy,4,1,4,4,4,Divorced,11161,2,Yes,Non-Travel,3,17,4,2,2,2,2,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+42,Yes,Compliance Audit,Contracts Officer,Finance,4,22,3,3,3,Divorced,12010,2,Yes,Non-Travel,3,17,5,5,5,2,0,1,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+37,Yes,Compliance Audit,Legal Counsel,Law,3,3,3,3,3,Married,11436,2,No,Travel_Rarely,3,19,3,0,4,0,0,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+45,Yes,Regulatory Affairs,Compliance Analyst,Public Policy,4,3,4,4,1,Married,14574,2,No,Travel_Rarely,3,24,5,1,10,0,1,1,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+21,No,Compliance Audit,Legal Counsel,Law,3,3,3,3,2,Married,11259,4,Yes,Travel_Rarely,3,22,4,1,3,0,1,1,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+33,No,Regulatory Affairs,Compliance Analyst,Public Policy,4,5,3,2,4,Married,15296,3,Yes,Non-Travel,4,16,5,9,12,5,9,3,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+39,No,Compliance Audit,Regulatory Specialist,Law,3,10,3,3,3,Divorced,10352,1,No,Non-Travel,4,11,4,2,2,2,2,2,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+28,No,Compliance Audit,Compliance Analyst,Public Policy,3,1,4,2,4,Single,13712,3,No,Non-Travel,3,14,4,8,10,4,0,2,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+33,No,Compliance Audit,Legal Counsel,Law,3,1,4,1,2,Single,12683,1,Yes,Non-Travel,3,19,4,1,8,1,1,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+40,Yes,Corporate Legal,Legal Counsel,Public Policy,3,6,1,4,4,Single,14266,4,No,Travel_Rarely,4,15,5,10,15,5,5,4,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+40,No,Regulatory Affairs,Contracts Officer,Public Policy,3,7,3,2,3,Single,13824,2,No,Travel_Rarely,3,23,2,9,9,4,2,2,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+41,Yes,Corporate Legal,Regulatory Specialist,Public Policy,5,2,3,4,3,Married,12812,1,Yes,Non-Travel,4,12,5,2,9,2,2,2,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+34,Yes,Regulatory Affairs,Contracts Officer,Public Policy,4,6,1,3,2,Single,11920,1,No,Non-Travel,3,16,1,1,6,0,0,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+38,Yes,Regulatory Affairs,Compliance Analyst,Finance,2,13,2,4,3,Married,11713,3,No,Non-Travel,3,12,5,2,5,1,0,2,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+36,No,Corporate Legal,Legal Counsel,Law,5,26,3,4,3,Married,11932,2,Yes,Non-Travel,3,25,1,3,5,3,3,3,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+29,No,Corporate Legal,Contracts Officer,Public Policy,2,16,3,3,3,Single,10060,2,No,Non-Travel,4,11,5,0,0,0,0,0,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+31,Yes,Regulatory Affairs,Regulatory Specialist,Law,5,10,4,1,4,Single,11048,4,No,Non-Travel,3,11,5,2,4,0,2,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+21,Yes,Compliance Audit,Regulatory Specialist,Law,3,19,1,2,3,Married,10394,2,Yes,Travel_Rarely,3,11,3,1,1,0,1,1,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+22,No,Corporate Legal,Legal Counsel,Finance,4,1,4,3,3,Divorced,11394,3,Yes,Non-Travel,3,16,5,2,4,0,2,0,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+21,Yes,Compliance Audit,Contracts Officer,Public Policy,3,8,3,1,1,Single,11019,1,Yes,Non-Travel,3,22,4,1,3,1,0,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+32,No,Corporate Legal,Compliance Analyst,Public Policy,3,14,3,1,2,Divorced,14791,2,No,Travel_Rarely,3,21,4,2,14,1,1,1,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+36,No,Compliance Audit,Legal Counsel,Law,4,11,3,1,2,Single,9785,0,No,Travel_Rarely,3,20,4,0,0,0,0,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+29,No,Regulatory Affairs,Compliance Analyst,Public Policy,2,2,4,3,2,Married,14967,3,No,Travel_Rarely,3,23,3,7,11,0,2,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+38,No,Regulatory Affairs,Compliance Analyst,Public Policy,3,1,3,4,3,Married,12938,4,Yes,Travel_Rarely,3,25,1,5,9,2,2,0,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+41,No,Regulatory Affairs,Compliance Analyst,Finance,3,1,1,4,2,Married,14089,1,Yes,Non-Travel,3,20,4,0,9,0,0,0,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+46,No,Compliance Audit,Regulatory Specialist,Law,3,8,3,3,2,Divorced,12031,0,No,Non-Travel,3,22,3,0,5,0,0,0,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+21,Yes,Regulatory Affairs,Regulatory Specialist,Public Policy,2,6,3,1,2,Divorced,11041,3,No,Non-Travel,3,15,1,1,3,0,1,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+28,Yes,Regulatory Affairs,Contracts Officer,Law,2,4,4,4,2,Divorced,10712,1,Yes,Travel_Rarely,3,18,5,1,2,0,1,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+40,No,Regulatory Affairs,Compliance Analyst,Finance,4,4,2,3,4,Single,13573,2,No,Travel_Rarely,3,15,4,9,14,4,0,3,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+38,No,Regulatory Affairs,Legal Counsel,Law,5,2,3,2,2,Married,11038,3,No,Non-Travel,4,19,4,0,3,0,0,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+43,Yes,Regulatory Affairs,Contracts Officer,Public Policy,3,6,3,2,4,Divorced,12081,4,Yes,Travel_Rarely,3,11,1,0,6,0,0,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+32,Yes,Compliance Audit,Compliance Analyst,Public Policy,3,1,3,2,4,Single,11262,2,No,Travel_Rarely,4,23,1,2,3,1,1,0,Legal & Corporate Compliance,Uncompromising billable/audit tracking expectations.
+33,No,Regulatory Affairs,Legal Counsel,Law,3,5,2,3,2,Divorced,13754,3,No,Travel_Rarely,3,17,3,12,12,8,0,6,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+46,No,Corporate Legal,Contracts Officer,Finance,4,10,4,1,2,Divorced,13129,3,Yes,Travel_Rarely,3,23,3,10,10,4,0,1,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+44,No,Corporate Legal,Regulatory Specialist,Law,3,3,3,3,3,Married,14103,5,No,Non-Travel,3,20,4,13,13,8,2,5,Legal & Corporate Compliance,Prestigious counsel positions with solid base pay.
+40,Yes,Compliance Audit,Compliance Analyst,Finance,2,1,3,4,2,Single,16218,7,Yes,Non-Travel,4,19,3,6,16,3,2,4,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+38,No,Regulatory Affairs,Contracts Officer,Finance,3,6,3,4,3,Single,14332,1,No,Travel_Rarely,3,19,3,16,16,9,7,6,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+36,No,Compliance Audit,Regulatory Specialist,Public Policy,3,8,4,2,2,Married,11528,1,Yes,Travel_Rarely,3,24,4,0,6,0,0,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+53,No,Corporate Legal,Regulatory Specialist,Law,4,1,1,3,1,Divorced,14944,2,Yes,Travel_Rarely,3,22,3,5,16,3,3,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+39,No,Corporate Legal,Regulatory Specialist,Law,3,6,2,4,1,Married,15192,1,Yes,Travel_Rarely,3,15,4,10,16,4,1,2,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+31,No,Regulatory Affairs,Compliance Analyst,Public Policy,4,29,3,4,4,Married,10233,1,Yes,Travel_Rarely,3,14,1,0,2,0,0,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+51,No,Regulatory Affairs,Legal Counsel,Public Policy,4,1,2,2,2,Divorced,12537,3,Yes,Non-Travel,3,25,5,3,8,0,3,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+37,Yes,Compliance Audit,Compliance Analyst,Public Policy,4,13,4,1,3,Divorced,12729,0,No,Non-Travel,3,23,4,1,6,0,0,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+39,No,Compliance Audit,Contracts Officer,Law,3,1,3,3,3,Married,10818,6,No,Travel_Rarely,3,13,2,1,1,0,1,1,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+32,No,Corporate Legal,Legal Counsel,Public Policy,2,1,3,4,3,Divorced,11502,2,No,Non-Travel,3,14,3,2,4,0,2,1,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+35,No,Corporate Legal,Compliance Analyst,Public Policy,2,4,4,3,1,Divorced,13664,1,No,Travel_Rarely,4,19,2,2,9,2,1,0,Legal & Corporate Compliance,Professional autonomy in legal opinion drafting.
+57,No,Corporate Legal,Compliance Analyst,Public Policy,4,5,3,3,3,Married,10282,4,Yes,Non-Travel,3,12,2,1,1,1,1,0,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+42,No,Compliance Audit,Compliance Analyst,Finance,3,3,3,2,3,Single,12161,2,No,Non-Travel,3,11,1,1,5,1,1,1,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+31,Yes,Compliance Audit,Legal Counsel,Law,4,7,3,4,1,Divorced,12813,3,Yes,Non-Travel,3,16,5,4,7,2,4,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+43,No,Compliance Audit,Legal Counsel,Public Policy,3,13,2,3,2,Married,10271,1,No,Travel_Rarely,3,22,5,1,3,1,1,0,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+38,Yes,Regulatory Affairs,Contracts Officer,Public Policy,5,3,3,4,1,Single,14964,1,Yes,Non-Travel,3,11,2,3,12,3,3,1,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.
+37,No,Compliance Audit,Regulatory Specialist,Public Policy,3,5,4,2,3,Divorced,11514,4,No,Non-Travel,3,24,2,3,4,0,3,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+31,No,Compliance Audit,Regulatory Specialist,Public Policy,2,1,2,3,3,Divorced,12962,1,No,Non-Travel,3,22,5,1,7,1,1,0,Legal & Corporate Compliance,High intellectual rigor and enterprise protection mandate.
+38,Yes,Corporate Legal,Compliance Analyst,Law,3,23,3,3,3,Single,11911,4,Yes,Non-Travel,3,20,5,5,7,5,1,4,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+34,Yes,Compliance Audit,Legal Counsel,Finance,4,13,1,1,3,Single,10690,5,No,Travel_Rarely,3,24,1,1,1,0,0,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+33,No,Compliance Audit,Compliance Analyst,Public Policy,3,1,3,1,3,Married,11358,3,No,Travel_Rarely,3,11,3,0,3,0,0,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+31,Yes,Regulatory Affairs,Compliance Analyst,Law,4,7,2,4,2,Divorced,10460,4,Yes,Travel_Rarely,4,11,1,2,3,1,0,0,Legal & Corporate Compliance,Tedious regulatory reporting cycles with strict deadlines.
+25,No,Compliance Audit,Regulatory Specialist,Finance,1,2,3,2,3,Married,12928,1,Yes,Travel_Rarely,4,15,1,2,7,0,1,0,Legal & Corporate Compliance,High liability anxiety and risk aversion overhead.

@@ -5,7 +5,32 @@ from src.core.config import MONITORING_DB_PATH
 
 
 def get_connection():
-    return sqlite3.connect(str(MONITORING_DB_PATH))
+    MONITORING_DB_PATH.parent.mkdir(parents=True, exist_ok=True)
+    conn = sqlite3.connect(str(MONITORING_DB_PATH))
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS predictions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            timestamp TEXT,
+            employee_id TEXT,
+            department TEXT,
+            job_role TEXT,
+            monthly_income REAL,
+            probability REAL,
+            prediction INTEGER,
+            risk_tier TEXT,
+            trust_score REAL,
+            cluster_id INTEGER,
+            iso_anomaly INTEGER,
+            deep_anomaly INTEGER,
+            lof_anomaly INTEGER,
+            replacement_cost REAL,
+            expected_loss REAL,
+            data_json TEXT
+        )
+    """)
+    conn.commit()
+    return conn
+
 
 
 def init_db():

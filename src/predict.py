@@ -78,13 +78,18 @@ class PredictionEngine:
             return
 
         if not SUPERVISED_PIPELINE_PATH.exists():
-            raise FileNotFoundError(
-                f"Trained models not found in {SUPERVISED_PIPELINE_PATH.parent}. "
-                "Please run `python src/train_all_models.py` first."
-            )
+            try:
+                from src.train_all_models import main as train_models
+                train_models()
+            except Exception as e:
+                raise FileNotFoundError(
+                    f"Trained models not found in {SUPERVISED_PIPELINE_PATH.parent}. "
+                    f"Auto-training failed: {e}. Please run `python src/train_all_models.py`."
+                )
 
         self.pipeline = joblib.load(SUPERVISED_PIPELINE_PATH)
         self.preprocessor = self.pipeline.named_steps["preprocessing"]
+
 
         if KMEANS_MODEL_PATH.exists():
             self.kmeans = joblib.load(KMEANS_MODEL_PATH)

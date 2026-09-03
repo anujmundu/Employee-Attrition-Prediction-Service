@@ -37,9 +37,14 @@ jobs:
           # exit-zero treats all errors as warnings
           flake8 . --count --exit-zero --max-complexity=15 --max-line-length=127 --statistics --exclude=.git,__pycache__,scratch,data
 
+      - name: Train Models & Generate Benchmarks
+        run: |
+          python src/train_all_models.py
+
       - name: Run Pytest Suite
         run: |
           pytest -v --tb=short tests/
+
 
   docker:
     name: Docker Build Test

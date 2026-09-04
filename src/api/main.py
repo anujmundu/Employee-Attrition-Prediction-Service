@@ -105,6 +105,7 @@ class ScenarioSimulationInput(BaseModel):
 # Endpoints
 # -------------------------------------------------------------
 @app.get("/", response_class=HTMLResponse)
+@app.head("/")
 def serve_dashboard():
     index_path = STATIC_DIR / "index.html"
     if index_path.exists():
@@ -113,6 +114,7 @@ def serve_dashboard():
 
 
 @app.get("/health")
+@app.head("/health")
 def health_check():
     engine = get_engine()
     return {
